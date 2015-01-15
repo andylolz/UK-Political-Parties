@@ -91,6 +91,13 @@ class PartyParser(dict):
             id='ctl00_ContentPlaceHolder1_ProfileControl1_lblAddress'
                '').find_next('td').get_text()
 
+        if self['party_address']:
+            # This is a bit rough, but it turns out it works
+            self['postcode'] = self['party_address'].splitlines()[-2]
+
+        if 'postcode' in self:
+            self['geometry'] = self.geocode()
+
         self['email'] = self._text_from_id(
             "ctl00_ContentPlaceHolder1_ProfileControl1_lblEmailAddressValue")
 
