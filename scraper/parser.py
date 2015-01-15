@@ -13,15 +13,14 @@ try:
 except ImportError:
     HAS_REDIS = False
 
+
 class PartyParser(dict):
     def __init__(self, party_id):
-        self['party_id']= party_id
+        self['party_id'] = party_id
         self.folder_name = os.path.abspath(os.path.join('raw_data', party_id))
         self.details_soup = BeautifulSoup(open(os.path.join(
-            self.folder_name, "results_page.html"
-        )))
+            self.folder_name, "results_page.html")))
         self.parse_details()
-
 
     def _text_from_id(self, el_id, find_all=False, soup=None, checkbox=False):
         if not soup:
@@ -47,9 +46,10 @@ class PartyParser(dict):
         if not 'de-registered' in name.lower():
             return (None, name)
 
-        # Pensioners Party [De-registered 05/11/13]
-        match = re.match(r'([^\[]+)\[De-registered ([0-9]+/[0-9]+/[0-9]+)\]', name)
+        match = re.match(
+            r'([^\[]+)\[De-registered ([0-9]+/[0-9]+/[0-9]+)\]', name)
         name, date = match.groups()
+        name = re.sub(r'\([Dd]e-?registered [^\)]+\)', '', name)
         return name.strip(), parse(date).isoformat()
 
     def parse_details(self):
@@ -73,8 +73,8 @@ class PartyParser(dict):
         self['status'] = self._text_from_id(
             "ctl00_ContentPlaceHolder1_ProfileControl1_luStatus")
 
-        registered_date = self._text_from_id(
-            "ctl00_ContentPlaceHolder1_ProfileControl1_lblRegistrationDateValue")
+        registered_date = \
+            self._text_from_id("ctl00_ContentPlaceHolder1_ProfileControl1_lblRegistrationDateValue")
 
         self['registered_date'] = parse(registered_date).isoformat()
         end_date = self._text_from_id(
