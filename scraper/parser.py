@@ -5,6 +5,13 @@ import glob
 
 from bs4 import BeautifulSoup
 from dateutil.parser import parse
+import requests
+try:
+    import redis
+    HAS_REDIS = True
+    r = redis.Redis()
+except ImportError:
+    HAS_REDIS = False
 
 class PartyParser(dict):
     def __init__(self, party_id):
@@ -14,6 +21,7 @@ class PartyParser(dict):
             self.folder_name, "results_page.html"
         )))
         self.parse_details()
+
 
     def _text_from_id(self, el_id, find_all=False, soup=None, checkbox=False):
         if not soup:
@@ -184,6 +192,47 @@ class PartyParser(dict):
             'exempt_from_quarterly_transaction_returns'] = \
             self._text_from_id(
                 re.compile("ExemptFromQuarterlyTransactionReturnsValue"))
+
+    def geocode(self):
+        geometry = {"type": "Point",}
+        if HAS_REDIS:
+            coordinates = r.get(self['postcode'])
+            if coordinates:
+                geometry['coordinates']= json.loads(coordinates)
+                return geometry
+
+        import time
+        time.sleep(2)
+
+        url = "http://mapit.mysociety.org/postcode/{0}".format(self['postcode'])
+
+        try:
+            req = requests.get(url)
+            req_json = req.json()
+            coordinates = [req_json['wgs84_lon'], req_json['wgs84_lat']]
+        except (KeyError, ValueError):
+
+            print "MaPit failed, trying google"
+
+            try:
+                google_url = \
+                    "https://maps.googleapis.com/maps/api/geocode/json?address="
+                address = " ".join(self['party_address'].splitlines())
+                req = requests.get(google_url + address)
+                req_json = req.json()
+                location = req_json['results'][0]['geometry']['location']
+                coordinates = [location['lng'], location['lat']]
+            except:
+                # Just give up!
+                pass
+            print req.text
+
+
+
+        if HAS_REDIS:
+            r.set(self['postcode'], json.dumps(coordinates))
+        geometry['coordinates ']= coordinates
+        return geometry
 
 
     @property
