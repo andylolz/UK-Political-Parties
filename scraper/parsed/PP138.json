@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-03-29T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Nork & Tattenhams Residents' Associations (joint description with Tattenhams' Residents' Association)"
-        }
-    ], 
+    "postcode": "SM7 1NZ", 
     "party_leader": "Mr George W. Hinton", 
     "nominating_officer": "Mr Norman Harris", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.21640598677872702, 
+            51.32704955100048
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Nork Residents' Association", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Nork & Tattenhams Residents' Associations (joint description with Tattenhams' Residents' Association)"
+        }
     ]
 }

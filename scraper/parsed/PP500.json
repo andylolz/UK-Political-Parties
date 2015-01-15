@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2005-08-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-05-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT36 6UW", 
     "party_leader": "Mr James Sheridan", 
     "nominating_officer": "Mr James Sheridan", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Sheridan", 
-    "party_id": "PP500", 
+    "party_name": "The United Christian Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.943541774654084, 
+            54.67482183339248
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "The United Christian Party [De-registered 08/12/05]", 
+    "party_id": "PP500", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

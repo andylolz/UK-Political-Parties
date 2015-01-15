@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "W5 4HH", 
     "party_leader": "Mr Christopher Malcolm Veasey", 
     "nominating_officer": "Mr Christopher Malcolm Veasey", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Christopher Malcolm Veasey", 
-    "party_id": "PP192", 
+    "party_name": "Northern Progress Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.30594709026111316, 
+            51.50314745008941
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Northern Progress Party [De-registered 06/11/09]", 
+    "party_id": "PP192", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2005-01-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DA16 3EG", 
     "party_leader": "Mr John-Anthony FitzPatrick", 
     "nominating_officer": "Mr John-Anthony FitzPatrick", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John-Anthony FitzPatrick", 
-    "party_id": "PP227", 
+    "party_name": "English Pan-Nationalist Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.1074931107421849, 
+            51.47107753155015
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "English Pan-Nationalist Alliance [De-registered 01/03/05]", 
+    "party_id": "PP227", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

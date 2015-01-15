@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-02-26T00:00:00", 
     "campaigns_officer": "Mrs Lorraine Andrews", 
     "registered_date": "2003-05-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NG31 8LS", 
     "party_leader": "Mr John Andrews", 
     "nominating_officer": "Mr John Andrews", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Colin Frank Ward", 
-    "party_id": "PP335", 
+    "party_name": "Organisation of Free Democrats", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6646349159307021, 
+            52.93501353145705
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Organisation of Free Democrats [De-registered 26/02/08]", 
+    "party_id": "PP335", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

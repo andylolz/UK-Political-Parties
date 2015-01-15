@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-08-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-02-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DE6 3JT", 
     "party_leader": "Mr Alan Hope", 
     "nominating_officer": "Mr Alan Hope", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Nick Delves", 
-    "party_id": "PP65", 
+    "party_name": "The Official Monster Raving Loony Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.608911060282052, 
+            53.03972759062142
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "The Official Monster Raving Loony Party [De-registered 13/08/07]", 
+    "party_id": "PP65", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

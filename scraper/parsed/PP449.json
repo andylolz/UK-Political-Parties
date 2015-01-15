@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Saeed Ashiq", 
     "registered_date": "2005-03-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "OL11 3TR", 
     "party_leader": "Dr Mohammed Salim Allah Hoo", 
     "nominating_officer": "Dr Mohammed Salim Allah Hoo", 
     "emblems": [
         {
-            "image": "raw_data/PP449/Emblem_303.gif", 
+            "image": "Emblem_303.gif", 
+            "primary": false, 
             "id": "303", 
             "description": "Guiding principles for a nation"
         }, 
         {
-            "image": "raw_data/PP449/Emblem_304.gif", 
+            "image": "Emblem_304.gif", 
+            "primary": false, 
             "id": "304", 
             "description": "Kalma statement of faith"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.161799224956638, 
+            53.60831691281198
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Islam Zinda Baad Platform", 
     "alternative_names": [
         "Long Live Islam Platform"
-    ]
+    ], 
+    "descriptions": []
 }

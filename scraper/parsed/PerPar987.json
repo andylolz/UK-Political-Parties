@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2004-09-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1H 9AJ", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12814612168880782, 
+            51.52803419807716
+        ]
+    }, 
     "register": null, 
     "party_name": "UNISON", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

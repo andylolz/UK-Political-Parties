@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-07-14T00:00:00", 
     "campaigns_officer": "Mr William Martin-Grayston", 
     "registered_date": "2002-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ZZ0 0ZZ", 
     "party_leader": "Mr Geoffrey Vernon Tarling", 
     "nominating_officer": "Mr William Martin-Grayston", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Peter Tarling", 
-    "party_id": "PP215", 
+    "party_name": "Wales for the Welsh", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.9162291, 
+            54.6612442
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Wales for the Welsh [De-registered 14/07/04]", 
+    "party_id": "PP215", 
     "alternative_names": [
         "Cymru i'r Cymru"
-    ]
+    ], 
+    "descriptions": []
 }

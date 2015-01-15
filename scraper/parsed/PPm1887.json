@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "Dr Mark Beech", 
     "registered_date": "2012-03-21T00:00:00", 
+    "postcode": "SA1 9NN", 
+    "party_leader": "Ms Jonathan Bishop", 
+    "nominating_officer": "Dr Mark Beech", 
+    "emblems": [
+        {
+            "image": "Emblem_714.jpg", 
+            "primary": false, 
+            "id": "714", 
+            "description": "English-French Emblem"
+        }, 
+        {
+            "image": "Emblem_715.jpg", 
+            "primary": false, 
+            "id": "715", 
+            "description": "Welsh-English Emblem"
+        }, 
+        {
+            "image": "Emblem_716.jpg", 
+            "primary": false, 
+            "id": "716", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Ty Morgannwg\r\nPO Box 674\r\nSwansea\r\nWest Glamorgan\r\nSA1 9NN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Jonathan Bishop", 
+    "party_id": "PPm1887", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.9240330859225847, 
+            51.64795854806614
+        ]
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "The Pluralist Party", 
+    "alternative_names": [
+        "Plaid Blwralaidd"
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,45 +91,5 @@
             "translation": "", 
             "description": "The Pluralist Party - Pontypridd's People's Party"
         }
-    ], 
-    "party_leader": "Ms Jonathan Bishop", 
-    "nominating_officer": "Dr Mark Beech", 
-    "emblems": [
-        {
-            "image": "raw_data/PPm1887/Emblem_714.jpg", 
-            "id": "714", 
-            "description": "English-French Emblem"
-        }, 
-        {
-            "image": "raw_data/PPm1887/Emblem_715.jpg", 
-            "id": "715", 
-            "description": "Welsh-English Emblem"
-        }, 
-        {
-            "image": "raw_data/PPm1887/Emblem_716.jpg", 
-            "id": "716", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "Ty Morgannwg\r\nPO Box 674\r\nSwansea\r\nWest Glamorgan\r\nSA1 9NN\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": null, 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Jonathan Bishop", 
-    "party_id": "PPm1887", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
-    }, 
-    "register": "Great Britain (minor party)", 
-    "party_name": "The Pluralist Party", 
-    "alternative_names": [
-        "Plaid Blwralaidd"
     ]
 }

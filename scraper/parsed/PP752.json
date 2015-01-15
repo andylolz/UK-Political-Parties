@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-03-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-01-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SS16 5QJ", 
     "party_leader": "Mr Terry Marsh", 
     "nominating_officer": "Mr Terry Marsh", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Anne Bateson", 
-    "party_id": "PP752", 
+    "party_name": "easyVote", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.4470768823234838, 
+            51.56622136048255
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "easyVote [De-registered 30/03/10]", 
+    "party_id": "PP752", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

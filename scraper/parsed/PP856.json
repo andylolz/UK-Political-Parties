@@ -9,8 +9,60 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-04-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-29T00:00:00", 
+    "postcode": "BS23 3HU", 
+    "party_leader": "Mr Robert Irving Craig", 
+    "nominating_officer": "Mr Robert Irving Craig", 
+    "emblems": [
+        {
+            "image": "Emblem_544.gif", 
+            "primary": false, 
+            "id": "544", 
+            "description": "Emblem 1 Map"
+        }, 
+        {
+            "image": "Emblem_545.gif", 
+            "primary": false, 
+            "id": "545", 
+            "description": "Emblem 2 Wyverns back to back"
+        }, 
+        {
+            "image": "Emblem_546.gif", 
+            "primary": false, 
+            "id": "546", 
+            "description": "Emblem 3 All the south"
+        }
+    ], 
+    "party_address": "20 Priory Road\r\nWeston super Mare\r\nBS23 3HU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Robert Irving Craig", 
+    "party_name": "All The South Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.9564990296079046, 
+            51.34699661895708
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP856", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +104,5 @@
             "translation": "", 
             "description": "A.T.S.P."
         }
-    ], 
-    "party_leader": "Mr Robert Irving Craig", 
-    "nominating_officer": "Mr Robert Irving Craig", 
-    "emblems": [
-        {
-            "image": "raw_data/PP856/Emblem_544.gif", 
-            "id": "544", 
-            "description": "Emblem 1 Map"
-        }, 
-        {
-            "image": "raw_data/PP856/Emblem_545.gif", 
-            "id": "545", 
-            "description": "Emblem 2 Wyverns back to back"
-        }, 
-        {
-            "image": "raw_data/PP856/Emblem_546.gif", 
-            "id": "546", 
-            "description": "Emblem 3 All the south"
-        }
-    ], 
-    "party_address": "20 Priory Road\r\nWeston super Mare\r\nBS23 3HU\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2014-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Robert Irving Craig", 
-    "party_id": "PP856", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "All The South Party [De-registered 23/04/14]", 
-    "alternative_names": [
-        ""
     ]
 }

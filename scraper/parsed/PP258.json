@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2002-09-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CM5 0QP", 
     "party_leader": "Mr Robert George Williams", 
     "nominating_officer": "Mr Robin Charles William Tilbrook", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.34182105895257764, 
+            51.73832755533511
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "English National Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

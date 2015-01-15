@@ -1,28 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-11-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-18T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "British Freedom"
-        }, 
-        {
-            "translation": "", 
-            "description": "The British Freedom Party"
-        }
-    ], 
+    "postcode": "BS30 7BP", 
     "party_leader": "Mr Paul Weston", 
     "nominating_officer": "Dr George Whale", 
     "emblems": [
         {
-            "image": "raw_data/PP889/Emblem_575.gif", 
+            "image": "Emblem_575.gif", 
+            "primary": false, 
             "id": "575", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP889/Emblem_576.gif", 
+            "image": "Emblem_576.gif", 
+            "primary": false, 
             "id": "576", 
             "description": "Emblem 2"
         }
@@ -37,15 +31,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Richard Bateman", 
-    "party_id": "PP889", 
+    "party_name": "British Freedom Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.4913591345712027, 
+            51.44891549647142
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "British Freedom Party [De-registered 11/12/12]", 
+    "party_id": "PP889", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "British Freedom"
+        }, 
+        {
+            "translation": "", 
+            "description": "The British Freedom Party"
+        }
     ]
 }

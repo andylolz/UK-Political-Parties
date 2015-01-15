@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2001-07-13T00:00:00", 
     "campaigns_officer": "Mr Roy Morrish", 
     "registered_date": "1999-02-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EX31 3DU", 
     "party_leader": "Mr Roy Morrish", 
     "nominating_officer": "Mr John Taylor", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Taylor", 
-    "party_id": "PP11", 
+    "party_name": "North Devon Independent Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.1436470036821005, 
+            51.06999990909442
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "North Devon Independent Group [De-registered 13/07/01]", 
+    "party_id": "PP11", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

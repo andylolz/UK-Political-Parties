@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-08-06T00:00:00", 
     "campaigns_officer": "Mr Joseph Hargreaves", 
     "registered_date": "2006-08-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BS23 3XX", 
     "party_leader": "Mr Derek Stanley", 
     "nominating_officer": "Mr Derek Albert Stanley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Annick Roberte Marie Mercier", 
-    "party_id": "PP535", 
+    "party_name": "North Somerset Community Action Association", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.9598636269654537, 
+            51.33554027786986
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "North Somerset Community Action Association [De-registered 08/06/09]", 
+    "party_id": "PP535", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

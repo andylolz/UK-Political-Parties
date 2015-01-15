@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-09-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NP4 7EF", 
     "party_leader": "Dr John Cox", 
     "nominating_officer": "Dr John Cox", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mel Witherden", 
-    "party_id": "PP287", 
+    "party_name": "Vote 2 Stop The War", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.0708607697994115, 
+            51.72637625917042
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Vote 2 Stop The War [De-registered 17/09/04]", 
+    "party_id": "PP287", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

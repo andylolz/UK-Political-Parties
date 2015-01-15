@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-07-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B9 5BD", 
     "party_leader": "Mr Shaukat Ali Khan", 
     "nominating_officer": "Mr Allah Ditta", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Asrar Ahmed", 
-    "party_id": "PP181", 
+    "party_name": "People's Justice Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8606257755565163, 
+            52.4741448711377
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "People's Justice Party [De-registered 27/07/07]", 
+    "party_id": "PP181", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

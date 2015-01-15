@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-10-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-04-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BB2 5GG", 
     "party_leader": "Mr Ian Hugh Myddleton Anderson", 
     "nominating_officer": "Mr Ian Hugh Myddleton Anderson", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Stephen Ebbs", 
-    "party_id": "PP87", 
+    "party_name": "National Democrats", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.4849036554790067, 
+            53.74293321225797
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "National Democrats [De-registered 10/03/11]", 
+    "party_id": "PP87", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

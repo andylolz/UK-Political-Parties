@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2008-03-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LL53 8SD", 
     "party_leader": "Mr Owain Williams", 
     "nominating_officer": "Mr Alwyn Gruffydd", 
     "emblems": [
         {
-            "image": "raw_data/PP702/Emblem_412.gif", 
+            "image": "Emblem_412.gif", 
+            "primary": false, 
             "id": "412", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.553884328768131, 
+            52.87403533008685
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Llais Gwynedd - The Voice of Gwynedd", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

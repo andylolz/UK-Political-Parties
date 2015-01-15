@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-10-23T00:00:00", 
+    "postcode": "E11 4AB", 
+    "party_leader": "Ms Catherine Brown", 
+    "nominating_officer": "Mr Simon Galloway", 
+    "emblems": [], 
+    "party_address": "33 Connaught Road\r\nLondon\r\nE11 4AB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jason Crampton", 
+    "party_name": "The Parliamentary Reform Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.004196870375313029, 
+            51.56570224955551
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP782", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -28,29 +61,5 @@
             "translation": "", 
             "description": "Reform of post MP employment"
         }
-    ], 
-    "party_leader": "Ms Catherine Brown", 
-    "nominating_officer": "Mr Simon Galloway", 
-    "emblems": [], 
-    "party_address": "33 Connaught Road\r\nLondon\r\nE11 4AB\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Jason Crampton", 
-    "party_id": "PP782", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Parliamentary Reform Party [De-registered 02/11/10]", 
-    "alternative_names": [
-        ""
     ]
 }

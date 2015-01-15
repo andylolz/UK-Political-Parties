@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-06-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PE37 7RG", 
     "party_leader": "Mr Steven Hudson", 
     "nominating_officer": "Mrs Christine Willis", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Steven Hudson", 
-    "party_id": "PP674", 
+    "party_name": "Local Independent Save Swaffham Community Hospital", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.693479348104295, 
+            52.65037379649812
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Local Independent Save Swaffham Community Hospital [De-registered 17/01/08]", 
+    "party_id": "PP674", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

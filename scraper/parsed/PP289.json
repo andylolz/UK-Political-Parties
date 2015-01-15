@@ -11,7 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NG14 6FJ", 
     "party_leader": "Mr Grant Edward Withers", 
     "nominating_officer": "Mr Grant Edward Withers", 
     "emblems": [], 
@@ -31,9 +31,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.079466094770525, 
+            53.035524511445296
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Calverton First Independents Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

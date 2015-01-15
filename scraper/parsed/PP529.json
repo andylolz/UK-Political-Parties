@@ -1,8 +1,60 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-06-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-01-02T00:00:00", 
+    "postcode": "TW5 0AE", 
+    "party_leader": "Mr John Connelly", 
+    "nominating_officer": "Mr Peter Hills", 
+    "emblems": [
+        {
+            "image": "Emblem_324.gif", 
+            "primary": false, 
+            "id": "324", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_325.gif", 
+            "primary": false, 
+            "id": "325", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_326.gif", 
+            "primary": false, 
+            "id": "326", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "100 Vicarage Farm Road\r\nHounslow\r\nMiddlesex\r\nTW5 0AE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Sheila Brown", 
+    "party_name": "Hounslow Independent Alliance", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.38348805336242536, 
+            51.47846090563884
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP529", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,45 +88,5 @@
             "translation": "", 
             "description": "Syon Independent Alliance"
         }
-    ], 
-    "party_leader": "Mr John Connelly", 
-    "nominating_officer": "Mr Peter Hills", 
-    "emblems": [
-        {
-            "image": "raw_data/PP529/Emblem_324.gif", 
-            "id": "324", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP529/Emblem_325.gif", 
-            "id": "325", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP529/Emblem_326.gif", 
-            "id": "326", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "100 Vicarage Farm Road\r\nHounslow\r\nMiddlesex\r\nTW5 0AE\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Sheila Brown", 
-    "party_id": "PP529", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Hounslow Independent Alliance [De-registered 13/06/11]", 
-    "alternative_names": [
-        ""
     ]
 }

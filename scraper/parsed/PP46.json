@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
+    "postcode": "G2 6LD", 
+    "party_leader": "Mr Colin Fox", 
+    "nominating_officer": "Mr Kevin McVey", 
+    "emblems": [
+        {
+            "image": "Emblem_38.gif", 
+            "primary": false, 
+            "id": "38", 
+            "description": "Scottish Socialist Party with background star"
+        }, 
+        {
+            "image": "Emblem_39.gif", 
+            "primary": false, 
+            "id": "39", 
+            "description": "Struggle Solidarity Socialism logo"
+        }, 
+        {
+            "image": "Emblem_40.gif", 
+            "primary": false, 
+            "id": "40", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Suite 370\r\n4th Floor\r\nCentral Chambers\r\n93 Hope Street\r\nGlasgow\r\nG2 6LD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr James McVicar", 
+    "party_id": "PP46", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.259443480232752, 
+            55.86048538966925
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Scottish Socialist Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "Citizens not subjects"
         }
-    ], 
-    "party_leader": "Mr Colin Fox", 
-    "nominating_officer": "Mr Kevin McVey", 
-    "emblems": [
-        {
-            "image": "raw_data/PP46/Emblem_38.gif", 
-            "id": "38", 
-            "description": "Scottish Socialist Party with background star"
-        }, 
-        {
-            "image": "raw_data/PP46/Emblem_39.gif", 
-            "id": "39", 
-            "description": "Struggle Solidarity Socialism logo"
-        }, 
-        {
-            "image": "raw_data/PP46/Emblem_40.gif", 
-            "id": "40", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "Suite 370\r\n4th Floor\r\nCentral Chambers\r\n93 Hope Street\r\nGlasgow\r\nG2 6LD\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr James McVicar", 
-    "party_id": "PP46", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Scottish Socialist Party", 
-    "alternative_names": [
-        ""
     ]
 }

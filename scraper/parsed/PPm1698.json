@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BA11 1ET", 
     "party_leader": "Mr Mel Usher", 
     "nominating_officer": "Mr Peter Floyd Macfadyen", 
     "emblems": [
         {
-            "image": "raw_data/PPm1698/Emblem_607.gif", 
+            "image": "Emblem_607.gif", 
+            "primary": false, 
             "id": "607", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.324053035315638, 
+            51.23241003847004
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Independents for Frome", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

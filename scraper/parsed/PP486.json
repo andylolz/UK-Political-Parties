@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-05-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-12-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CH2 2FA", 
     "party_leader": "Mr Neil Graham", 
     "nominating_officer": "Mrs Helen Graham", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Colin MacDonald", 
-    "party_id": "PP486", 
+    "party_name": "Passion For Property", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.886703318896796, 
+            53.20174665173252
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Passion For Property [De-registered 05/07/07]", 
+    "party_id": "PP486", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

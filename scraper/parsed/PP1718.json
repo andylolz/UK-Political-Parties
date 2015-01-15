@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "An independent voice defending peoples rights"
-        }
-    ], 
+    "postcode": "RG42 5TB", 
     "party_leader": "Mr Nigel Rennie", 
     "nominating_officer": "Mrs Martha Rennie", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.7908182816466589, 
+            51.43535080488627
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Binfield Independent Conservatives", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "An independent voice defending peoples rights"
+        }
     ]
 }

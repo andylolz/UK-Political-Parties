@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-07-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CA10 2QL", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.7785965283934817, 
+            54.56513114445479
+        ]
+    }, 
     "register": null, 
     "party_name": "Cumbria Broadband Rural and Community Projects Limited", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

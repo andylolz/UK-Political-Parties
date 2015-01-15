@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-11-02T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CB9 9HE", 
     "party_leader": "Mr Terence McNally", 
     "nominating_officer": "Mr Michael Graham", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mabon Dane", 
-    "party_id": "PP322", 
+    "party_name": "Haverhill Representative Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.43382929878819887, 
+            52.08704026799615
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Haverhill Representative Alliance [De-registered 11/02/05]", 
+    "party_id": "PP322", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

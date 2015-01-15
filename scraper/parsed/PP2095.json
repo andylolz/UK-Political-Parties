@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-06-18T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Economic restructuring and currency stockpiling control"
-        }
-    ], 
+    "postcode": "TA1 2PX", 
     "party_leader": "Dr Robert Sharpe", 
     "nominating_officer": "Mrs Kerstin Sharpe", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.068095684678319, 
+            51.01409055310262
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Jubilee Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Economic restructuring and currency stockpiling control"
+        }
     ]
 }

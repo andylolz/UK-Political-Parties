@@ -11,17 +11,19 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2002-11-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B18 7DB", 
     "party_leader": "Mr Robin Clarke", 
     "nominating_officer": "Mr Robin Clarke", 
     "emblems": [
         {
-            "image": "raw_data/PP267/Emblem_216.gif", 
+            "image": "Emblem_216.gif", 
+            "primary": false, 
             "id": "216", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP267/Emblem_217.gif", 
+            "image": "Emblem_217.gif", 
+            "primary": false, 
             "id": "217", 
             "description": "A hand in thumbsup configuration"
         }
@@ -42,9 +44,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9218667425582914, 
+            52.484287765126886
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Real Democracy Party", 
     "alternative_names": [
         "Plaid Ddemocratiaeth Go Iawn"
-    ]
+    ], 
+    "descriptions": []
 }

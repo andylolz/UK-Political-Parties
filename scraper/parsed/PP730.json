@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "Ms Alison Sutherland", 
     "registered_date": "2008-09-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "N2 8BG", 
     "party_leader": "Mr Brendan Donnelly", 
     "nominating_officer": "Professor Stephen Haseler", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.17094345540453074, 
+            51.59291441157435
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Yes 2 Europe", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

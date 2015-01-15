@@ -3,25 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Dave Kelly", 
     "registered_date": "2008-03-28T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Putting Kirkby First"
-        }, 
-        {
-            "translation": "", 
-            "description": "From the community, for the community"
-        }, 
-        {
-            "translation": "", 
-            "description": "Our Kirkby, Our Future"
-        }
-    ], 
+    "postcode": "L32 7RG", 
     "party_leader": "Mr Anthony Gerald Barton", 
     "nominating_officer": "Mr Dave Kelly", 
     "emblems": [
         {
-            "image": "raw_data/PP704/Emblem_952.jpg", 
+            "image": "Emblem_952.jpg", 
+            "primary": false, 
             "id": "952", 
             "description": "emblem 1"
         }
@@ -42,9 +30,30 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.8811343603867434, 
+            53.46689939308891
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "1st 4 Kirkby", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Putting Kirkby First"
+        }, 
+        {
+            "translation": "", 
+            "description": "From the community, for the community"
+        }, 
+        {
+            "translation": "", 
+            "description": "Our Kirkby, Our Future"
+        }
     ]
 }

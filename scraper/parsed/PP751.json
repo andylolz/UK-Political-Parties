@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-01-04T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Community First. Serving Only You"
-        }
-    ], 
+    "postcode": "OL12 8TH", 
     "party_leader": "Mr Peter Ruane", 
     "nominating_officer": "Mr Peter Ruane", 
     "emblems": [
         {
-            "image": "raw_data/PP751/Emblem_433.gif", 
+            "image": "Emblem_433.gif", 
+            "primary": false, 
             "id": "433", 
             "description": "Emblem 1 community first"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1749770274250753, 
+            53.64814313978378
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Community First", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Community First. Serving Only You"
+        }
     ]
 }

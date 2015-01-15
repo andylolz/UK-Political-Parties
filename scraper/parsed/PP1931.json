@@ -3,26 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-11-07T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Patients not profits in our NHS"
-        }, 
-        {
-            "translation": "", 
-            "description": "Patients not Profits"
-        }
-    ], 
+    "postcode": "DY10 1QX", 
     "party_leader": "Dr Richard Taylor", 
     "nominating_officer": "Mr Geoffrey Guy Baily", 
     "emblems": [
         {
-            "image": "raw_data/PP1931/Emblem_920.jpg", 
+            "image": "Emblem_920.jpg", 
+            "primary": false, 
             "id": "920", 
             "description": "NHA Party main emblem"
         }, 
         {
-            "image": "raw_data/PP1931/Emblem_921.bmp", 
+            "image": "Emblem_921.bmp", 
+            "primary": false, 
             "id": "921", 
             "description": "NHA Party secondary emblem"
         }
@@ -43,9 +36,26 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.240275910424151, 
+            52.384117528867954
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "National Health Action Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Patients not profits in our NHS"
+        }, 
+        {
+            "translation": "", 
+            "description": "Patients not Profits"
+        }
     ]
 }

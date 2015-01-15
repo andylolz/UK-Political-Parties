@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Ioan Merritt Richard", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SA6 5RH", 
     "party_leader": "Mr Ioan Merritt Richard", 
     "nominating_officer": "Mrs Katherine Richard", 
     "emblems": [
         {
-            "image": "raw_data/PP112/Emblem_128.gif", 
+            "image": "Emblem_128.gif", 
+            "primary": false, 
             "id": "128", 
             "description": "Outline map of Wales"
         }, 
         {
-            "image": "raw_data/PP112/Emblem_129.gif", 
+            "image": "Emblem_129.gif", 
+            "primary": false, 
             "id": "129", 
             "description": "Dragon in box outline with shaded lower"
         }, 
         {
-            "image": "raw_data/PP112/Emblem_130.gif", 
+            "image": "Emblem_130.gif", 
+            "primary": false, 
             "id": "130", 
             "description": "Rampant dragon"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.911123014752259, 
+            51.70492911874219
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The People's Representative", 
     "alternative_names": [
         "Cynrychiolydd Y Bobl"
-    ]
+    ], 
+    "descriptions": []
 }

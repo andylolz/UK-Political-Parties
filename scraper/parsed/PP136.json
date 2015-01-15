@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-07-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-04-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NP19 8LW", 
     "party_leader": "Mr Charlie Balch", 
     "nominating_officer": "Mr Jack Gilbert", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Cameron Michael Richards", 
-    "party_id": "PP136", 
+    "party_name": "Welsh Socialist Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.9730449267606835, 
+            51.59349637250729
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Welsh Socialist Alliance [De-registered 20/07/05]", 
+    "party_id": "PP136", 
     "alternative_names": [
         "Cynghrair Sosialaidd Cymru"
-    ]
+    ], 
+    "descriptions": []
 }

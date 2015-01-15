@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-01-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B45 8RS", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.0103709263071172, 
+            52.377601219927136
+        ]
+    }, 
     "register": null, 
     "party_name": "NASUWT  The Teachers' Union", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

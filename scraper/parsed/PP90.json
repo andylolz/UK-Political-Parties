@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Tim Gordon", 
     "registered_date": "1999-01-14T00:00:00", 
+    "postcode": "SW1P 3AE", 
+    "party_leader": "The Rt Hon Nick Clegg MP", 
+    "nominating_officer": "Ms Sarah Morris", 
+    "emblems": [
+        {
+            "image": "Emblem_106.gif", 
+            "primary": false, 
+            "id": "106", 
+            "description": "A bird in flight above the words Liberal Democrats"
+        }, 
+        {
+            "image": "Emblem_107.gif", 
+            "primary": false, 
+            "id": "107", 
+            "description": "A bird in flight"
+        }, 
+        {
+            "image": "Emblem_108.gif", 
+            "primary": false, 
+            "id": "108", 
+            "description": "A bird in flight above the words Scottish Liberal Democrats"
+        }
+    ], 
+    "party_address": "8-10 Great George Street\r\nLondon\r\nSW1P 3AE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Peter Dunphy", 
+    "party_id": "PP90", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12856445565362837, 
+            51.500963708589246
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Liberal Democrats", 
+    "alternative_names": [
+        "Democratiaid Rhyddfrydol Cymru"
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "London Liberal Democrats"
         }
-    ], 
-    "party_leader": "The Rt Hon Nick Clegg MP", 
-    "nominating_officer": "Ms Sarah Morris", 
-    "emblems": [
-        {
-            "image": "raw_data/PP90/Emblem_106.gif", 
-            "id": "106", 
-            "description": "A bird in flight above the words Liberal Democrats"
-        }, 
-        {
-            "image": "raw_data/PP90/Emblem_107.gif", 
-            "id": "107", 
-            "description": "A bird in flight"
-        }, 
-        {
-            "image": "raw_data/PP90/Emblem_108.gif", 
-            "id": "108", 
-            "description": "A bird in flight above the words Scottish Liberal Democrats"
-        }
-    ], 
-    "party_address": "8-10 Great George Street\r\nLondon\r\nSW1P 3AE\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Peter Dunphy", 
-    "party_id": "PP90", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Liberal Democrats", 
-    "alternative_names": [
-        "Democratiaid Rhyddfrydol Cymru"
     ]
 }

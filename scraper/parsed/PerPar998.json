@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2011-01-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NP12 1EE", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.1979513099868515, 
+            51.66216274136118
+        ]
+    }, 
     "register": null, 
     "party_name": "True Wales", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-07-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW1P 9NU", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1358036339018896, 
+            51.481034626798376
+        ]
+    }, 
     "register": null, 
     "party_name": "Better With Scotland", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

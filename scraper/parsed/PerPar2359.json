@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-04-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH4 2WL", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.246376594109702, 
+            55.96279713710763
+        ]
+    }, 
     "register": null, 
     "party_name": "National Collective (Artists and Creatives for Independence Limited)", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

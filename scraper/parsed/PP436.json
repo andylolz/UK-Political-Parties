@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-04-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN3 1RJ", 
     "party_leader": "Miss Celia Saint Claire Record", 
     "nominating_officer": "Miss Celia Record", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Derek Dray", 
-    "party_id": "PP436", 
+    "party_name": "Citizens Democracy Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.15947020592409283, 
+            50.830460574004846
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Citizens Democracy Party [De-registered 14/04/05]", 
+    "party_id": "PP436", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

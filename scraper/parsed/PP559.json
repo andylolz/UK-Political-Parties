@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-01-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CV21 9BJ", 
     "party_leader": "Mr Peter John McLaren", 
     "nominating_officer": "Ms Gerry Byrne", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.250428168334496, 
+            52.37981167586193
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Socialist Alliance", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-07-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-11-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SA18 3TD", 
     "party_leader": "Mr Fabian Alphonse Koseda", 
     "nominating_officer": "Mr Fabian Alphonse Koseda", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Leonard Cyril Hughson", 
-    "party_id": "PP271", 
+    "party_name": "Mid and West Wales Pensioners", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.008575113422958, 
+            51.79220134188959
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Mid and West Wales Pensioners [De-registered 07/11/03]", 
+    "party_id": "PP271", 
     "alternative_names": [
         "Pensiynwyr Canolbarth a Gorllewin Cymru"
-    ]
+    ], 
+    "descriptions": []
 }

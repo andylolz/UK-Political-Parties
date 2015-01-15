@@ -9,14 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-10-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG1 8EP", 
     "party_leader": "Mr Howard Thomas", 
     "nominating_officer": "Mr Howard Thomas", 
     "emblems": [
         {
-            "image": "raw_data/PP351/Emblem_261.gif", 
+            "image": "Emblem_261.gif", 
+            "primary": false, 
             "id": "261", 
             "description": "Emblem 1"
         }
@@ -31,15 +33,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Howard Thomas", 
-    "party_id": "PP351", 
+    "party_name": "Common Sense Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9818536762711123, 
+            51.46131738638877
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Common Sense Party [De-registered 05/11/13]", 
+    "party_id": "PP351", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

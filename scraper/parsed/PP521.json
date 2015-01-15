@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-07-26T00:00:00", 
     "campaigns_officer": "Mr Andrew Chapman", 
     "registered_date": "2005-01-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SS7 5UG", 
     "party_leader": "Mr Anton Hoenderkamp", 
     "nominating_officer": "Mr Anton Hoenderkamp", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Anton Hoenderkamp", 
-    "party_id": "PP521", 
+    "party_name": "PFRC", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.5532363512550085, 
+            51.567448103564956
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "PFRC [De-registered 26/07/06]", 
+    "party_id": "PP521", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-08-22T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-06-02T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Save Your Services"
-        }
-    ], 
+    "postcode": "DN4 6RX", 
     "party_leader": "Mr Doug Wright", 
     "nominating_officer": "Mr Doug Wright", 
     "emblems": [
         {
-            "image": "raw_data/PP2016/Emblem_804.jpg", 
+            "image": "Emblem_804.jpg", 
+            "primary": false, 
             "id": "804", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Sheppard", 
-    "party_id": "PP2016", 
+    "party_name": "Save Your Services", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.0625054647967844, 
+            53.504676800652845
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Save Your Services [De-registered 22/08/13]", 
+    "party_id": "PP2016", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Save Your Services"
+        }
     ]
 }

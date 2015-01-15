@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-11-19T00:00:00", 
     "campaigns_officer": "Mr David Bethell", 
     "registered_date": "2002-03-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NR3 4SF", 
     "party_leader": "Mr Paul Scruton", 
     "nominating_officer": "Mr David Alan Bethell", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Scruton", 
-    "party_id": "PP239", 
+    "party_name": "Norwich Over The Water", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.3052571330002674, 
+            52.64444534189784
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Norwich Over The Water [De-registered 19/11/09]", 
+    "party_id": "PP239", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

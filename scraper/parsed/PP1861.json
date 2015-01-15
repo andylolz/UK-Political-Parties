@@ -3,6 +3,51 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-01-02T00:00:00", 
+    "postcode": "M20 3EH", 
+    "party_leader": "Mr James Gordon Torrance", 
+    "nominating_officer": "Mr Adam Evans", 
+    "emblems": [
+        {
+            "image": "Emblem_696.jpg", 
+            "primary": false, 
+            "id": "696", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_697.jpg", 
+            "primary": false, 
+            "id": "697", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "4 Ashford Road\r\nWithington\r\nManchester\r\nM20 3EH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr William James Green", 
+    "party_id": "PP1861", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.234062539861468, 
+            53.43424483174215
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Motorcycle Alliance", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -28,40 +73,5 @@
             "translation": "", 
             "description": "Motor Alliance"
         }
-    ], 
-    "party_leader": "Mr James Gordon Torrance", 
-    "nominating_officer": "Mr Adam Evans", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1861/Emblem_696.jpg", 
-            "id": "696", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP1861/Emblem_697.jpg", 
-            "id": "697", 
-            "description": "Emblem 2"
-        }
-    ], 
-    "party_address": "4 Ashford Road\r\nWithington\r\nManchester\r\nM20 3EH\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr William James Green", 
-    "party_id": "PP1861", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Motorcycle Alliance", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -11,7 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2008-03-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WS11 1NA", 
     "party_leader": "Mr Steven Deakin", 
     "nominating_officer": "Mr Steven Deakin", 
     "emblems": [], 
@@ -31,9 +31,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.0454559743305833, 
+            52.68080364280119
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "True Democracy Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

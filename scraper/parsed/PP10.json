@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-09-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CO12 4TH", 
     "party_leader": "Cllr Steven Robert Henderson", 
     "nominating_officer": "Cllr David Smith", 
     "emblems": [
         {
-            "image": "raw_data/PP10/Emblem_6.gif", 
+            "image": "Emblem_6.gif", 
+            "primary": false, 
             "id": "6", 
             "description": "Emblem 2"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.2324409881994847, 
+            51.93019468959094
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Community Representatives Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

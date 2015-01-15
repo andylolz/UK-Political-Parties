@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Michael Sampson", 
     "registered_date": "2006-10-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT19 0NH", 
     "party_leader": "Ms Natalie Rogers", 
     "nominating_officer": "Mr Michael Sampson", 
     "emblems": [
         {
-            "image": "raw_data/PP591/Emblem_346.gif", 
+            "image": "Emblem_346.gif", 
+            "primary": false, 
             "id": "346", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2532445761171823, 
+            51.36649783231741
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Stoneleigh and Auriol Residents' Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

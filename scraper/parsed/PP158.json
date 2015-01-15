@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-04-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HA9 7DU", 
     "party_leader": "Mr Tomas Mac Stiofain", 
     "nominating_officer": "Mr Tomas Mac Stiofain", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2909674159073546, 
+            51.552288982369724
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Residents and Motorists of Great Britain", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

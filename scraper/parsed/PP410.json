@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-11-10T00:00:00", 
     "campaigns_officer": "Mr John Telfer", 
     "registered_date": "2004-10-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "G66 8BU", 
     "party_leader": "Mr Charles Kennedy", 
     "nominating_officer": "Mr James Gilmour", 
     "emblems": [
         {
-            "image": "raw_data/PP410/Emblem_291.gif", 
+            "image": "Emblem_291.gif", 
+            "primary": false, 
             "id": "291", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Young", 
-    "party_id": "PP410", 
+    "party_name": "East Dunbartonshire Independent Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.162041717824471, 
+            55.9613375143699
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "East Dunbartonshire Independent Alliance [De-registered 11/10/12]", 
+    "party_id": "PP410", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

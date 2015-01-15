@@ -3,25 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-12-13T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Ensuring Police Integrity Through Human Rights"
-        }, 
-        {
-            "translation": "", 
-            "description": "Delivering Human Rights To All Families"
-        }, 
-        {
-            "translation": "", 
-            "description": "The Truth Is Your Human Right"
-        }
-    ], 
+    "postcode": "KY11 1EN", 
     "party_leader": "Mr Stuart Graham", 
     "nominating_officer": "Mr Stuart Graham", 
     "emblems": [
         {
-            "image": "raw_data/PP2185/Emblem_897.jpg", 
+            "image": "Emblem_897.jpg", 
+            "primary": false, 
             "id": "897", 
             "description": "Emblem 1"
         }
@@ -42,9 +30,30 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.3885376070991673, 
+            56.02859779842291
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Victims Final Right Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Ensuring Police Integrity Through Human Rights"
+        }, 
+        {
+            "translation": "", 
+            "description": "Delivering Human Rights To All Families"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Truth Is Your Human Right"
+        }
     ]
 }

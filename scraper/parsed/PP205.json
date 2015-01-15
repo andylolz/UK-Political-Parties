@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Brian John Relph", 
     "registered_date": "2001-10-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TW20 0ER", 
     "party_leader": "Mrs Eiry Elizabeth Price", 
     "nominating_officer": "Mrs Eiry Elizabeth Price", 
     "emblems": [
         {
-            "image": "raw_data/PP205/Emblem_189.gif", 
+            "image": "Emblem_189.gif", 
+            "primary": false, 
             "id": "189", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5602519998518531, 
+            51.4286636265613
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Runnymede Independent Residents' Group", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

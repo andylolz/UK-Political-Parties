@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "W13 9JT", 
     "party_leader": "Mr Robert Adrian Seal", 
     "nominating_officer": "Mr Robert Adrian Seal", 
     "emblems": [
         {
-            "image": "raw_data/PP2268/Emblem_936.jpg", 
+            "image": "Emblem_936.jpg", 
+            "primary": false, 
             "id": "936", 
             "description": "i-dems1"
         }, 
         {
-            "image": "raw_data/PP2268/Emblem_937.jpg", 
+            "image": "Emblem_937.jpg", 
+            "primary": false, 
             "id": "937", 
             "description": "i-dems2"
         }, 
         {
-            "image": "raw_data/PP2268/Emblem_938.jpg", 
+            "image": "Emblem_938.jpg", 
+            "primary": false, 
             "id": "938", 
             "description": "i-dems3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.31794179394979827, 
+            51.50805004519234
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Internet Democrats", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

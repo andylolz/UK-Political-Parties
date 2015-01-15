@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "Mr Dave Taylor", 
     "registered_date": "2004-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CT3 4EL", 
     "party_leader": "Mr Giovanni Di Stefano", 
     "nominating_officer": "Mr Michele Di Stefano", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Michele Di Stefano", 
-    "party_id": "PP374", 
+    "party_name": "The Radical Party of Great Britain", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.1990403389533086, 
+            51.363611677027144
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Radical Party of Great Britain [De-registered 05/11/13]", 
+    "party_id": "PP374", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

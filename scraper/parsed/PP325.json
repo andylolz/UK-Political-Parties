@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CV34 4PP", 
     "party_leader": "Mr James Douglas Mackay", 
     "nominating_officer": "Mr James Douglas Mackay", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PP325", 
+    "party_name": "Warwick Residents' Association", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5736562352056227, 
+            52.285357979807664
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Warwick Residents' Association [De-registered 01/11/07]", 
+    "party_id": "PP325", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

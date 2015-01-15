@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Pippa Goldfinger", 
+    "registered_date": "2014-11-21T00:00:00", 
+    "postcode": "BA11 2LW", 
+    "party_leader": "Mel Usher", 
+    "nominating_officer": "Mr Toby Eliot", 
+    "emblems": [], 
+    "party_address": "25 Innox Hill\r\nFrome\r\nSomerset\r\nBA11 2LW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/03", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Tricia Golinski", 
+    "party_id": "PP2487", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -2.3255551459915647, 
+            51.24027378134758
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independents at Mendip", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

@@ -3,6 +3,38 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
+    "postcode": "M46 9NR", 
+    "party_leader": "Mr Ian Heyes", 
+    "nominating_officer": "Mr Paul Anthony Beachcroft", 
+    "emblems": [], 
+    "party_address": "39 Spa Road\r\nAtherton\r\nManchester\r\nM46 9NR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Stephen Michael Hall", 
+    "party_id": "PP1727", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.491443191798203, 
+            53.53395440189628
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Wigan Borough Green Socialists", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,29 +72,5 @@
             "translation": "", 
             "description": "Atherton Community Action Against The Cuts"
         }
-    ], 
-    "party_leader": "Mr Ian Heyes", 
-    "nominating_officer": "Mr Paul Anthony Beachcroft", 
-    "emblems": [], 
-    "party_address": "39 Spa Road\r\nAtherton\r\nManchester\r\nM46 9NR\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Stephen Michael Hall", 
-    "party_id": "PP1727", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Wigan Borough Green Socialists", 
-    "alternative_names": [
-        ""
     ]
 }

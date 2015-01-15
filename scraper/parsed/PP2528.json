@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-10-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HU1 1YT", 
     "party_leader": "Mr Dean Kirk", 
     "nominating_officer": "Mrs Gill Kennett", 
     "emblems": [
         {
-            "image": "raw_data/PP2528/Emblem_1044.jpg", 
+            "image": "Emblem_1044.jpg", 
+            "primary": false, 
             "id": "1044", 
             "description": "HRL"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.33375631977307096, 
+            53.74349820728039
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Hull Red Labour", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

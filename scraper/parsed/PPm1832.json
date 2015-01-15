@@ -3,16 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-11-24T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "True Britons"
-        }, 
-        {
-            "translation": "", 
-            "description": "True British"
-        }
-    ], 
+    "postcode": "RH1 6LZ", 
     "party_leader": "Mr Peter Phillips", 
     "nominating_officer": "Mr Robert Gertner", 
     "emblems": [], 
@@ -32,9 +23,26 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.18724462674928805, 
+            51.23003733388156
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "True Brits", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "True Britons"
+        }, 
+        {
+            "translation": "", 
+            "description": "True British"
+        }
     ]
 }

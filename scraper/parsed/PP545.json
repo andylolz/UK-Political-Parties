@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-10-06T00:00:00", 
     "campaigns_officer": "Mr Colin Henderson", 
     "registered_date": "2006-03-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LA9 6BW", 
     "party_leader": "Mr Andrew Billson-Page", 
     "nominating_officer": "Mr Raymond Metcalfe", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Anna Billson-Page", 
-    "party_id": "PP545", 
+    "party_name": "Save Our NHS Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.7432628355601207, 
+            54.33307868692466
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Save Our NHS Group [De-registered 10/06/08]", 
+    "party_id": "PP545", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

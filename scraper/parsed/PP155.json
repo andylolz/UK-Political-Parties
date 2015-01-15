@@ -1,24 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-07-25T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-03-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1X 9NG", 
     "party_leader": "Professor A J T RAJ", 
     "nominating_officer": "Professor J.M.R. RAJ", 
     "emblems": [
         {
-            "image": "raw_data/PP155/Emblem_162.gif", 
+            "image": "Emblem_162.gif", 
+            "primary": false, 
             "id": "162", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP155/Emblem_163.gif", 
+            "image": "Emblem_163.gif", 
+            "primary": false, 
             "id": "163", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP155/Emblem_164.gif", 
+            "image": "Emblem_164.gif", 
+            "primary": false, 
             "id": "164", 
             "description": "Emblem 3"
         }
@@ -33,15 +37,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Professor A J T RAJ", 
-    "party_id": "PP155", 
+    "party_name": "The People's Progressive Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.11644522471041674, 
+            51.52896127684438
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The People's Progressive Party [De-registered 25/07/11]", 
+    "party_id": "PP155", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

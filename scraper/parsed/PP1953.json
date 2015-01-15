@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
+    "postcode": "SW10 0BB", 
+    "party_leader": "Mr Dirk Hazell", 
+    "nominating_officer": "Mr Dirk Hazell", 
+    "emblems": [
+        {
+            "image": "Emblem_755.jpg", 
+            "primary": false, 
+            "id": "755", 
+            "description": "simple monochrome emblem"
+        }
+    ], 
+    "party_address": "Office 103\r\n405 Kings Road\r\nLondon\r\nSW10 0BB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "30/09", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Marie-Louise Rossi", 
+    "party_id": "PP1953", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1776430482185286, 
+            51.48278941707174
+        ]
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "UK in Europe Party (UK EPP)", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -28,35 +67,5 @@
             "translation": "", 
             "description": "We Believe in People"
         }
-    ], 
-    "party_leader": "Mr Dirk Hazell", 
-    "nominating_officer": "Mr Dirk Hazell", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1953/Emblem_755.jpg", 
-            "id": "755", 
-            "description": "simple monochrome emblem"
-        }
-    ], 
-    "party_address": "Office 103\r\n405 Kings Road\r\nLondon\r\nSW10 0BB\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "30/09", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Marie-Louise Rossi", 
-    "party_id": "PP1953", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Northern Ireland", 
-    "party_name": "UK in Europe Party (UK EPP)", 
-    "alternative_names": [
-        ""
     ]
 }

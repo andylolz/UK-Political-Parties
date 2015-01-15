@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-11-12T00:00:00", 
+    "postcode": "PE21 7AP", 
+    "party_leader": "Ms Helen Staples", 
+    "nominating_officer": "Mrs Brenda Kathleen Owen", 
+    "emblems": [
+        {
+            "image": "Emblem_354.gif", 
+            "primary": false, 
+            "id": "354", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Cherry Tree Cottage\r\nLow Road Wyberton\r\nBoston\r\nLincolnshire\r\nPE21 7AP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Neil Campbell McGregor", 
+    "party_name": "Boston District Independents", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.024398136072903448, 
+            52.95177986956235
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP598", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -24,35 +64,5 @@
             "translation": "", 
             "description": "Boston Bypass Independent - getting Boston moving"
         }
-    ], 
-    "party_leader": "Ms Helen Staples", 
-    "nominating_officer": "Mrs Brenda Kathleen Owen", 
-    "emblems": [
-        {
-            "image": "raw_data/PP598/Emblem_354.gif", 
-            "id": "354", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "Cherry Tree Cottage\r\nLow Road Wyberton\r\nBoston\r\nLincolnshire\r\nPE21 7AP\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Neil Campbell McGregor", 
-    "party_id": "PP598", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Boston District Independents [De-registered 05/12/12]", 
-    "alternative_names": [
-        ""
     ]
 }

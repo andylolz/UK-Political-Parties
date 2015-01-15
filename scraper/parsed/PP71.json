@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-07-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-02-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WF7 5JQ", 
     "party_leader": "Mr Stephen John Vickers", 
     "nominating_officer": "Ms Anna-Marie Dakin", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Stephen John Vickers", 
-    "party_id": "PP71", 
+    "party_name": "Featherstone Labour 1st", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3682610841065446, 
+            53.67153078470183
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Featherstone Labour 1st [De-registered 07/04/03]", 
+    "party_id": "PP71", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

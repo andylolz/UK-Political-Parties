@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-04-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TS19 0ER", 
     "party_leader": "Mr Royston Lea Parker", 
     "nominating_officer": "Mr Anthony Ayre", 
     "emblems": [
         {
-            "image": "raw_data/PP658/Emblem_389.gif", 
+            "image": "Emblem_389.gif", 
+            "primary": false, 
             "id": "389", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Anthony Ayre", 
-    "party_id": "PP658", 
+    "party_name": "Newtown Independent Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3230276358860038, 
+            54.573420388066246
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Newtown Independent Party [De-registered 04/01/12]", 
+    "party_id": "PP658", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

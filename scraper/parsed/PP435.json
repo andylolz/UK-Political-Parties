@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-02-22T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN1 3WN", 
     "party_leader": "Mr Richard Kimber Franklin", 
     "nominating_officer": "Mr Richard Kimber Franklin", 
     "emblems": [], 
@@ -17,15 +18,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Adam Lindsay", 
-    "party_id": "PP435", 
+    "party_name": "Silent Majority Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "Silent Majority Party [De-registered 22/02/06]", 
+    "party_id": "PP435", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

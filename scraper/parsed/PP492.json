@@ -11,7 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CV3 9JD", 
     "party_leader": "Mr James Christopher Rooney", 
     "nominating_officer": "Mr James Christopher Rooney", 
     "emblems": [], 
@@ -31,9 +31,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4608384116932656, 
+            52.38174039328817
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Mainstream", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

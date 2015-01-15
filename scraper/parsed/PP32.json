@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-25T00:00:00", 
+    "postcode": "RM12 4PJ", 
+    "party_leader": "na Upkar Singh Rai", 
+    "nominating_officer": "Mr Graham Williamson", 
+    "emblems": [
+        {
+            "image": "Emblem_23.jpg", 
+            "primary": false, 
+            "id": "23", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_24.jpg", 
+            "primary": false, 
+            "id": "24", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_25.jpg", 
+            "primary": false, 
+            "id": "25", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "PO Box 4217\r\nHornchurch\r\nEssex\r\nRM12 4PJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Graham Williamson", 
+    "party_id": "PP32", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.21633520006637177, 
+            51.56186028776116
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "National Liberal Party - True Liberalism", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,45 +99,5 @@
             "translation": "", 
             "description": "National Liberal Party Ulster Third Way"
         }
-    ], 
-    "party_leader": "na Upkar Singh Rai", 
-    "nominating_officer": "Mr Graham Williamson", 
-    "emblems": [
-        {
-            "image": "raw_data/PP32/Emblem_23.jpg", 
-            "id": "23", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP32/Emblem_24.jpg", 
-            "id": "24", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP32/Emblem_25.jpg", 
-            "id": "25", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "PO Box 4217\r\nHornchurch\r\nEssex\r\nRM12 4PJ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Graham Williamson", 
-    "party_id": "PP32", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "National Liberal Party - True Liberalism", 
-    "alternative_names": [
-        ""
     ]
 }

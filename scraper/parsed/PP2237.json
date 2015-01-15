@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "N8 8JZ", 
     "party_leader": "Mr Geoff Moseley", 
     "nominating_officer": "Mr Julian Emens", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13218415458239227, 
+            51.584705388850324
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Hoi Polloi", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

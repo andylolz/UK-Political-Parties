@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-07-19T00:00:00", 
     "campaigns_officer": "Mr Stephen Leslie Harrison", 
     "registered_date": "2006-11-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WV16 6JX", 
     "party_leader": "Mrs Maureen June Harrison", 
     "nominating_officer": "Mrs Maureen June Harrison", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Christopher Stephen Harrison", 
-    "party_id": "PP612", 
+    "party_name": "The Car Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.3817564480565094, 
+            52.44981325298636
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Car Party [De-registered 19/07/07]", 
+    "party_id": "PP612", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-01-17T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Civil Society"
-        }
-    ], 
+    "postcode": "EC1V 2NX", 
     "party_leader": "Mr Joshua Paul Malkin", 
     "nominating_officer": "Mr Toby Crichton Malkin", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Colin Grant", 
-    "party_id": "PP2009", 
+    "party_name": "Civil Society and Common Wealth", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.089123629173034, 
+            51.52726941722609
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Civil Society and Common Wealth [De-registered 03/11/14]", 
+    "party_id": "PP2009", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Civil Society"
+        }
     ]
 }

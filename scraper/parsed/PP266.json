@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "Mr Leslie Bedell", 
     "registered_date": "2002-11-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT41 3RQ", 
     "party_leader": "Ms Andrea Bedell", 
     "nominating_officer": "Mr Leslie Bedell", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Michelle Boyle", 
-    "party_id": "PP266", 
+    "party_name": "Community Awareness Party/ Protecting Children", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -6.411064822969765, 
+            54.77984671283881
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Community Awareness Party/ Protecting Children [De-registered 01/11/07]", 
+    "party_id": "PP266", 
     "alternative_names": [
         "An P\u00e0irt\u00ec um Eolas Sa Phobal/ Ag Cosaint P\u00e0ist\u00ec"
-    ]
+    ], 
+    "descriptions": []
 }

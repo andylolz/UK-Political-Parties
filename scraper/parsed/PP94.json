@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-08-24T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IV20 1RP", 
     "party_leader": "Ms Lorraine Mann", 
     "nominating_officer": "Ms Lorraine Mann", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Bryan William Beattie", 
-    "party_id": "PP94", 
+    "party_name": "Highlands and Islands Alliance - C\u00e0irdeas", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.9747190064345115, 
+            57.7804095118511
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Highlands and Islands Alliance - C\u00e0irdeas [De-registered 24/08/04]", 
+    "party_id": "PP94", 
     "alternative_names": [
         "C\u00e0irdeas meaning includes friendship, fellowship, relationship, goodwill and alliance"
-    ]
+    ], 
+    "descriptions": []
 }

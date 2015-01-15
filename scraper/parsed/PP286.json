@@ -1,24 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-04-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DH1 1PF", 
     "party_leader": "Mr Robert West", 
     "nominating_officer": "Mr Christopher Martin John Allen", 
     "emblems": [
         {
-            "image": "raw_data/PP286/Emblem_228.gif", 
+            "image": "Emblem_228.gif", 
+            "primary": false, 
             "id": "228", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP286/Emblem_229.gif", 
+            "image": "Emblem_229.gif", 
+            "primary": false, 
             "id": "229", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP286/Emblem_230.gif", 
+            "image": "Emblem_230.gif", 
+            "primary": false, 
             "id": "230", 
             "description": "Emblem 3"
         }
@@ -33,15 +37,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert West", 
-    "party_id": "PP286", 
+    "party_name": "Durham Taxpayers Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5448290118586427, 
+            54.782014799408664
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Durham Taxpayers Alliance [De-registered 13/04/12]", 
+    "party_id": "PP286", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

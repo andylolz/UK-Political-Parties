@@ -3,6 +3,38 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-01-27T00:00:00", 
+    "postcode": "CB4 3RB", 
+    "party_leader": "Mr Philippe Harari", 
+    "nominating_officer": "Mr Jon Duveen", 
+    "emblems": [], 
+    "party_address": "3 Finch Road\r\nCambridge\r\nCambridgeshire\r\nCB4 3RB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Howard Chapman", 
+    "party_id": "PP803", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.11866935927920104, 
+            52.22329548951772
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Cambridge Socialists", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -28,29 +60,5 @@
             "translation": "", 
             "description": "Another Cambridge is Possible"
         }
-    ], 
-    "party_leader": "Mr Philippe Harari", 
-    "nominating_officer": "Mr Jon Duveen", 
-    "emblems": [], 
-    "party_address": "3 Finch Road\r\nCambridge\r\nCambridgeshire\r\nCB4 3RB\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Howard Chapman", 
-    "party_id": "PP803", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Cambridge Socialists", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
+    "postcode": "SY21 0WE", 
+    "party_leader": "Mr Nicholas John Griffin", 
+    "nominating_officer": "Mr Clive Jefferson", 
+    "emblems": [
+        {
+            "image": "Emblem_123.gif", 
+            "primary": false, 
+            "id": "123", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_621.gif", 
+            "primary": false, 
+            "id": "621", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_706.jpg", 
+            "primary": false, 
+            "id": "706", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "PO Box 14\r\nWelshpool\r\nPowys\r\nSY21 0WE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Clive Jefferson", 
+    "party_id": "PP106", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.145848431749314, 
+            52.65934196310446
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "British National Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "At the heart of our community"
         }
-    ], 
-    "party_leader": "Mr Nicholas John Griffin", 
-    "nominating_officer": "Mr Clive Jefferson", 
-    "emblems": [
-        {
-            "image": "raw_data/PP106/Emblem_123.gif", 
-            "id": "123", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP106/Emblem_621.gif", 
-            "id": "621", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP106/Emblem_706.jpg", 
-            "id": "706", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "PO Box 14\r\nWelshpool\r\nPowys\r\nSY21 0WE\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Clive Jefferson", 
-    "party_id": "PP106", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "British National Party", 
-    "alternative_names": [
-        ""
     ]
 }

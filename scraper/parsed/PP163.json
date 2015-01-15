@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-05T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT19 9TW", 
     "party_leader": "Mr George Clive Smitheram", 
     "nominating_officer": "Ms Jean Lilian Steer", 
     "emblems": [
         {
-            "image": "raw_data/PP163/Emblem_168.gif", 
+            "image": "Emblem_168.gif", 
+            "primary": false, 
             "id": "168", 
             "description": "West Ewell Emblem"
         }, 
         {
-            "image": "raw_data/PP163/Emblem_169.gif", 
+            "image": "Emblem_169.gif", 
+            "primary": false, 
             "id": "169", 
             "description": "Ruxley Emblem"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.26147035299439936, 
+            51.35185435707636
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "West Ewell and Ruxley Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

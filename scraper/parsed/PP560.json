@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-10-31T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DN2 4AF", 
     "party_leader": "Mr Lawrence Parramore", 
     "nominating_officer": "Mr Eric Tetley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Elizabeth Tetley", 
-    "party_id": "PP560", 
+    "party_name": "Doncaster Against Demolition", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.1216767324495491, 
+            53.52909891087352
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Doncaster Against Demolition [De-registered 31/10/06]", 
+    "party_id": "PP560", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

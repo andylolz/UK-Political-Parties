@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-04-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-12-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW19 2LP", 
     "party_leader": "Mr Alastair Wilson", 
     "nominating_officer": "Mrs Julie Rawsley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Alastair Wilson", 
-    "party_id": "PP487", 
+    "party_name": "Tiger's Eye", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.18493099108072997, 
+            51.41419040653425
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Tiger's Eye [De-registered 27/04/07]", 
+    "party_id": "PP487", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

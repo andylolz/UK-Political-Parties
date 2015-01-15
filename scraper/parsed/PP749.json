@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-04-28T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-03-18T00:00:00", 
+    "postcode": "SS1 2DS", 
+    "party_leader": "Dr Colin Campbell BSc(hons) MSc PhD", 
+    "nominating_officer": "Dr Colin Campbell BSc(hons) MSc PhD", 
+    "emblems": [], 
+    "party_address": "May Villa\r\n21 Killworth Avenue\r\nSouthend on Sea\r\nEssex\r\nSS1 2DS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kyle Campbell", 
+    "party_name": "The Individuals Labour and Tory (TILT)", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.7220161306193684, 
+            51.53814655985109
+        ]
+    }, 
+    "register": "Northern Ireland", 
+    "party_id": "PP749", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,29 +73,5 @@
             "translation": "", 
             "description": "Irish Individuals Labour and Tory tilt"
         }
-    ], 
-    "party_leader": "Dr Colin Campbell BSc(hons) MSc PhD", 
-    "nominating_officer": "Dr Colin Campbell BSc(hons) MSc PhD", 
-    "emblems": [], 
-    "party_address": "May Villa\r\n21 Killworth Avenue\r\nSouthend on Sea\r\nEssex\r\nSS1 2DS\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Kyle Campbell", 
-    "party_id": "PP749", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Northern Ireland", 
-    "party_name": "The Individuals Labour and Tory (TILT) [De-registered 28/04/10]", 
-    "alternative_names": [
-        ""
     ]
 }

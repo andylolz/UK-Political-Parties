@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-03-13T00:00:00", 
     "campaigns_officer": "Mr John Pawlett", 
     "registered_date": "2000-09-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HU1 2QA", 
     "party_leader": "Mr John Hart", 
     "nominating_officer": "Mr John Pawlett", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Hart", 
-    "party_id": "PP121", 
+    "party_name": "The United Kingdom People's Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.34113656344618054, 
+            53.7420647319358
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The United Kingdom People's Party [De-registered 13/03/02]", 
+    "party_id": "PP121", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

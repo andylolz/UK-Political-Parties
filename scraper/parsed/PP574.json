@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2006-07-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WA16 8EW", 
     "party_leader": "Mr Michael George Gibson", 
     "nominating_officer": "Mr Michael George Gibson", 
     "emblems": [
         {
-            "image": "raw_data/PP574/Emblem_344.gif", 
+            "image": "Emblem_344.gif", 
+            "primary": false, 
             "id": "344", 
             "description": "A circle containing a pentangle within which are the initial letters of the Partys title and a cartoon of The Strawman"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.367537295031128, 
+            53.30448976063852
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The True English (Poetry) Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

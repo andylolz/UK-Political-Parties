@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-07-24T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WN4 9RR", 
     "party_leader": "Mr Brian Merry", 
     "nominating_officer": "Mr Frank Merry", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Claire Daington", 
-    "party_id": "PP555", 
+    "party_name": "Community Performance First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.6524015926383067, 
+            53.49411098791098
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Community Performance First [De-registered 24/07/08]", 
+    "party_id": "PP555", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -11,6 +11,57 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2007-06-06T00:00:00", 
+    "postcode": "N1 6UZ", 
+    "party_leader": "Mr Nusret Sen", 
+    "nominating_officer": "Mr Nusret Sen", 
+    "emblems": [
+        {
+            "image": "Emblem_397.gif", 
+            "primary": false, 
+            "id": "397", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_398.gif", 
+            "primary": false, 
+            "id": "398", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_399.gif", 
+            "primary": false, 
+            "id": "399", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "PO Box 58236\r\nLondon\r\nN1 6UZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Nusret Sen", 
+    "party_id": "PP667", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1032778125645594, 
+            51.53842575144063
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Direct Democracy (Communist) Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,45 +99,5 @@
             "translation": "", 
             "description": "Party of Direct Democracy - of abundance"
         }
-    ], 
-    "party_leader": "Mr Nusret Sen", 
-    "nominating_officer": "Mr Nusret Sen", 
-    "emblems": [
-        {
-            "image": "raw_data/PP667/Emblem_397.gif", 
-            "id": "397", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP667/Emblem_398.gif", 
-            "id": "398", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP667/Emblem_399.gif", 
-            "id": "399", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "PO Box 58236\r\nLondon\r\nN1 6UZ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Nusret Sen", 
-    "party_id": "PP667", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Direct Democracy (Communist) Party", 
-    "alternative_names": [
-        ""
     ]
 }

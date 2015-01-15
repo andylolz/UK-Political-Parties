@@ -3,31 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-01-14T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Ulster Conservatives and Unionists - New Force (Joint Description with Conservative and Unionist Party)"
-        }, 
-        {
-            "translation": "", 
-            "description": "Doing what's right for Northern Ireland"
-        }
-    ], 
+    "postcode": "BT4 2AN", 
     "party_leader": "Mr Mike Nesbitt", 
     "nominating_officer": "Mr Mike Nesbitt", 
     "emblems": [
         {
-            "image": "raw_data/PP83/Emblem_807.gif", 
+            "image": "Emblem_807.gif", 
+            "primary": false, 
             "id": "807", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP83/Emblem_808.jpg", 
+            "image": "Emblem_808.jpg", 
+            "primary": false, 
             "id": "808", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP83/Emblem_809.gif", 
+            "image": "Emblem_809.gif", 
+            "primary": false, 
             "id": "809", 
             "description": "Emblem 3"
         }
@@ -48,9 +42,26 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.876428358177716, 
+            54.60047107133123
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Ulster Unionist Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Ulster Conservatives and Unionists - New Force (Joint Description with Conservative and Unionist Party)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Doing what's right for Northern Ireland"
+        }
     ]
 }

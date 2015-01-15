@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-08-15T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1N 3XX", 
     "party_leader": "Mr Mark Fischer", 
     "nominating_officer": "Mr Mark Fischer", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Tina Werkmann", 
-    "party_id": "PP72", 
+    "party_name": "Weekly Worker", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13424361194036336, 
+            51.517132821076316
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Weekly Worker [De-registered 15/08/03]", 
+    "party_id": "PP72", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

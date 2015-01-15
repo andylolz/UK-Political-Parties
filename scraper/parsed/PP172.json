@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-05T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CB2 1TQ", 
     "party_leader": "Mr Nigel Harris", 
     "nominating_officer": "Mr Nigel Harris", 
     "emblems": [
         {
-            "image": "raw_data/PP172/Emblem_171.gif", 
+            "image": "Emblem_171.gif", 
+            "primary": false, 
             "id": "171", 
             "description": "WORLD written beneath planet Earth tilted to show the hemisphere with most land area"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Harris", 
-    "party_id": "PP172", 
+    "party_name": "World", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.11759232381514395, 
+            52.20712043056472
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "World [De-registered 05/11/13]", 
+    "party_id": "PP172", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

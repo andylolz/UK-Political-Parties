@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-04-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ZZ0 0ZZ", 
     "party_leader": "Mr Robert Anthony Roper", 
     "nominating_officer": "Mr Fred Perry", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Malcolm Beckley", 
-    "party_id": "PP307", 
+    "party_name": "2003 Community Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.9162291, 
+            54.6612442
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "2003 Community Party [De-registered 14/04/05]", 
+    "party_id": "PP307", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

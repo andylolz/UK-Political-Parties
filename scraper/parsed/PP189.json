@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-03-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN1 4GE", 
     "party_leader": "Mr Bob Dobbs", 
     "nominating_officer": "Mr Paul Streetly", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Kevin Grimshaw", 
-    "party_id": "PP189", 
+    "party_name": "The Free Party (de-registered 2002)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13727261668493976, 
+            50.83158320942211
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Free Party (de-registered 2002) [De-registered 03/04/02]", 
+    "party_id": "PP189", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

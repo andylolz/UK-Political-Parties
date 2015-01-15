@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "YO12 5TG", 
     "party_leader": "Mr Colin Wigglesworth", 
     "nominating_officer": "Mr Malcolm Wigglesworth", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Colin Wigglesworth", 
-    "party_id": "PP657", 
+    "party_name": "North Yorkshire Coast Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.45776072168844895, 
+            54.2706880593751
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "North Yorkshire Coast Party [De-registered 02/11/10]", 
+    "party_id": "PP657", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

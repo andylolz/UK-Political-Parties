@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-01-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TW13 7DA", 
     "party_leader": "Cllr John Murphy", 
     "nominating_officer": "Cllr John Murphy", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Patricia Murphy", 
-    "party_id": "PP218", 
+    "party_name": "West Hanworth Independent Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.40405758137817716, 
+            51.43579539353675
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "West Hanworth Independent Group [De-registered 01/04/03]", 
+    "party_id": "PP218", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

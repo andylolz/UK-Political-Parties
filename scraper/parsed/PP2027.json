@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SO30 4AZ", 
     "party_leader": "Mr Raymond Hall", 
     "nominating_officer": "Mrs Jeanette Ryder", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3147864059141063, 
+            50.91066774212411
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Beer, Baccy and Crumpet Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT7 1JJ", 
     "party_leader": "Mr Desmond Hayes", 
     "nominating_officer": "Mr Desmond Hayes", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Mary Hayes", 
-    "party_id": "PP494", 
+    "party_name": "Workers' Union of Ireland", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.933214931499594, 
+            54.58784209372763
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Workers' Union of Ireland [De-registered 01/11/07]", 
+    "party_id": "PP494", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

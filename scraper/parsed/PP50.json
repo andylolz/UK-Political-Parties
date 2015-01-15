@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
+    "postcode": "LN4 4WE", 
+    "party_leader": "Mrs Christine Maria West", 
+    "nominating_officer": "Mrs Tatiana Patricia Johnson", 
+    "emblems": [
+        {
+            "image": "Emblem_44.gif", 
+            "primary": false, 
+            "id": "44", 
+            "description": "A simple Christian cross surrounded by a D"
+        }
+    ], 
+    "party_address": "PO Box 1070\r\nLincoln\r\nLincolnshire\r\nLN4 4WE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Kennedy", 
+    "party_id": "PP50", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.17389279959061413, 
+            53.10582981802165
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Christian Democratic Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,35 +75,5 @@
             "translation": "", 
             "description": "Promoting and Serving the Common Good"
         }
-    ], 
-    "party_leader": "Mrs Christine Maria West", 
-    "nominating_officer": "Mrs Tatiana Patricia Johnson", 
-    "emblems": [
-        {
-            "image": "raw_data/PP50/Emblem_44.gif", 
-            "id": "44", 
-            "description": "A simple Christian cross surrounded by a D"
-        }
-    ], 
-    "party_address": "PO Box 1070\r\nLincoln\r\nLincolnshire\r\nLN4 4WE\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Paul Kennedy", 
-    "party_id": "PP50", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Christian Democratic Party", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-02-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "FK9 4NG", 
     "party_leader": "Mr Archibald Stirling", 
     "nominating_officer": "na Shirley Mackie", 
     "emblems": [
         {
-            "image": "raw_data/PP617/Emblem_363.gif", 
+            "image": "Emblem_363.gif", 
+            "primary": false, 
             "id": "363", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP617/Emblem_364.gif", 
+            "image": "Emblem_364.gif", 
+            "primary": false, 
             "id": "364", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.008628782404174, 
+            56.16345621625865
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Scottish Voice", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

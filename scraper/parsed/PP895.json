@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-03-22T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-11-24T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Your Community Voice Working Together"
-        }
-    ], 
+    "postcode": "ST6 8HQ", 
     "party_leader": "Cllr Mick Salih", 
     "nominating_officer": "Cllr Michael John Barnes", 
     "emblems": [
         {
-            "image": "raw_data/PP895/Emblem_582.gif", 
+            "image": "Emblem_582.gif", 
+            "primary": false, 
             "id": "582", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Cllr Mick Salih", 
-    "party_id": "PP895", 
+    "party_name": "Community Voice", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1651411579512696, 
+            53.061459848465375
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Community Voice [De-registered 22/03/12]", 
+    "party_id": "PP895", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Your Community Voice Working Together"
+        }
     ]
 }

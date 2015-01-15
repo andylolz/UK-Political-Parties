@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-07-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-01-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CF14 3ND", 
     "party_leader": "Mr David Lincoln Williams", 
     "nominating_officer": "Mr David Lincoln Williams", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Francis Eddins", 
-    "party_id": "PP272", 
+    "party_name": "Abolish The Assembly", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.191928086026097, 
+            51.503564125944514
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Abolish The Assembly [De-registered 13/07/04]", 
+    "party_id": "PP272", 
     "alternative_names": [
         "Gwneud I Ffwrdd Cynulliad"
-    ]
+    ], 
+    "descriptions": []
 }

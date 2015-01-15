@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-04-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1N 3XX", 
     "party_leader": "Mr Chris Cooper", 
     "nominating_officer": "Mr Robert Peter Colvill", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13424361194036336, 
+            51.517132821076316
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Peace and Progress", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

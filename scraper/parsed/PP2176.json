@@ -18,6 +18,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2013-11-12T00:00:00", 
+    "postcode": "HU8 7TN", 
+    "party_leader": "Mr John Hotham", 
+    "nominating_officer": "Mr John Hotham", 
+    "emblems": [
+        {
+            "image": "Emblem_896.png", 
+            "primary": false, 
+            "id": "896", 
+            "description": "A set of scales within a compass"
+        }
+    ], 
+    "party_address": "174 James Reckitt Avenue\r\nHull\r\nEast Yorkshire\r\nHU8 7TN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Nicola Bolton", 
+    "party_id": "PP2176", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.31655550425387824, 
+            53.76296212477511
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Kaizen Liberal Utilitarian Democrats", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -43,35 +82,5 @@
             "translation": "", 
             "description": "Peace, Perspective, Prosperity and Protection"
         }
-    ], 
-    "party_leader": "Mr John Hotham", 
-    "nominating_officer": "Mr John Hotham", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2176/Emblem_896.png", 
-            "id": "896", 
-            "description": "A set of scales within a compass"
-        }
-    ], 
-    "party_address": "174 James Reckitt Avenue\r\nHull\r\nEast Yorkshire\r\nHU8 7TN\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Nicola Bolton", 
-    "party_id": "PP2176", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Kaizen Liberal Utilitarian Democrats", 
-    "alternative_names": [
-        ""
     ]
 }

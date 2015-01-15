@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-01-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LA13 9PZ", 
     "party_leader": "Mr Jim Hamezeian", 
     "nominating_officer": "Mr Martin Flaherty", 
     "emblems": [
         {
-            "image": "raw_data/PP57/Emblem_59.gif", 
+            "image": "Emblem_59.gif", 
+            "primary": false, 
             "id": "59", 
             "description": "Extended family group with the name Peoples Party"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.211338531134388, 
+            54.11368351812018
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Socialist People's Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GL51 5QN", 
     "party_leader": "Cllr Leslie George Godwin", 
     "nominating_officer": "Cllr Leslie George Godwin", 
     "emblems": [
         {
-            "image": "raw_data/PP2/Emblem_2.gif", 
+            "image": "Emblem_2.gif", 
+            "primary": false, 
             "id": "2", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,14 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
     "party_name": "People Against Bureaucracy Group", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,19 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-02-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE48 4AX", 
     "party_leader": "Mr Thomas Henry Davison", 
     "nominating_officer": "Mrs Valerie Angela Davison", 
     "emblems": [
         {
-            "image": "raw_data/PP278/Emblem_222.gif", 
+            "image": "Emblem_222.gif", 
+            "primary": false, 
             "id": "222", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP278/Emblem_223.gif", 
+            "image": "Emblem_223.gif", 
+            "primary": false, 
             "id": "223", 
             "description": "Emblem 2"
         }
@@ -28,15 +31,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Valerie Angela Davison", 
-    "party_id": "PP278", 
+    "party_name": "Imperial Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.147407300592999, 
+            55.070805715578665
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Imperial Party [De-registered 05/12/12]", 
+    "party_id": "PP278", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

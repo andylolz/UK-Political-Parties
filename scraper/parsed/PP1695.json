@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-09-03T00:00:00", 
+    "postcode": "CW2 5JN", 
+    "party_leader": "Mr David Brickhill", 
+    "nominating_officer": "Mr Peter Hallett", 
+    "emblems": [
+        {
+            "image": "Emblem_604.gif", 
+            "primary": false, 
+            "id": "604", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "14 Cobbs Lane\r\nHough\r\nCrewe\r\nCW2 5JN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Brickhill", 
+    "party_name": "Shavington First", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.426929627537953, 
+            53.05574708989452
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP1695", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,35 +92,5 @@
             "translation": "", 
             "description": "Best for Shavington"
         }
-    ], 
-    "party_leader": "Mr David Brickhill", 
-    "nominating_officer": "Mr Peter Hallett", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1695/Emblem_604.gif", 
-            "id": "604", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "14 Cobbs Lane\r\nHough\r\nCrewe\r\nCW2 5JN\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2014-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr David Brickhill", 
-    "party_id": "PP1695", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Shavington First [De-registered 03/11/14]", 
-    "alternative_names": [
-        ""
     ]
 }

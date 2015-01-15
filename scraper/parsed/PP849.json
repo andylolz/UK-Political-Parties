@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-12-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-26T00:00:00", 
+    "postcode": "SW1H 0HW", 
+    "party_leader": "Mr Stuart Wheeler", 
+    "nominating_officer": "Mr William Arthur Griffiths", 
+    "emblems": [
+        {
+            "image": "Emblem_531.gif", 
+            "primary": false, 
+            "id": "531", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "83 Victoria Street\r\nLondon\r\nSW1H 0HW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr William Arthur Griffiths", 
+    "party_name": "Trust", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13500641799227517, 
+            51.497397376096345
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP849", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -20,35 +60,5 @@
             "translation": "", 
             "description": "Support the Independence of MPs"
         }
-    ], 
-    "party_leader": "Mr Stuart Wheeler", 
-    "nominating_officer": "Mr William Arthur Griffiths", 
-    "emblems": [
-        {
-            "image": "raw_data/PP849/Emblem_531.gif", 
-            "id": "531", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "83 Victoria Street\r\nLondon\r\nSW1H 0HW\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr William Arthur Griffiths", 
-    "party_id": "PP849", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Trust [De-registered 12/04/11]", 
-    "alternative_names": [
-        ""
     ]
 }

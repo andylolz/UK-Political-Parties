@@ -9,8 +9,48 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
+    "postcode": "BB5 0PF", 
+    "party_leader": "Mr David Mason", 
+    "nominating_officer": "Mr Nick Collingridge", 
+    "emblems": [
+        {
+            "image": "Emblem_638.gif", 
+            "primary": false, 
+            "id": "638", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "C/O Scaithcliffe House\r\nOrmrod Street\r\nAccrington\r\nLancashire\r\nBB5 0PF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul F Gott", 
+    "party_name": "Independents in Hyndburn", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.3702563076136625, 
+            53.74903961127386
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP1720", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,35 +84,5 @@
             "translation": "", 
             "description": "Independents in Hyndburn"
         }
-    ], 
-    "party_leader": "Mr David Mason", 
-    "nominating_officer": "Mr Nick Collingridge", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1720/Emblem_638.gif", 
-            "id": "638", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "C/O Scaithcliffe House\r\nOrmrod Street\r\nAccrington\r\nLancashire\r\nBB5 0PF\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Paul F Gott", 
-    "party_id": "PP1720", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Independents in Hyndburn [De-registered 05/12/12]", 
-    "alternative_names": [
-        ""
     ]
 }

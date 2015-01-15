@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-08-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IP6 9RE", 
     "party_leader": "Mr Michael Blakenham", 
     "nominating_officer": "Mr Michael Blakenham", 
     "emblems": [
         {
-            "image": "raw_data/PP2140/Emblem_867.jpg", 
+            "image": "Emblem_867.jpg", 
+            "primary": false, 
             "id": "867", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.1205218087408126, 
+            52.14100280094621
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Suffolk Together", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

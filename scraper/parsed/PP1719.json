@@ -1,24 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-08-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SO50 5DZ", 
     "party_leader": "Cllr Glynn William Davies-Dear", 
     "nominating_officer": "Cllr Andrew Roy Moore", 
     "emblems": [
         {
-            "image": "raw_data/PP1719/Emblem_633.gif", 
+            "image": "Emblem_633.gif", 
+            "primary": false, 
             "id": "633", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1719/Emblem_634.gif", 
+            "image": "Emblem_634.gif", 
+            "primary": false, 
             "id": "634", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP1719/Emblem_635.gif", 
+            "image": "Emblem_635.gif", 
+            "primary": false, 
             "id": "635", 
             "description": "Emblem 3"
         }
@@ -33,15 +37,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Joan Margaret Pragnell", 
-    "party_id": "PP1719", 
+    "party_name": "Independent Party of Eastleigh Councillors", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3647429874131753, 
+            50.96373578446935
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Independent Party of Eastleigh Councillors [De-registered 13/08/13]", 
+    "party_id": "PP1719", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

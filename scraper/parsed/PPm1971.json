@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-12-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LL11 6QD", 
     "party_leader": "Mr Dennis Morris", 
     "nominating_officer": "Mr David Adam Phillips", 
     "emblems": [
         {
-            "image": "raw_data/PPm1971/Emblem_777.jpg", 
+            "image": "Emblem_777.jpg", 
+            "primary": false, 
             "id": "777", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PPm1971/Emblem_778.jpg", 
+            "image": "Emblem_778.jpg", 
+            "primary": false, 
             "id": "778", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.0328531934149177, 
+            53.056118800756636
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Plaid Glyndwr", 
     "alternative_names": [
         "Glyndwr Party"
-    ]
+    ], 
+    "descriptions": []
 }

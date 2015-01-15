@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-07-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HG5 0HN", 
     "party_leader": "Mr John William Allman", 
     "nominating_officer": "Mr John William Allman", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John William Allman", 
-    "party_id": "PP483", 
+    "party_name": "Glasnost Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4696186207720956, 
+            54.01054659321196
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Glasnost Party [De-registered 01/11/07]", 
+    "party_id": "PP483", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

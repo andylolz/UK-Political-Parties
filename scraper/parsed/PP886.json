@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-06-10T00:00:00", 
+    "postcode": "BH15 1LD", 
+    "party_leader": "Mr Mark Edward Howell", 
+    "nominating_officer": "Mr Christopher Sewell Jolliffe Allenby", 
+    "emblems": [
+        {
+            "image": "Emblem_570.gif", 
+            "primary": false, 
+            "id": "570", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_571.gif", 
+            "primary": false, 
+            "id": "571", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_572.jpg", 
+            "primary": false, 
+            "id": "572", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Jolliffe House\r\n32 West Street\r\nPoole\r\nDorset\r\nBH15 1LD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Gillian Tripp", 
+    "party_id": "PP886", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9896505405150615, 
+            50.71455300956035
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Party for Poole People Ltd.", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "Poole People - It's time for change"
         }
-    ], 
-    "party_leader": "Mr Mark Edward Howell", 
-    "nominating_officer": "Mr Christopher Sewell Jolliffe Allenby", 
-    "emblems": [
-        {
-            "image": "raw_data/PP886/Emblem_570.gif", 
-            "id": "570", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP886/Emblem_571.gif", 
-            "id": "571", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP886/Emblem_572.jpg", 
-            "id": "572", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "Jolliffe House\r\n32 West Street\r\nPoole\r\nDorset\r\nBH15 1LD\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Gillian Tripp", 
-    "party_id": "PP886", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Party for Poole People Ltd.", 
-    "alternative_names": [
-        ""
     ]
 }

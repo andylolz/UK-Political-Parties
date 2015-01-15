@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-01-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-29T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Money can't buy you conversation"
-        }
-    ], 
+    "postcode": "IV5 7PL", 
     "party_leader": "Mr Christopher James Fraser", 
     "nominating_officer": "Mr Graeme Mauchlen", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Christopher James Fraser", 
-    "party_id": "PP854", 
+    "party_name": "The Joy of Talk", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.413892263093235, 
+            57.45417792050218
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Joy of Talk [De-registered 01/12/10]", 
+    "party_id": "PP854", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Money can't buy you conversation"
+        }
     ]
 }

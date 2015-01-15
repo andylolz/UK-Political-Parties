@@ -1,32 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-12-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-05-12T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "MINIMAL GOVERNMENT: MAXIMUM FREEDOM"
-        }, 
-        {
-            "translation": "", 
-            "description": "CORRUPTION-FREE GOVERNANCE"
-        }, 
-        {
-            "translation": "", 
-            "description": "LEADING BY EXAMPLE"
-        }
-    ], 
+    "postcode": "TQ2 5SQ", 
     "party_leader": "Ms Sarah Goldsmith", 
     "nominating_officer": "Miss Charlotte Bohan", 
     "emblems": [
         {
-            "image": "raw_data/PP1968/Emblem_769.jpg", 
+            "image": "Emblem_769.jpg", 
+            "primary": false, 
             "id": "769", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1968/Emblem_770.jpg", 
+            "image": "Emblem_770.jpg", 
+            "primary": false, 
             "id": "770", 
             "description": "Circle words"
         }
@@ -41,15 +31,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Bohan", 
-    "party_id": "PP1968", 
+    "party_name": "THE ETHICAL GOVERNANCE PARTY", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.539214187200466, 
+            50.468839659140066
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "THE ETHICAL GOVERNANCE PARTY [De-registered 12/05/14]", 
+    "party_id": "PP1968", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "MINIMAL GOVERNMENT: MAXIMUM FREEDOM"
+        }, 
+        {
+            "translation": "", 
+            "description": "CORRUPTION-FREE GOVERNANCE"
+        }, 
+        {
+            "translation": "", 
+            "description": "LEADING BY EXAMPLE"
+        }
     ]
 }

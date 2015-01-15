@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-02-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "S70 6QL", 
     "party_leader": "Mr Phillip Birkinshaw", 
     "nominating_officer": "Mr Phillip Birkinshaw", 
     "emblems": [
         {
-            "image": "raw_data/PP530/Emblem_327.gif", 
+            "image": "Emblem_327.gif", 
+            "primary": false, 
             "id": "327", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5070044802701856, 
+            53.54929344374873
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Barnsley Independent Group", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

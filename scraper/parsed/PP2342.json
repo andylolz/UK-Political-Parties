@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG1 7NS", 
     "party_leader": "Mr Pascual Jean-Louis", 
     "nominating_officer": "Mr Pascual Jean-Louis", 
     "emblems": [
         {
-            "image": "raw_data/PP2342/Emblem_982.jpg", 
+            "image": "Emblem_982.jpg", 
+            "primary": false, 
             "id": "982", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9866760125085868, 
+            51.456107916258695
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Roman Party.AVE", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

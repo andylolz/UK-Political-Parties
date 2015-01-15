@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-04-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HG1 5ED", 
     "party_leader": "Ms Annette Austen-Meek", 
     "nominating_officer": "Ms Fiona Jane Thomas", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Annette Austen-Meek", 
-    "party_id": "PP477", 
+    "party_name": "Pink Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5391804367461752, 
+            53.99716421829468
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Pink Party [De-registered 04/07/07]", 
+    "party_id": "PP477", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

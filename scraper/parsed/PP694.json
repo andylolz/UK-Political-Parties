@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-08-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-11-02T00:00:00", 
+    "postcode": "TW1 2DZ", 
+    "party_leader": "Mr Andrew James Constantine", 
+    "nominating_officer": "Mr Andrew James Constantine", 
+    "emblems": [], 
+    "party_address": "10 Cresswell Road\r\nTwickenham\r\nno town\r\nMiddlesex\r\nTW1 2DZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Chris Ready", 
+    "party_name": "The Free England Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.30877441153159696, 
+            51.45478232004652
+        ]
+    }, 
+    "register": "Northern Ireland", 
+    "party_id": "PP694", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,29 +85,5 @@
             "translation": "", 
             "description": "Free England Party: Fairness for England"
         }
-    ], 
-    "party_leader": "Mr Andrew James Constantine", 
-    "nominating_officer": "Mr Andrew James Constantine", 
-    "emblems": [], 
-    "party_address": "10 Cresswell Road\r\nTwickenham\r\nno town\r\nMiddlesex\r\nTW1 2DZ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2010-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Chris Ready", 
-    "party_id": "PP694", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Northern Ireland", 
-    "party_name": "The Free England Party [De-registered 08/06/09]", 
-    "alternative_names": [
-        ""
     ]
 }

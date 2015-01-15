@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-05-09T00:00:00", 
     "campaigns_officer": "Mr Brian Thomson", 
     "registered_date": "2005-02-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW5 9FE", 
     "party_leader": "Mr Grant Reid", 
     "nominating_officer": "Mr Grant Reid", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Grant Reid", 
-    "party_id": "PP429", 
+    "party_name": "1st Action Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.190109108495301, 
+            51.4898617419306
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "1st Action Party [De-registered 05/09/05]", 
+    "party_id": "PP429", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

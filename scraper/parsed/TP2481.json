@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-09-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN42 4FN", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.23497215134811236, 
+            50.83465795825026
+        ]
+    }, 
     "register": null, 
     "party_name": "The Hacked Off Campaign", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

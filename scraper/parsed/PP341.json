@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-09-07T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SS5 4LE", 
     "party_leader": "Mr John Mason", 
     "nominating_officer": "Mrs Christine Mason", 
     "emblems": [
         {
-            "image": "raw_data/PP341/Emblem_254.gif", 
+            "image": "Emblem_254.gif", 
+            "primary": false, 
             "id": "254", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP341/Emblem_255.gif", 
+            "image": "Emblem_255.gif", 
+            "primary": false, 
             "id": "255", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.6760343004743202, 
+            51.59431761009786
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Rochford District Residents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

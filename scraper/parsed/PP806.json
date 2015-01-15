@@ -9,8 +9,48 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-01-27T00:00:00", 
+    "postcode": "W1B 3HH", 
+    "party_leader": "Mr John A Webb", 
+    "nominating_officer": "Mr John A Webb", 
+    "emblems": [
+        {
+            "image": "Emblem_490.gif", 
+            "primary": false, 
+            "id": "490", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Suit 404 Albany House\r\n324-326 Regent Street\r\nLondon\r\nW1B 3HH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John A Webb", 
+    "party_name": "Anti-Political Political Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1424081012258767, 
+            51.51732535626162
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP806", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -28,35 +68,5 @@
             "translation": "", 
             "description": "APPParty"
         }
-    ], 
-    "party_leader": "Mr John A Webb", 
-    "nominating_officer": "Mr John A Webb", 
-    "emblems": [
-        {
-            "image": "raw_data/PP806/Emblem_490.gif", 
-            "id": "490", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "Suit 404 Albany House\r\n324-326 Regent Street\r\nLondon\r\nW1B 3HH\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr John A Webb", 
-    "party_id": "PP806", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Anti-Political Political Party [De-registered 05/12/12]", 
-    "alternative_names": [
-        ""
     ]
 }

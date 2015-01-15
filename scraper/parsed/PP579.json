@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-08-29T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-12-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TQ14 8EA", 
     "party_leader": "Mr Edward Albert William Bush", 
     "nominating_officer": "na Gaynor Alison Blackburn", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PP579", 
+    "party_name": "Teignmouth Alliance of Independents", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.497898043480287, 
+            50.54637299859645
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Teignmouth Alliance of Independents [De-registered 29/08/08]", 
+    "party_id": "PP579", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

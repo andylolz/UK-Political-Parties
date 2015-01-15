@@ -3,25 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-19T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Common ground, common sense, common goal"
-        }, 
-        {
-            "translation": "", 
-            "description": "Nottinghamshire Independents"
-        }, 
-        {
-            "translation": "", 
-            "description": "You say, We do"
-        }
-    ], 
+    "postcode": "NG19 6RY", 
     "party_leader": "Mrs Sylvia June Stendall", 
     "nominating_officer": "Mr Roger Stendall", 
     "emblems": [
         {
-            "image": "raw_data/PP890/Emblem_577.gif", 
+            "image": "Emblem_577.gif", 
+            "primary": false, 
             "id": "577", 
             "description": "Emblem 1"
         }
@@ -42,9 +30,30 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.225014670615596, 
+            53.13713332235688
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Nottinghamshire Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Common ground, common sense, common goal"
+        }, 
+        {
+            "translation": "", 
+            "description": "Nottinghamshire Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "You say, We do"
+        }
     ]
 }

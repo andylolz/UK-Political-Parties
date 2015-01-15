@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-05-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "MK43 7JX", 
     "party_leader": "Mr Serge Fren", 
     "nominating_officer": "Mr Serge Fren", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Edward Bellamy", 
-    "party_id": "PP497", 
+    "party_name": "Natural Partnership of Great Britain", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6073028161880474, 
+            52.18883429212694
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Natural Partnership of Great Britain [De-registered 01/11/07]", 
+    "party_id": "PP497", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

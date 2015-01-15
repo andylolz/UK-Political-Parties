@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-10-01T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The Voice of the Electorate"
-        }
-    ], 
+    "postcode": "TN34 2LS", 
     "party_leader": "Mr Adrian Langan", 
     "nominating_officer": "Mr Adrian Langan", 
     "emblems": [
         {
-            "image": "raw_data/PP2195/Emblem_910.png", 
+            "image": "Emblem_910.png", 
+            "primary": false, 
             "id": "910", 
             "description": "Black X"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.5958039562845083, 
+            50.87948964329993
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "NOTA", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Voice of the Electorate"
+        }
     ]
 }

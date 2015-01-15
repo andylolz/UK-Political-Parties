@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2004-02-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GU52 8BX", 
     "party_leader": "Mr Edward James Radley", 
     "nominating_officer": "Mr Edward James Radley", 
     "emblems": [
         {
-            "image": "raw_data/PP367/Emblem_270.gif", 
+            "image": "Emblem_270.gif", 
+            "primary": false, 
             "id": "270", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.8333755736270864, 
+            51.2588173071128
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Community Campaign (Hart)", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

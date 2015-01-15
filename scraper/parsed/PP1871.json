@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-02-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SE4 1JH", 
     "party_leader": "Ms Jane Lawrence", 
     "nominating_officer": "Mr Les Baker", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.02583831215455125, 
+            51.45215769912856
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Realists' Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

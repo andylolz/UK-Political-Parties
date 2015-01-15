@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CH45 6UP", 
     "party_leader": "Mr Joseph Anthony Culkin", 
     "nominating_officer": "Mr Joseph Anthony Culkin", 
     "emblems": [
         {
-            "image": "raw_data/PP814/Emblem_498.gif", 
+            "image": "Emblem_498.gif", 
+            "primary": false, 
             "id": "498", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.056089147672999, 
+            53.42932729378127
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Representative Democracy Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

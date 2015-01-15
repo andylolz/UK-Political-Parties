@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-03-08T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-10-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B60 1AW", 
     "party_leader": "Mr David McGrath", 
     "nominating_officer": "Mr William Newnes", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David McGrath", 
-    "party_id": "PP417", 
+    "party_name": "Bromsgrove Independent Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.049032166616418, 
+            52.33541863601163
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Bromsgrove Independent Group [De-registered 03/08/05]", 
+    "party_id": "PP417", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

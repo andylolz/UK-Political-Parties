@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG9 1AB", 
     "party_leader": "Mr William Alan Baker", 
     "nominating_officer": "Mrs Lynda Kathleen Thornton Hunt", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jeremy Buckler", 
-    "party_id": "PP644", 
+    "party_name": "Safer Henley Independent Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9030366345194981, 
+            51.53543671544284
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Safer Henley Independent Party [De-registered 01/11/08]", 
+    "party_id": "PP644", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

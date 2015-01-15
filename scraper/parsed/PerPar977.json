@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2004-08-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW1H 0DL", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,12 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": null, 
     "party_name": "The Conservative and Unionist Party", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

@@ -1,8 +1,60 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-10-06T00:00:00", 
+    "postcode": "LL53 7RY", 
+    "party_leader": "Mr Martin John Wilding Davies", 
+    "nominating_officer": "Mr Martin John Wilding Davies", 
+    "emblems": [
+        {
+            "image": "Emblem_443.gif", 
+            "primary": false, 
+            "id": "443", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_444.gif", 
+            "primary": false, 
+            "id": "444", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_445.gif", 
+            "primary": false, 
+            "id": "445", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "9 Yr Ardd Fawr\r\nMynytho\r\nPwllheli\r\nLL53 7RY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Mohammad Rafiq Kawaja", 
+    "party_name": "Newid", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.521921778641152, 
+            52.84618806082838
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP763", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -20,45 +72,5 @@
             "translation": "Newid Cymru", 
             "description": "Change Wales"
         }
-    ], 
-    "party_leader": "Mr Martin John Wilding Davies", 
-    "nominating_officer": "Mr Martin John Wilding Davies", 
-    "emblems": [
-        {
-            "image": "raw_data/PP763/Emblem_443.gif", 
-            "id": "443", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP763/Emblem_444.gif", 
-            "id": "444", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP763/Emblem_445.gif", 
-            "id": "445", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "9 Yr Ardd Fawr\r\nMynytho\r\nPwllheli\r\nLL53 7RY\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-04-30T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Mohammad Rafiq Kawaja", 
-    "party_id": "PP763", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Newid [De-registered 23/11/11]", 
-    "alternative_names": [
-        ""
     ]
 }

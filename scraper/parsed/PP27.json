@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-10-10T00:00:00", 
     "campaigns_officer": "Mr Jesse Pryke", 
     "registered_date": "2000-10-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CM2 7AD", 
     "party_leader": "Mr Ray Cole", 
     "nominating_officer": "Mr Leonard Thomas Overy-Owen", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Maurice C Crick", 
-    "party_id": "PP27", 
+    "party_name": "The Grey Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.5140960551030301, 
+            51.7100088744201
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Grey Party [De-registered 10/10/02]", 
+    "party_id": "PP27", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

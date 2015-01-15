@@ -9,14 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-07-30T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Bringing Democracy to the People"
-        }
-    ], 
+    "postcode": "BT49 9EW", 
     "party_leader": "Mr Andrew Taylor", 
     "nominating_officer": "Mr Andrew Taylor", 
     "emblems": [], 
@@ -30,15 +26,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andrew Taylor", 
-    "party_id": "PP2119", 
+    "party_name": "21st Century Democracy", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -6.946194414388609, 
+            55.039073619822375
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "21st Century Democracy [De-registered 03/11/14]", 
+    "party_id": "PP2119", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Bringing Democracy to the People"
+        }
     ]
 }

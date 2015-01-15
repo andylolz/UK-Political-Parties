@@ -11,21 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2012-12-12T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Putting People First"
-        }, 
-        {
-            "translation": "", 
-            "description": "South Tyneside Independent group"
-        }
-    ], 
+    "postcode": "NE34 8BU", 
     "party_leader": "Cllr George Elsom", 
     "nominating_officer": "Cllr George Elsom", 
     "emblems": [
         {
-            "image": "raw_data/PP1987/Emblem_785.jpg", 
+            "image": "Emblem_785.jpg", 
+            "primary": false, 
             "id": "785", 
             "description": "Emblem 1"
         }
@@ -46,9 +38,26 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4031142360444702, 
+            54.96719673505195
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "INDEPENDENT - Putting People First", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Putting People First"
+        }, 
+        {
+            "translation": "", 
+            "description": "South Tyneside Independent group"
+        }
     ]
 }

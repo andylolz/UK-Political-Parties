@@ -1,23 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-01-27T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Safe in our hands"
-        }, 
-        {
-            "translation": "", 
-            "description": "See emblem"
-        }
-    ], 
+    "postcode": "WD6 3SJ", 
     "party_leader": "Professor T.W.R. Briggs", 
     "nominating_officer": "Professor T.W.R. Briggs", 
     "emblems": [
         {
-            "image": "raw_data/PP805/Emblem_489.gif", 
+            "image": "Emblem_489.gif", 
+            "primary": false, 
             "id": "489", 
             "description": "Emblem 1"
         }
@@ -32,15 +25,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Professor George Bentley", 
-    "party_id": "PP805", 
+    "party_name": "Central Party for Reform", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3091398660570626, 
+            51.64098160467608
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Central Party for Reform [De-registered 05/12/12]", 
+    "party_id": "PP805", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Safe in our hands"
+        }, 
+        {
+            "translation": "", 
+            "description": "See emblem"
+        }
     ]
 }

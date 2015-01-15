@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-03-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Jacobite White Rose On Red Ground"
-        }
-    ], 
+    "postcode": "G84 9BT", 
     "party_leader": "Mr John A. Black", 
     "nominating_officer": "Mr Adolfo Arino", 
     "emblems": [
         {
-            "image": "raw_data/PP847/Emblem_530.gif", 
+            "image": "Emblem_530.gif", 
+            "primary": false, 
             "id": "530", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John A. Black", 
-    "party_id": "PP847", 
+    "party_name": "The Scottish Jacobite Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.72661437165391, 
+            56.011955972433285
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Scottish Jacobite Party [De-registered 14/03/11]", 
+    "party_id": "PP847", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Jacobite White Rose On Red Ground"
+        }
     ]
 }

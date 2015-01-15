@@ -1,22 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-11-18T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-01-30T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Blaenau Gwent"
-        }, 
-        {
-            "translation": "", 
-            "description": "Torfaen"
-        }, 
-        {
-            "translation": "", 
-            "description": "Blaenau Gwent Peoples Voice"
-        }
-    ], 
+    "postcode": "NP23 6LF", 
     "party_leader": "Mr Dai Davies", 
     "nominating_officer": "Ms Joan Ann Davies", 
     "emblems": [], 
@@ -30,15 +18,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Patricia Mitchell", 
-    "party_id": "PP618", 
+    "party_name": "People's Voice", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.2141239841281295, 
+            51.78512741382369
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "People's Voice [De-registered 18/11/10]", 
+    "party_id": "PP618", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Blaenau Gwent"
+        }, 
+        {
+            "translation": "", 
+            "description": "Torfaen"
+        }, 
+        {
+            "translation": "", 
+            "description": "Blaenau Gwent Peoples Voice"
+        }
     ]
 }

@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "E7 8AD", 
     "party_leader": "Mr Kamran Malik", 
     "nominating_officer": "Mr Kamran Malik", 
     "emblems": [
         {
-            "image": "raw_data/PP844/Emblem_527.gif", 
+            "image": "Emblem_527.gif", 
+            "primary": false, 
             "id": "527", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP844/Emblem_605.gif", 
+            "image": "Emblem_605.gif", 
+            "primary": false, 
             "id": "605", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.03708065029992094, 
+            51.54795095432901
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Communities United Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

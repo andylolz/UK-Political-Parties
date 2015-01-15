@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-04-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT28 1XY", 
     "party_leader": "Mr Gary McMichael", 
     "nominating_officer": "Mr Gary McMichael", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Adams", 
-    "party_id": "PP182", 
+    "party_name": "Ulster Democratic Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -6.041763149891762, 
+            54.51066161955051
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Ulster Democratic Party [De-registered 04/07/02]", 
+    "party_id": "PP182", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

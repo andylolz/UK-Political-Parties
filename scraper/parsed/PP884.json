@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-09-05T00:00:00", 
     "campaigns_officer": "Mr Simon Curwood", 
     "registered_date": "2010-09-29T00:00:00", 
+    "postcode": "CF31 3TP", 
+    "party_leader": "Mrs Carole McEntee-Taylor", 
+    "nominating_officer": "Mr Simon Curwood", 
+    "emblems": [
+        {
+            "image": "Emblem_566.gif", 
+            "primary": false, 
+            "id": "566", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "C5 Business Centre\r\nNorth Road\r\nBridgend Industrial Estate\r\nBridgend\r\nCF31 3TP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Rosa Miranda Curwood", 
+    "party_name": "Spiritual Unity Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.55079945437609, 
+            51.50204664073245
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP884", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -24,35 +64,5 @@
             "translation": "", 
             "description": "Conscience and politics, hand in hand"
         }
-    ], 
-    "party_leader": "Mrs Carole McEntee-Taylor", 
-    "nominating_officer": "Mr Simon Curwood", 
-    "emblems": [
-        {
-            "image": "raw_data/PP884/Emblem_566.gif", 
-            "id": "566", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "C5 Business Centre\r\nNorth Road\r\nBridgend Industrial Estate\r\nBridgend\r\nCF31 3TP\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Rosa Miranda Curwood", 
-    "party_id": "PP884", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Spiritual Unity Party [De-registered 09/05/12]", 
-    "alternative_names": [
-        ""
     ]
 }

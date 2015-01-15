@@ -9,14 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-01-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B15 3DH", 
     "party_leader": "Mr Harjinder Takhar", 
     "nominating_officer": "Mr Harjinder Takhar", 
     "emblems": [
         {
-            "image": "raw_data/PP797/Emblem_480.gif", 
+            "image": "Emblem_480.gif", 
+            "primary": false, 
             "id": "480", 
             "description": "Emblem 1"
         }
@@ -31,15 +33,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Harjinder Takhar", 
-    "party_id": "PP797", 
+    "party_name": "Impact Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9243192352068086, 
+            52.47096622790233
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Impact Party [De-registered 23/11/11]", 
+    "party_id": "PP797", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

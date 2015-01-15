@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-11-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-12-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KY15 7AB", 
     "party_leader": "Mr George Rodger", 
     "nominating_officer": "Ms Helen Mohammed", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "na Leslie Amanda Rodger", 
-    "party_id": "PP248", 
+    "party_name": "Pensioners Party (Scotland)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.208519676444325, 
+            56.264324415624
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Pensioners Party (Scotland) [De-registered 11/06/08]", 
+    "party_id": "PP248", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

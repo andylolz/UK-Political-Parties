@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-07-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-03T00:00:00", 
+    "postcode": "SL6 8SP", 
+    "party_leader": "Mr Peter Prior", 
+    "nominating_officer": "Mr Bruno Prior", 
+    "emblems": [
+        {
+            "image": "Emblem_505.gif", 
+            "primary": false, 
+            "id": "505", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "7 Summerleaze Road\r\nMaidenhead\r\nBerkshire\r\nSL6 8SP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jeremy Malkinson", 
+    "party_name": "Freedom and Responsibility", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.71422741330503, 
+            51.5345897912869
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP827", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,35 +80,5 @@
             "translation": "", 
             "description": "The Truth for a Change"
         }
-    ], 
-    "party_leader": "Mr Peter Prior", 
-    "nominating_officer": "Mr Bruno Prior", 
-    "emblems": [
-        {
-            "image": "raw_data/PP827/Emblem_505.gif", 
-            "id": "505", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "7 Summerleaze Road\r\nMaidenhead\r\nBerkshire\r\nSL6 8SP\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Jeremy Malkinson", 
-    "party_id": "PP827", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Freedom and Responsibility [De-registered 07/06/11]", 
-    "alternative_names": [
-        ""
     ]
 }

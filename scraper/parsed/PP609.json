@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mrs Mary Jenkins", 
     "registered_date": "2006-11-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WS11 7GG", 
     "party_leader": "Mr Royston Jenkins", 
     "nominating_officer": "Mrs Mary Jenkins", 
     "emblems": [
         {
-            "image": "raw_data/PP609/Emblem_360.gif", 
+            "image": "Emblem_360.gif", 
+            "primary": false, 
             "id": "360", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.995592434097811, 
+            52.69439573382652
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Get Snouts Out The Trough", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

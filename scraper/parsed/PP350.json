@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-08-18T00:00:00", 
     "campaigns_officer": "Ms Louise Castro", 
     "registered_date": "2003-11-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HX2 7JW", 
     "party_leader": "Mr Charles Gate", 
     "nominating_officer": "Mr Charles Gate", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Charles Gate", 
-    "party_id": "PP350", 
+    "party_name": "Red and Green Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.896514359643589, 
+            53.71758830616279
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Red and Green Party [De-registered 18/08/04]", 
+    "party_id": "PP350", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-06-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-20T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Pensioners and Families Party UK"
-        }
-    ], 
+    "postcode": "OX2 8BT", 
     "party_leader": "Mr Alfred John Sherer Bovill", 
     "nominating_officer": "Mr Charles Bidwell", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Charles Bidwell", 
-    "party_id": "PP757", 
+    "party_name": "The Pensioners and Families Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.271926281231915, 
+            51.78649403867343
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Pensioners and Families Party [De-registered 06/06/11]", 
+    "party_id": "PP757", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Pensioners and Families Party UK"
+        }
     ]
 }

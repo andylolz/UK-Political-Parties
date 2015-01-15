@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-09-08T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST1 3BB", 
     "party_leader": "Mr Mike Wolfe", 
     "nominating_officer": "Ms Julie Grant", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Alan Bowen", 
-    "party_id": "PP456", 
+    "party_name": "Supporting Greenshoots", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.176271034691184, 
+            53.01724437234832
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Supporting Greenshoots [De-registered 09/08/05]", 
+    "party_id": "PP456", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

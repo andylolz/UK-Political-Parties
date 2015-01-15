@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-10-01T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT2 5SW", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3034109128939798, 
+            51.420857304268985
+        ]
+    }, 
     "register": null, 
     "party_name": "One Norbiton", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

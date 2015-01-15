@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Sean Clerkin", 
     "registered_date": "2013-03-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "G51 4TP", 
     "party_leader": "Mr John Flanagan", 
     "nominating_officer": "Mr Francis K McGuigan", 
     "emblems": [
         {
-            "image": "raw_data/PP2143/Emblem_872.jpg", 
+            "image": "Emblem_872.jpg", 
+            "primary": false, 
             "id": "872", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.3269855456971955, 
+            55.85821060974201
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "No Bedroom Tax - No Welfare Cuts", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

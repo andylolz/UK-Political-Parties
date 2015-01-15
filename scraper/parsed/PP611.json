@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-07-19T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-11-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TS5 7AQ", 
     "party_leader": "Mr Ken Walker", 
     "nominating_officer": "Mrs Catherine Rozevskis", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PP611", 
+    "party_name": "Middlesbrough Independents", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2566428019537847, 
+            54.55087789072325
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Middlesbrough Independents [De-registered 19/07/07]", 
+    "party_id": "PP611", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

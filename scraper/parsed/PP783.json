@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-01-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-09-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PO22 9AW", 
     "party_leader": "Mrs Joanna Harrison", 
     "nominating_officer": "Mr Louis Harrison", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Louis Harrison", 
-    "party_id": "PP783", 
+    "party_name": "Communities United Party (deregistered 27/01/2010)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6891380046918933, 
+            50.80100259314711
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Communities United Party (deregistered 27/01/2010) [De-registered 27/01/10]", 
+    "party_id": "PP783", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

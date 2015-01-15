@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr John Marshall Anderson", 
     "registered_date": "2004-04-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SS8 9AB", 
     "party_leader": "Mr David Blackwell", 
     "nominating_officer": "Mr Robert James Ford", 
     "emblems": [
         {
-            "image": "raw_data/PP381/Emblem_282.gif", 
+            "image": "Emblem_282.gif", 
+            "primary": false, 
             "id": "282", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.590011218326976, 
+            51.52386891536353
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Canvey Island Independent Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

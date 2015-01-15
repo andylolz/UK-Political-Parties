@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-08-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "FY1 5AA", 
     "party_leader": "Mr David Hugo Boyle", 
     "nominating_officer": "Mr Stephen Morris", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Clark Stewart", 
-    "party_id": "PP510", 
+    "party_name": "World Truth Coalition", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.0546152357226055, 
+            53.811970168336465
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "World Truth Coalition [De-registered 02/11/10]", 
+    "party_id": "PP510", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

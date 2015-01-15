@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2011-02-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "N1 9JF", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.11329296381870929, 
+            51.53197706510536
+        ]
+    }, 
     "register": null, 
     "party_name": "Conservative Yes", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

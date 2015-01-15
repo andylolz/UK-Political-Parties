@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-14T00:00:00", 
+    "postcode": "CV36 5HP", 
+    "party_leader": "Mr Jonathan William Packard", 
+    "nominating_officer": "Mr Jonathan William Packard", 
+    "emblems": [
+        {
+            "image": "Emblem_610.gif", 
+            "primary": false, 
+            "id": "610", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "28 FEATHERBED LANE\r\nCHERINGTON\r\nShipston on Stour\r\nWarwickshire\r\nCV36 5HP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jonathan William Packard", 
+    "party_id": "PP1701", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5742251300300516, 
+            52.028114449402125
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "VOX POP", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,35 +83,5 @@
             "translation": "", 
             "description": "The Independent Network"
         }
-    ], 
-    "party_leader": "Mr Jonathan William Packard", 
-    "nominating_officer": "Mr Jonathan William Packard", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1701/Emblem_610.gif", 
-            "id": "610", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "28 FEATHERBED LANE\r\nCHERINGTON\r\nShipston on Stour\r\nWarwickshire\r\nCV36 5HP\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Jonathan William Packard", 
-    "party_id": "PP1701", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "VOX POP", 
-    "alternative_names": [
-        ""
     ]
 }

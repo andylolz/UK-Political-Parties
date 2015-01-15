@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "The Reverend Martyn Sullivan", 
     "registered_date": "2013-12-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WF9 3RA", 
     "party_leader": "Mr Wilfred Benson", 
     "nominating_officer": "The Reverend Martyn Sullivan", 
     "emblems": [
         {
-            "image": "raw_data/PPm2055/Emblem_838.jpg", 
+            "image": "Emblem_838.jpg", 
+            "primary": false, 
             "id": "838", 
             "description": "YP Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3237875359492028, 
+            53.5893588225223
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "The Yorkshire Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

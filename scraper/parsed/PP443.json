@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-06-08T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PE2 6EA", 
     "party_leader": "Mr Marc Potter", 
     "nominating_officer": "Mr Marc Potter", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Alison Margaret Silcox", 
-    "party_id": "PP443", 
+    "party_name": "Motorcycle News Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.32287320154547616, 
+            52.553292876895846
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Motorcycle News Party [De-registered 06/08/07]", 
+    "party_id": "PP443", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

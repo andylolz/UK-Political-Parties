@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-07-19T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN11 1QG", 
     "party_leader": "Mr Bernard Bill Charles Lloyd-Briden", 
     "nominating_officer": "Mr Gordon Frances Dixon", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Kathleen Brett", 
-    "party_id": "PP176", 
+    "party_name": "The Renaissance Independent Party of Europe", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3728235066431389, 
+            50.8122990951872
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Renaissance Independent Party of Europe [De-registered 19/07/07]", 
+    "party_id": "PP176", 
     "alternative_names": [
         "Plaid Annibynnol Dadeni y Ernrop"
-    ]
+    ], 
+    "descriptions": []
 }

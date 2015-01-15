@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2004-03-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SR1 1NF", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3790956523245472, 
+            54.90608565467233
+        ]
+    }, 
     "register": null, 
     "party_name": "North East No Campaign", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

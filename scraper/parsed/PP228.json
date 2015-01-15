@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-20T00:00:00", 
+    "postcode": "WA3 3AH", 
+    "party_leader": "Mr Peter Franzen", 
+    "nominating_officer": "Mr Stanley Charles Barnes", 
+    "emblems": [
+        {
+            "image": "Emblem_193.gif", 
+            "primary": false, 
+            "id": "193", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "67 High Street\r\nGolborne\r\nWarrington\r\nLancashire\r\nWA3 3AH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Peter Franzen", 
+    "party_name": "Community Action Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.5970400664426854, 
+            53.47606377104644
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP228", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,35 +92,5 @@
             "translation": "", 
             "description": "Community Action Party - Exposing Political Fraudsters"
         }
-    ], 
-    "party_leader": "Mr Peter Franzen", 
-    "nominating_officer": "Mr Stanley Charles Barnes", 
-    "emblems": [
-        {
-            "image": "raw_data/PP228/Emblem_193.gif", 
-            "id": "193", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "67 High Street\r\nGolborne\r\nWarrington\r\nLancashire\r\nWA3 3AH\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2013-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Peter Franzen", 
-    "party_id": "PP228", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Community Action Party [De-registered 05/11/13]", 
-    "alternative_names": [
-        ""
     ]
 }

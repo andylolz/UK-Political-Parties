@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Sean Dorgan", 
     "registered_date": "2007-10-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ZZ0 0ZZ", 
     "party_leader": "Mr Micheal Martin", 
     "nominating_officer": "Mr Sean Dorgan", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.9162291, 
+            54.6612442
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Fianna F\u00e1il - The Republican Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

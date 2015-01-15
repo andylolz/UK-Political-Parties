@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-22T00:00:00", 
+    "postcode": "CM19 4JX", 
+    "party_leader": "Cllr Joshua Jolles", 
+    "nominating_officer": "Captain Albert Hobdell", 
+    "emblems": [
+        {
+            "image": "Emblem_978.jpg", 
+            "primary": false, 
+            "id": "978", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "39 Fir Park\r\nHarlow\r\nEssex\r\nCM19 4JX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Cllr Joshua Jolles", 
+    "party_id": "PP2183", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.07879900214226726, 
+            51.754075616376525
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Harlow Independent Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -32,35 +71,5 @@
             "translation": "", 
             "description": "Harlow Independent Party for Harlow people"
         }
-    ], 
-    "party_leader": "Cllr Joshua Jolles", 
-    "nominating_officer": "Captain Albert Hobdell", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2183/Emblem_978.jpg", 
-            "id": "978", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "39 Fir Park\r\nHarlow\r\nEssex\r\nCM19 4JX\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Cllr Joshua Jolles", 
-    "party_id": "PP2183", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Harlow Independent Party", 
-    "alternative_names": [
-        ""
     ]
 }

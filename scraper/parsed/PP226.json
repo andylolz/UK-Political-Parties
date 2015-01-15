@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-02-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "W9 2JL", 
     "party_leader": "Ms Michele Staniland", 
     "nominating_officer": "Ms Michele Staniland", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Nasir Qureshi", 
-    "party_id": "PP226", 
+    "party_name": "Save St John's Wood Adventure Playground", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1926979664064633, 
+            51.523101820330865
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Save St John's Wood Adventure Playground [De-registered 14/02/08]", 
+    "party_id": "PP226", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

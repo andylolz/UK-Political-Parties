@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2008-12-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DN21 1SA", 
     "party_leader": "Mr Andrew James Boulton", 
     "nominating_officer": "Mr Andrew James Boulton", 
     "emblems": [
         {
-            "image": "raw_data/PP691/Emblem_407.gif", 
+            "image": "Emblem_407.gif", 
+            "primary": false, 
             "id": "407", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.7515649614493466, 
+            53.39205041905042
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "ENG", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

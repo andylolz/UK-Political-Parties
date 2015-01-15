@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-25T00:00:00", 
     "campaigns_officer": "Mr Lewpen Kinross-Skeels", 
     "registered_date": "2006-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "MK5 8AF", 
     "party_leader": "Mr Neil R L Cawley", 
     "nominating_officer": "Mr Neil R L Cawley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Neil R L Cawley", 
-    "party_id": "PP557", 
+    "party_name": "MK Independent", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.7846101510667691, 
+            52.02632993563279
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "MK Independent [De-registered 25/01/07]", 
+    "party_id": "PP557", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

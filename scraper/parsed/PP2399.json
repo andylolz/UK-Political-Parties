@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-12-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CT6 5UF", 
     "party_leader": "Mr Robert Boaler", 
     "nominating_officer": "Mr Lewis Kemp", 
     "emblems": [
         {
-            "image": "raw_data/PP2399/Emblem_1039.jpg", 
+            "image": "Emblem_1039.jpg", 
+            "primary": false, 
             "id": "1039", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.127189786877137, 
+            51.3605161457503
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Al-Zebabist Nation of Ooog", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

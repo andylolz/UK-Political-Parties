@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-06-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST10 1NA", 
     "party_leader": "Mr Ronald Locker", 
     "nominating_officer": "Mr Ronald Locker", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Maureen Motum", 
-    "party_id": "PP237", 
+    "party_name": "Ratepayers (Staffordshire Moorlands)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9840527339822709, 
+            52.97930522470059
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Ratepayers (Staffordshire Moorlands) [De-registered 17/06/10]", 
+    "party_id": "PP237", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

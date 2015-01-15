@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "Mr John Rollins", 
     "registered_date": "2010-03-03T00:00:00", 
+    "postcode": "KT16 0QG", 
+    "party_leader": "Mr Grahame Leon-Smith", 
+    "nominating_officer": "Mr Grahame Leon-Smith", 
+    "emblems": [
+        {
+            "image": "Emblem_503.gif", 
+            "primary": false, 
+            "id": "503", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "The Mansion\r\nOttershaw Park\r\nOttershaw\r\nSurrey\r\nKT16 0QG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Frauke Elisabeth Leon-Smith", 
+    "party_name": "Independents Federation UK", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5451569431189099, 
+            51.3590479753507
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP824", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,35 +88,5 @@
             "translation": "", 
             "description": "Independents Federation UK - For Regular Consultation"
         }
-    ], 
-    "party_leader": "Mr Grahame Leon-Smith", 
-    "nominating_officer": "Mr Grahame Leon-Smith", 
-    "emblems": [
-        {
-            "image": "raw_data/PP824/Emblem_503.gif", 
-            "id": "503", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "The Mansion\r\nOttershaw Park\r\nOttershaw\r\nSurrey\r\nKT16 0QG\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-04-30T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Frauke Elisabeth Leon-Smith", 
-    "party_id": "PP824", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Independents Federation UK [De-registered 23/11/11]", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Iain Hunter", 
     "registered_date": "2005-02-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "N22 9GW", 
     "party_leader": "Mr Jimmy Nolan", 
     "nominating_officer": "Mr Bronwen. N. Handyside", 
     "emblems": [
         {
-            "image": "raw_data/PP421/Emblem_293.gif", 
+            "image": "Emblem_293.gif", 
+            "primary": false, 
             "id": "293", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.11968718226807112, 
+            51.59860594381522
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "TUSP", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

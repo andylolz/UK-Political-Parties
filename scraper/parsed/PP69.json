@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-06-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WR14 1GD", 
     "party_leader": "Mr Geoffrey Richard Southall", 
     "nominating_officer": "Mr Geoffrey Richard Southall", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Jill Mary Perkins", 
-    "party_id": "PP69", 
+    "party_name": "The Democratic Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.301510784349531, 
+            52.12906521142481
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Democratic Party [De-registered 17/06/10]", 
+    "party_id": "PP69", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

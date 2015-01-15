@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-10-09T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NW1 7DB", 
     "party_leader": "Mr Ginger Crab", 
     "nominating_officer": "Mr Ginger Crab", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Brian Couzens", 
-    "party_id": "PP180", 
+    "party_name": "Jam Wrestling Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.14689650989396652, 
+            51.53990452675473
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Jam Wrestling Party [De-registered 10/09/02]", 
+    "party_id": "PP180", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

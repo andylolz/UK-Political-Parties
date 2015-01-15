@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2003-02-09T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "W1W 7EZ", 
     "party_leader": "Mr George Reid", 
     "nominating_officer": "Mr George Reid", 
     "emblems": [], 
@@ -25,15 +26,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr George Reid", 
-    "party_id": "PP264", 
+    "party_name": "1st Action Party (de-registered 2003)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "1st Action Party (de-registered 2003) [De-registered 02/09/03]", 
+    "party_id": "PP264", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

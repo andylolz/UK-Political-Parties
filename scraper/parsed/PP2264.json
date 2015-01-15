@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Ms Sujata Aurora", 
     "registered_date": "2014-12-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "An independent voice for Willesden residents"
-        }
-    ], 
+    "postcode": "NW2 5DR", 
     "party_leader": "Dr Alex Colas", 
     "nominating_officer": "Ms Sujata Aurora", 
     "emblems": [
         {
-            "image": "raw_data/PP2264/Emblem_950.jpg", 
+            "image": "Emblem_950.jpg", 
+            "primary": false, 
             "id": "950", 
             "description": "MWG"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2312291420237641, 
+            51.54951524577748
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Make Willesden Green", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "An independent voice for Willesden residents"
+        }
     ]
 }

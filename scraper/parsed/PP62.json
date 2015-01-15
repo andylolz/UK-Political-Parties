@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-11-18T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-06-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CM14 5PL", 
     "party_leader": "Mr A Donnelly", 
     "nominating_officer": "Ms Lily Slaymark", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr A R Galbraith", 
-    "party_id": "PP62", 
+    "party_name": "Brentwood and Ongar Independent Conservative Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.2772815107928096, 
+            51.63895776588552
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Brentwood and Ongar Independent Conservative Party [De-registered 18/11/03]", 
+    "party_id": "PP62", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

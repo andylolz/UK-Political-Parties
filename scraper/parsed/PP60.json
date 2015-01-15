@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-09-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LL19 9HH", 
     "party_leader": "Mr Gareth Lloyd-Williams", 
     "nominating_officer": "Mr Robin Gwyn Roberts", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robin Gwyn Roberts", 
-    "party_id": "PP60", 
+    "party_name": "Democratic Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.392658439053932, 
+            53.33433758625428
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Democratic Alliance [De-registered 09/12/04]", 
+    "party_id": "PP60", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

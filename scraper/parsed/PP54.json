@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
+    "postcode": "L13 7ES", 
+    "party_leader": "Cllr Stephen Richard Radford", 
+    "nominating_officer": "Mrs Jenny Roach", 
+    "emblems": [
+        {
+            "image": "Emblem_53.gif", 
+            "primary": false, 
+            "id": "53", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_54.gif", 
+            "primary": false, 
+            "id": "54", 
+            "description": "Sunburst logo"
+        }, 
+        {
+            "image": "Emblem_55.gif", 
+            "primary": false, 
+            "id": "55", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "41 Sutton Street\r\nTuebrook\r\nLiverpool\r\nMerseyside\r\nL13 7ES\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Dave Prakash Damhar", 
+    "party_id": "PP54", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.931937647564728, 
+            53.42392476038937
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Liberal Party", 
+    "alternative_names": [
+        "Plaid Rhyddfrydol Cymru"
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "Liberal Party for a Fairer Country"
         }
-    ], 
-    "party_leader": "Cllr Stephen Richard Radford", 
-    "nominating_officer": "Mrs Jenny Roach", 
-    "emblems": [
-        {
-            "image": "raw_data/PP54/Emblem_53.gif", 
-            "id": "53", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP54/Emblem_54.gif", 
-            "id": "54", 
-            "description": "Sunburst logo"
-        }, 
-        {
-            "image": "raw_data/PP54/Emblem_55.gif", 
-            "id": "55", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "41 Sutton Street\r\nTuebrook\r\nLiverpool\r\nMerseyside\r\nL13 7ES\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Dave Prakash Damhar", 
-    "party_id": "PP54", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Liberal Party", 
-    "alternative_names": [
-        "Plaid Rhyddfrydol Cymru"
     ]
 }

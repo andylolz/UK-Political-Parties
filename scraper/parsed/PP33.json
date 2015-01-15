@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-03-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-08-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "S66 2BW", 
     "party_leader": "Cllr Barry Ross", 
     "nominating_officer": "Mr George Davis", 
     "emblems": [
         {
-            "image": "raw_data/PP33/Emblem_26.gif", 
+            "image": "Emblem_26.gif", 
+            "primary": false, 
             "id": "26", 
             "description": "Cavalier"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Stuart Charmak", 
-    "party_id": "PP33", 
+    "party_name": "John Lilburne Democratic Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2843592064215528, 
+            53.421815757996086
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "John Lilburne Democratic Party [De-registered 03/05/13]", 
+    "party_id": "PP33", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

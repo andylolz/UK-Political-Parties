@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2011-10-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW1P 3AE", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12856445565362837, 
+            51.500963708589246
+        ]
+    }, 
     "register": null, 
     "party_name": "Liberal Democrats", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

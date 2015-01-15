@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-03-22T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-11-14T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Freedom, fairness, justice."
-        }
-    ], 
+    "postcode": "WF4 6DB", 
     "party_leader": "Mr Richard Laycock", 
     "nominating_officer": "Mrs Jacqueline Laycock", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Richard Laycock", 
-    "party_id": "PP1975", 
+    "party_name": "New Democracy", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.551166177203068, 
+            53.6676456868305
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "New Democracy [De-registered 22/03/13]", 
+    "party_id": "PP1975", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Freedom, fairness, justice."
+        }
     ]
 }

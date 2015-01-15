@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-06-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG41 2ST", 
     "party_leader": "Mr Colin Roland Bex", 
     "nominating_officer": "Mr David Robins", 
     "emblems": [
         {
-            "image": "raw_data/PP95/Emblem_109.gif", 
+            "image": "Emblem_109.gif", 
+            "primary": false, 
             "id": "109", 
             "description": "A crouching two legged Wyvern facing to the left: surrounded by a spiral gothic script bearing the legend \"Westeaxe Landricestaefa\": all in white on a black background"
         }, 
         {
-            "image": "raw_data/PP95/Emblem_110.gif", 
+            "image": "Emblem_110.gif", 
+            "primary": false, 
             "id": "110", 
             "description": "A crouching two legged Wyvern facing left: standing on a plinth that bears the word \"Wessex\": Wyvern outlined in black and white infill lettering in black"
         }, 
         {
-            "image": "raw_data/PP95/Emblem_111.gif", 
+            "image": "Emblem_111.gif", 
+            "primary": false, 
             "id": "111", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.8512726943954677, 
+            51.416895691438384
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Wessex Regionalists", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

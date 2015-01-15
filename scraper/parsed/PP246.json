@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2002-12-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IG7 5BY", 
     "party_leader": "Mr Roger David Mew", 
     "nominating_officer": "Mrs Rosalind Tracy Dover", 
     "emblems": [
         {
-            "image": "raw_data/PP246/Emblem_208.gif", 
+            "image": "Emblem_208.gif", 
+            "primary": false, 
             "id": "208", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.0672490553974063, 
+            51.61080354162914
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Chigwell Residents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

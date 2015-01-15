@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Brian Alfred Birch", 
     "registered_date": "2002-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PR9 7PT", 
     "party_leader": "Mr David Charles Cobham", 
     "nominating_officer": "Mr James Bryan Naylor", 
     "emblems": [
         {
-            "image": "raw_data/PP235/Emblem_198.gif", 
+            "image": "Emblem_198.gif", 
+            "primary": false, 
             "id": "198", 
             "description": "Leaflets"
         }, 
         {
-            "image": "raw_data/PP235/Emblem_199.gif", 
+            "image": "Emblem_199.gif", 
+            "primary": false, 
             "id": "199", 
             "description": "Voting paper"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.967142759975829, 
+            53.65584142172989
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Southport Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

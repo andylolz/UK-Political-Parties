@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-15T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Groove logo"
-        }
-    ], 
+    "postcode": "NN1 2RS", 
     "party_leader": "Mr Andy Millichamp", 
     "nominating_officer": "Mr Darren Lee", 
     "emblems": [
         {
-            "image": "raw_data/PP877/Emblem_558.gif", 
+            "image": "Emblem_558.gif", 
+            "primary": false, 
             "id": "558", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Ben Parr", 
-    "party_id": "PP877", 
+    "party_name": "The Groove Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.902891686498242, 
+            52.23859672086199
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Groove Party [De-registered 23/11/11]", 
+    "party_id": "PP877", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Groove logo"
+        }
     ]
 }

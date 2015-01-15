@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SG15 6XU", 
     "party_leader": "Mr Michael Holloway", 
     "nominating_officer": "Mr Chris Gravett", 
     "emblems": [
         {
-            "image": "raw_data/PPm2469/Emblem_1021.jpg", 
+            "image": "Emblem_1021.jpg", 
+            "primary": false, 
             "id": "1021", 
             "description": "Emblem1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2616816415993417, 
+            52.020467338588276
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Independents for Arlesey", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

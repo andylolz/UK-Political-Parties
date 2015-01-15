@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-05-11T00:00:00", 
     "campaigns_officer": "Mr Felix Middleton", 
     "registered_date": "2007-10-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SE1 4HG", 
     "party_leader": "Mr Richard Heller", 
     "nominating_officer": "Mr Felix Henry Meller", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Rupert McKay", 
-    "party_id": "PP681", 
+    "party_name": "Fur Play Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.08303707848888782, 
+            51.493690740205565
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Fur Play Party [De-registered 05/11/08]", 
+    "party_id": "PP681", 
     "alternative_names": [
         "Chwarae Ffyrrau Carfanau"
-    ]
+    ], 
+    "descriptions": []
 }

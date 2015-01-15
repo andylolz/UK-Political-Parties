@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-12T00:00:00", 
     "campaigns_officer": "Mr Ian Oxley", 
     "registered_date": "2005-09-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TQ3 1JX", 
     "party_leader": "Mr Ian Oxley", 
     "nominating_officer": "Mr Ian Oxley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Peggy Oxley", 
-    "party_id": "PP515", 
+    "party_name": "Torbay Residents Independent Forum", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.5835522976727843, 
+            50.44835950714769
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Torbay Residents Independent Forum [De-registered 01/12/08]", 
+    "party_id": "PP515", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,23 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-07-25T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The Sutton Independent Group"
-        }, 
-        {
-            "translation": "", 
-            "description": "The Sutton Independent Group Candidate"
-        }
-    ], 
+    "postcode": "NG17 5JQ", 
     "party_leader": "Mr David Michael Parker", 
     "nominating_officer": "Mr David Michael Parker", 
     "emblems": [
         {
-            "image": "raw_data/PP762/Emblem_442.gif", 
+            "image": "Emblem_442.gif", 
+            "primary": false, 
             "id": "442", 
             "description": "Emblem 1"
         }
@@ -32,15 +25,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Leslie Matthews", 
-    "party_id": "PP762", 
+    "party_name": "The Sutton Independent Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2326328835302673, 
+            53.118970534536125
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Sutton Independent Group [De-registered 25/07/11]", 
+    "party_id": "PP762", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Sutton Independent Group"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Sutton Independent Group Candidate"
+        }
     ]
 }

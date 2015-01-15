@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2011-09-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SA13 2TU", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.7677043090723283, 
+            51.59144554866983
+        ]
+    }, 
     "register": null, 
     "party_name": "March 3 is \"Vote No Day\"", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

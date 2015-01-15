@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-01-10T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-31T00:00:00", 
-    "descriptions": [], 
+    "postcode": "G72 0DP", 
     "party_leader": "Mr Russell Craig", 
     "nominating_officer": "Mr Hugh McNeil", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Alex McPherson", 
-    "party_id": "PP314", 
+    "party_name": "Lanarkshire Labour Alliance Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.101693841672625, 
+            55.786621126103604
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Lanarkshire Labour Alliance Party [De-registered 01/10/03]", 
+    "party_id": "PP314", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

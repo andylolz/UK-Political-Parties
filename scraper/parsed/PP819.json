@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-02-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC2B 5LQ", 
     "party_leader": "Mr Martin Jarvis", 
     "nominating_officer": "Mr Benjamin Lynch", 
     "emblems": [
         {
-            "image": "raw_data/PP819/Emblem_501.gif", 
+            "image": "Emblem_501.gif", 
+            "primary": false, 
             "id": "501", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Darren Lucraft", 
-    "party_id": "PP819", 
+    "party_name": "REPRESENT", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12346732614604186, 
+            51.515962737686756
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "REPRESENT [De-registered 03/11/14]", 
+    "party_id": "PP819", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

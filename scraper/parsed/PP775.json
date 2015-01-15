@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-01-10T00:00:00", 
+    "postcode": "E12 6DX", 
+    "party_leader": "Ms Jean Heidi Marie Eveleigh", 
+    "nominating_officer": "Mr Robert Battison", 
+    "emblems": [
+        {
+            "image": "Emblem_705.jpg", 
+            "primary": false, 
+            "id": "705", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "95 Third Avenue\r\nManor Park\r\nLondon\r\nE12 6DX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Jean Heidi Marie Eveleigh", 
+    "party_name": "Democratic Reform Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.05394959067499276, 
+            51.5510110915461
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP775", 
+    "alternative_names": [
+        "Plaid Diwygio Democratiaeth"
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,35 +84,5 @@
             "translation": "", 
             "description": "Growing Green; Balancing economic and environment"
         }
-    ], 
-    "party_leader": "Ms Jean Heidi Marie Eveleigh", 
-    "nominating_officer": "Mr Robert Battison", 
-    "emblems": [
-        {
-            "image": "raw_data/PP775/Emblem_705.jpg", 
-            "id": "705", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "95 Third Avenue\r\nManor Park\r\nLondon\r\nE12 6DX\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2013-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Jean Heidi Marie Eveleigh", 
-    "party_id": "PP775", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Democratic Reform Party [De-registered 05/11/13]", 
-    "alternative_names": [
-        "Plaid Diwygio Democratiaeth"
     ]
 }

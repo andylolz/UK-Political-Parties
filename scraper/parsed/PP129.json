@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "Cllr Anthony Heath", 
     "registered_date": "2001-03-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CV31 2NZ", 
     "party_leader": "Mr Bernard Kirton", 
     "nominating_officer": "Cllr Judith Falp", 
     "emblems": [
         {
-            "image": "raw_data/PP129/Emblem_143.gif", 
+            "image": "Emblem_143.gif", 
+            "primary": false, 
             "id": "143", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP129/Emblem_144.gif", 
+            "image": "Emblem_144.gif", 
+            "primary": false, 
             "id": "144", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5208549230739035, 
+            52.27559894663179
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Whitnash Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

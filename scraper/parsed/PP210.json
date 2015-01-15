@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "Ms Portia Van de Braam", 
     "registered_date": "2001-11-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW1P 1BS", 
     "party_leader": "Mr Dorian de Braam", 
     "nominating_officer": "Mr Dorian de Braam", 
     "emblems": [
         {
-            "image": "raw_data/PP210/Emblem_191.gif", 
+            "image": "Emblem_191.gif", 
+            "primary": false, 
             "id": "191", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP210/Emblem_668.gif", 
+            "image": "Emblem_668.gif", 
+            "primary": false, 
             "id": "668", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13584356176321383, 
+            51.49559419413325
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "21st Century Conservative Democrats", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

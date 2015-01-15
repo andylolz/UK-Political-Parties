@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-09-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1H 9BD", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1269091069710023, 
+            51.52797779088294
+        ]
+    }, 
     "register": null, 
     "party_name": "National Union of Teachers", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

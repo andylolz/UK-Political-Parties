@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-12-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "OX11 8UR", 
     "party_leader": "Mr Bruce Hay", 
     "nominating_officer": "Mr Bruce Hay", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Patrick S. Kerin", 
-    "party_id": "PP759", 
+    "party_name": "British Jobs First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2272990838106992, 
+            51.60399958487735
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "British Jobs First [De-registered 12/04/10]", 
+    "party_id": "PP759", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

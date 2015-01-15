@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "Mr Clive McLaughlin", 
     "registered_date": "2003-02-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "MK41 0NZ", 
     "party_leader": "Mr Dirk Conrad Bruere", 
     "nominating_officer": "Mr Dirk Conrad Bruere", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Dirk Conrad Bruere", 
-    "party_id": "PP274", 
+    "party_name": "The Consensus", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.4264487129513195, 
+            52.1547498977803
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Consensus [De-registered 06/11/09]", 
+    "party_id": "PP274", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-12-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SE15 4NA", 
     "party_leader": "Ms Cathy Nugent", 
     "nominating_officer": "Mr Mark Osborn", 
     "emblems": [], 
@@ -17,15 +18,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Martin Thomas", 
-    "party_id": "PP40", 
+    "party_name": "Workers' Liberty", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "Workers' Liberty [De-registered 17/12/08]", 
+    "party_id": "PP40", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

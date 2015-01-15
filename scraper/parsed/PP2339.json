@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-15T00:00:00", 
+    "postcode": "DN2 5BW", 
+    "party_leader": "Mr Peter Davies", 
+    "nominating_officer": "Mr Colin Kingston", 
+    "emblems": [
+        {
+            "image": "Emblem_975.jpg", 
+            "primary": false, 
+            "id": "975", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "11 Victoria Crescent\r\nDoncaster\r\nDN2 5BW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Joyce Hunt", 
+    "party_id": "PP2339", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.1178863306519382, 
+            53.527830579317396
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Doncaster First Independents Group", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -28,35 +67,5 @@
             "translation": "", 
             "description": "The Party's over"
         }
-    ], 
-    "party_leader": "Mr Peter Davies", 
-    "nominating_officer": "Mr Colin Kingston", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2339/Emblem_975.jpg", 
-            "id": "975", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "11 Victoria Crescent\r\nDoncaster\r\nDN2 5BW\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Joyce Hunt", 
-    "party_id": "PP2339", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Doncaster First Independents Group", 
-    "alternative_names": [
-        ""
     ]
 }

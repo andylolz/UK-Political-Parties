@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2004-06-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST6 6SN", 
     "party_leader": "Cllr Ann James", 
     "nominating_officer": "Cllr Ann James", 
     "emblems": [
         {
-            "image": "raw_data/PP396/Emblem_287.gif", 
+            "image": "Emblem_287.gif", 
+            "primary": false, 
             "id": "287", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP396/Emblem_288.gif", 
+            "image": "Emblem_288.gif", 
+            "primary": false, 
             "id": "288", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1959348744321208, 
+            53.07361123634541
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "City INDEPENDENTS", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

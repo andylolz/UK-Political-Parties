@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "The Reverend Ceiteach Michl Marschl", 
     "registered_date": "2006-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE21 4BN", 
     "party_leader": "The Reverend Ceiteach Michl Marschl", 
     "nominating_officer": "The Reverend Ceiteach Michl Marschl", 
     "emblems": [
         {
-            "image": "raw_data/PP549/Emblem_333.gif", 
+            "image": "Emblem_333.gif", 
+            "primary": false, 
             "id": "333", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP549/Emblem_334.gif", 
+            "image": "Emblem_334.gif", 
+            "primary": false, 
             "id": "334", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP549/Emblem_335.gif", 
+            "image": "Emblem_335.gif", 
+            "primary": false, 
             "id": "335", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7194105363550187, 
+            54.96068076578427
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Space Navies Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

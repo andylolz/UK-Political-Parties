@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Michael Brennan", 
     "registered_date": "2001-03-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT12 7AG", 
     "party_leader": "Mr John Lowry", 
     "nominating_officer": "Mr John Lowry", 
     "emblems": [
         {
-            "image": "raw_data/PP127/Emblem_141.gif", 
+            "image": "Emblem_141.gif", 
+            "primary": false, 
             "id": "141", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.956183649784792, 
+            54.59598636814326
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "The Workers Party", 
     "alternative_names": [
         "Pairti na n-Oibrithi"
-    ]
+    ], 
+    "descriptions": []
 }

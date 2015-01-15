@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-03-26T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-12-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1N 3XX", 
     "party_leader": "Mr Adrian Davies", 
     "nominating_officer": "Mr Steve Edwards", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Adrian Davies", 
-    "party_id": "PP113", 
+    "party_name": "The Freedom Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13424361194036336, 
+            51.517132821076316
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Freedom Party [De-registered 26/03/10]", 
+    "party_id": "PP113", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

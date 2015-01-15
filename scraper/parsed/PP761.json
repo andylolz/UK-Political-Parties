@@ -1,8 +1,60 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-22T00:00:00", 
+    "postcode": "SS7 1BA", 
+    "party_leader": "Dr Robert Spink", 
+    "nominating_officer": "Dr Robert Spink", 
+    "emblems": [
+        {
+            "image": "Emblem_439.gif", 
+            "primary": false, 
+            "id": "439", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_440.gif", 
+            "primary": false, 
+            "id": "440", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_441.gif", 
+            "primary": false, 
+            "id": "441", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "75 Downer Road\r\nBenfleet\r\nEssex\r\nSS7 1BA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Peter Smith", 
+    "party_name": "Independent Save Our Green Belt", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.5660078, 
+            51.5636081
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP761", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,45 +96,5 @@
             "translation": "", 
             "description": "Green Belt Campaign"
         }
-    ], 
-    "party_leader": "Dr Robert Spink", 
-    "nominating_officer": "Dr Robert Spink", 
-    "emblems": [
-        {
-            "image": "raw_data/PP761/Emblem_439.gif", 
-            "id": "439", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP761/Emblem_440.gif", 
-            "id": "440", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP761/Emblem_441.gif", 
-            "id": "441", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "75 Downer Road\r\nBenfleet\r\nEssex\r\nSS7 1BA\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-04-30T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Peter Smith", 
-    "party_id": "PP761", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Independent Save Our Green Belt [De-registered 23/11/11]", 
-    "alternative_names": [
-        ""
     ]
 }

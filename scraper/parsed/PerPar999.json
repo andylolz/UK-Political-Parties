@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2011-01-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW1H 0RH", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13580151699144738, 
+            51.49839020398293
+        ]
+    }, 
     "register": null, 
     "party_name": "Labour Party", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

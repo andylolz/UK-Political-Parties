@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-07-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-08-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BR2 6BA", 
     "party_leader": "Mr William James Waghorn", 
     "nominating_officer": "Mr William James Waghorn", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Gregory Patrick Ivory", 
-    "party_id": "PP262", 
+    "party_name": "UK Anti Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.031941154970734305, 
+            51.35595396296077
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "UK Anti Party [De-registered 07/11/03]", 
+    "party_id": "PP262", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

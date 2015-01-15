@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Ms June Simpson", 
     "registered_date": "2005-03-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TS23 3PP", 
     "party_leader": "Ms Lynne Jennifer Apedaile", 
     "nominating_officer": "Ms June Simpson", 
     "emblems": [
         {
-            "image": "raw_data/PP457/Emblem_305.gif", 
+            "image": "Emblem_305.gif", 
+            "primary": false, 
             "id": "305", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP457/Emblem_306.gif", 
+            "image": "Emblem_306.gif", 
+            "primary": false, 
             "id": "306", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP457/Emblem_307.gif", 
+            "image": "Emblem_307.gif", 
+            "primary": false, 
             "id": "307", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.278885011340985, 
+            54.622171549751435
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Billingham Independents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

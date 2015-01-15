@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-06-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "S41 9AY", 
     "party_leader": "Mr Rob Freeman", 
     "nominating_officer": "Mr Paul Giovanni", 
     "emblems": [
         {
-            "image": "raw_data/PP2356/Emblem_993.jpg", 
+            "image": "Emblem_993.jpg", 
+            "primary": false, 
             "id": "993", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4265242515954717, 
+            53.25761163891366
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The People's Mandate Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

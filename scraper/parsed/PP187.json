@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2001-10-15T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW17 4HH", 
     "party_leader": "Mr Stephen O'Brien", 
     "nominating_officer": "Ms Jo Valentine", 
     "emblems": [], 
@@ -17,15 +18,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Stephen Drury", 
-    "party_id": "PP187", 
+    "party_name": "Get London Moving Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "Get London Moving Party [De-registered 15/10/01]", 
+    "party_id": "PP187", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

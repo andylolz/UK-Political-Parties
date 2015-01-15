@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-03-13T00:00:00", 
     "campaigns_officer": "Ms Rebecca Fleming", 
     "registered_date": "2006-09-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NW1 7DT", 
     "party_leader": "Ms Rebecca Fleming", 
     "nominating_officer": "Mr Sara Ward Bartlett", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Sara Ward-Bartlett", 
-    "party_id": "PP532", 
+    "party_name": "Mums' Army", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.14744759877807997, 
+            51.540183004326096
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Mums' Army [De-registered 13/03/12]", 
+    "party_id": "PP532", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

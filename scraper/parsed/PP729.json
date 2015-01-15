@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2008-08-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH1 3AA", 
     "party_leader": "Mr Kenneth Christopher Murray", 
     "nominating_officer": "Mr Kenneth Christopher Murray", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.185022297853987, 
+            55.95703177043328
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Edinburgh Residents Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

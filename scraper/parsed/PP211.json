@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-04-30T00:00:00", 
     "campaigns_officer": "Mr Keith John Cockrill", 
     "registered_date": "2001-11-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NR33 9HG", 
     "party_leader": "Mr Dennis Henry John Seager", 
     "nominating_officer": "Mr Keith John Cockrill", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Brian John Ovenden", 
-    "party_id": "PP211", 
+    "party_name": "Party of the English People's", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.7114712198361008, 
+            52.46415693855604
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Party of the English People's [De-registered 30/04/03]", 
+    "party_id": "PP211", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

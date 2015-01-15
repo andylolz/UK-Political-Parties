@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-04-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
-    "descriptions": [], 
+    "postcode": "OL11 2TE", 
     "party_leader": "Mr Greg Couzens", 
     "nominating_officer": "Mr Greg Couzens", 
     "emblems": [
         {
-            "image": "raw_data/PP1723/Emblem_643.gif", 
+            "image": "Emblem_643.gif", 
+            "primary": false, 
             "id": "643", 
             "description": "Black & White Handshake"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Edward Flynn", 
-    "party_id": "PP1723", 
+    "party_name": "Borough of Rochdale Independent Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.17503402531058, 
+            53.58891056449672
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Borough of Rochdale Independent Alliance [De-registered 13/04/12]", 
+    "party_id": "PP1723", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

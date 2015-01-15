@@ -1,24 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-07-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-07-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN7 9DA", 
     "party_leader": "Mr Paul Edward Marshall Samrah", 
     "nominating_officer": "Mr Timothy John Carder", 
     "emblems": [
         {
-            "image": "raw_data/PP568/Emblem_341.gif", 
+            "image": "Emblem_341.gif", 
+            "primary": false, 
             "id": "341", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP568/Emblem_342.gif", 
+            "image": "Emblem_342.gif", 
+            "primary": false, 
             "id": "342", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP568/Emblem_343.gif", 
+            "image": "Emblem_343.gif", 
+            "primary": false, 
             "id": "343", 
             "description": "Emblem 3"
         }
@@ -33,15 +37,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Edward Marshall Samrah", 
-    "party_id": "PP568", 
+    "party_name": "The Seagulls Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.00878, 
+            50.87387200000001
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Seagulls Party [De-registered 07/11/11]", 
+    "party_id": "PP568", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

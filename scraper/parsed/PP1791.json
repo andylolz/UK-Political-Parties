@@ -1,8 +1,54 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-08-31T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-01-02T00:00:00", 
+    "postcode": "NE63 9TA", 
+    "party_leader": "Mr Braden Davy", 
+    "nominating_officer": "Mr Braden Davy", 
+    "emblems": [
+        {
+            "image": "Emblem_677.gif", 
+            "primary": false, 
+            "id": "677", 
+            "description": "Red start - Northumbrian flag"
+        }, 
+        {
+            "image": "Emblem_678.gif", 
+            "primary": false, 
+            "id": "678", 
+            "description": "Northumbrian flag"
+        }
+    ], 
+    "party_address": "22 Thorntree Gardens\r\n22 Thorntree Gardens\r\nAshington\r\nNorthumberland\r\nNE63 9TA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Oliver Rice", 
+    "party_name": "Northumbria Party - The North East Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5401790938590536, 
+            55.17609974561122
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP1791", 
+    "alternative_names": [
+        "The Northumbria Party"
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,40 +90,5 @@
             "translation": "", 
             "description": "Support our youth"
         }
-    ], 
-    "party_leader": "Mr Braden Davy", 
-    "nominating_officer": "Mr Braden Davy", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1791/Emblem_677.gif", 
-            "id": "677", 
-            "description": "Red start - Northumbrian flag"
-        }, 
-        {
-            "image": "raw_data/PP1791/Emblem_678.gif", 
-            "id": "678", 
-            "description": "Northumbrian flag"
-        }
-    ], 
-    "party_address": "22 Thorntree Gardens\r\n22 Thorntree Gardens\r\nAshington\r\nNorthumberland\r\nNE63 9TA\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Oliver Rice", 
-    "party_id": "PP1791", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Northumbria Party - The North East Party [De-registered 31/08/12]", 
-    "alternative_names": [
-        "The Northumbria Party"
     ]
 }

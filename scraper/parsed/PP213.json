@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-07-04T00:00:00", 
     "campaigns_officer": "Mr David Gelber", 
     "registered_date": "2002-05-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW10 9NJ", 
     "party_leader": "Mr Mark Maclean", 
     "nominating_officer": "Mr David Gelber", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Gelber", 
-    "party_id": "PP213", 
+    "party_name": "The End is Nigh", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1829881097614998, 
+            51.48673014434744
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The End is Nigh [De-registered 07/04/06]", 
+    "party_id": "PP213", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

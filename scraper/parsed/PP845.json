@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG14 5JG", 
     "party_leader": "Mr David Edward Yates", 
     "nominating_officer": "Mr David Edward Yates", 
     "emblems": [
         {
-            "image": "raw_data/PP845/Emblem_528.gif", 
+            "image": "Emblem_528.gif", 
+            "primary": false, 
             "id": "528", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3296302528200523, 
+            51.399691799026435
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Apolitical Democrats", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

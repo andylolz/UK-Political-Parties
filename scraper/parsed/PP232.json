@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-05-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW19 7HN", 
     "party_leader": "Mr Iain Cook Simpson", 
     "nominating_officer": "Mr Iain Cook Simpson", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Wayne Scott Bridgens", 
-    "party_id": "PP232", 
+    "party_name": "Wimbledon Park Ward Independent Residents' Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.19911306116617786, 
+            51.433149696611316
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Wimbledon Park Ward Independent Residents' Party [De-registered 05/06/06]", 
+    "party_id": "PP232", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

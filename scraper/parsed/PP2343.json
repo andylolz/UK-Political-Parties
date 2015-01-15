@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-17T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "For transparency, justice, equality, progress, democracy."
-        }
-    ], 
+    "postcode": "E3 2ZE", 
     "party_leader": "Mr Andy Erlam", 
     "nominating_officer": "Mr Jason Pavlou", 
     "emblems": [
         {
-            "image": "raw_data/PP2343/Emblem_983.jpg", 
+            "image": "Emblem_983.jpg", 
+            "primary": false, 
             "id": "983", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.023249617114854623, 
+            51.53269742172945
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Red Flag - Anti-Corruption", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For transparency, justice, equality, progress, democracy."
+        }
     ]
 }

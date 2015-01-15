@@ -1,19 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-07-25T00:00:00", 
     "campaigns_officer": "Mr David Jones", 
     "registered_date": "2005-10-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1N 3XX", 
     "party_leader": "Mr Kevin Watmough", 
     "nominating_officer": "Mr David Jones", 
     "emblems": [
         {
-            "image": "raw_data/PP520/Emblem_319.gif", 
+            "image": "Emblem_319.gif", 
+            "primary": false, 
             "id": "319", 
             "description": "Celtic Cross in black and white on red background"
         }, 
         {
-            "image": "raw_data/PP520/Emblem_630.gif", 
+            "image": "Emblem_630.gif", 
+            "primary": false, 
             "id": "630", 
             "description": "Emblem 2"
         }
@@ -28,15 +31,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Kevin Watmough", 
-    "party_id": "PP520", 
+    "party_name": "BPP - Putting Britons First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13424361194036336, 
+            51.517132821076316
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "BPP - Putting Britons First [De-registered 25/07/13]", 
+    "party_id": "PP520", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

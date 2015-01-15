@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-28T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Fighting for Spaces for People"
-        }
-    ], 
+    "postcode": "W1U 5BR", 
     "party_leader": "Mrs Yael Saunders", 
     "nominating_officer": "Mr Eric Robinson", 
     "emblems": [
         {
-            "image": "raw_data/PP2049/Emblem_827.jpg", 
+            "image": "Emblem_827.jpg", 
+            "primary": false, 
             "id": "827", 
             "description": "Marylebone Residents Emblem"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.15426939987899513, 
+            51.52091176480028
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Marylebone Residents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Fighting for Spaces for People"
+        }
     ]
 }

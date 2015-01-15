@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-01-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW7 3DQ", 
     "party_leader": "None", 
     "nominating_officer": "na Therese Muchewicz", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Paul Fallon", 
-    "party_id": "PP425", 
+    "party_name": "Veritas", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.17493834665094732, 
+            51.49389805468824
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Veritas [De-registered 01/11/07]", 
+    "party_id": "PP425", 
     "alternative_names": [
         "Truth"
-    ]
+    ], 
+    "descriptions": []
 }

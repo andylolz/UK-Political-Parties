@@ -3,21 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-13T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Free Public Transport"
-        }, 
-        {
-            "translation": "", 
-            "description": "Comprehensive High Quality Free Transport"
-        }
-    ], 
+    "postcode": "GL5 1TN", 
     "party_leader": "Mr David Michael", 
     "nominating_officer": "Ms Hannah Michael", 
     "emblems": [
         {
-            "image": "raw_data/PP866/Emblem_550.gif", 
+            "image": "Emblem_550.gif", 
+            "primary": false, 
             "id": "550", 
             "description": "Emblem 1"
         }
@@ -38,9 +30,26 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.2126231490785377, 
+            51.748642529163305
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Free Public Transport Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Free Public Transport"
+        }, 
+        {
+            "translation": "", 
+            "description": "Comprehensive High Quality Free Transport"
+        }
     ]
 }

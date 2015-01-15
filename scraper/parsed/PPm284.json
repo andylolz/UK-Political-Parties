@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-02-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TF1 5RQ", 
     "party_leader": "Mr John Smart", 
     "nominating_officer": "Mr Richard Dickens", 
     "emblems": [
         {
-            "image": "raw_data/PPm284/Emblem_225.gif", 
+            "image": "Emblem_225.gif", 
+            "primary": false, 
             "id": "225", 
             "description": "Rosette"
         }, 
         {
-            "image": "raw_data/PPm284/Emblem_226.gif", 
+            "image": "Emblem_226.gif", 
+            "primary": false, 
             "id": "226", 
             "description": "H+LRA Rosette"
         }, 
         {
-            "image": "raw_data/PPm284/Emblem_227.gif", 
+            "image": "Emblem_227.gif", 
+            "primary": false, 
             "id": "227", 
             "description": "Residents Rosette"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.4781157083429672, 
+            52.70436216190907
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Hadley & Leegomery Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CW10 0HR", 
     "party_leader": "Mr Michael John Parsons", 
     "nominating_officer": "Mr Paul John Edwards", 
     "emblems": [
         {
-            "image": "raw_data/PP306/Emblem_244.gif", 
+            "image": "Emblem_244.gif", 
+            "primary": false, 
             "id": "244", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP306/Emblem_245.gif", 
+            "image": "Emblem_245.gif", 
+            "primary": false, 
             "id": "245", 
             "description": "Emblem 3"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.434467346526124, 
+            53.174564168544336
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Middlewich First", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

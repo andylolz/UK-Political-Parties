@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-07-24T00:00:00", 
     "campaigns_officer": "Mr Alex Wardle", 
     "registered_date": "2007-01-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BL1 9GP", 
     "party_leader": "Mr Simon Paul Colley", 
     "nominating_officer": "Mr Scott Wardle", 
     "emblems": [], 
@@ -17,15 +18,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Steven Entwistle", 
-    "party_id": "PP614", 
+    "party_name": "K.P.P. - Kearsley Peoples Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "K.P.P. - Kearsley Peoples Party [De-registered 24/07/08]", 
+    "party_id": "PP614", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

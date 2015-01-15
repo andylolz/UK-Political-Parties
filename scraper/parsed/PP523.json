@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2006-03-22T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-12-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SE25 4ZG", 
     "party_leader": "Mr William Stanford Bagshaw", 
     "nominating_officer": "Mr William Stanford Bagshaw", 
     "emblems": [], 
@@ -25,15 +26,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr William Stanford Bagshaw", 
-    "party_id": "PP523", 
+    "party_name": "Free England", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "Free England [De-registered 22/03/06]", 
+    "party_id": "PP523", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

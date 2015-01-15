@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-12-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "OX12 7AG", 
     "party_leader": "Mr Terence A Randall", 
     "nominating_officer": "Mr Philip Pepler", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4249030623610484, 
+            51.590072842097975
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The United Democratic Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

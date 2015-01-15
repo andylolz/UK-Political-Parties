@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-02-17T00:00:00", 
+    "postcode": "KT7 0QL", 
+    "party_leader": "Mr Rhodri Peter Willmett Richards", 
+    "nominating_officer": "Ms Ruth Lyon", 
+    "emblems": [
+        {
+            "image": "Emblem_70.gif", 
+            "primary": false, 
+            "id": "70", 
+            "description": "Swan on river in front of house with a tree behind"
+        }
+    ], 
+    "party_address": "11 Riversdale Road\r\nThames Ditton\r\nSurrey\r\nKT7 0QL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Christa Lynn Silverthorne", 
+    "party_id": "PP64", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.33378644066581914, 
+            51.39476533328699
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Thames Ditton / Weston Green Residents' Association", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,35 +83,5 @@
             "translation": "", 
             "description": "Dittons and Weston Green Residents"
         }
-    ], 
-    "party_leader": "Mr Rhodri Peter Willmett Richards", 
-    "nominating_officer": "Ms Ruth Lyon", 
-    "emblems": [
-        {
-            "image": "raw_data/PP64/Emblem_70.gif", 
-            "id": "70", 
-            "description": "Swan on river in front of house with a tree behind"
-        }
-    ], 
-    "party_address": "11 Riversdale Road\r\nThames Ditton\r\nSurrey\r\nKT7 0QL\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Christa Lynn Silverthorne", 
-    "party_id": "PP64", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Thames Ditton / Weston Green Residents' Association", 
-    "alternative_names": [
-        ""
     ]
 }

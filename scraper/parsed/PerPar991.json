@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2004-10-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE24 3AP", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5015686291655232, 
+            55.12707302535184
+        ]
+    }, 
     "register": null, 
     "party_name": "South East Northumberland Unitary Council", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

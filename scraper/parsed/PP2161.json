@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-08-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-10-10T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Patriotic Inclusive Political"
-        }
-    ], 
+    "postcode": "DN22 7GR", 
     "party_leader": "Mr M F Mustapha", 
     "nominating_officer": "Mr M F Mustapha", 
     "emblems": [
         {
-            "image": "raw_data/PP2161/Emblem_876.jpg", 
+            "image": "Emblem_876.jpg", 
+            "primary": false, 
             "id": "876", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Isobel Law", 
-    "party_id": "PP2161", 
+    "party_name": "PiP", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9612326710512478, 
+            53.33414638313628
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "PiP [De-registered 08/07/14]", 
+    "party_id": "PP2161", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Patriotic Inclusive Political"
+        }
     ]
 }

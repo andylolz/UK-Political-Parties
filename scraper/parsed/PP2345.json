@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BA4 5XX", 
     "party_leader": "Mr Derek Marvin", 
     "nominating_officer": "Mr Derek Marvin", 
     "emblems": [
         {
-            "image": "raw_data/PP2345/Emblem_984.jpg", 
+            "image": "Emblem_984.jpg", 
+            "primary": false, 
             "id": "984", 
             "description": "TLC emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.5625943316512387, 
+            51.18891986932509
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "TLC", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

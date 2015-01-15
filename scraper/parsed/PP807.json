@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-06-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-02T00:00:00", 
+    "postcode": "MK13 7BJ", 
+    "party_leader": "Mr Barry Taylor", 
+    "nominating_officer": "Mrs Anna Wood", 
+    "emblems": [], 
+    "party_address": "125 Kingsfold\r\nBradville\r\nMilton Keynes\r\nMK13 7BJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kieren Trent", 
+    "party_name": "European Nationalists", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.7779015831314653, 
+            52.06282743939658
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP807", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,29 +85,5 @@
             "translation": "", 
             "description": "EN - Financial transparency"
         }
-    ], 
-    "party_leader": "Mr Barry Taylor", 
-    "nominating_officer": "Mrs Anna Wood", 
-    "emblems": [], 
-    "party_address": "125 Kingsfold\r\nBradville\r\nMilton Keynes\r\nMK13 7BJ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Kieren Trent", 
-    "party_id": "PP807", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "European Nationalists [De-registered 21/06/10]", 
-    "alternative_names": [
-        ""
     ]
 }

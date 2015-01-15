@@ -1,24 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-07-18T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-05-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Cumbernauld Independent Councillors Alliance - \"Cumbernauld First\""
-        }
-    ], 
+    "postcode": "G67 2ES", 
     "party_leader": "Mr Robert Johnstone", 
     "nominating_officer": "Mr Nick Dekker", 
     "emblems": [
         {
-            "image": "raw_data/PP640/Emblem_376.gif", 
+            "image": "Emblem_376.gif", 
+            "primary": false, 
             "id": "376", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP640/Emblem_377.gif", 
+            "image": "Emblem_377.gif", 
+            "primary": false, 
             "id": "377", 
             "description": "Emblem 2"
         }
@@ -33,15 +31,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Anne MacDonald", 
-    "party_id": "PP640", 
+    "party_name": "Cumbernauld Independent Councillors Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.9709626696529794, 
+            55.95329129144736
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Cumbernauld Independent Councillors Alliance [De-registered 18/07/14]", 
+    "party_id": "PP640", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Cumbernauld Independent Councillors Alliance - \"Cumbernauld First\""
+        }
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-04-09T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-05-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SN10 1EX", 
     "party_leader": "Mr Chris Manning", 
     "nominating_officer": "Ms Lilian Boddy", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm111", 
+    "party_name": "The English Freedom Movement", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9951832111491188, 
+            51.353178314156494
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "The English Freedom Movement [De-registered 04/09/03]", 
+    "party_id": "PPm111", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

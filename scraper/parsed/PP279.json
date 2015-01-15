@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2003-02-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B47 6JG", 
     "party_leader": "Mr Michael Cheal", 
     "nominating_officer": "Mr William Paul Baxter", 
     "emblems": [
         {
-            "image": "raw_data/PP279/Emblem_224.jpg", 
+            "image": "Emblem_224.jpg", 
+            "primary": false, 
             "id": "224", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8842164691883105, 
+            52.38191444646117
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Wythall Residents' Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

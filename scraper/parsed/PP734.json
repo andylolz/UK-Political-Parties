@@ -11,6 +11,51 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2008-12-19T00:00:00", 
+    "postcode": "EX2 6DR", 
+    "party_leader": "Mrs Renata Szewczyk", 
+    "nominating_officer": "Mrs Renata Szewczyk", 
+    "emblems": [
+        {
+            "image": "Emblem_622.gif", 
+            "primary": false, 
+            "id": "622", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_623.gif", 
+            "primary": false, 
+            "id": "623", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "94 Briar Crescent\r\nExeter\r\nDevon\r\nEX2 6DR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Renata Szewczyk", 
+    "party_id": "PP734", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.502316749140399, 
+            50.71049983015364
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Your Decision", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -60,40 +105,5 @@
             "translation": "", 
             "description": "Your Decision lights on or off"
         }
-    ], 
-    "party_leader": "Mrs Renata Szewczyk", 
-    "nominating_officer": "Mrs Renata Szewczyk", 
-    "emblems": [
-        {
-            "image": "raw_data/PP734/Emblem_622.gif", 
-            "id": "622", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP734/Emblem_623.gif", 
-            "id": "623", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "94 Briar Crescent\r\nExeter\r\nDevon\r\nEX2 6DR\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Renata Szewczyk", 
-    "party_id": "PP734", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Your Decision", 
-    "alternative_names": [
-        ""
     ]
 }

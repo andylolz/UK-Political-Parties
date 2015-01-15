@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-07-25T00:00:00", 
     "campaigns_officer": "Mr Hugh Warwick Dinsdale", 
     "registered_date": "2006-11-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PO30 9AE", 
     "party_leader": "Mr Paul St John Martin", 
     "nominating_officer": "Mr Paul St John Martin", 
     "emblems": [
         {
-            "image": "raw_data/PP608/Emblem_359.gif", 
+            "image": "Emblem_359.gif", 
+            "primary": false, 
             "id": "359", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul St John Martin", 
-    "party_id": "PP608", 
+    "party_name": "Middle England Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2948459304028002, 
+            50.70687454505093
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Middle England Party [De-registered 25/07/11]", 
+    "party_id": "PP608", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

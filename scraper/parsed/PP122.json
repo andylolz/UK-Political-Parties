@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-03-13T00:00:00", 
     "campaigns_officer": "Mr John M Pawlett", 
     "registered_date": "2001-02-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HU1 2TY", 
     "party_leader": "Mr John Dixon Hart", 
     "nominating_officer": "Mr John M Pawlett", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Anne Pepper", 
-    "party_id": "PP122", 
+    "party_name": "The United Kingdom Peoples Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.34141462638976755, 
+            53.73848060995812
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "The United Kingdom Peoples Party [De-registered 13/03/02]", 
+    "party_id": "PP122", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

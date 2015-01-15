@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-06-28T00:00:00", 
+    "postcode": "G40 1YD", 
+    "party_leader": "Mr Daniel Houston", 
+    "nominating_officer": "Mr Mark Dingwall", 
+    "emblems": [], 
+    "party_address": "PO Box 2420\r\nGlasgow\r\nG40 1YD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Derek James Doughty", 
+    "party_name": "Scottish Unionist Party (De-registered 06/11/2009)", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.2237053386497445, 
+            55.85255366784658
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP120", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,29 +85,5 @@
             "translation": "", 
             "description": "Scottish Unionist"
         }
-    ], 
-    "party_leader": "Mr Daniel Houston", 
-    "nominating_officer": "Mr Mark Dingwall", 
-    "emblems": [], 
-    "party_address": "PO Box 2420\r\nGlasgow\r\nG40 1YD\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2010-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Derek James Doughty", 
-    "party_id": "PP120", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Scottish Unionist Party (De-registered 06/11/2009) [De-registered 06/11/09]", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-24T00:00:00", 
+    "postcode": "SL3 9LA", 
+    "party_leader": "Mr Ewan Larcombe", 
+    "nominating_officer": "Mr Ewan Larcombe", 
+    "emblems": [
+        {
+            "image": "Emblem_624.gif", 
+            "primary": false, 
+            "id": "624", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "67, Lawn Close\r\nDatchet\r\nSLOUGH\r\nSL3 9LA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ewan Larcombe", 
+    "party_id": "PP1713", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5714184347738855, 
+            51.483409581128456
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "National Flood Prevention Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -56,35 +95,5 @@
             "translation": "", 
             "description": "Exposing authorities shirking their responsibilities"
         }
-    ], 
-    "party_leader": "Mr Ewan Larcombe", 
-    "nominating_officer": "Mr Ewan Larcombe", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1713/Emblem_624.gif", 
-            "id": "624", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "67, Lawn Close\r\nDatchet\r\nSLOUGH\r\nSL3 9LA\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Ewan Larcombe", 
-    "party_id": "PP1713", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "National Flood Prevention Party", 
-    "alternative_names": [
-        ""
     ]
 }

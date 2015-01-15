@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SE18 5HF", 
     "party_leader": "Mr Karl John", 
     "nominating_officer": "Mr Robert Battison", 
     "emblems": [
         {
-            "image": "raw_data/PP2216/Emblem_931.jpg", 
+            "image": "Emblem_931.jpg", 
+            "primary": false, 
             "id": "931", 
             "description": "BW wide"
         }, 
         {
-            "image": "raw_data/PP2216/Emblem_932.jpg", 
+            "image": "Emblem_932.jpg", 
+            "primary": false, 
             "id": "932", 
             "description": "BW invert"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.0528258360203261, 
+            51.48821653482224
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Democratic Reform Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

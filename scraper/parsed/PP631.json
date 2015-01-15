@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-07-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC2R 0DZ", 
     "party_leader": "Mr Paul Dennett", 
     "nominating_officer": "Mr Paul Dennett", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Malcolm Saunders", 
-    "party_id": "PP631", 
+    "party_name": "Reform - The Liberal and Progressive Movement", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12637174830427644, 
+            51.50839318725481
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Reform - The Liberal and Progressive Movement [De-registered 07/01/09]", 
+    "party_id": "PP631", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

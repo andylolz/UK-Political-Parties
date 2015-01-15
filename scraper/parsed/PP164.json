@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-02-07T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DN8 5RG", 
     "party_leader": "Cllr Martin Williams", 
     "nominating_officer": "Cllr Martin Williams", 
     "emblems": [
         {
-            "image": "raw_data/PP164/Emblem_170.gif", 
+            "image": "Emblem_170.gif", 
+            "primary": false, 
             "id": "170", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9742534019225024, 
+            53.60409589826353
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Community Group", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-03-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IG10 1AN", 
     "party_leader": "Mr David Roy Linnell", 
     "nominating_officer": "Mr Michael Benbow", 
     "emblems": [
         {
-            "image": "raw_data/PP128/Emblem_142.gif", 
+            "image": "Emblem_142.gif", 
+            "primary": false, 
             "id": "142", 
             "description": "upper case letters L R A"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.06217003885712773, 
+            51.650100596915614
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Independent Loughton Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

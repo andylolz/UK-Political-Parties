@@ -1,24 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-05-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-11-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "AL1 1RU", 
     "party_leader": "Mrs Amanda Ringwood", 
     "nominating_officer": "Mrs Amanda Ringwood", 
     "emblems": [
         {
-            "image": "raw_data/PP34/Emblem_27.gif", 
+            "image": "Emblem_27.gif", 
+            "primary": false, 
             "id": "27", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP34/Emblem_28.gif", 
+            "image": "Emblem_28.gif", 
+            "primary": false, 
             "id": "28", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP34/Emblem_29.gif", 
+            "image": "Emblem_29.gif", 
+            "primary": false, 
             "id": "29", 
             "description": "Emblem 3"
         }
@@ -33,15 +37,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Bob Goodall", 
-    "party_id": "PP34", 
+    "party_name": "No Candidate Deserves My Vote!", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3382316216362598, 
+            51.748842745728
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "No Candidate Deserves My Vote! [De-registered 05/01/12]", 
+    "party_id": "PP34", 
     "alternative_names": [
         "Nid oes un ymgeisydd yn haeddu fy mhleidlais"
-    ]
+    ], 
+    "descriptions": []
 }

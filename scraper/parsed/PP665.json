@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-05-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "G3 6LN", 
     "party_leader": "Mr Neil Craig", 
     "nominating_officer": "Mr Neil Craig", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Neil Craig", 
-    "party_id": "PP665", 
+    "party_name": "Nine Per Cent Growth Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.276322086392042, 
+            55.870644642135396
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Nine Per Cent Growth Party [De-registered 01/11/08]", 
+    "party_id": "PP665", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

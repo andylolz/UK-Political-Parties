@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-03-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG28 7YQ", 
     "party_leader": "Mr Charles Geoffrey Thomson", 
     "nominating_officer": "Mr Charles Geoffrey Thomson", 
     "emblems": [], 
@@ -17,15 +18,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Wendy Christine Morris", 
-    "party_id": "PP174", 
+    "party_name": "The Stuckist Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Stuckist Party [De-registered 03/04/02]", 
+    "party_id": "PP174", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

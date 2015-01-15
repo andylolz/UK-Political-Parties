@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-01-25T00:00:00", 
+    "postcode": "TS6 9JU", 
+    "party_leader": "Mr David Fisher", 
+    "nominating_officer": "Mr Vincent Smith", 
+    "emblems": [
+        {
+            "image": "Emblem_595.gif", 
+            "primary": false, 
+            "id": "595", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "20 The Square\r\nEston\r\nMiddlesbrough\r\nYorkshire\r\nTS6 9JU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Vincent Smith", 
+    "party_id": "PP901", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.136200324542772, 
+            54.55990114041396
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Eston Independent Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,35 +91,5 @@
             "translation": "", 
             "description": "Wilton Independent"
         }
-    ], 
-    "party_leader": "Mr David Fisher", 
-    "nominating_officer": "Mr Vincent Smith", 
-    "emblems": [
-        {
-            "image": "raw_data/PP901/Emblem_595.gif", 
-            "id": "595", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "20 The Square\r\nEston\r\nMiddlesbrough\r\nYorkshire\r\nTS6 9JU\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Vincent Smith", 
-    "party_id": "PP901", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Eston Independent Party", 
-    "alternative_names": [
-        ""
     ]
 }

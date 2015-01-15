@@ -1,19 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-06-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CT16 1PT", 
     "party_leader": "Mr Alan William Shirley", 
     "nominating_officer": "Mr Christopher John Precious", 
     "emblems": [
         {
-            "image": "raw_data/PP653/Emblem_385.gif", 
+            "image": "Emblem_385.gif", 
+            "primary": false, 
             "id": "385", 
             "description": "Owl"
         }, 
         {
-            "image": "raw_data/PP653/Emblem_386.gif", 
+            "image": "Emblem_386.gif", 
+            "primary": false, 
             "id": "386", 
             "description": "Badge"
         }
@@ -28,15 +31,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Ronald Francis Ford", 
-    "party_id": "PP653", 
+    "party_name": "The Dover Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.315441685195981, 
+            51.12628374692527
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Dover Alliance [De-registered 14/06/12]", 
+    "party_id": "PP653", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

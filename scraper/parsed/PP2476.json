@@ -11,12 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-05-11T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "for the greater benefit of all"
-        }
-    ], 
+    "postcode": "ST4 1ED", 
     "party_leader": "Mr paul toussaint", 
     "nominating_officer": "Mr Artemis Molyneux", 
     "emblems": [], 
@@ -36,9 +31,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.181671272066654, 
+            53.00050740160019
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Ubuntu Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "for the greater benefit of all"
+        }
     ]
 }

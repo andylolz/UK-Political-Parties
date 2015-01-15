@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-04-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "G2 4JR", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.268828222788584, 
+            55.8654894445895
+        ]
+    }, 
     "register": null, 
     "party_name": "Business for Scotland Ltd", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

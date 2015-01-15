@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-01-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-10-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC2N 5BW", 
     "party_leader": "Mr Richard Anthony Vass", 
     "nominating_officer": "Mr Martyn Greene", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert Wilson Durward", 
-    "party_id": "PP353", 
+    "party_name": "The New Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12617726441845906, 
+            51.50752611165383
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "The New Party [De-registered 01/07/10]", 
+    "party_id": "PP353", 
     "alternative_names": [
         "An P\u00e0irt\u00ec Nua"
-    ]
+    ], 
+    "descriptions": []
 }

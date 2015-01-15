@@ -11,22 +11,19 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2001-03-29T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Nork & Tattenhams Residents' Associations (joint description with Tattenhams Residents' Association)"
-        }
-    ], 
+    "postcode": "KT18 5SE", 
     "party_leader": "Mr Nicholas Dudley Harrison", 
     "nominating_officer": "Mr Nicholas Dudley Harrison", 
     "emblems": [
         {
-            "image": "raw_data/PP141/Emblem_152.gif", 
+            "image": "Emblem_152.gif", 
+            "primary": false, 
             "id": "152", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP141/Emblem_153.gif", 
+            "image": "Emblem_153.gif", 
+            "primary": false, 
             "id": "153", 
             "description": "Emblem 2"
         }
@@ -47,9 +44,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2338956917488201, 
+            51.30892457783959
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Tattenhams Residents' Association", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Nork & Tattenhams Residents' Associations (joint description with Tattenhams Residents' Association)"
+        }
     ]
 }

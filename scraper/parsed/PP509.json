@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-01-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1N 3XX", 
     "party_leader": "Ms Catherine Elizabeth Parker-Brown", 
     "nominating_officer": "Mr Joseph Hilton", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Sharon Pastou", 
-    "party_id": "PP509", 
+    "party_name": "Nationalist Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13424361194036336, 
+            51.517132821076316
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Nationalist Alliance [De-registered 01/11/07]", 
+    "party_id": "PP509", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

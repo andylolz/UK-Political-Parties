@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-02-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "M20 4RY", 
     "party_leader": "Mr Raymond John Barry", 
     "nominating_officer": "Mr Paul Rubert", 
     "emblems": [
         {
-            "image": "raw_data/PP526/Emblem_322.gif", 
+            "image": "Emblem_322.gif", 
+            "primary": false, 
             "id": "322", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP526/Emblem_323.gif", 
+            "image": "Emblem_323.gif", 
+            "primary": false, 
             "id": "323", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.2194661059978467, 
+            53.43207937170115
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Equal Parenting Alliance", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

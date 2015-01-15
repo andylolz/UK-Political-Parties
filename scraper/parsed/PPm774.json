@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-04-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-09-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CV1 2AT", 
     "party_leader": "Mr Paul O'Callaghan", 
     "nominating_officer": "Mr Alexander Forbes", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm774", 
+    "party_name": "British Unicorn Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4921494799101263, 
+            52.4032216846777
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "British Unicorn Party [De-registered 04/05/11]", 
+    "party_id": "PPm774", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,27 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Centre right political organisation"
-        }, 
-        {
-            "translation": "", 
-            "description": "Nationalistic Ideology"
-        }, 
-        {
-            "translation": "", 
-            "description": "Striving for a proper Constitutional Monarchy"
-        }
-    ], 
+    "postcode": "NN1 5LR", 
     "party_leader": "Mr David Boss", 
     "nominating_officer": "Mr Andrew Pennington", 
     "emblems": [
         {
-            "image": "raw_data/PP1783/Emblem_749.jpg", 
+            "image": "Emblem_749.jpg", 
+            "primary": false, 
             "id": "749", 
             "description": "Emblem 1"
         }
@@ -36,15 +25,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Boss", 
-    "party_id": "PP1783", 
+    "party_name": "Royalist Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.8690929325217028, 
+            52.24199998580416
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Royalist Party [De-registered 05/11/13]", 
+    "party_id": "PP1783", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Centre right political organisation"
+        }, 
+        {
+            "translation": "", 
+            "description": "Nationalistic Ideology"
+        }, 
+        {
+            "translation": "", 
+            "description": "Striving for a proper Constitutional Monarchy"
+        }
     ]
 }

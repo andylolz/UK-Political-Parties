@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2013-12-03T00:00:00", 
+    "postcode": "PO36 9DT", 
+    "party_leader": "Mr Bob Blezzard", 
+    "nominating_officer": "Mr Bob Blezzard", 
+    "emblems": [
+        {
+            "image": "Emblem_819.jpg", 
+            "primary": false, 
+            "id": "819", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "105 Perowne Way\r\nSandown\r\nIsle of Wight\r\nPO36 9DT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Bob Blezzard", 
+    "party_id": "PP2042", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.1602642306075979, 
+            50.662483946178966
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Sandown Independents", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,35 +75,5 @@
             "translation": "", 
             "description": "Sandown Independents: Working With Local People"
         }
-    ], 
-    "party_leader": "Mr Bob Blezzard", 
-    "nominating_officer": "Mr Bob Blezzard", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2042/Emblem_819.jpg", 
-            "id": "819", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "105 Perowne Way\r\nSandown\r\nIsle of Wight\r\nPO36 9DT\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Bob Blezzard", 
-    "party_id": "PP2042", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Sandown Independents", 
-    "alternative_names": [
-        ""
     ]
 }

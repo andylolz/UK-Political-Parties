@@ -1,24 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "Mr Gerry O'Donnell", 
     "registered_date": "2007-02-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CT11 9QH", 
     "party_leader": "Mr Gerry O'Donnell", 
     "nominating_officer": "Mr John Ridges", 
     "emblems": [
         {
-            "image": "raw_data/PP636/Emblem_371.gif", 
+            "image": "Emblem_371.gif", 
+            "primary": false, 
             "id": "371", 
             "description": "Charging Ram 1"
         }, 
         {
-            "image": "raw_data/PP636/Emblem_372.gif", 
+            "image": "Emblem_372.gif", 
+            "primary": false, 
             "id": "372", 
             "description": "Charging Ram 2"
         }, 
         {
-            "image": "raw_data/PP636/Emblem_373.gif", 
+            "image": "Emblem_373.gif", 
+            "primary": false, 
             "id": "373", 
             "description": "Charging Ram 3"
         }
@@ -33,15 +37,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Ridges", 
-    "party_id": "PP636", 
+    "party_name": "Ramsgate First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.408904612240347, 
+            51.33378745949574
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Ramsgate First [De-registered 23/11/11]", 
+    "party_id": "PP636", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

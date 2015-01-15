@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-04-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GL7 5TE", 
     "party_leader": "Mr Daniel Morgan", 
     "nominating_officer": "Mr Daniel Morgan", 
     "emblems": [
         {
-            "image": "raw_data/PP2057/Emblem_837.jpg", 
+            "image": "Emblem_837.jpg", 
+            "primary": false, 
             "id": "837", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Elspeth Parris", 
-    "party_id": "PP2057", 
+    "party_name": "The People's Unity Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9002002492703336, 
+            51.71927537083963
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The People's Unity Party [De-registered 03/11/14]", 
+    "party_id": "PP2057", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

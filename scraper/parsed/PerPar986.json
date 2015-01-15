@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2004-09-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE1 8TW", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.6104990001878392, 
+            54.9766550862517
+        ]
+    }, 
     "register": null, 
     "party_name": "Trade Union Congress", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

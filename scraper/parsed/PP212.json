@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-07-04T00:00:00", 
     "campaigns_officer": "Mrs June Knapper", 
     "registered_date": "2001-11-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST2 8AH", 
     "party_leader": "Mr Thomas Knapper", 
     "nominating_officer": "Mr Thomas Knapper", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Adrian Knapper", 
-    "party_id": "PP212", 
+    "party_name": "Adrian Knapper Independent Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1483714953943864, 
+            53.02741326876753
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Adrian Knapper Independent Party [De-registered 07/04/03]", 
+    "party_id": "PP212", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

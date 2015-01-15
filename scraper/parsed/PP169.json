@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2002-05-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "W1F 7LX", 
     "party_leader": "Mr Robert Patrick Ingram Twigger", 
     "nominating_officer": "Mr Robert Patrick Ingram Twigger", 
     "emblems": [], 
@@ -25,15 +26,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert Patrick Ingram Twigger", 
-    "party_id": "PP169", 
+    "party_name": "The Extinction Club", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Extinction Club [De-registered 30/05/02]", 
+    "party_id": "PP169", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

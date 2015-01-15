@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-07-15T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST1 2DX", 
     "party_leader": "Mr Jack Brown", 
     "nominating_officer": "Mr Jack Brown", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Grace Brown", 
-    "party_id": "PP245", 
+    "party_name": "The No Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.167523070179277, 
+            53.029302481640684
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The No Party [De-registered 15/07/05]", 
+    "party_id": "PP245", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

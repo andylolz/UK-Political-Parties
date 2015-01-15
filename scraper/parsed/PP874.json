@@ -9,8 +9,48 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2012-01-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-15T00:00:00", 
+    "postcode": "CB3 0GT", 
+    "party_leader": "Mr Daniel Hall", 
+    "nominating_officer": "Mr Daniel Hall", 
+    "emblems": [
+        {
+            "image": "Emblem_556.gif", 
+            "primary": false, 
+            "id": "556", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "C/o Daniel Hall Idea Space Entrepreneurship Centre\r\n3 Charles Babbage Road\r\nCambridge\r\nCB3 0GT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Daniel Hall", 
+    "party_name": "Convox", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.08990678940700685, 
+            52.208810020038364
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP874", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,35 +76,5 @@
             "translation": "", 
             "description": "Convox the Constituency Voter Party"
         }
-    ], 
-    "party_leader": "Mr Daniel Hall", 
-    "nominating_officer": "Mr Daniel Hall", 
-    "emblems": [
-        {
-            "image": "raw_data/PP874/Emblem_556.gif", 
-            "id": "556", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "C/o Daniel Hall Idea Space Entrepreneurship Centre\r\n3 Charles Babbage Road\r\nCambridge\r\nCB3 0GT\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Daniel Hall", 
-    "party_id": "PP874", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Convox [De-registered 01/06/12]", 
-    "alternative_names": [
-        ""
     ]
 }

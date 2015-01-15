@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-10-22T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-09-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST1 3BB", 
     "party_leader": "Mr Mike Wolfe", 
     "nominating_officer": "Mr Fred Hughes", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Mavis Deakin", 
-    "party_id": "PP260", 
+    "party_name": "Mayor 4 Stoke", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.176271034691184, 
+            53.01724437234832
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Mayor 4 Stoke [De-registered 22/10/03]", 
+    "party_id": "PP260", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

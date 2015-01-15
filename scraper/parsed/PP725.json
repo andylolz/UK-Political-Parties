@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-06-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-07-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DL3 7AW", 
     "party_leader": "Mr Andrew David Bowers", 
     "nominating_officer": "Miss Orlaith Smith", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andrew David Bowers", 
-    "party_id": "PP725", 
+    "party_name": "Individual Capitalist Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5669780624294722, 
+            54.52742021417283
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Individual Capitalist Party [De-registered 06/06/11]", 
+    "party_id": "PP725", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-05-31T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-10-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PO16 9QH", 
     "party_leader": "Mr Michael Smith", 
     "nominating_officer": "Mr Stuart Millson", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Stuart Millson", 
-    "party_id": "PP407", 
+    "party_name": "Conservative Democratic Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.1187001699489436, 
+            50.84044208410146
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Conservative Democratic Alliance [De-registered 31/05/05]", 
+    "party_id": "PP407", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

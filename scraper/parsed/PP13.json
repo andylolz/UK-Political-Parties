@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-05-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-06-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SA12 6JX", 
     "party_leader": "Mr Captain Beany", 
     "nominating_officer": "Mr Chris Garrett", 
     "emblems": [
         {
-            "image": "raw_data/PP13/Emblem_8.gif", 
+            "image": "Emblem_8.gif", 
+            "primary": false, 
             "id": "8", 
             "description": "A smiling baked bean complete with shades encompassed by the name New Millennium Bean Party"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Captain Beany", 
-    "party_id": "PP13", 
+    "party_name": "New Millennium Bean Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.8128063320453003, 
+            51.594030597610335
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "New Millennium Bean Party [De-registered 05/05/11]", 
+    "party_id": "PP13", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

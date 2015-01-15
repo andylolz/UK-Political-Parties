@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CO13 9AD", 
     "party_leader": "Mr Edward Thomas Allen", 
     "nominating_officer": "Mr Jack Robertson", 
     "emblems": [
         {
-            "image": "raw_data/PP661/Emblem_394.gif", 
+            "image": "Emblem_394.gif", 
+            "primary": false, 
             "id": "394", 
             "description": "Representation of the Tendring area encompassing the party name \"Tendring First\""
         }, 
         {
-            "image": "raw_data/PP661/Emblem_632.gif", 
+            "image": "Emblem_632.gif", 
+            "primary": false, 
             "id": "632", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.2452304182107887, 
+            51.83563615327799
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Tendring First", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

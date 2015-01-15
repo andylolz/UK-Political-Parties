@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Andrew Robert Vickers", 
     "registered_date": "2002-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TW2 6DW", 
     "party_leader": "Mr Paul Stedman", 
     "nominating_officer": "Mr Paul Stedman", 
     "emblems": [
         {
-            "image": "raw_data/PP224/Emblem_192.gif", 
+            "image": "Emblem_192.gif", 
+            "primary": false, 
             "id": "192", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.36956960234744973, 
+            51.445140458921266
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "A BEE C", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

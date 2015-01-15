@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-02-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ML6 8AT", 
     "party_leader": "Mr John Bunny McGeechan", 
     "nominating_officer": "Mr John Bunny McGeechan", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Bunny McGeechan", 
-    "party_id": "PP24", 
+    "party_name": "Liberty", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.9541427821713113, 
+            55.86263129435847
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Liberty [De-registered 01/11/08]", 
+    "party_id": "PP24", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

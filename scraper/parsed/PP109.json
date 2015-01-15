@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2001-08-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-03-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IP33 1JP", 
     "party_leader": "Mr David Nettleton", 
     "nominating_officer": "Mr David Nettleton", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Nettleton", 
-    "party_id": "PP109", 
+    "party_name": "The Local Party Bury St Edmunds", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.7154688439120447, 
+            52.25053745403062
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Local Party Bury St Edmunds [De-registered 13/08/01]", 
+    "party_id": "PP109", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

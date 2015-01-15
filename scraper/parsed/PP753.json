@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-01-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-03-04T00:00:00", 
+    "postcode": "B79 8LX", 
+    "party_leader": "Mrs Carolyn Lang", 
+    "nominating_officer": "Mr Brian Morris", 
+    "emblems": [], 
+    "party_address": "C/O rob Marsden\r\n11 Kipling Rise\r\nTamworth\r\nStaffordshire\r\nB79 8LX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Robert Marsden", 
+    "party_name": "Hands Off Tamworth's Schools", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7114257068006007, 
+            52.64825174215831
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP753", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,29 +81,5 @@
             "translation": "", 
             "description": "AGAINST THE SIXTH FORM ACADEMY"
         }
-    ], 
-    "party_leader": "Mrs Carolyn Lang", 
-    "nominating_officer": "Mr Brian Morris", 
-    "emblems": [], 
-    "party_address": "C/O rob Marsden\r\n11 Kipling Rise\r\nTamworth\r\nStaffordshire\r\nB79 8LX\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Robert Marsden", 
-    "party_id": "PP753", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Hands Off Tamworth's Schools [De-registered 27/01/10]", 
-    "alternative_names": [
-        ""
     ]
 }

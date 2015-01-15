@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-03-08T00:00:00", 
     "campaigns_officer": "Miss Michelle Laidler", 
     "registered_date": "2005-04-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PE2 6EA", 
     "party_leader": "Mr Daniel Jon Anslow", 
     "nominating_officer": "Mr John Sootheran", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Emma Glanville", 
-    "party_id": "PP484", 
+    "party_name": "Max Power Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.32287320154547616, 
+            52.553292876895846
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Max Power Party [De-registered 03/08/05]", 
+    "party_id": "PP484", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

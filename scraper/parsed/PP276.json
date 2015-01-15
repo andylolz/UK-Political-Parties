@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-02T00:00:00", 
+    "postcode": "ML1 2QN", 
+    "party_leader": "Mr John Swinburne", 
+    "nominating_officer": "Mr John Swinburne", 
+    "emblems": [
+        {
+            "image": "Emblem_221.gif", 
+            "primary": false, 
+            "id": "221", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "S.S.C.U.P\r\nThe Chapman Building\r\nFir Park Street\r\nMotherwell\r\nML1 2QN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Michael Parker", 
+    "party_id": "PP276", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.9810170753648357, 
+            55.78089683631277
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "All Scotland Pensioners Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,35 +87,5 @@
             "translation": "", 
             "description": "Abolish Pensioner Poverty"
         }
-    ], 
-    "party_leader": "Mr John Swinburne", 
-    "nominating_officer": "Mr John Swinburne", 
-    "emblems": [
-        {
-            "image": "raw_data/PP276/Emblem_221.gif", 
-            "id": "221", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "S.S.C.U.P\r\nThe Chapman Building\r\nFir Park Street\r\nMotherwell\r\nML1 2QN\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Michael Parker", 
-    "party_id": "PP276", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "All Scotland Pensioners Party", 
-    "alternative_names": [
-        ""
     ]
 }

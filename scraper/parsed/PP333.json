@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-24T00:00:00", 
     "campaigns_officer": "Mrs Margaret Dransfield", 
     "registered_date": "2005-01-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LL28 4XJ", 
     "party_leader": "The Reverend David Philip Griffiths", 
     "nominating_officer": "Mrs Elspeth Griffiths", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Sheila Deloram Standish", 
-    "party_id": "PP333", 
+    "party_name": "The Rhema Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.7294033251784464, 
+            53.297728858250196
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Rhema Party [De-registered 24/01/07]", 
+    "party_id": "PP333", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": null, 
+    "registered_date": "2014-12-15T00:00:00", 
+    "postcode": "WC2H 7HH", 
+    "party_leader": null, 
+    "nominating_officer": null, 
+    "emblems": [], 
+    "party_address": "St Vincent House\r\n30 Orange Street\r\nLondon\r\nWC2H 7HH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": null, 
+    "party_id": "TP2537", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -0.13014400995746214, 
+            51.509190090839255
+        ], 
+        "type": "Point"
+    }, 
+    "register": null, 
+    "party_name": "Independent Schools Council", 
+    "alternative_names": [], 
+    "descriptions": []
+}

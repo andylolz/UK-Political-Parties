@@ -9,14 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-07-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-07-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ME13 9TR", 
     "party_leader": "Ms Anne Emily Jane Belsey", 
     "nominating_officer": "Ms Anne Emily Jane Belsey", 
     "emblems": [
         {
-            "image": "raw_data/PP514/Emblem_318.gif", 
+            "image": "Emblem_318.gif", 
+            "primary": false, 
             "id": "318", 
             "description": "Emblem 1"
         }
@@ -31,15 +33,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Anne Emily Jane Belsey", 
-    "party_id": "PP514", 
+    "party_name": "Money Reform Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.965257791177597, 
+            51.29506839323774
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Money Reform Party [De-registered 07/03/14]", 
+    "party_id": "PP514", 
     "alternative_names": [
         "Plaid Diwygo Arian"
-    ]
+    ], 
+    "descriptions": []
 }

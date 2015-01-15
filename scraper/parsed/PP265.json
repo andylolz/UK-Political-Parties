@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2002-11-18T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Richmondshire Independents"
-        }
-    ], 
+    "postcode": "DL11 6DA", 
     "party_leader": "Ms Helen Grant", 
     "nominating_officer": "Mr Paul Cullen", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7921722428315128, 
+            54.391719745955676
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Richmondshire Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Richmondshire Independents"
+        }
     ]
 }

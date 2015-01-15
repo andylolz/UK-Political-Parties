@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-10-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT19 9TQ", 
     "party_leader": "Mr Trevor Patton", 
     "nominating_officer": "Mr David Childs", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robin Adamson", 
-    "party_id": "PP233", 
+    "party_name": "Independent Local Government Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2632553078068351, 
+            51.352123634503876
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Independent Local Government Party [De-registered 10/07/03]", 
+    "party_id": "PP233", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

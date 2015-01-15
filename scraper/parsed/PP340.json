@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-01-07T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GU22 8XU", 
     "party_leader": "Mr Michael Osman", 
     "nominating_officer": "Mr Michael Osman", 
     "emblems": [
         {
-            "image": "raw_data/PP340/Emblem_253.gif", 
+            "image": "Emblem_253.gif", 
+            "primary": false, 
             "id": "253", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5558337141116062, 
+            51.31775299983414
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "UK Community Issues Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mrs Enid Catherine Hetherington", 
     "registered_date": "2002-03-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE33 4BQ", 
     "party_leader": "Mrs Enid Catherine Hetherington", 
     "nominating_officer": "Mrs Enid Catherine Hetherington", 
     "emblems": [
         {
-            "image": "raw_data/PP203/Emblem_185.gif", 
+            "image": "Emblem_185.gif", 
+            "primary": false, 
             "id": "185", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.43004623054515, 
+            54.98350128631653
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "South Tyneside Progressives", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

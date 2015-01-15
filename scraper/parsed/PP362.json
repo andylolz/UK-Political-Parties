@@ -11,6 +11,57 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2004-02-27T00:00:00", 
+    "postcode": "BD1 2HS", 
+    "party_leader": "Mr George Galloway", 
+    "nominating_officer": "Mr George Galloway", 
+    "emblems": [
+        {
+            "image": "Emblem_615.jpg", 
+            "primary": false, 
+            "id": "615", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_616.gif", 
+            "primary": false, 
+            "id": "616", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_617.gif", 
+            "primary": false, 
+            "id": "617", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "2 Grattan Road\r\nBradford\r\nBD1 2HS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ronald McKay", 
+    "party_id": "PP362", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7631900053944125, 
+            53.79489547841839
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Respect Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "George Galloway (Respect) \u2013 Coalition Against Cuts"
         }
-    ], 
-    "party_leader": "Mr George Galloway", 
-    "nominating_officer": "Mr George Galloway", 
-    "emblems": [
-        {
-            "image": "raw_data/PP362/Emblem_615.jpg", 
-            "id": "615", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP362/Emblem_616.gif", 
-            "id": "616", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP362/Emblem_617.gif", 
-            "id": "617", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "2 Grattan Road\r\nBradford\r\nBD1 2HS\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Ronald McKay", 
-    "party_id": "PP362", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Respect Party", 
-    "alternative_names": [
-        ""
     ]
 }

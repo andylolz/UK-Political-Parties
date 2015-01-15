@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2003-05-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "L5 9SG", 
     "party_leader": "Mr Roger Standring Taylor", 
     "nominating_officer": "Mr Roger Standring Taylor", 
     "emblems": [
         {
-            "image": "raw_data/PP334/Emblem_252.gif", 
+            "image": "Emblem_252.gif", 
+            "primary": false, 
             "id": "252", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.9941479000176625, 
+            53.42772868437975
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Alternative Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

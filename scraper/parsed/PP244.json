@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2002-12-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CO15 6NX", 
     "party_leader": "Mrs Joyce A Broderick", 
     "nominating_officer": "Mr Michael Kevin Holden", 
     "emblems": [
         {
-            "image": "raw_data/PP244/Emblem_205.gif", 
+            "image": "Emblem_205.gif", 
+            "primary": false, 
             "id": "205", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP244/Emblem_206.gif", 
+            "image": "Emblem_206.gif", 
+            "primary": false, 
             "id": "206", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP244/Emblem_207.gif", 
+            "image": "Emblem_207.gif", 
+            "primary": false, 
             "id": "207", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.1775375512919048, 
+            51.8043962155043
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Holland-on-Sea Residents' Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-05-07T00:00:00", 
     "campaigns_officer": "Mrs Julie Briorley", 
     "registered_date": "2001-11-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "M40 2NQ", 
     "party_leader": "Mr Damien O'Connor", 
     "nominating_officer": "Mr Derek Froggatt", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Terence Boucher", 
-    "party_id": "PP206", 
+    "party_name": "The Independent and Progressive Labour Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1829584540482503, 
+            53.49301989008492
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Independent and Progressive Labour Party [De-registered 05/07/07]", 
+    "party_id": "PP206", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

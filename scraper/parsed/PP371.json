@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-06-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NW1 9JB", 
     "party_leader": "Mr Daniel James Thompson", 
     "nominating_officer": "Miss Emma Fulton", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Rod McLaren", 
-    "party_id": "PP371", 
+    "party_name": "Your Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13724921661207276, 
+            51.54378936010389
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Your Party [De-registered 21/06/05]", 
+    "party_id": "PP371", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

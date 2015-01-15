@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2004-01-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "OX2 7LH", 
     "party_leader": "Mr Christopher Prior", 
     "nominating_officer": "Mr Christopher Prior", 
     "emblems": [
         {
-            "image": "raw_data/PP378/Emblem_280.gif", 
+            "image": "Emblem_280.gif", 
+            "primary": false, 
             "id": "280", 
             "description": "Sunrise"
         }, 
         {
-            "image": "raw_data/PP378/Emblem_281.gif", 
+            "image": "Emblem_281.gif", 
+            "primary": false, 
             "id": "281", 
             "description": "Sunrise dark sun"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2676734795569062, 
+            51.7787441958587
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Peoples Party For Better Government", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

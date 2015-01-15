@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-01-27T00:00:00", 
+    "postcode": "E1 4JP", 
+    "party_leader": "Mr Dave Nellist", 
+    "nominating_officer": "Mr Clive Heemskerk", 
+    "emblems": [
+        {
+            "image": "Emblem_487.gif", 
+            "primary": false, 
+            "id": "487", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_488.gif", 
+            "primary": false, 
+            "id": "488", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_606.gif", 
+            "primary": false, 
+            "id": "606", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "17 Colebert House\r\nColbert Avenue\r\nLondon\r\nE1 4JP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Clive Heemskerk", 
+    "party_id": "PP804", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.05050133876908413, 
+            51.52457456604802
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Trade Unionist and Socialist Coalition", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,45 +91,5 @@
             "translation": "", 
             "description": "Scottish Anti-Cuts Coalition"
         }
-    ], 
-    "party_leader": "Mr Dave Nellist", 
-    "nominating_officer": "Mr Clive Heemskerk", 
-    "emblems": [
-        {
-            "image": "raw_data/PP804/Emblem_487.gif", 
-            "id": "487", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP804/Emblem_488.gif", 
-            "id": "488", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP804/Emblem_606.gif", 
-            "id": "606", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "17 Colebert House\r\nColbert Avenue\r\nLondon\r\nE1 4JP\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Clive Heemskerk", 
-    "party_id": "PP804", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Trade Unionist and Socialist Coalition", 
-    "alternative_names": [
-        ""
     ]
 }

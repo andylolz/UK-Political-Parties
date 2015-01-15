@@ -1,24 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-11-10T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Bristol 1st - People Pride Passion"
-        }
-    ], 
+    "postcode": "BS1 5RH", 
     "party_leader": "Mr George Robin Paget Ferguson", 
     "nominating_officer": "Mr Jason Budd", 
     "emblems": [
         {
-            "image": "raw_data/PP1957/Emblem_757.jpg", 
+            "image": "Emblem_757.jpg", 
+            "primary": false, 
             "id": "757", 
             "description": "Bristol 1st - People Pride Passion"
         }, 
         {
-            "image": "raw_data/PP1957/Emblem_758.jpg", 
+            "image": "Emblem_758.jpg", 
+            "primary": false, 
             "id": "758", 
             "description": "Bristol 1st"
         }
@@ -33,15 +31,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert Porter", 
-    "party_id": "PP1957", 
+    "party_name": "Bristol 1st", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.60415864434255, 
+            51.45395409510337
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Bristol 1st [De-registered 03/11/14]", 
+    "party_id": "PP1957", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Bristol 1st - People Pride Passion"
+        }
     ]
 }

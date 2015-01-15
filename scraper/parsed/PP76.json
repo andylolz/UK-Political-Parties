@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-07-19T00:00:00", 
     "campaigns_officer": "Mrs Shahidah Parvin Khokhar", 
     "registered_date": "2000-03-31T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BD9 6PZ", 
     "party_leader": "Mr Mohammed Makhan Khokhar", 
     "nominating_officer": "Mr Farhan Hussain Khokhar", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mohammed Makhan Khokhar", 
-    "party_id": "PP76", 
+    "party_name": "Asian League", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8185943066907848, 
+            53.81724614478461
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Asian League [De-registered 19/07/07]", 
+    "party_id": "PP76", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

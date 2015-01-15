@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-08-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-05T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SE3 8QP", 
     "party_leader": "Mr Sidney Victor Fagan", 
     "nominating_officer": "Mr Sidney Victor Fagan", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Ronald Stephen Mallone", 
-    "party_id": "PP159", 
+    "party_name": "Fellowship Party - Peacemaking, Social Justice, Environmentalist", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.03245507213185456, 
+            51.46644920978401
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Fellowship Party - Peacemaking, Social Justice, Environmentalist [De-registered 20/08/07]", 
+    "party_id": "PP159", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -9,27 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-02-18T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Protect our communities"
-        }, 
-        {
-            "translation": "", 
-            "description": "Protect public money"
-        }, 
-        {
-            "translation": "", 
-            "description": "Change banking practices"
-        }
-    ], 
+    "postcode": "G81 4SE", 
     "party_leader": "Mr William McLaughlin", 
     "nominating_officer": "Mr William McLaughlin", 
     "emblems": [
         {
-            "image": "raw_data/PP904/Emblem_725.jpg", 
+            "image": "Emblem_725.jpg", 
+            "primary": false, 
             "id": "725", 
             "description": "Emblem 1"
         }
@@ -44,15 +33,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr William McLaughlin", 
-    "party_id": "PP904", 
+    "party_name": "Ban Bankers Bonuses", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.428602741653049, 
+            55.90913960817579
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Ban Bankers Bonuses [De-registered 03/11/14]", 
+    "party_id": "PP904", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Protect our communities"
+        }, 
+        {
+            "translation": "", 
+            "description": "Protect public money"
+        }, 
+        {
+            "translation": "", 
+            "description": "Change banking practices"
+        }
     ]
 }

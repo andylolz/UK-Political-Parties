@@ -9,19 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "Mr Ian Thomson", 
     "registered_date": "2012-09-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "A party for  independent minded persons"
-        }
-    ], 
+    "postcode": "PH1 5DW", 
     "party_leader": "Mr Ian Thomson", 
     "nominating_officer": "Mrs Angela Thomson", 
     "emblems": [
         {
-            "image": "raw_data/PP1831/Emblem_698.png", 
+            "image": "Emblem_698.png", 
+            "primary": false, 
             "id": "698", 
             "description": "Thistle"
         }
@@ -36,15 +33,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Angela Thomson", 
-    "party_id": "PP1831", 
+    "party_name": "Perth Independent Candidates Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.437169563754063, 
+            56.40710929883153
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Perth Independent Candidates Party [De-registered 05/11/13]", 
+    "party_id": "PP1831", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A party for  independent minded persons"
+        }
     ]
 }

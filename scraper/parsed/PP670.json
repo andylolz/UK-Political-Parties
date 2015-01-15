@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-12-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BH1 3PJ", 
     "party_leader": "Mr Peter Storms", 
     "nominating_officer": "Mr Rodney Bristow", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.853038421121618, 
+            50.72360671680132
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Nationwide Reform Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

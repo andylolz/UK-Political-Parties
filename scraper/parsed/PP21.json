@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "Ms Irene Southern", 
     "registered_date": "2000-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WA7 2UN", 
     "party_leader": "Mr Joseph Glover", 
     "nominating_officer": "Ms Irene Southern", 
     "emblems": [
         {
-            "image": "raw_data/PP21/Emblem_16.gif", 
+            "image": "Emblem_16.gif", 
+            "primary": false, 
             "id": "16", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP21/Emblem_17.gif", 
+            "image": "Emblem_17.gif", 
+            "primary": false, 
             "id": "17", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.6898424047982106, 
+            53.32394175179791
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Citizens Party of Halton", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

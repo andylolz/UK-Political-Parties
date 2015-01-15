@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-07-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-10-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IV2 5EE", 
     "party_leader": "Mr James Crawford", 
     "nominating_officer": "Mr James Crawford", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Richard Ormrod", 
-    "party_id": "PP47", 
+    "party_name": "The Countryside Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.070019395281555, 
+            57.484438099363
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Countryside Party [De-registered 07/07/08]", 
+    "party_id": "PP47", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

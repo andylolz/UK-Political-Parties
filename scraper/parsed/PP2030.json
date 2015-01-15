@@ -3,26 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-28T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Putting Hackney First"
-        }, 
-        {
-            "translation": "", 
-            "description": "Let's Put Hackney First"
-        }
-    ], 
+    "postcode": "E8 2JN", 
     "party_leader": "Mr Mustafa Korel", 
     "nominating_officer": "Ms Yesim Yurtseven", 
     "emblems": [
         {
-            "image": "raw_data/PP2030/Emblem_816.jpg", 
+            "image": "Emblem_816.jpg", 
+            "primary": false, 
             "id": "816", 
             "description": "Hackney First black background"
         }, 
         {
-            "image": "raw_data/PP2030/Emblem_817.jpg", 
+            "image": "Emblem_817.jpg", 
+            "primary": false, 
             "id": "817", 
             "description": "Hackney First white background"
         }
@@ -43,9 +36,26 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.06728040427494612, 
+            51.55080476551824
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Hackney First", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Putting Hackney First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Let's Put Hackney First"
+        }
     ]
 }

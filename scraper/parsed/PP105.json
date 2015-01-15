@@ -3,6 +3,51 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-02-02T00:00:00", 
+    "postcode": "SY21 0WE", 
+    "party_leader": "Mr Nicholas John Griffin", 
+    "nominating_officer": "Mr Clive Jefferson", 
+    "emblems": [
+        {
+            "image": "Emblem_121.gif", 
+            "primary": false, 
+            "id": "121", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_652.gif", 
+            "primary": false, 
+            "id": "652", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "PO Box 14\r\nWelshpool\r\nPowys\r\nSY21 0WE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Clive Jefferson", 
+    "party_id": "PP105", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.145848431749314, 
+            52.65934196310446
+        ]
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "British National Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,40 +97,5 @@
             "translation": "", 
             "description": "British jobs for British workers"
         }
-    ], 
-    "party_leader": "Mr Nicholas John Griffin", 
-    "nominating_officer": "Mr Clive Jefferson", 
-    "emblems": [
-        {
-            "image": "raw_data/PP105/Emblem_121.gif", 
-            "id": "121", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP105/Emblem_652.gif", 
-            "id": "652", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "PO Box 14\r\nWelshpool\r\nPowys\r\nSY21 0WE\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Clive Jefferson", 
-    "party_id": "PP105", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Northern Ireland", 
-    "party_name": "British National Party", 
-    "alternative_names": [
-        ""
     ]
 }

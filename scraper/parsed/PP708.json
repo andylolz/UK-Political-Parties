@@ -9,19 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-05-15T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-03-28T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Liverpool Independent Party - Representing Local people"
-        }
-    ], 
+    "postcode": "L18 2EB", 
     "party_leader": "Mr Jeffrey Berman", 
     "nominating_officer": "Mr Jeffrey Berman", 
     "emblems": [
         {
-            "image": "raw_data/PP708/Emblem_416.gif", 
+            "image": "Emblem_416.gif", 
+            "primary": false, 
             "id": "416", 
             "description": "Emblem 1"
         }
@@ -36,15 +33,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jeffrey Berman", 
-    "party_id": "PP708", 
+    "party_name": "The Liverpool Independent Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.908634504307002, 
+            53.38757358493995
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Liverpool Independent Party [De-registered 15/05/14]", 
+    "party_id": "PP708", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Liverpool Independent Party - Representing Local people"
+        }
     ]
 }

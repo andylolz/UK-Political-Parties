@@ -9,32 +9,22 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2013-01-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-11-15T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Supporting and protecting our community"
-        }, 
-        {
-            "translation": "", 
-            "description": "Representing the interests of our community"
-        }, 
-        {
-            "translation": "", 
-            "description": "Representing our community"
-        }
-    ], 
+    "postcode": "AL10 8QY", 
     "party_leader": "Mr Arya Hussain", 
     "nominating_officer": "Mr Arya Hussain", 
     "emblems": [
         {
-            "image": "raw_data/PP1950/Emblem_759.jpg", 
+            "image": "Emblem_759.jpg", 
+            "primary": false, 
             "id": "759", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1950/Emblem_760.jpg", 
+            "image": "Emblem_760.jpg", 
+            "primary": false, 
             "id": "760", 
             "description": "Emblem 2"
         }
@@ -49,15 +39,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Arya Hussain", 
-    "party_id": "PP1950", 
+    "party_name": "The Community Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.23083505170254298, 
+            51.75124063714221
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Community Party [De-registered 21/01/13]", 
+    "party_id": "PP1950", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Supporting and protecting our community"
+        }, 
+        {
+            "translation": "", 
+            "description": "Representing the interests of our community"
+        }, 
+        {
+            "translation": "", 
+            "description": "Representing our community"
+        }
     ]
 }

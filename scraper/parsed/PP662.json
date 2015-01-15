@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-12-31T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BD22 0NH", 
     "party_leader": "Mr Alan Perrow", 
     "nominating_officer": "Mr Alan Perrow", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Kerwin-Davey", 
-    "party_id": "PP662", 
+    "party_name": "Craven Ratepayers Action Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.0657069258560794, 
+            53.879650800304326
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Craven Ratepayers Action Group [De-registered 31/12/07]", 
+    "party_id": "PP662", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

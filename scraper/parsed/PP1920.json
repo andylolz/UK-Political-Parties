@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2012-07-24T00:00:00", 
+    "postcode": "SW6 3RW", 
+    "party_leader": "Mr Matthew Wallis", 
+    "nominating_officer": "Mr Matthew Wallis", 
+    "emblems": [
+        {
+            "image": "Emblem_740.png", 
+            "primary": false, 
+            "id": "740", 
+            "description": "Fulham Group Emblem"
+        }
+    ], 
+    "party_address": "PO Box 63754\r\nFulham\r\nLondon\r\nSW6 3RW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Matthew Wallis", 
+    "party_id": "PP1920", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.19823529277309185, 
+            51.47921388458994
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Fulham Group", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -60,35 +99,5 @@
             "translation": "", 
             "description": "CHANGE ONE DO ALL. ELECTION NOW."
         }
-    ], 
-    "party_leader": "Mr Matthew Wallis", 
-    "nominating_officer": "Mr Matthew Wallis", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1920/Emblem_740.png", 
-            "id": "740", 
-            "description": "Fulham Group Emblem"
-        }
-    ], 
-    "party_address": "PO Box 63754\r\nFulham\r\nLondon\r\nSW6 3RW\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Matthew Wallis", 
-    "party_id": "PP1920", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Fulham Group", 
-    "alternative_names": [
-        ""
     ]
 }

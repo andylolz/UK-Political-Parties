@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-12-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "N15 4SJ", 
     "party_leader": "Mr Gregory Sams", 
     "nominating_officer": "Ms Charlotte Regan", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Gregory Sams", 
-    "party_id": "PP178", 
+    "party_name": "One Less Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.07610517583249166, 
+            51.58573282465953
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "One Less Party [De-registered 12/01/04]", 
+    "party_id": "PP178", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

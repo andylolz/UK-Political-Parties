@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2004-11-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BH21 1PQ", 
     "party_leader": "Mr Damien Stone", 
     "nominating_officer": "Mr Damien Stone", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Damien Stone", 
-    "party_id": "PP318", 
+    "party_name": "Dorset Stop The War", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9881852348762705, 
+            50.798229154463286
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Dorset Stop The War [De-registered 11/05/04]", 
+    "party_id": "PP318", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

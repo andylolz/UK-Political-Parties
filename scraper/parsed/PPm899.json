@@ -1,24 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-09-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-01-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BA2 8TY", 
     "party_leader": "Mr Andrew Fraser", 
     "nominating_officer": "Ms Karen Walker", 
     "emblems": [
         {
-            "image": "raw_data/PPm899/Emblem_589.gif", 
+            "image": "Emblem_589.gif", 
+            "primary": false, 
             "id": "589", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PPm899/Emblem_590.gif", 
+            "image": "Emblem_590.gif", 
+            "primary": false, 
             "id": "590", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PPm899/Emblem_591.gif", 
+            "image": "Emblem_591.gif", 
+            "primary": false, 
             "id": "591", 
             "description": "Emblem 3"
         }
@@ -33,15 +37,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm899", 
+    "party_name": "Peasedown 1st", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.4149955226729953, 
+            51.31927184340109
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "Peasedown 1st [De-registered 27/09/11]", 
+    "party_id": "PPm899", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

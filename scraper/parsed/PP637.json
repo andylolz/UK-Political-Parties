@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-09-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CT18 7BL", 
     "party_leader": "Mr Colin Desmond Tearle", 
     "nominating_officer": "Mr Colin Desmond Tearle", 
     "emblems": [
         {
-            "image": "raw_data/PP637/Emblem_374.gif", 
+            "image": "Emblem_374.gif", 
+            "primary": false, 
             "id": "374", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Callahan", 
-    "party_id": "PP637", 
+    "party_name": "Shepway Independents", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.1611567200034623, 
+            51.1333213173427
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Shepway Independents [De-registered 09/05/12]", 
+    "party_id": "PP637", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

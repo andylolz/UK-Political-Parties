@@ -9,18 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-13T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Cut The Deficit Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "Cut The Deficit"
-        }
-    ], 
+    "postcode": "NN13 5JU", 
     "party_leader": "Mr Simon Strutt", 
     "nominating_officer": "Mr Simon Strutt", 
     "emblems": [], 
@@ -34,15 +26,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Simon Strutt", 
-    "party_id": "PP861", 
+    "party_name": "Cut The Deficit", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.1266213724403895, 
+            52.03364962141036
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Cut The Deficit [De-registered 05/12/12]", 
+    "party_id": "PP861", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Cut The Deficit Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Cut The Deficit"
+        }
     ]
 }

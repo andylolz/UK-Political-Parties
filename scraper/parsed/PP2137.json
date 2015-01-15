@@ -11,21 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2013-08-21T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Equality at the top, fairness, justice"
-        }, 
-        {
-            "translation": "", 
-            "description": "All People's Party"
-        }
-    ], 
+    "postcode": "SE1 2LY", 
     "party_leader": "Mr Prem Goyal", 
     "nominating_officer": "Mr Adedokun Lasaki", 
     "emblems": [
         {
-            "image": "raw_data/PP2137/Emblem_940.jpg", 
+            "image": "Emblem_940.jpg", 
+            "primary": false, 
             "id": "940", 
             "description": "Emblem 1"
         }
@@ -46,9 +38,26 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.07506574919234356, 
+            51.504063521157356
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "All People's Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Equality at the top, fairness, justice"
+        }, 
+        {
+            "translation": "", 
+            "description": "All People's Party"
+        }
     ]
 }

@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2008-09-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-08-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TW8 0LF", 
     "party_leader": "Dr Neil Vandenbegin", 
     "nominating_officer": "Dr Neil Vandenbegin", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Neil Vandenbegin", 
-    "party_id": "PP404", 
+    "party_name": "BIG (Brentford Issues Governance)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.30132120511393184, 
+            51.48844099037185
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "BIG (Brentford Issues Governance) [De-registered 09/12/08]", 
+    "party_id": "PP404", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-05-29T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW1P 3HL", 
     "party_leader": "Mr John C C Stevens", 
     "nominating_officer": "Mr Brendan Patrick Donnelly", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mark Littlewood", 
-    "party_id": "PP16", 
+    "party_name": "The Pro Euro Conservative Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1279739550692571, 
+            51.496035364063026
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Pro Euro Conservative Party [De-registered 29/05/02]", 
+    "party_id": "PP16", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

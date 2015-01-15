@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-06-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-06-02T00:00:00", 
+    "postcode": "NW3 2NP", 
+    "party_leader": "Mr Tom Loader", 
+    "nominating_officer": "Mr Alexander Hilton", 
+    "emblems": [
+        {
+            "image": "Emblem_761.jpg", 
+            "primary": false, 
+            "id": "761", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Flat 1\r\n57 Roderick Road\r\nLondon\r\nNW3 2NP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/07", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-01-06T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Alexander Hilton", 
+    "party_name": "Something New", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.15837196056368666, 
+            51.55498570250918
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP1958", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -20,35 +60,5 @@
             "translation": "", 
             "description": "No more of the same"
         }
-    ], 
-    "party_leader": "Mr Tom Loader", 
-    "nominating_officer": "Mr Alexander Hilton", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1958/Emblem_761.jpg", 
-            "id": "761", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "Flat 1\r\n57 Roderick Road\r\nLondon\r\nNW3 2NP\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/07", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2014-01-06T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Alexander Hilton", 
-    "party_id": "PP1958", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Something New [De-registered 30/06/14]", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-02-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SK17 0TF", 
     "party_leader": "Mr Peter John Brady", 
     "nominating_officer": "Mr James Ross Steel", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Richard Peter Gatrell", 
-    "party_id": "PP466", 
+    "party_name": "Humanitas", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9556406167425957, 
+            53.208859726280956
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Humanitas [De-registered 02/11/07]", 
+    "party_id": "PP466", 
     "alternative_names": [
         "Humanity"
-    ]
+    ], 
+    "descriptions": []
 }

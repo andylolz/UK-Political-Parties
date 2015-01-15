@@ -11,17 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2013-06-02T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "A Firmer Footing"
-        }
-    ], 
+    "postcode": "TA19 0RN", 
     "party_leader": "Mr Thomas Fox", 
     "nominating_officer": "Mr Thomas Fox", 
     "emblems": [
         {
-            "image": "raw_data/PP2012/Emblem_796.jpg", 
+            "image": "Emblem_796.jpg", 
+            "primary": false, 
             "id": "796", 
             "description": "Emblem 1"
         }
@@ -42,9 +38,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.9357719834587432, 
+            50.92533621740511
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Reform", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A Firmer Footing"
+        }
     ]
 }

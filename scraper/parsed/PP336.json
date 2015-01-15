@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2004-05-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-11-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PE13 2PD", 
     "party_leader": "Mr John Smithee", 
     "nominating_officer": "Mr John Smithee", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Smithee", 
-    "party_id": "PP336", 
+    "party_name": "Fenland Workers Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.1558584937614509, 
+            52.66234033427542
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Fenland Workers Party [De-registered 20/05/04]", 
+    "party_id": "PP336", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

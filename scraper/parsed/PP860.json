@@ -3,20 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "Ms Dorothee Gnaedinger", 
     "registered_date": "2010-04-13T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "U"
-        }, 
-        {
-            "translation": "", 
-            "description": "U(niversal)"
-        }, 
-        {
-            "translation": "", 
-            "description": "Universal"
-        }
-    ], 
+    "postcode": "NW3 6XU", 
     "party_leader": "Mr Robin Ellison", 
     "nominating_officer": "Mr Alex Beveridge", 
     "emblems": [], 
@@ -36,9 +23,30 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1818531567908859, 
+            51.55723132722121
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The U(niversal) Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "U"
+        }, 
+        {
+            "translation": "", 
+            "description": "U(niversal)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Universal"
+        }
     ]
 }

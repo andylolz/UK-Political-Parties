@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
+    "postcode": "TS12 3JH", 
+    "party_leader": "Mr Stephen Metcalfe Kay", 
+    "nominating_officer": "na Sarah Rebecca Brewer", 
+    "emblems": [
+        {
+            "image": "Emblem_7.gif", 
+            "primary": false, 
+            "id": "7", 
+            "description": "Pit Head Winding Gear"
+        }
+    ], 
+    "party_address": "Top Cat\r\nHigh Street\r\nMoorsholm\r\nSaltburn by the Sea\r\nTS12 3JH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Angela Jean Whitaker", 
+    "party_id": "PP12", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9366896607143017, 
+            54.52095236077074
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "East Cleveland Independent", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,35 +91,5 @@
             "translation": "", 
             "description": "Boosbeck Independent"
         }
-    ], 
-    "party_leader": "Mr Stephen Metcalfe Kay", 
-    "nominating_officer": "na Sarah Rebecca Brewer", 
-    "emblems": [
-        {
-            "image": "raw_data/PP12/Emblem_7.gif", 
-            "id": "7", 
-            "description": "Pit Head Winding Gear"
-        }
-    ], 
-    "party_address": "Top Cat\r\nHigh Street\r\nMoorsholm\r\nSaltburn by the Sea\r\nTS12 3JH\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Angela Jean Whitaker", 
-    "party_id": "PP12", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "East Cleveland Independent", 
-    "alternative_names": [
-        ""
     ]
 }

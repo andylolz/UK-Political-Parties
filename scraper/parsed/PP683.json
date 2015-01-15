@@ -9,14 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-03-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-10-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BR7 6PE", 
     "party_leader": "Mr John Hemming-Clark", 
     "nominating_officer": "Mr John Hemming-Clark", 
     "emblems": [
         {
-            "image": "raw_data/PP683/Emblem_404.gif", 
+            "image": "Emblem_404.gif", 
+            "primary": false, 
             "id": "404", 
             "description": "Emblem 1"
         }
@@ -31,15 +33,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Hemming-Clark", 
-    "party_id": "PP683", 
+    "party_name": "Independents to Save Queen Mary's Hospital", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.08216949862697173, 
+            51.4113856925386
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Independents to Save Queen Mary's Hospital [De-registered 03/03/14]", 
+    "party_id": "PP683", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Miss Lisa Martin", 
     "registered_date": "2007-03-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST9 0LJ", 
     "party_leader": "Mr William Donald Day", 
     "nominating_officer": "Miss Lisa Martin", 
     "emblems": [
         {
-            "image": "raw_data/PP638/Emblem_375.gif", 
+            "image": "Emblem_375.gif", 
+            "primary": false, 
             "id": "375", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.097122766346576, 
+            53.02581226632536
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Staffordshire Independent Group", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

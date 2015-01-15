@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-04-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-02T00:00:00", 
+    "postcode": "BA4 6ER", 
+    "party_leader": "Mr T.N. Warry", 
+    "nominating_officer": "Mr T.N. Warry", 
+    "emblems": [
+        {
+            "image": "Emblem_495.gif", 
+            "primary": false, 
+            "id": "495", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Higher Farm\r\nWestcome\r\nNr. Shepton Mallet\r\nSomerset\r\nBA4 6ER\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr P. J. Underwood", 
+    "party_name": "INDEPENDENT Leave-the-EU Alliance", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.4633889265485682, 
+            51.15177732314858
+        ]
+    }, 
+    "register": "Northern Ireland", 
+    "party_id": "PP812", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -32,35 +72,5 @@
             "translation": "", 
             "description": "Independent Alliance to Leave-the-EU"
         }
-    ], 
-    "party_leader": "Mr T.N. Warry", 
-    "nominating_officer": "Mr T.N. Warry", 
-    "emblems": [
-        {
-            "image": "raw_data/PP812/Emblem_495.gif", 
-            "id": "495", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "Higher Farm\r\nWestcome\r\nNr. Shepton Mallet\r\nSomerset\r\nBA4 6ER\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr P. J. Underwood", 
-    "party_id": "PP812", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Northern Ireland", 
-    "party_name": "INDEPENDENT Leave-the-EU Alliance [De-registered 21/04/11]", 
-    "alternative_names": [
-        ""
     ]
 }

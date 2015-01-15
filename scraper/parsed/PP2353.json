@@ -3,29 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-09T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Forest Heath Independent"
-        }, 
-        {
-            "translation": "", 
-            "description": "West Suffolk Independent"
-        }, 
-        {
-            "translation": "", 
-            "description": "Independent of West Suffolk"
-        }, 
-        {
-            "translation": "", 
-            "description": "Independent (West Suffolk)"
-        }
-    ], 
+    "postcode": "CB8 7DU", 
     "party_leader": "Mr Simon Cole", 
     "nominating_officer": "Mr Andrew Burton", 
     "emblems": [
         {
-            "image": "raw_data/PP2353/Emblem_995.png", 
+            "image": "Emblem_995.png", 
+            "primary": false, 
             "id": "995", 
             "description": "Emblem 1BW"
         }
@@ -46,9 +30,34 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.3630361604940754, 
+            52.26674480021417
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "West Suffolk Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Forest Heath Independent"
+        }, 
+        {
+            "translation": "", 
+            "description": "West Suffolk Independent"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent of West Suffolk"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent (West Suffolk)"
+        }
     ]
 }

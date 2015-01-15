@@ -3,6 +3,42 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-25T00:00:00", 
+    "postcode": "EC1 8JY", 
+    "party_leader": "Mr Ian David Bone", 
+    "nominating_officer": "Mr David John Edwards", 
+    "emblems": [
+        {
+            "image": "Emblem_939.jpg", 
+            "primary": false, 
+            "id": "939", 
+            "description": "class war1"
+        }
+    ], 
+    "party_address": "Suite 34\r\n67-68 Hatton Garden\r\nLondon\r\nEC1 8JY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Lawrence Brian Stevens", 
+    "party_id": "PP2269", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Class War", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -24,35 +60,5 @@
             "translation": "", 
             "description": "Affordable housing for all"
         }
-    ], 
-    "party_leader": "Mr Ian David Bone", 
-    "nominating_officer": "Mr David John Edwards", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2269/Emblem_939.jpg", 
-            "id": "939", 
-            "description": "class war1"
-        }
-    ], 
-    "party_address": "Suite 34\r\n67-68 Hatton Garden\r\nLondon\r\nEC1 8JY\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Lawrence Brian Stevens", 
-    "party_id": "PP2269", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Class War", 
-    "alternative_names": [
-        ""
     ]
 }

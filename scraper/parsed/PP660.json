@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-26T00:00:00", 
+    "postcode": "TD1 2NE", 
+    "party_leader": "Ms Frances Lucea Pringle", 
+    "nominating_officer": "Mrs Violet Margaret Baillie", 
+    "emblems": [
+        {
+            "image": "Emblem_393.gif", 
+            "primary": false, 
+            "id": "393", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "North Lodge\r\nTorwoodlee\r\nGalashiels\r\nTD1 2NE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Frances Lucea Pringle", 
+    "party_id": "PP660", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.8308526963978116, 
+            55.63675398714464
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Borders Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -32,35 +71,5 @@
             "translation": "", 
             "description": "Best for the Borders"
         }
-    ], 
-    "party_leader": "Ms Frances Lucea Pringle", 
-    "nominating_officer": "Mrs Violet Margaret Baillie", 
-    "emblems": [
-        {
-            "image": "raw_data/PP660/Emblem_393.gif", 
-            "id": "393", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "North Lodge\r\nTorwoodlee\r\nGalashiels\r\nTD1 2NE\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Frances Lucea Pringle", 
-    "party_id": "PP660", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Borders Party", 
-    "alternative_names": [
-        ""
     ]
 }

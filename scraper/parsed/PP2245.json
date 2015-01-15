@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-12-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "G64 1PL", 
     "party_leader": "Mr Marc Conaghan", 
     "nominating_officer": "Mr John George Watson", 
     "emblems": [
         {
-            "image": "raw_data/PP2245/Emblem_989.png", 
+            "image": "Emblem_989.png", 
+            "primary": false, 
             "id": "989", 
             "description": "Blue and yellow swirls surrounding a rising phoenix"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.21762955564298, 
+            55.90405302705192
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Scottish Libertarian Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

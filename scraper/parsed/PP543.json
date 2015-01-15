@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-03-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CF48 1SD", 
     "party_leader": "Mr Stephen Paul Brown", 
     "nominating_officer": "Mr Malcolm Holmes Connolly", 
     "emblems": [
         {
-            "image": "raw_data/PP543/Emblem_331.gif", 
+            "image": "Emblem_331.gif", 
+            "primary": false, 
             "id": "331", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.4088781831707764, 
+            51.7476528924574
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Merthyr Independents", 
     "alternative_names": [
         "Annibynnwyr Merthyr"
-    ]
+    ], 
+    "descriptions": []
 }

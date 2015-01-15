@@ -9,28 +9,22 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-07-30T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "A Country Once Proud"
-        }, 
-        {
-            "translation": "", 
-            "description": "Bringing Back A Social Consciousness"
-        }
-    ], 
+    "postcode": "SG13 7TR", 
     "party_leader": "Mr Antony David Woodland", 
     "nominating_officer": "Mr Antony David Woodland", 
     "emblems": [
         {
-            "image": "raw_data/PP771/Emblem_453.gif", 
+            "image": "Emblem_453.gif", 
+            "primary": false, 
             "id": "453", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP771/Emblem_687.gif", 
+            "image": "Emblem_687.gif", 
+            "primary": false, 
             "id": "687", 
             "description": "Emblem 2"
         }
@@ -45,15 +39,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Antony David Woodland", 
-    "party_id": "PP771", 
+    "party_name": "RAW UK", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.05184338343056622, 
+            51.79725569677729
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "RAW UK [De-registered 05/12/12]", 
+    "party_id": "PP771", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A Country Once Proud"
+        }, 
+        {
+            "translation": "", 
+            "description": "Bringing Back A Social Consciousness"
+        }
     ]
 }

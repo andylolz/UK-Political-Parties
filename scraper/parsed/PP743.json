@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-11-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW1W 0AU", 
     "party_leader": "Mr Robin Matthews", 
     "nominating_officer": "Mr Nick Coke", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Millard", 
-    "party_id": "PP743", 
+    "party_name": "Libertas NI", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1457462832017151, 
+            51.49581413791926
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Libertas NI [De-registered 02/03/10]", 
+    "party_id": "PP743", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-07-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT7 1HB", 
     "party_leader": "Professor Monica McWilliams", 
     "nominating_officer": "Professor Monica McWilliams", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Avila Kilmurray", 
-    "party_id": "PP91", 
+    "party_name": "Northern Ireland Women's Coalition", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.931235075224677, 
+            54.586307750039786
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Northern Ireland Women's Coalition [De-registered 27/07/06]", 
+    "party_id": "PP91", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

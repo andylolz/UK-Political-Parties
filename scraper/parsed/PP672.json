@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-07-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-06-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT45 8JN", 
     "party_leader": "Mr Oliver Thomas Hughes", 
     "nominating_officer": "Mrs Anne Hughes", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Oliver Thomas Hughes", 
-    "party_id": "PP672", 
+    "party_name": "Independent Republican Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -6.53160009527315, 
+            54.8329778394366
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Independent Republican Party [De-registered 13/07/12]", 
+    "party_id": "PP672", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

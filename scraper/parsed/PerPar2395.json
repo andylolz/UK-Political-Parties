@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-05-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH2 4AT", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.2050573882887847, 
+            55.95129340301438
+        ]
+    }, 
     "register": null, 
     "party_name": "Wings Over Scotland", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

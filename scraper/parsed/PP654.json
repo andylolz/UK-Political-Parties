@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH16 5NX", 
     "party_leader": "Dr Ashok Joseph Jacob", 
     "nominating_officer": "Dr Ashok Joseph Jacob", 
     "emblems": [
         {
-            "image": "raw_data/PP654/Emblem_700.gif", 
+            "image": "Emblem_700.gif", 
+            "primary": false, 
             "id": "700", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.170254963368188, 
+            55.926784088206226
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Action To Save St.John's Hospital", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,6 +3,51 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2005-12-04T00:00:00", 
+    "postcode": "BH19 1AR", 
+    "party_leader": "Mr Andrew Kirkwood", 
+    "nominating_officer": "Mr Simon Paul Collis", 
+    "emblems": [
+        {
+            "image": "Emblem_310.gif", 
+            "primary": false, 
+            "id": "310", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_311.jpg", 
+            "primary": false, 
+            "id": "311", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "The Swanage Pitch and Putt\r\nKirkwood Park\r\nVictoria Avenue\r\nSwanage\r\nDorset\r\nBH19 1AR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew Kirkwood", 
+    "party_id": "PP481", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.968952360858368, 
+            50.61324595613109
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Movement for Active Democracy (M.A.D.)", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,40 +85,5 @@
             "translation": "", 
             "description": "Elections are farcical, end this nonsense"
         }
-    ], 
-    "party_leader": "Mr Andrew Kirkwood", 
-    "nominating_officer": "Mr Simon Paul Collis", 
-    "emblems": [
-        {
-            "image": "raw_data/PP481/Emblem_310.gif", 
-            "id": "310", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP481/Emblem_311.jpg", 
-            "id": "311", 
-            "description": "Emblem 2"
-        }
-    ], 
-    "party_address": "The Swanage Pitch and Putt\r\nKirkwood Park\r\nVictoria Avenue\r\nSwanage\r\nDorset\r\nBH19 1AR\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Andrew Kirkwood", 
-    "party_id": "PP481", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Movement for Active Democracy (M.A.D.)", 
-    "alternative_names": [
-        ""
     ]
 }

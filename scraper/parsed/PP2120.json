@@ -3,20 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-03-04T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "A voice for the region"
-        }, 
-        {
-            "translation": "", 
-            "description": "A voice for people not parties"
-        }, 
-        {
-            "translation": "", 
-            "description": "People before business and party politics"
-        }
-    ], 
+    "postcode": "HD9 5NX", 
     "party_leader": "Mr Richard Carter", 
     "nominating_officer": "Mr Stewart Arnold", 
     "emblems": [], 
@@ -36,9 +23,30 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.851448040290896, 
+            53.593072701599525
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Yorkshire First", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A voice for the region"
+        }, 
+        {
+            "translation": "", 
+            "description": "A voice for people not parties"
+        }, 
+        {
+            "translation": "", 
+            "description": "People before business and party politics"
+        }
     ]
 }

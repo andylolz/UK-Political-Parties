@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B13 9AH", 
     "party_leader": "Mr Alex Romane", 
     "nominating_officer": "Mr Alex Romane", 
     "emblems": [
         {
-            "image": "raw_data/PP846/Emblem_529.gif", 
+            "image": "Emblem_529.gif", 
+            "primary": false, 
             "id": "529", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8812246937873833, 
+            52.451242825848695
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "People's Administration", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

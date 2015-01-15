@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2007-05-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-07-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BH12 5DB", 
     "party_leader": "Dr Angus Michael Todd", 
     "nominating_officer": "Dr Angus Michael Todd", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Angus Michael Todd", 
-    "party_id": "PP447", 
+    "party_name": "National Republican And Democratic Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9177828998186686, 
+            50.74663742225913
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "National Republican And Democratic Party [De-registered 05/07/07]", 
+    "party_id": "PP447", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

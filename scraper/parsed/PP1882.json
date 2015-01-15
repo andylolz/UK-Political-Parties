@@ -1,23 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-06-19T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-02-29T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Working for Chipstead, Hooley, Netherne, Woodmansterne"
-        }, 
-        {
-            "translation": "", 
-            "description": "Working for Woodmansterne, Chipstead, Hooley, Netherne"
-        }
-    ], 
+    "postcode": "CR5 3PJ", 
     "party_leader": "Cllr Richard Mantle", 
     "nominating_officer": "Cllr Brian Cowle", 
     "emblems": [
         {
-            "image": "raw_data/PP1882/Emblem_709.gif", 
+            "image": "Emblem_709.gif", 
+            "primary": false, 
             "id": "709", 
             "description": "Emblem 1"
         }
@@ -32,15 +25,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Cllr Richard Wagner", 
-    "party_id": "PP1882", 
+    "party_name": "Downlands Residents Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.16790948735192068, 
+            51.31002406429216
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Downlands Residents Group [De-registered 19/06/12]", 
+    "party_id": "PP1882", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Working for Chipstead, Hooley, Netherne, Woodmansterne"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working for Woodmansterne, Chipstead, Hooley, Netherne"
+        }
     ]
 }

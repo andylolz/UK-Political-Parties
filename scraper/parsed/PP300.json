@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-03-26T00:00:00", 
     "campaigns_officer": "Mrs Carole Madeline Neal", 
     "registered_date": "2003-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GL3 4JA", 
     "party_leader": "Mr Godfrey Browning", 
     "nominating_officer": "Mr Godfrey Browning", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Carole Madeleine Neal", 
-    "party_id": "PP300", 
+    "party_name": "Brockworth Residents Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.150856552608136, 
+            51.843476490929895
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Brockworth Residents Group [De-registered 26/03/07]", 
+    "party_id": "PP300", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-07-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-05-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT78 1EL", 
     "party_leader": "Dr Kieran Deeny", 
     "nominating_officer": "Dr Kieran Deeny", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Brenda Given", 
-    "party_id": "PP669", 
+    "party_name": "Independent Health Coalition", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -7.297794483220678, 
+            54.600500414714
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Independent Health Coalition [De-registered 07/06/11]", 
+    "party_id": "PP669", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

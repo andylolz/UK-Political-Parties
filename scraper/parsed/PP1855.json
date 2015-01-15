@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "Miss Cayleigh Dornan", 
     "registered_date": "2012-02-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "G53 7NW", 
     "party_leader": "Mr Gerrard McCue", 
     "nominating_officer": "Ms Lesley Ingram", 
     "emblems": [
         {
-            "image": "raw_data/PP1855/Emblem_717.jpg", 
+            "image": "Emblem_717.jpg", 
+            "primary": false, 
             "id": "717", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.366847511218005, 
+            55.82891395267354
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Glasgow First", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

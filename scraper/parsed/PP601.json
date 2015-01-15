@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-02-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DA7 4PS", 
     "party_leader": "Miss Carolyn Jane Holliman", 
     "nominating_officer": "Mr John Anthony Ellis", 
     "emblems": [
         {
-            "image": "raw_data/PP601/Emblem_355.gif", 
+            "image": "Emblem_355.gif", 
+            "primary": false, 
             "id": "355", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.13661601102280324, 
+            51.46692623277499
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Animal Protection Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

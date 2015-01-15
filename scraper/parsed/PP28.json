@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT1 3EA", 
     "party_leader": "Dr Ciaran Mullholland", 
     "nominating_officer": "Ms Lucy Simpson", 
     "emblems": [
         {
-            "image": "raw_data/PP28/Emblem_21.gif", 
+            "image": "Emblem_21.gif", 
+            "primary": false, 
             "id": "21", 
             "description": "Socialist Party on two decks in black On lower deck following y of Party is a red stripe Behind the S and the P is a red half circle star design"
         }, 
         {
-            "image": "raw_data/PP28/Emblem_631.gif", 
+            "image": "Emblem_631.gif", 
+            "primary": false, 
             "id": "631", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.922062869168574, 
+            54.59994260683858
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Socialist Party (Northern Ireland)", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

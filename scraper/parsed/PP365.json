@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-02-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-02-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CF48 1SD", 
     "party_leader": "na Canon Steve Shelley Morgan", 
     "nominating_officer": "Mr Stephen Paul Brown", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "na Julian Amos", 
-    "party_id": "PP365", 
+    "party_name": "People Before Politics", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.4088781831707764, 
+            51.7476528924574
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "People Before Politics [De-registered 14/02/08]", 
+    "party_id": "PP365", 
     "alternative_names": [
         "Pobl Cyn Gwleidyddiaeth"
-    ]
+    ], 
+    "descriptions": []
 }

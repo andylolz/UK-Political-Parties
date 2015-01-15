@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-06-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-10T00:00:00", 
+    "postcode": "OX2 7LH", 
+    "party_leader": "Mr Christopher Moreton Prior", 
+    "nominating_officer": "Mr Christopher Moreton Prior", 
+    "emblems": [], 
+    "party_address": "13 Middle Way\r\nOxford\r\nOxfordshire\r\nOX2 7LH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Lily Prior", 
+    "party_name": "Stop Congestion Charging Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2676734795569062, 
+            51.7787441958587
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP518", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,29 +73,5 @@
             "translation": "", 
             "description": "No To Congestion Charging"
         }
-    ], 
-    "party_leader": "Mr Christopher Moreton Prior", 
-    "nominating_officer": "Mr Christopher Moreton Prior", 
-    "emblems": [], 
-    "party_address": "13 Middle Way\r\nOxford\r\nOxfordshire\r\nOX2 7LH\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Lily Prior", 
-    "party_id": "PP518", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Stop Congestion Charging Party [De-registered 06/01/11]", 
-    "alternative_names": [
-        ""
     ]
 }

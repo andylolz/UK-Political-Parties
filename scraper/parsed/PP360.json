@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-04-20T00:00:00", 
     "campaigns_officer": "Mr Terry Pattinson", 
     "registered_date": "2004-08-01T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT16 0QG", 
     "party_leader": "Mr Grahame Leon-Smith", 
     "nominating_officer": "Mr Grahame Leon-Smith", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Grahame Leon-Smith", 
-    "party_id": "PP360", 
+    "party_name": "Senior Citizens Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5451569431189099, 
+            51.3590479753507
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Senior Citizens Party [De-registered 20/04/10]", 
+    "party_id": "PP360", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

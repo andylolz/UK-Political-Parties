@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2008-02-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WF6 1XZ", 
     "party_leader": "Mr Harpal Brar", 
     "nominating_officer": "Mr Zane Cameron Carpenter", 
     "emblems": [
         {
-            "image": "raw_data/PP712/Emblem_417.gif", 
+            "image": "Emblem_417.gif", 
+            "primary": false, 
             "id": "417", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP712/Emblem_418.gif", 
+            "image": "Emblem_418.gif", 
+            "primary": false, 
             "id": "418", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3903175889180115, 
+            53.716442557179775
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Proletarian", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-07-29T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-06-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH9 3HN", 
     "party_leader": "Mr George Gordon Snowdon", 
     "nominating_officer": "Mr George Gordon Snowdon", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robin James Slack", 
-    "party_id": "PP690", 
+    "party_name": "Progressive Action Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.1860527793137905, 
+            55.92683064484933
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Progressive Action Party [De-registered 29/07/13]", 
+    "party_id": "PP690", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

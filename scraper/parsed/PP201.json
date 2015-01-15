@@ -1,8 +1,54 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-08-29T00:00:00", 
+    "postcode": "EH2 1AW", 
+    "party_leader": "Mr Alan Forrest Nissbet", 
+    "nominating_officer": "Mr Alan Forrest Nissbet", 
+    "emblems": [
+        {
+            "image": "Emblem_182.gif", 
+            "primary": false, 
+            "id": "182", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_183.gif", 
+            "primary": false, 
+            "id": "183", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "7-9 North St David Street\r\nEdinburgh\r\nEH2 1AW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Francis McManus", 
+    "party_name": "The Progressive Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.194418581895743, 
+            55.9552877140345
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP201", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,40 +94,5 @@
             "translation": "", 
             "description": "South East Progressives"
         }
-    ], 
-    "party_leader": "Mr Alan Forrest Nissbet", 
-    "nominating_officer": "Mr Alan Forrest Nissbet", 
-    "emblems": [
-        {
-            "image": "raw_data/PP201/Emblem_182.gif", 
-            "id": "182", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP201/Emblem_183.gif", 
-            "id": "183", 
-            "description": "Emblem 2"
-        }
-    ], 
-    "party_address": "7-9 North St David Street\r\nEdinburgh\r\nEH2 1AW\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2013-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Paul Francis McManus", 
-    "party_id": "PP201", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Progressive Party [De-registered 05/11/13]", 
-    "alternative_names": [
-        ""
     ]
 }

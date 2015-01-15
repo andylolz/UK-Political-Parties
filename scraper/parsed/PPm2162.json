@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-10-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "S11 8DH", 
     "party_leader": "Ms Oluwashola Oluwakemi Adesanya", 
     "nominating_officer": "Mr Ian Collins", 
     "emblems": [
         {
-            "image": "raw_data/PPm2162/Emblem_877.jpg", 
+            "image": "Emblem_877.jpg", 
+            "primary": false, 
             "id": "877", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4809706036725945, 
+            53.37003210099517
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "The Globalization Liberation Dream Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

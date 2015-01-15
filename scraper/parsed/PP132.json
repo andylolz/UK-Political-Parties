@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-10-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-05-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "W5 3LB", 
     "party_leader": "None", 
     "nominating_officer": "Mr Terry Dine", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PP132", 
+    "party_name": "Tax-Avoid For The Self-Employed", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.28823525775784675, 
+            51.510551773841826
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Tax-Avoid For The Self-Employed [De-registered 10/03/08]", 
+    "party_id": "PP132", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

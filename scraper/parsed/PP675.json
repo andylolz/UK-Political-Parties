@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-06-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RM14 2EU", 
     "party_leader": "Mr Jeremy Wilkes", 
     "nominating_officer": "Mrs Barbara Matthews", 
     "emblems": [
         {
-            "image": "raw_data/PP675/Emblem_401.gif", 
+            "image": "Emblem_401.gif", 
+            "primary": false, 
             "id": "401", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.24320955298940564, 
+            51.543587732100136
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Elm Park Residents' Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

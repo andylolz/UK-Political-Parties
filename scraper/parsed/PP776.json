@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "Mrs Carolyn Bullard", 
     "registered_date": "2009-01-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RH14 0HS", 
     "party_leader": "Mr Arthur Bullard", 
     "nominating_officer": "Mr Arthur Bullard", 
     "emblems": [
         {
-            "image": "raw_data/PP776/Emblem_457.gif", 
+            "image": "Emblem_457.gif", 
+            "primary": false, 
             "id": "457", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Arthur Bullard", 
-    "party_id": "PP776", 
+    "party_name": "Abolish Half Parliamentary Seats Now", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5404792228471179, 
+            50.99869302861755
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Abolish Half Parliamentary Seats Now [De-registered 23/11/11]", 
+    "party_id": "PP776", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

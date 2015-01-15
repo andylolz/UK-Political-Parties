@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "Mr Benjamin John Sherman", 
     "registered_date": "2010-01-22T00:00:00", 
+    "postcode": "CM2 9XH", 
+    "party_leader": "Mr David Peter Sherman", 
+    "nominating_officer": "Mr David Peter Sherman", 
+    "emblems": [
+        {
+            "image": "Emblem_482.gif", 
+            "primary": false, 
+            "id": "482", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "27 Pearce Manor\r\nChelmsford\r\nEssex\r\nCM2 9XH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Peter Sherman", 
+    "party_name": "Reduce Tax On Beer", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.4594230446239255, 
+            51.72472803455182
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP799", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -24,35 +64,5 @@
             "translation": "", 
             "description": "Keep your local pub alive"
         }
-    ], 
-    "party_leader": "Mr David Peter Sherman", 
-    "nominating_officer": "Mr David Peter Sherman", 
-    "emblems": [
-        {
-            "image": "raw_data/PP799/Emblem_482.gif", 
-            "id": "482", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "27 Pearce Manor\r\nChelmsford\r\nEssex\r\nCM2 9XH\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-04-30T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr David Peter Sherman", 
-    "party_id": "PP799", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Reduce Tax On Beer [De-registered 23/11/11]", 
-    "alternative_names": [
-        ""
     ]
 }

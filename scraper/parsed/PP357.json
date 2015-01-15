@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-04-14T00:00:00", 
     "campaigns_officer": "Mr Barry Wade", 
     "registered_date": "2004-04-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PO33 1AS", 
     "party_leader": "Mr Clive Joseph Parkes", 
     "nominating_officer": "Mr Kevin Parkes", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Jean Rose Parkes", 
-    "party_id": "PP357", 
+    "party_name": "Isle of Wight Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.1482990793996473, 
+            50.7161927563846
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Isle of Wight Party [De-registered 14/04/05]", 
+    "party_id": "PP357", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

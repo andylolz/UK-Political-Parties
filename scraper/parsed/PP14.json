@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-07-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-06-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KY6 3PF", 
     "party_leader": "Mr Alexander Lawson", 
     "nominating_officer": "Mr Alexander Lawson", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Mary Lawson", 
-    "party_id": "PP14", 
+    "party_name": "The Christian Independent Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.194790653918381, 
+            56.205596469515235
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Christian Independent Alliance [De-registered 07/11/03]", 
+    "party_id": "PP14", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

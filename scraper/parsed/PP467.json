@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-01-25T00:00:00", 
     "campaigns_officer": "Mrs Ann Smith", 
     "registered_date": "2005-03-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TR11 5LQ", 
     "party_leader": "Mr Richard Smith", 
     "nominating_officer": "Mr Richard Smith", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Richard Smith", 
-    "party_id": "PP467", 
+    "party_name": "Removal Of Tetramasts In Cornwall", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.136705352046005, 
+            50.105039315984136
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Removal Of Tetramasts In Cornwall [De-registered 25/01/06]", 
+    "party_id": "PP467", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

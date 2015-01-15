@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-10-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-06-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CV6 6BP", 
     "party_leader": "Mr Paul Dennis Evatt", 
     "nominating_officer": "Mr Paul Dennis Evatt", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Christopher Doherty", 
-    "party_id": "PP572", 
+    "party_name": "TRIP'S Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4848066580843229, 
+            52.45440669611387
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "TRIP'S Party [De-registered 30/10/09]", 
+    "party_id": "PP572", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2005-05-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-06-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KA22 7YG", 
     "party_leader": "Mr John Currie", 
     "nominating_officer": "Mr John Currie", 
     "emblems": [], 
@@ -25,15 +26,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Currie", 
-    "party_id": "PP397", 
+    "party_name": "The New World Socialist Green Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "The New World Socialist Green Party [De-registered 23/05/05]", 
+    "party_id": "PP397", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

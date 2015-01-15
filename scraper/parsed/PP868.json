@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-13T00:00:00", 
+    "postcode": "HA1 2TH", 
+    "party_leader": "Mr Jannen Vamadeva", 
+    "nominating_officer": "Mrs Malathy Vamadeva", 
+    "emblems": [], 
+    "party_address": "Temple House\r\n221-225 Station Road\r\nHarrow\r\nHA1 2TH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jannen Vamadeva", 
+    "party_name": "Jannen will put Brent North First", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.33247570159198836, 
+            51.58395434462287
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP868", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,29 +77,5 @@
             "translation": "", 
             "description": "An Independent MP serves YOU better"
         }
-    ], 
-    "party_leader": "Mr Jannen Vamadeva", 
-    "nominating_officer": "Mrs Malathy Vamadeva", 
-    "emblems": [], 
-    "party_address": "Temple House\r\n221-225 Station Road\r\nHarrow\r\nHA1 2TH\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Jannen Vamadeva", 
-    "party_id": "PP868", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Jannen will put Brent North First [De-registered 02/06/10]", 
-    "alternative_names": [
-        ""
     ]
 }

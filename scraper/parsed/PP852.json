@@ -1,8 +1,60 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-26T00:00:00", 
+    "postcode": "SK12 2JU", 
+    "party_leader": "Mr Brendan Murphy", 
+    "nominating_officer": "Mr Brendan Murphy", 
+    "emblems": [
+        {
+            "image": "Emblem_644.gif", 
+            "primary": false, 
+            "id": "644", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_645.gif", 
+            "primary": false, 
+            "id": "645", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_646.gif", 
+            "primary": false, 
+            "id": "646", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "6 Hilton Road\r\nDisley\r\nCheshire\r\nSK12 2JU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Jean Margaret Collins", 
+    "party_name": "The Macclesfield Independent", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.047684784294617, 
+            53.36227790467234
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP852", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +104,5 @@
             "translation": "", 
             "description": "Handforth First"
         }
-    ], 
-    "party_leader": "Mr Brendan Murphy", 
-    "nominating_officer": "Mr Brendan Murphy", 
-    "emblems": [
-        {
-            "image": "raw_data/PP852/Emblem_644.gif", 
-            "id": "644", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP852/Emblem_645.gif", 
-            "id": "645", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP852/Emblem_646.gif", 
-            "id": "646", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "6 Hilton Road\r\nDisley\r\nCheshire\r\nSK12 2JU\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2013-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Jean Margaret Collins", 
-    "party_id": "PP852", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Macclesfield Independent [De-registered 05/11/13]", 
-    "alternative_names": [
-        ""
     ]
 }

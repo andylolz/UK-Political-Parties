@@ -1,19 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-05-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG22 4UU", 
     "party_leader": "Mr Mark John Lincoln", 
     "nominating_officer": "Mr Mark John Lincoln", 
     "emblems": [
         {
-            "image": "raw_data/PP565/Emblem_339.gif", 
+            "image": "Emblem_339.gif", 
+            "primary": false, 
             "id": "339", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP565/Emblem_340.gif", 
+            "image": "Emblem_340.gif", 
+            "primary": false, 
             "id": "340", 
             "description": "Emblem 2"
         }
@@ -28,15 +31,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Anita Jane Lincoln", 
-    "party_id": "PP565", 
+    "party_name": "Traditional Democrats", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.1281530542867457, 
+            51.23378651506684
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Traditional Democrats [De-registered 05/11/13]", 
+    "party_id": "PP565", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

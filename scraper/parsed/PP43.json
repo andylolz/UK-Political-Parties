@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-05-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-07-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HU6 8BD", 
     "party_leader": "Mr Terence Geraghty", 
     "nominating_officer": "Mr Tony Fee", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David William Harris", 
-    "party_id": "PP43", 
+    "party_name": "Hull Independent Labour Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.38935310041197996, 
+            53.78259666721601
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Hull Independent Labour Group [De-registered 21/05/02]", 
+    "party_id": "PP43", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

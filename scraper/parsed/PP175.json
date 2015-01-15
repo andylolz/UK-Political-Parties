@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-09-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT48 9JE", 
     "party_leader": "Ms Goretti Horgan", 
     "nominating_officer": "Mr Dermot McClenaghan", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Colm Bryce", 
-    "party_id": "PP175", 
+    "party_name": "Socialist Environmental Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -7.331180564946076, 
+            54.99795430604104
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Socialist Environmental Alliance [De-registered 01/11/08]", 
+    "party_id": "PP175", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

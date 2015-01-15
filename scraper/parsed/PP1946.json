@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-10-16T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-09-13T00:00:00", 
+    "postcode": "LN2 2QJ", 
+    "party_leader": "Mr Gary Walker", 
+    "nominating_officer": "Ms Sandra Bowles", 
+    "emblems": [], 
+    "party_address": "46 Scothern Lane\r\nSudbrooke\r\nLincoln\r\nLincolnshire\r\nLN2 2QJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Sandra Bowles", 
+    "party_name": "Campaign to Stop Politicians Running Policing", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.45011351177927866, 
+            53.270520418391904
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP1946", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -24,29 +57,5 @@
             "translation": "", 
             "description": "The only truly Independent Candidate"
         }
-    ], 
-    "party_leader": "Mr Gary Walker", 
-    "nominating_officer": "Ms Sandra Bowles", 
-    "emblems": [], 
-    "party_address": "46 Scothern Lane\r\nSudbrooke\r\nLincoln\r\nLincolnshire\r\nLN2 2QJ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2013-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Sandra Bowles", 
-    "party_id": "PP1946", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Campaign to Stop Politicians Running Policing [De-registered 16/10/13]", 
-    "alternative_names": [
-        ""
     ]
 }

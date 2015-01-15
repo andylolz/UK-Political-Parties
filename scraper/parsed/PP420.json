@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-02-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-01-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HU4 6BT", 
     "party_leader": "Cllr David Jarvis", 
     "nominating_officer": "Mr John Considine", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Eric Wedgner", 
-    "party_id": "PP420", 
+    "party_name": "Hull Independents", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.39245479118441146, 
+            53.7463134668486
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Hull Independents [De-registered 02/07/07]", 
+    "party_id": "PP420", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

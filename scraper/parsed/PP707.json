@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-03-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BD7 4NN", 
     "party_leader": "Mr Neil Craig", 
     "nominating_officer": "Mr Neil Craig", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr James Graham Lewthwaite", 
-    "party_id": "PP707", 
+    "party_name": "Democratic Nationalists", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7989121769136451, 
+            53.77222997462043
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Democratic Nationalists [De-registered 02/11/10]", 
+    "party_id": "PP707", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

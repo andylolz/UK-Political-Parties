@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-12-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "We will fix Britain"
-        }
-    ], 
+    "postcode": "RM8 1XE", 
     "party_leader": "Mr Dapo Sijuwola", 
     "nominating_officer": "Mr Dapo Sijuwola", 
     "emblems": [
         {
-            "image": "raw_data/PP836/Emblem_515.gif", 
+            "image": "Emblem_515.gif", 
+            "primary": false, 
             "id": "515", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.12244339659930806, 
+            51.56447706733579
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Restoration Party", 
     "alternative_names": [
         "Atgyweiriad"
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "We will fix Britain"
+        }
     ]
 }

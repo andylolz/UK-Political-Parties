@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-10-24T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CM3 6BD", 
     "party_leader": "Mr Michael Helm", 
     "nominating_officer": "Mr Michael Werner Helm", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PP302", 
+    "party_name": "Maldon & District Independent Democratic Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.7691399709720638, 
+            51.67967413449816
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Maldon & District Independent Democratic Alliance [De-registered 24/10/08]", 
+    "party_id": "PP302", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

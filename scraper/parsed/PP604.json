@@ -3,6 +3,51 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-12-18T00:00:00", 
+    "postcode": "G42 2DN", 
+    "party_leader": "na Tommy Sheridan", 
+    "nominating_officer": "Mr Graeme Anderson McIver", 
+    "emblems": [
+        {
+            "image": "Emblem_357.gif", 
+            "primary": false, 
+            "id": "357", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_358.gif", 
+            "primary": false, 
+            "id": "358", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "PO Box 7565\r\nGlasgow\r\nG42 2DN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Gordon Morgan", 
+    "party_id": "PP604", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.263922878387326, 
+            55.84079232908207
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Solidarity - Scotland's Socialist Movement", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,40 +93,5 @@
             "translation": "", 
             "description": "Solidarity - Trade Unionist and Socialist Coalition (Joint Description with Trade Unionist and Socialist Coalition)"
         }
-    ], 
-    "party_leader": "na Tommy Sheridan", 
-    "nominating_officer": "Mr Graeme Anderson McIver", 
-    "emblems": [
-        {
-            "image": "raw_data/PP604/Emblem_357.gif", 
-            "id": "357", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP604/Emblem_358.gif", 
-            "id": "358", 
-            "description": "Emblem 2"
-        }
-    ], 
-    "party_address": "PO Box 7565\r\nGlasgow\r\nG42 2DN\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Gordon Morgan", 
-    "party_id": "PP604", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Solidarity - Scotland's Socialist Movement", 
-    "alternative_names": [
-        ""
     ]
 }

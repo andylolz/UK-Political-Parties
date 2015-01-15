@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-24T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-04-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SK10 4DY", 
     "party_leader": "Mr Christopher John Wellavize", 
     "nominating_officer": "Mrs Stephanie Townley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Crawford Fenton", 
-    "party_id": "PP576", 
+    "party_name": "The New Aristocracy", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1390458739907343, 
+            53.30240464100077
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The New Aristocracy [De-registered 24/01/07]", 
+    "party_id": "PP576", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

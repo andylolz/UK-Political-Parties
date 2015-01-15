@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-04-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "FY8 3HN", 
     "party_leader": "Mr John Raymond Davies", 
     "nominating_officer": "Mr Richard Kevin Eastham", 
     "emblems": [
         {
-            "image": "raw_data/PP149/Emblem_158.gif", 
+            "image": "Emblem_158.gif", 
+            "primary": false, 
             "id": "158", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP149/Emblem_159.gif", 
+            "image": "Emblem_159.gif", 
+            "primary": false, 
             "id": "159", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP149/Emblem_160.gif", 
+            "image": "Emblem_160.gif", 
+            "primary": false, 
             "id": "160", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.0199112795507874, 
+            53.7600297767612
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Fylde Ratepayers", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-04-24T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NG17 8BU", 
     "party_leader": "Mr Roy Adkins", 
     "nominating_officer": "Mr Antony Brown", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Antony Brown", 
-    "party_id": "PP450", 
+    "party_name": "Ashfield Independents", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2625302677309413, 
+            53.098079724984466
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Ashfield Independents [De-registered 24/04/08]", 
+    "party_id": "PP450", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

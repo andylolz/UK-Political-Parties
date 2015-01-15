@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Local Residents Putting The People First"
-        }
-    ], 
+    "postcode": "WS12 4AU", 
     "party_leader": "Mr Ronald Charles Turville", 
     "nominating_officer": "Mr Ronald Charles Turville", 
     "emblems": [
         {
-            "image": "raw_data/PP1721/Emblem_639.gif", 
+            "image": "Emblem_639.gif", 
+            "primary": false, 
             "id": "639", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.0072254345548393, 
+            52.71336365887589
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Chase Independent Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Local Residents Putting The People First"
+        }
     ]
 }

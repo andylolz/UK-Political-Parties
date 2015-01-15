@@ -3,27 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-02-28T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Esher and Molesey Residents' Associations (Joint Description with Molesey Residents Association)"
-        }
-    ], 
+    "postcode": "KT10 9PE", 
     "party_leader": "Dr David Bassett", 
     "nominating_officer": "Mr Michael Andrews", 
     "emblems": [
         {
-            "image": "raw_data/PP59/Emblem_63.gif", 
+            "image": "Emblem_63.gif", 
+            "primary": false, 
             "id": "63", 
             "description": "logo 1"
         }, 
         {
-            "image": "raw_data/PP59/Emblem_64.gif", 
+            "image": "Emblem_64.gif", 
+            "primary": false, 
             "id": "64", 
             "description": "logo 2"
         }, 
         {
-            "image": "raw_data/PP59/Emblem_65.gif", 
+            "image": "Emblem_65.gif", 
+            "primary": false, 
             "id": "65", 
             "description": "logo 3"
         }
@@ -44,9 +42,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3539073753434029, 
+            51.3688186821545
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Esher Residents Association", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Esher and Molesey Residents' Associations (Joint Description with Molesey Residents Association)"
+        }
     ]
 }

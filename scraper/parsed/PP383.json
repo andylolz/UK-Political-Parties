@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-04-29T00:00:00", 
+    "postcode": "WV1 9NN", 
+    "party_leader": "na Roger Leslie Edwards", 
+    "nominating_officer": "Mr Barry A Hodgson", 
+    "emblems": [
+        {
+            "image": "Emblem_283.gif", 
+            "primary": false, 
+            "id": "283", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "P.O. Box 5482\r\nWolverhampton\r\nWest Midlands\r\nWV1 9NN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Barry Hodgson", 
+    "party_name": "Pensioners Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1147777528990237, 
+            52.58831625672289
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP383", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,35 +84,5 @@
             "translation": "", 
             "description": "The Mature Choice for Mature Voters"
         }
-    ], 
-    "party_leader": "na Roger Leslie Edwards", 
-    "nominating_officer": "Mr Barry A Hodgson", 
-    "emblems": [
-        {
-            "image": "raw_data/PP383/Emblem_283.gif", 
-            "id": "283", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "P.O. Box 5482\r\nWolverhampton\r\nWest Midlands\r\nWV1 9NN\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2013-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Barry Hodgson", 
-    "party_id": "PP383", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Pensioners Party [De-registered 05/11/13]", 
-    "alternative_names": [
-        ""
     ]
 }

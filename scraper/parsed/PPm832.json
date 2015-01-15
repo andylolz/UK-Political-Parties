@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-12-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CH1 3JW", 
     "party_leader": "Mr Arthur Noel Lawrence", 
     "nominating_officer": "Mrs Victoria Johnston", 
     "emblems": [
         {
-            "image": "raw_data/PPm832/Emblem_508.gif", 
+            "image": "Emblem_508.gif", 
+            "primary": false, 
             "id": "508", 
             "description": "White Rose Lion Emblasoned"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.887125178622523, 
+            53.19752759269069
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "White Rose GB", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

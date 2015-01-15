@@ -3,29 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-18T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Scottish Progressives"
-        }, 
-        {
-            "translation": "", 
-            "description": "English Progressives"
-        }, 
-        {
-            "translation": "", 
-            "description": "Welsh Progressives"
-        }, 
-        {
-            "translation": "", 
-            "description": "British Progressives"
-        }
-    ], 
+    "postcode": "EH2 1AW", 
     "party_leader": "Mr Alan Forrest Nisbet", 
     "nominating_officer": "Mr Alan Forrest Nisbet", 
     "emblems": [
         {
-            "image": "raw_data/PP2263/Emblem_929.jpg", 
+            "image": "Emblem_929.jpg", 
+            "primary": false, 
             "id": "929", 
             "description": "Emblem 1"
         }
@@ -46,9 +30,34 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.194418581895743, 
+            55.9552877140345
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Progressive Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Scottish Progressives"
+        }, 
+        {
+            "translation": "", 
+            "description": "English Progressives"
+        }, 
+        {
+            "translation": "", 
+            "description": "Welsh Progressives"
+        }, 
+        {
+            "translation": "", 
+            "description": "British Progressives"
+        }
     ]
 }

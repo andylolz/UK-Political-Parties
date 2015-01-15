@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-04-15T00:00:00", 
     "campaigns_officer": "Mr Mark Dunne", 
     "registered_date": "2008-02-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "L3 5SD", 
     "party_leader": "Mr Les Skarratts", 
     "nominating_officer": "Mr Mark Dunne", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mark Alexander Rowe", 
-    "party_id": "PP713", 
+    "party_name": "Public Services Coalition", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.9749864001456383, 
+            53.40394022748428
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Public Services Coalition [De-registered 15/04/13]", 
+    "party_id": "PP713", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

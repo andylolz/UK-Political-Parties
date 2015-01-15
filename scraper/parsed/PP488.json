@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2005-12-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "L39 2XF", 
     "party_leader": "The Reverend David Oswald Braid", 
     "nominating_officer": "Mrs Sophia Agnes Sutherland", 
     "emblems": [
         {
-            "image": "raw_data/PP488/Emblem_312.gif", 
+            "image": "Emblem_312.gif", 
+            "primary": false, 
             "id": "312", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP488/Emblem_313.gif", 
+            "image": "Emblem_313.gif", 
+            "primary": false, 
             "id": "313", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.878193940324439, 
+            53.57538747439519
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Clause 28, Children's Protection Christian Democrats", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

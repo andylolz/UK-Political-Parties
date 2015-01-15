@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2008-04-24T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-02-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH54 9HD", 
     "party_leader": "Dr Graham Seed", 
     "nominating_officer": "Dr Graham Seed", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Graham Seed", 
-    "party_id": "PP639", 
+    "party_name": "The Peoples Government", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.5152529632080025, 
+            55.862735462251514
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Peoples Government [De-registered 24/04/08]", 
+    "party_id": "PP639", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

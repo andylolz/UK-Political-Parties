@@ -9,14 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WA7 1EY", 
     "party_leader": "Mr Michael Shepherd", 
     "nominating_officer": "Mr Christopher Carlin", 
     "emblems": [
         {
-            "image": "raw_data/PP1700/Emblem_609.gif", 
+            "image": "Emblem_609.gif", 
+            "primary": false, 
             "id": "609", 
             "description": "Emblem 1"
         }
@@ -31,15 +33,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Bob Bryant", 
-    "party_id": "PP1700", 
+    "party_name": "Halton Local Independent Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.7411104146894747, 
+            53.34371534266547
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Halton Local Independent Party [De-registered 05/12/12]", 
+    "party_id": "PP1700", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

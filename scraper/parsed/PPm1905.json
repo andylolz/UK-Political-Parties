@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2012-04-05T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NP25 5AT", 
     "party_leader": "Mr Gary Witcombe", 
     "nominating_officer": "Mr Ronald David Sutton", 
     "emblems": [
         {
-            "image": "raw_data/PPm1905/Emblem_726.jpg", 
+            "image": "Emblem_726.jpg", 
+            "primary": false, 
             "id": "726", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.7327101862431733, 
+            51.810926934545044
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "The Welsh Independent Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

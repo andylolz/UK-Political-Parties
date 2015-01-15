@@ -1,8 +1,60 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-07-26T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-04-29T00:00:00", 
+    "postcode": "IG2 7SD", 
+    "party_leader": "The Reverend James George Hargreaves", 
+    "nominating_officer": "Mr William Alexander Thompson", 
+    "emblems": [
+        {
+            "image": "Emblem_284.gif", 
+            "primary": false, 
+            "id": "284", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_285.gif", 
+            "primary": false, 
+            "id": "285", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_286.gif", 
+            "primary": false, 
+            "id": "286", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "1188 Eastern Avenue\r\nNewbury Park\r\nIlford\r\nEssex\r\nIG2 7SD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "The Reverend James George Hargreaves", 
+    "party_name": "Christian Party \"Proclaiming Christ's Lordship\"", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.10582474950860038, 
+            51.580783585152574
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP392", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -64,45 +116,5 @@
             "translation": "", 
             "description": "Christians Together \u2013 Scottish Christian Party"
         }
-    ], 
-    "party_leader": "The Reverend James George Hargreaves", 
-    "nominating_officer": "Mr William Alexander Thompson", 
-    "emblems": [
-        {
-            "image": "raw_data/PP392/Emblem_284.gif", 
-            "id": "284", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP392/Emblem_285.gif", 
-            "id": "285", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP392/Emblem_286.gif", 
-            "id": "286", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "1188 Eastern Avenue\r\nNewbury Park\r\nIlford\r\nEssex\r\nIG2 7SD\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2013-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "The Reverend James George Hargreaves", 
-    "party_id": "PP392", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Christian Party \"Proclaiming Christ's Lordship\" [De-registered 26/07/12]", 
-    "alternative_names": [
-        ""
     ]
 }

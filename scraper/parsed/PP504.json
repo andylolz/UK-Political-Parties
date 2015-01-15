@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2005-07-14T00:00:00", 
+    "postcode": "NG18 5GS", 
+    "party_leader": "Cllr Martin Wright", 
+    "nominating_officer": "Mr Andrew Tristram", 
+    "emblems": [
+        {
+            "image": "Emblem_316.gif", 
+            "primary": false, 
+            "id": "316", 
+            "description": "Mansfield Independent Forum Logo"
+        }
+    ], 
+    "party_address": "3 Wellcroft Close\r\nMansfield\r\nNottinghamshire\r\nNG18 5GS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Kate Allsop", 
+    "party_id": "PP504", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2161783780231339, 
+            53.134774272833816
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Mansfield Independent Forum", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,35 +91,5 @@
             "translation": "", 
             "description": "Putting Warsop Residents First"
         }
-    ], 
-    "party_leader": "Cllr Martin Wright", 
-    "nominating_officer": "Mr Andrew Tristram", 
-    "emblems": [
-        {
-            "image": "raw_data/PP504/Emblem_316.gif", 
-            "id": "316", 
-            "description": "Mansfield Independent Forum Logo"
-        }
-    ], 
-    "party_address": "3 Wellcroft Close\r\nMansfield\r\nNottinghamshire\r\nNG18 5GS\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Kate Allsop", 
-    "party_id": "PP504", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Mansfield Independent Forum", 
-    "alternative_names": [
-        ""
     ]
 }

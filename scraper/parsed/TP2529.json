@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-10-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW8 1RL", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1238538780015031, 
+            51.483047215434425
+        ]
+    }, 
     "register": null, 
     "party_name": "Forces Pension Society", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

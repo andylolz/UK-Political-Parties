@@ -11,20 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-07T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Our lives, Our choice, Our decision"
-        }, 
-        {
-            "translation": "", 
-            "description": "Save vaping, Save lives"
-        }, 
-        {
-            "translation": "", 
-            "description": "Freedom to choose"
-        }
-    ], 
+    "postcode": "N12 8DH", 
     "party_leader": "Mrs Jessica Harding", 
     "nominating_officer": "Mrs Jessica Harding", 
     "emblems": [], 
@@ -44,9 +31,30 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.17891910065071792, 
+            51.614772912317115
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Vapers In Power", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Our lives, Our choice, Our decision"
+        }, 
+        {
+            "translation": "", 
+            "description": "Save vaping, Save lives"
+        }, 
+        {
+            "translation": "", 
+            "description": "Freedom to choose"
+        }
     ]
 }

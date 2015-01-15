@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-02-15T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-09-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BL1 8DY", 
     "party_leader": "Mr Stuart Lever", 
     "nominating_officer": "Mr Stuart Lever", 
     "emblems": [
         {
-            "image": "raw_data/PP1694/Emblem_603.gif", 
+            "image": "Emblem_603.gif", 
+            "primary": false, 
             "id": "603", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Melanie Lever", 
-    "party_id": "PP1694", 
+    "party_name": "Astley Bridge First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.4319864101670503, 
+            53.594900621464404
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Astley Bridge First [De-registered 15/02/12]", 
+    "party_id": "PP1694", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

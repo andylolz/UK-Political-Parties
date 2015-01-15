@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CM6 1BA", 
     "party_leader": "Mr John Edward Norris Davey", 
     "nominating_officer": "Mr Clive Christian Smith", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.36279353055566865, 
+            51.8753083975351
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Dunmow First", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

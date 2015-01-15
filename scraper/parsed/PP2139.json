@@ -1,8 +1,60 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-10-16T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-08-21T00:00:00", 
+    "postcode": "NE9 7JY", 
+    "party_leader": "Mr Mark Bell", 
+    "nominating_officer": "Mr Robert Doloughan", 
+    "emblems": [
+        {
+            "image": "Emblem_864.jpg", 
+            "primary": false, 
+            "id": "864", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_865.jpg", 
+            "primary": false, 
+            "id": "865", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_866.jpg", 
+            "primary": false, 
+            "id": "866", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "11 Marlborough Crescent\r\nWrekington\r\nGateshead\r\nNE9 7JY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Mark Bell", 
+    "party_name": "The Inspire Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5743921372804994, 
+            54.92799912897438
+        ]
+    }, 
+    "register": "Northern Ireland", 
+    "party_id": "PP2139", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +104,5 @@
             "translation": "", 
             "description": "Rebuilding Britain's future"
         }
-    ], 
-    "party_leader": "Mr Mark Bell", 
-    "nominating_officer": "Mr Robert Doloughan", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2139/Emblem_864.jpg", 
-            "id": "864", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP2139/Emblem_865.jpg", 
-            "id": "865", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP2139/Emblem_866.jpg", 
-            "id": "866", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "11 Marlborough Crescent\r\nWrekington\r\nGateshead\r\nNE9 7JY\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2013-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Mark Bell", 
-    "party_id": "PP2139", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Northern Ireland", 
-    "party_name": "The Inspire Party [De-registered 16/10/13]", 
-    "alternative_names": [
-        ""
     ]
 }

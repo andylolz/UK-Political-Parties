@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-12-13T00:00:00", 
+    "postcode": "SM2 7ND", 
+    "party_leader": "Mr Robert Neil Bevan", 
+    "nominating_officer": "Mr Timothy David Nathan", 
+    "emblems": [
+        {
+            "image": "Emblem_82.gif", 
+            "primary": false, 
+            "id": "82", 
+            "description": "Epsom clock tower"
+        }, 
+        {
+            "image": "Emblem_83.gif", 
+            "primary": false, 
+            "id": "83", 
+            "description": "The dog gate Ewell"
+        }, 
+        {
+            "image": "Emblem_84.gif", 
+            "primary": false, 
+            "id": "84", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "49 Harefield Avenue\r\nCheam\r\nSutton\r\nSurrey\r\nSM2 7ND\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Keith Stephen Haddington Lugton", 
+    "party_id": "PP74", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.22034060459828425, 
+            51.34813425065195
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Residents Associations of Epsom and Ewell", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -32,45 +83,5 @@
             "translation": "", 
             "description": "Ewell Village Residents Association Candidate"
         }
-    ], 
-    "party_leader": "Mr Robert Neil Bevan", 
-    "nominating_officer": "Mr Timothy David Nathan", 
-    "emblems": [
-        {
-            "image": "raw_data/PP74/Emblem_82.gif", 
-            "id": "82", 
-            "description": "Epsom clock tower"
-        }, 
-        {
-            "image": "raw_data/PP74/Emblem_83.gif", 
-            "id": "83", 
-            "description": "The dog gate Ewell"
-        }, 
-        {
-            "image": "raw_data/PP74/Emblem_84.gif", 
-            "id": "84", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "49 Harefield Avenue\r\nCheam\r\nSutton\r\nSurrey\r\nSM2 7ND\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Keith Stephen Haddington Lugton", 
-    "party_id": "PP74", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Residents Associations of Epsom and Ewell", 
-    "alternative_names": [
-        ""
     ]
 }

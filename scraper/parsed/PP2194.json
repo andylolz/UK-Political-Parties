@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-20T00:00:00", 
+    "postcode": "OX12 0JE", 
+    "party_leader": "Mr Justin Alistair Lowde", 
+    "nominating_officer": "Mrs Penny Iles", 
+    "emblems": [
+        {
+            "image": "Emblem_908.jpg", 
+            "primary": false, 
+            "id": "908", 
+            "description": "Raising the shire"
+        }
+    ], 
+    "party_address": "Waylands\r\nEast Hanney\r\nOxfordshire\r\nOX12 0JE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Justin Alistair Lowde", 
+    "party_id": "PP2194", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4008011035156804, 
+            51.63145666361538
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Equal and Just Society", 
+    "alternative_names": [
+        "Y Gymdeithas Gydradd a Chyfiawn"
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,35 +91,5 @@
             "translation": "", 
             "description": "A wonderful future for British children"
         }
-    ], 
-    "party_leader": "Mr Justin Alistair Lowde", 
-    "nominating_officer": "Mrs Penny Iles", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2194/Emblem_908.jpg", 
-            "id": "908", 
-            "description": "Raising the shire"
-        }
-    ], 
-    "party_address": "Waylands\r\nEast Hanney\r\nOxfordshire\r\nOX12 0JE\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Justin Alistair Lowde", 
-    "party_id": "PP2194", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Equal and Just Society", 
-    "alternative_names": [
-        "Y Gymdeithas Gydradd a Chyfiawn"
     ]
 }

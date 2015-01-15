@@ -9,8 +9,41 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-06-06T00:00:00", 
+    "postcode": "N1 6UZ", 
+    "party_leader": "Mr Nusret Sen", 
+    "nominating_officer": "Mr Nusret Sen", 
+    "emblems": [], 
+    "party_address": "Po Box 58236\r\nLondon\r\nN1 6UZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Nusret Sen", 
+    "party_name": "Direct Democracy (Communist) Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1032778125645594, 
+            51.53842575144063
+        ]
+    }, 
+    "register": "Northern Ireland", 
+    "party_id": "PP668", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,29 +81,5 @@
             "translation": "", 
             "description": "Party of Direct Democracy - of abundance"
         }
-    ], 
-    "party_leader": "Mr Nusret Sen", 
-    "nominating_officer": "Mr Nusret Sen", 
-    "emblems": [], 
-    "party_address": "Po Box 58236\r\nLondon\r\nN1 6UZ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2009-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Nusret Sen", 
-    "party_id": "PP668", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Northern Ireland", 
-    "party_name": "Direct Democracy (Communist) Party [De-registered 01/11/08]", 
-    "alternative_names": [
-        ""
     ]
 }

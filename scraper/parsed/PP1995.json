@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-26T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Our Town Deserves Better"
-        }
-    ], 
+    "postcode": "AL8 6QZ", 
     "party_leader": "Mr Anthony Fisher", 
     "nominating_officer": "Mrs Melanie Peeke", 
     "emblems": [
         {
-            "image": "raw_data/PP1995/Emblem_793.jpg", 
+            "image": "Emblem_793.jpg", 
+            "primary": false, 
             "id": "793", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.21221214941029953, 
+            51.80201573677917
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Welwyn Garden City Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Our Town Deserves Better"
+        }
     ]
 }

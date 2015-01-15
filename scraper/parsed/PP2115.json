@@ -11,12 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2013-07-30T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Bringing Democracy to the People"
-        }
-    ], 
+    "postcode": "BT49 9EW", 
     "party_leader": "Mr Andrew Taylor", 
     "nominating_officer": "Mr Andrew Taylor", 
     "emblems": [], 
@@ -36,9 +31,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -6.946194414388609, 
+            55.039073619822375
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "21st Century Democracy", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Bringing Democracy to the People"
+        }
     ]
 }

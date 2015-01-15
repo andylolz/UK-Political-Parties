@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-02-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TN12 5NH", 
     "party_leader": "Dr Geoffrey Clements", 
     "nominating_officer": "Mr Richard Johnson", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Richard Johnson", 
-    "party_id": "PP100", 
+    "party_name": "Natural Law Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.3841579649565752, 
+            51.24136481285089
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Natural Law Party [De-registered 02/01/04]", 
+    "party_id": "PP100", 
     "alternative_names": [
         "Plaid Y Gyfraith Naturiol"
-    ]
+    ], 
+    "descriptions": []
 }

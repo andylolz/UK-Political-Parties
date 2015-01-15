@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Mrs Sheila Tibby", 
     "registered_date": "2003-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CT6 8QS", 
     "party_leader": "Mr Michael Tibby", 
     "nominating_officer": "Mr Michael Tibby", 
     "emblems": [
         {
-            "image": "raw_data/PP295/Emblem_236.gif", 
+            "image": "Emblem_236.gif", 
+            "primary": false, 
             "id": "236", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP295/Emblem_237.gif", 
+            "image": "Emblem_237.gif", 
+            "primary": false, 
             "id": "237", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP295/Emblem_238.gif", 
+            "image": "Emblem_238.gif", 
+            "primary": false, 
             "id": "238", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.112532843693297, 
+            51.36577284796243
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "New England Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

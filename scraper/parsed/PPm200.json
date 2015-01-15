@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-07-29T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-08-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG27 9QE", 
     "party_leader": "Mr Paul King", 
     "nominating_officer": "Mr Robert Hicks", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm200", 
+    "party_name": "The English Alliance Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9611523635674233, 
+            51.280450848038775
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "The English Alliance Party [De-registered 29/07/04]", 
+    "party_id": "PPm200", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

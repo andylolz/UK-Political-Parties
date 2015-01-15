@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Andrew Mortimer", 
     "registered_date": "2003-06-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TN26 2ED", 
     "party_leader": "Mr Peter Robert Davison", 
     "nominating_officer": "Mr John Hugh Durrant", 
     "emblems": [
         {
-            "image": "raw_data/PP291/Emblem_233.gif", 
+            "image": "Emblem_233.gif", 
+            "primary": false, 
             "id": "233", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.8436410665345916, 
+            51.08115314397884
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Ashford Independent", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

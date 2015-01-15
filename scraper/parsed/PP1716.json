@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN3 4FP", 
     "party_leader": "Dr Susan Collard", 
     "nominating_officer": "Dr Yuri Borgmann-Prebil", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.18791536925190114, 
+            50.82748834423184
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The European Citizens Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

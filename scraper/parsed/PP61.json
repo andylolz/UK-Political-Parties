@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Kenneth Robinson", 
     "registered_date": "2000-12-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT4 7BY", 
     "party_leader": "Mr Neil Bevan", 
     "nominating_officer": "Mr Kenneth Robinson", 
     "emblems": [
         {
-            "image": "raw_data/PP61/Emblem_66.gif", 
+            "image": "Emblem_66.gif", 
+            "primary": false, 
             "id": "66", 
             "description": "Sketch of St Marys Church Cuddington"
         }, 
         {
-            "image": "raw_data/PP61/Emblem_67.gif", 
+            "image": "Emblem_67.gif", 
+            "primary": false, 
             "id": "67", 
             "description": "The letters RA for Residents Association above the word Cuddington Black on a white background"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.25475977545847667, 
+            51.37463172070689
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Residents' Association of Cuddington", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-12-09T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-09-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CF32 8LD", 
     "party_leader": "Mr Christopher Trevor Davies", 
     "nominating_officer": "Mr William Glyn Cross", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Simon Foster", 
-    "party_id": "PP6", 
+    "party_name": "Cymru Rydd", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.580181557579778, 
+            51.609110559011924
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Cymru Rydd [De-registered 12/09/07]", 
+    "party_id": "PP6", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

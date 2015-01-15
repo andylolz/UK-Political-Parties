@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-15T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "True reform, Freedom, democracy and justice"
-        }
-    ], 
+    "postcode": "MK5 7HG", 
     "party_leader": "Mr Russell Hayes", 
     "nominating_officer": "Mr Russell Hayes", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Aleksandra Radjko", 
-    "party_id": "PP841", 
+    "party_name": "True Turquoise", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.7781092852492744, 
+            52.01617462794641
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "True Turquoise [De-registered 02/07/10]", 
+    "party_id": "PP841", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "True reform, Freedom, democracy and justice"
+        }
     ]
 }

@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr John Dawson", 
+    "registered_date": "2014-11-25T00:00:00", 
+    "postcode": "PE9 2SZ", 
+    "party_leader": "Mr Robert Conboy", 
+    "nominating_officer": "Mr Robert Sandall", 
+    "emblems": [], 
+    "party_address": "148 Empingham Road\r\nStamford\r\nLincolnshire\r\nPE9 2SZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Susan Sandall", 
+    "party_id": "PP2582", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -0.503178571630191, 
+            52.653778940596055
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Stamford Group of Independents", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Group of Stamford Independents"
+        }
+    ]
+}

@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-26T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "putting people before party"
-        }
-    ], 
+    "postcode": "CT6 6JN", 
     "party_leader": "Ms Rosalyn McIntyre", 
     "nominating_officer": "Mr Andrew Lawrence", 
     "emblems": [
         {
-            "image": "raw_data/PP2036/Emblem_814.jpg", 
+            "image": "Emblem_814.jpg", 
+            "primary": false, 
             "id": "814", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.145433454165118, 
+            51.37158548675761
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Local Voice", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "putting people before party"
+        }
     ]
 }

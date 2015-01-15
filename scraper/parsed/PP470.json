@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-08-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE20 9PQ", 
     "party_leader": "The Reverend Andrew Paul Merton", 
     "nominating_officer": "Mr John Douglas Hague", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Douglas Hague", 
-    "party_id": "PP470", 
+    "party_name": "Newcastle Academy with Christian Values Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7581725798082715, 
+            55.04123517917777
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Newcastle Academy with Christian Values Party [De-registered 08/06/09]", 
+    "party_id": "PP470", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

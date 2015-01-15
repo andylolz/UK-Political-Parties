@@ -1,27 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-07-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-17T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Scrap Members Allowances"
-        }, 
-        {
-            "translation": "", 
-            "description": "Scrap MP's Allowances"
-        }, 
-        {
-            "translation": "", 
-            "description": "Scrap MP's Expenses"
-        }
-    ], 
+    "postcode": "NN4 6EX", 
     "party_leader": "Mr Liam Costello", 
     "nominating_officer": "Mr Liam Costello", 
     "emblems": [
         {
-            "image": "raw_data/PP842/Emblem_523.gif", 
+            "image": "Emblem_523.gif", 
+            "primary": false, 
             "id": "523", 
             "description": "Emblem 1"
         }
@@ -36,15 +25,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Theresa Costello", 
-    "party_id": "PP842", 
+    "party_name": "Scrap Members Allowances", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.8829037289741327, 
+            52.19883186896315
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Scrap Members Allowances [De-registered 07/04/11]", 
+    "party_id": "PP842", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Scrap Members Allowances"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scrap MP's Allowances"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scrap MP's Expenses"
+        }
     ]
 }

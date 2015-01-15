@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-07-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-09-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RM1 4LH", 
     "party_leader": "Mr Denis Stevens", 
     "nominating_officer": "Mr Ian Wilkes", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Ian Wilkes", 
-    "party_id": "PP408", 
+    "party_name": "Romford Residents Association", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.17932037162756512, 
+            51.58284983559112
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Romford Residents Association [De-registered 20/07/12]", 
+    "party_id": "PP408", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

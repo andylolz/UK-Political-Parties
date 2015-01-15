@@ -1,18 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-19T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Scotland's Low Taxation Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "Scotland's Anti EU Party"
-        }
-    ], 
+    "postcode": "PH24 3BP", 
     "party_leader": "Dr James Wilkie", 
     "nominating_officer": "na Iain Brodie of Falsyde", 
     "emblems": [], 
@@ -26,15 +18,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert P. Ingram", 
-    "party_id": "PP645", 
+    "party_name": "Scottish Enterprise Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.757136028687619, 
+            57.24434161676663
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Scottish Enterprise Party [De-registered 06/11/09]", 
+    "party_id": "PP645", 
     "alternative_names": [
         "Partaidh Iomart Na H'Alba"
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Scotland's Low Taxation Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scotland's Anti EU Party"
+        }
     ]
 }

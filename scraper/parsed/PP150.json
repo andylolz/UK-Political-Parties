@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-05-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-08-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SL1 8BX", 
     "party_leader": "Mr Richard Allan", 
     "nominating_officer": "Mr Richard Allan", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Beard", 
-    "party_id": "PP150", 
+    "party_name": "Independent Electors Association", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6567312799312173, 
+            51.534503162990895
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Independent Electors Association [De-registered 21/05/02]", 
+    "party_id": "PP150", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-04-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IV32 7QH", 
     "party_leader": "Mr William Robert Graham", 
     "nominating_officer": "Mrs Isobel Mary Graham", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr William Robert Graham", 
-    "party_id": "PP299", 
+    "party_name": "Protect Rural Scotland Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.13941925492749, 
+            57.58529369149126
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Protect Rural Scotland Party [De-registered 27/04/06]", 
+    "party_id": "PP299", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

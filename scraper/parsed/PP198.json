@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-07-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RM6 6JL", 
     "party_leader": "Mr John Denyer", 
     "nominating_officer": "Ms Elaine Matthews", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Jean Denyer", 
-    "party_id": "PP198", 
+    "party_name": "Chadwell Heath Residents Association", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.13173883048246943, 
+            51.570099882635624
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Chadwell Heath Residents Association [De-registered 07/07/05]", 
+    "party_id": "PP198", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

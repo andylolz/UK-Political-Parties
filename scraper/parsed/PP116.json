@@ -9,14 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2012-02-15T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NW7 3NE", 
     "party_leader": "Mr Michael Mashud Stewart", 
     "nominating_officer": "Mr Michael Mashud Stewart", 
     "emblems": [
         {
-            "image": "raw_data/PP116/Emblem_131.gif", 
+            "image": "Emblem_131.gif", 
+            "primary": false, 
             "id": "131", 
             "description": "A flag with the words \"More Democracy\" on it"
         }
@@ -31,15 +33,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Michael Mashud Stewart", 
-    "party_id": "PP116", 
+    "party_name": "The Progressive Democratic Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2554135575039965, 
+            51.61631231442012
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Progressive Democratic Party [De-registered 15/02/12]", 
+    "party_id": "PP116", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

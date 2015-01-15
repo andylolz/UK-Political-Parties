@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BD24 0BB", 
     "party_leader": "Mr Robert D. Leakey", 
     "nominating_officer": "Mr Robert D. Leakey", 
     "emblems": [
         {
-            "image": "raw_data/PP496/Emblem_315.gif", 
+            "image": "Emblem_315.gif", 
+            "primary": false, 
             "id": "315", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Barbara Leakey", 
-    "party_id": "PP496", 
+    "party_name": "Virtue Currency Cognitive Appraisal Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "Virtue Currency Cognitive Appraisal Party [De-registered 05/12/12]", 
+    "party_id": "PP496", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

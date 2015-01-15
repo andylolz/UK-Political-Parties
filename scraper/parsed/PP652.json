@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CF61 2GT", 
     "party_leader": "Mr Gwyn John", 
     "nominating_officer": "Mr Gwyn John", 
     "emblems": [
         {
-            "image": "raw_data/PP652/Emblem_384.gif", 
+            "image": "Emblem_384.gif", 
+            "primary": false, 
             "id": "384", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.4677069375236718, 
+            51.410460670091716
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Llantwit First Independents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

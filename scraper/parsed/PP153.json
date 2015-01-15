@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-09-07T00:00:00", 
     "campaigns_officer": "Mr Terry Galloway", 
     "registered_date": "2001-04-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EX39 2JG", 
     "party_leader": "Mr Andrew Powell", 
     "nominating_officer": "Mr Paul John Sturges", 
     "emblems": [
         {
-            "image": "raw_data/PP153/Emblem_161.gif", 
+            "image": "Emblem_161.gif", 
+            "primary": false, 
             "id": "161", 
             "description": "The Community Alliance emblem comprises the capital letters C superimposed upon the letter A with the letter C positioned so as to cover the bar at the centre of the letter A"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Bernard Koorlander", 
-    "party_id": "PP153", 
+    "party_name": "Community Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.2047915974323375, 
+            51.01909166186951
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Community Alliance [De-registered 09/07/12]", 
+    "party_id": "PP153", 
     "alternative_names": [
         "Cymuned Cyfathrach"
-    ]
+    ], 
+    "descriptions": []
 }

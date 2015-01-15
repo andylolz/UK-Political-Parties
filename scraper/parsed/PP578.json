@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-12-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN1 3JG", 
     "party_leader": "Mr Anthony Peter Davenport", 
     "nominating_officer": "Mr Anthony Peter Davenport", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Victoria Davies", 
-    "party_id": "PP578", 
+    "party_name": "Brighton & Hove Independents", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.14972233736973142, 
+            50.82954194641727
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Brighton & Hove Independents [De-registered 06/11/09]", 
+    "party_id": "PP578", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

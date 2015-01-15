@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-11-19T00:00:00", 
+    "postcode": "BT14 6DT", 
+    "party_leader": "Mr Gary McNally", 
+    "nominating_officer": "Mr Carl Reilly", 
+    "emblems": [
+        {
+            "image": "Emblem_888.jpg", 
+            "primary": false, 
+            "id": "888", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "171 Cliftonpark Avenue\r\nBelfast\r\nBT14 6DT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Sammy Cusick", 
+    "party_id": "PP2167", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.941758581633658, 
+            54.61444860444324
+        ]
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Republican Network For Unity", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "Freedom", 
@@ -36,35 +75,5 @@
             "translation": "", 
             "description": "Strength"
         }
-    ], 
-    "party_leader": "Mr Gary McNally", 
-    "nominating_officer": "Mr Carl Reilly", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2167/Emblem_888.jpg", 
-            "id": "888", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "171 Cliftonpark Avenue\r\nBelfast\r\nBT14 6DT\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Sammy Cusick", 
-    "party_id": "PP2167", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Northern Ireland", 
-    "party_name": "Republican Network For Unity", 
-    "alternative_names": [
-        ""
     ]
 }

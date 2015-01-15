@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-04-28T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-09-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LN13 9BH", 
     "party_leader": "Mr Geoffrey Lover", 
     "nominating_officer": "Mr Geoffrey Lover", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Marian Harvey-Lover", 
-    "party_id": "PP9", 
+    "party_name": "Centre Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.18090851406850286, 
+            53.25750020536947
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Centre Party [De-registered 28/04/04]", 
+    "party_id": "PP9", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

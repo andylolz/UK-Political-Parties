@@ -11,31 +11,25 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2012-07-24T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Trust the People"
-        }, 
-        {
-            "translation": "", 
-            "description": "The New Party For New Politics"
-        }
-    ], 
+    "postcode": "NE10 8AJ", 
     "party_leader": "Mr Lee Robert Holmes", 
     "nominating_officer": "Mr Lee Robert Holmes", 
     "emblems": [
         {
-            "image": "raw_data/PP1934/Emblem_743.jpg", 
+            "image": "Emblem_743.jpg", 
+            "primary": false, 
             "id": "743", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1934/Emblem_744.jpg", 
+            "image": "Emblem_744.jpg", 
+            "primary": false, 
             "id": "744", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP1934/Emblem_745.jpg", 
+            "image": "Emblem_745.jpg", 
+            "primary": false, 
             "id": "745", 
             "description": "Emblem 3"
         }
@@ -56,9 +50,26 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5228949801052856, 
+            54.94931237022427
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "People's Democratic Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Trust the People"
+        }, 
+        {
+            "translation": "", 
+            "description": "The New Party For New Politics"
+        }
     ]
 }

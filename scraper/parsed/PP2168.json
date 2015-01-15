@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-11-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "MC98000", 
     "party_leader": "Mr Russell Dean", 
     "nominating_officer": "Mrs Dawn Dean", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            7.424615799999999, 
+            43.73841760000001
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "THE PARTY PARTY", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

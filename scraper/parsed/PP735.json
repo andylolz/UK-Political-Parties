@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-01-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT13 8BJ", 
     "party_leader": "Mr Peter Harman", 
     "nominating_officer": "Mr Charles Refoy", 
     "emblems": [
         {
-            "image": "raw_data/PP735/Emblem_425.gif", 
+            "image": "Emblem_425.gif", 
+            "primary": false, 
             "id": "425", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.4593545834798269, 
+            51.37867853901225
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Weybridge Independents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

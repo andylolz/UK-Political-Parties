@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "Mr Simon James Cooke", 
     "registered_date": "2005-06-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW10 0LB", 
     "party_leader": "Mr Jamie Nicholas Davies", 
     "nominating_officer": "Mr Jamie Nicholas Davies", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jamie Nicholas Davies", 
-    "party_id": "PP498", 
+    "party_name": "The Non Political Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.18201963769093296, 
+            51.482470674286276
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Non Political Party [De-registered 01/11/07]", 
+    "party_id": "PP498", 
     "alternative_names": [
         "Y Blaid Anwleidyddol"
-    ]
+    ], 
+    "descriptions": []
 }

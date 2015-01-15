@@ -1,0 +1,56 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Charles Williams", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-01-12T00:00:00", 
+    "postcode": "SL6 1JN", 
+    "party_leader": "Mr Christopher Challis", 
+    "nominating_officer": "Mr Christopher Challis", 
+    "emblems": [], 
+    "party_address": "Just 119\r\n5 High Street\r\nMAIDENHEAD\r\nSL6 1JN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Christopher Challis", 
+    "party_id": "PP2520", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -0.7178022530594977, 
+            51.522813518961435
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Just Political Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Great Aspirations. Great Britain."
+        }, 
+        {
+            "translation": "", 
+            "description": "Just and Fair"
+        }
+    ]
+}

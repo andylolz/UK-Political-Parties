@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-01-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT7 1SH", 
     "party_leader": "Dr Alasdair McDonnell", 
     "nominating_officer": "Ms Gerry Cosgrove", 
     "emblems": [
         {
-            "image": "raw_data/PP55/Emblem_57.gif", 
+            "image": "Emblem_57.gif", 
+            "primary": false, 
             "id": "57", 
             "description": "Emblem 2"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.924075987458718, 
+            54.58714651075398
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "SDLP (Social Democratic & Labour Party)", 
     "alternative_names": [
         "Pairti Soisalta Daonlath An Lucht Oibre"
-    ]
+    ], 
+    "descriptions": []
 }

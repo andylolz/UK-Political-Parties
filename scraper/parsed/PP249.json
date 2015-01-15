@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2002-06-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SN10 3AJ", 
     "party_leader": "Mr Nigel Carter", 
     "nominating_officer": "Mr Edward William East", 
     "emblems": [
         {
-            "image": "raw_data/PP249/Emblem_209.gif", 
+            "image": "Emblem_209.gif", 
+            "primary": false, 
             "id": "209", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP249/Emblem_210.gif", 
+            "image": "Emblem_210.gif", 
+            "primary": false, 
             "id": "210", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9839121055275855, 
+            51.348699470527364
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Devizes Guardians", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

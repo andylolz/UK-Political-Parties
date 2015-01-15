@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2011-01-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LL57 3DT", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.0623407398992795, 
+            53.187345109632396
+        ]
+    }, 
     "register": null, 
     "party_name": "Arfon Ie dros Gymru (Arfon Yes for Wales)", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-08-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NW6 2HE", 
     "party_leader": "Ms Eve Rea Juan", 
     "nominating_officer": "Ms Lumiere de Monde", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Lumiere de Monde", 
-    "party_id": "PP344", 
+    "party_name": "www.xat.org", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.20107698303102742, 
+            51.54604436035288
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "www.xat.org [De-registered 01/11/07]", 
+    "party_id": "PP344", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

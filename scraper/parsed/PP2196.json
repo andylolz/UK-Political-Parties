@@ -9,19 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-01-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-12-17T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Promise Party"
-        }
-    ], 
+    "postcode": "B12 8DD", 
     "party_leader": "Mr Kashif Hussain Khawaja", 
     "nominating_officer": "Mr Chaudri Awais", 
     "emblems": [
         {
-            "image": "raw_data/PP2196/Emblem_895.jpg", 
+            "image": "Emblem_895.jpg", 
+            "primary": false, 
             "id": "895", 
             "description": "Handshake within a circle with party name"
         }
@@ -36,15 +33,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Raja Fiaz Khan", 
-    "party_id": "PP2196", 
+    "party_name": "Promise", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.876525458317858, 
+            52.453143905465666
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Promise [De-registered 01/05/14]", 
+    "party_id": "PP2196", 
     "alternative_names": [
         "Addewid"
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Promise Party"
+        }
     ]
 }

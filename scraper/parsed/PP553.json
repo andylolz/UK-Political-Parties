@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-11T00:00:00", 
     "campaigns_officer": "Mr Graham Hellawell", 
     "registered_date": "2006-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HD4 5JB", 
     "party_leader": "Dr Jacqueline Grunsell", 
     "nominating_officer": "Mr Michael Forster", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Christine Hindle", 
-    "party_id": "PP553", 
+    "party_name": "Save Huddersfield N.H.S.", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.810586361951701, 
+            53.62890517850532
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Save Huddersfield N.H.S. [De-registered 02/11/10]", 
+    "party_id": "PP553", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

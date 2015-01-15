@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "British Jobs First"
-        }
-    ], 
+    "postcode": "OX11 8UR", 
     "party_leader": "Mr Bruce Hay", 
     "nominating_officer": "Mr Bruce Hay", 
     "emblems": [
         {
-            "image": "raw_data/PP758/Emblem_437.gif", 
+            "image": "Emblem_437.gif", 
+            "primary": false, 
             "id": "437", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Patrick S. Kerin", 
-    "party_id": "PP758", 
+    "party_name": "British Jobs First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2272990838106992, 
+            51.60399958487735
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "British Jobs First [De-registered 03/11/14]", 
+    "party_id": "PP758", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "British Jobs First"
+        }
     ]
 }

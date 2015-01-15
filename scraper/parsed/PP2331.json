@@ -18,34 +18,19 @@
     ], 
     "campaigns_officer": "Mr Paul Janik", 
     "registered_date": "2014-04-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Spring Cleaning Team"
-        }, 
-        {
-            "translation": "", 
-            "description": "Slough Anti-corruption Campaign"
-        }, 
-        {
-            "translation": "", 
-            "description": "Slough Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "Britwell Party"
-        }
-    ], 
+    "postcode": "SL1 6PQ", 
     "party_leader": "Ms Edyta Kosnik", 
     "nominating_officer": "Mr Paul Janik", 
     "emblems": [
         {
-            "image": "raw_data/PP2331/Emblem_980.png", 
+            "image": "Emblem_980.png", 
+            "primary": false, 
             "id": "980", 
             "description": "tulip"
         }, 
         {
-            "image": "raw_data/PP2331/Emblem_981.png", 
+            "image": "Emblem_981.png", 
+            "primary": false, 
             "id": "981", 
             "description": "Letter B"
         }
@@ -66,9 +51,34 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6518851555520524, 
+            51.523333497793594
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "ACC", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Spring Cleaning Team"
+        }, 
+        {
+            "translation": "", 
+            "description": "Slough Anti-corruption Campaign"
+        }, 
+        {
+            "translation": "", 
+            "description": "Slough Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Britwell Party"
+        }
     ]
 }

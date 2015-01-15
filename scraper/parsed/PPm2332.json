@@ -11,17 +11,13 @@
     ], 
     "campaigns_officer": "Mr Androw Hawke", 
     "registered_date": "2014-02-09T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "A Party for 'One and All'"
-        }
-    ], 
+    "postcode": "PL31 2FF", 
     "party_leader": "Mr Androw Hawke", 
     "nominating_officer": "Mrs Edith Smith", 
     "emblems": [
         {
-            "image": "raw_data/PPm2332/Emblem_988.jpg", 
+            "image": "Emblem_988.jpg", 
+            "primary": false, 
             "id": "988", 
             "description": "Celtic Knots, Sword representing King Arthur"
         }
@@ -42,9 +38,22 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.707787457692011, 
+            50.46448805407997
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "The Cornish Nationalist Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A Party for 'One and All'"
+        }
     ]
 }

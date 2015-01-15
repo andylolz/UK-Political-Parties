@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Mrs Janice Jenner", 
     "registered_date": "2002-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT5 8HQ", 
     "party_leader": "Mr Dennis De Lord", 
     "nominating_officer": "Mr Timothy Brown", 
     "emblems": [
         {
-            "image": "raw_data/PP231/Emblem_195.gif", 
+            "image": "Emblem_195.gif", 
+            "primary": false, 
             "id": "195", 
             "description": "Lion logo Independent Group of Councillors"
         }, 
         {
-            "image": "raw_data/PP231/Emblem_196.gif", 
+            "image": "Emblem_196.gif", 
+            "primary": false, 
             "id": "196", 
             "description": "Lion logo Independent"
         }, 
         {
-            "image": "raw_data/PP231/Emblem_197.gif", 
+            "image": "Emblem_197.gif", 
+            "primary": false, 
             "id": "197", 
             "description": "Lion logo"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.28597557450796735, 
+            51.396341882742604
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Independent Group of Councillors", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

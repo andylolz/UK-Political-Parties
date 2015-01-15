@@ -11,25 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-04T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Zero Immigration, Anti-EU, Pro-Jobs"
-        }, 
-        {
-            "translation": "", 
-            "description": "Zero Immigration, Out EU, Staying British"
-        }, 
-        {
-            "translation": "", 
-            "description": "Zero Immigration, More Jobs, Anti-Globalization"
-        }
-    ], 
+    "postcode": "TN38 1HH", 
     "party_leader": "Mr Terry Leach", 
     "nominating_officer": "Mr Terry Leach", 
     "emblems": [
         {
-            "image": "raw_data/PP2313/Emblem_962.jpg", 
+            "image": "Emblem_962.jpg", 
+            "primary": false, 
             "id": "962", 
             "description": "Emblem 1"
         }
@@ -50,9 +38,30 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.5482666472812172, 
+            50.868098594782445
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Harmony Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Zero Immigration, Anti-EU, Pro-Jobs"
+        }, 
+        {
+            "translation": "", 
+            "description": "Zero Immigration, Out EU, Staying British"
+        }, 
+        {
+            "translation": "", 
+            "description": "Zero Immigration, More Jobs, Anti-Globalization"
+        }
     ]
 }

@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-15T00:00:00", 
+    "postcode": "NR30 9EW", 
+    "party_leader": "Mrs Margaret Morris", 
+    "nominating_officer": "Mrs Margaret Morris", 
+    "emblems": [
+        {
+            "image": "Emblem_557.gif", 
+            "primary": false, 
+            "id": "557", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "PO Box 324\r\nGreat Yarmouth\r\nNorfolk\r\nNR30 9EW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Margaret Morris", 
+    "party_id": "PP876", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.7245829131120722, 
+            52.61253650658827
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Matriarchal Party United Kingdom Great Britain", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,35 +75,5 @@
             "translation": "", 
             "description": "Seeing eyes, the most powerful instrument"
         }
-    ], 
-    "party_leader": "Mrs Margaret Morris", 
-    "nominating_officer": "Mrs Margaret Morris", 
-    "emblems": [
-        {
-            "image": "raw_data/PP876/Emblem_557.gif", 
-            "id": "557", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "PO Box 324\r\nGreat Yarmouth\r\nNorfolk\r\nNR30 9EW\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Margaret Morris", 
-    "party_id": "PP876", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Matriarchal Party United Kingdom Great Britain", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-05T00:00:00", 
     "campaigns_officer": "Miss Julie Dixon", 
     "registered_date": "2006-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SE2 0HE", 
     "party_leader": "Mr Gary Redding", 
     "nominating_officer": "Mr Albert Dixon", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Clive Dennis Redding", 
-    "party_id": "PP554", 
+    "party_name": "Thamesmead Community Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.10532282952737222, 
+            51.486800061154966
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Thamesmead Community Party [De-registered 01/05/07]", 
+    "party_id": "PP554", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

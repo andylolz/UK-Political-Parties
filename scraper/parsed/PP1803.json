@@ -3,39 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-08-18T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "We will Rebuild"
-        }, 
-        {
-            "translation": "", 
-            "description": "Our Homeland"
-        }, 
-        {
-            "translation": "", 
-            "description": "For a United Britain"
-        }, 
-        {
-            "translation": "", 
-            "description": "For British People Culture and Values"
-        }
-    ], 
+    "postcode": "G62 7HQ", 
     "party_leader": "Mr Charles Baillie", 
     "nominating_officer": "Mr John M B Robertson", 
     "emblems": [
         {
-            "image": "raw_data/PP1803/Emblem_679.jpg", 
+            "image": "Emblem_679.jpg", 
+            "primary": false, 
             "id": "679", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1803/Emblem_680.jpg", 
+            "image": "Emblem_680.jpg", 
+            "primary": false, 
             "id": "680", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP1803/Emblem_681.jpg", 
+            "image": "Emblem_681.jpg", 
+            "primary": false, 
             "id": "681", 
             "description": "Emblem 3"
         }
@@ -56,9 +42,34 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.349132868321663, 
+            55.95527834059297
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Britannica", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "We will Rebuild"
+        }, 
+        {
+            "translation": "", 
+            "description": "Our Homeland"
+        }, 
+        {
+            "translation": "", 
+            "description": "For a United Britain"
+        }, 
+        {
+            "translation": "", 
+            "description": "For British People Culture and Values"
+        }
     ]
 }

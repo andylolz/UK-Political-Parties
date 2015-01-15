@@ -11,6 +11,57 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2013-05-03T00:00:00", 
+    "postcode": "W2 6HD", 
+    "party_leader": "Mr Andrew Percy", 
+    "nominating_officer": "Mr Andrew Percy", 
+    "emblems": [
+        {
+            "image": "Emblem_782.jpg", 
+            "primary": false, 
+            "id": "782", 
+            "description": "LIFE Circles (UK)"
+        }, 
+        {
+            "image": "Emblem_783.jpg", 
+            "primary": false, 
+            "id": "783", 
+            "description": "UK LIFE Splash"
+        }, 
+        {
+            "image": "Emblem_784.jpg", 
+            "primary": false, 
+            "id": "784", 
+            "description": "UK LIFE Text"
+        }
+    ], 
+    "party_address": "31 Reading House\r\nLondon\r\nLondon\r\nW2 6HD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew Percy", 
+    "party_id": "PP1986", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.18496254355434733, 
+            51.51498809551427
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "LIFE", 
+    "alternative_names": [
+        "BYWYD"
+    ], 
     "descriptions": [
         {
             "translation": "Newid Priodol", 
@@ -60,45 +111,5 @@
             "translation": "", 
             "description": "Sustainable Prosperity for All"
         }
-    ], 
-    "party_leader": "Mr Andrew Percy", 
-    "nominating_officer": "Mr Andrew Percy", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1986/Emblem_782.jpg", 
-            "id": "782", 
-            "description": "LIFE Circles (UK)"
-        }, 
-        {
-            "image": "raw_data/PP1986/Emblem_783.jpg", 
-            "id": "783", 
-            "description": "UK LIFE Splash"
-        }, 
-        {
-            "image": "raw_data/PP1986/Emblem_784.jpg", 
-            "id": "784", 
-            "description": "UK LIFE Text"
-        }
-    ], 
-    "party_address": "31 Reading House\r\nLondon\r\nLondon\r\nW2 6HD\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Andrew Percy", 
-    "party_id": "PP1986", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "LIFE", 
-    "alternative_names": [
-        "BYWYD"
     ]
 }

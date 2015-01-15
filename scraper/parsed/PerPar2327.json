@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-08-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW1H 9HQ", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13631454903857013, 
+            51.49923466347958
+        ]
+    }, 
     "register": null, 
     "party_name": "Conservative Party", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

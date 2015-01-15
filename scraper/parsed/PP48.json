@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-07-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GL20 6EE", 
     "party_leader": "Mr John McCloy", 
     "nominating_officer": "Mr Michael Sztymiak", 
     "emblems": [
         {
-            "image": "raw_data/PP48/Emblem_41.gif", 
+            "image": "Emblem_41.gif", 
+            "primary": false, 
             "id": "41", 
             "description": "War of Roses"
         }, 
         {
-            "image": "raw_data/PP48/Emblem_42.gif", 
+            "image": "Emblem_42.gif", 
+            "primary": false, 
             "id": "42", 
             "description": "Tewkesbury Abbey"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1603833293156347, 
+            52.01583568332638
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Tewkesbury Independents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

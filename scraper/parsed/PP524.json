@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "Miss Mercel Hislop", 
     "registered_date": "2006-12-01T00:00:00", 
-    "descriptions": [], 
+    "postcode": "N3 3BB", 
     "party_leader": "na Maureen Barbara Clemetson", 
     "nominating_officer": "Mrs Carol McKintosh", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Shekel Yeboah", 
-    "party_id": "PP524", 
+    "party_name": "Victory United Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.19366152400368208, 
+            51.5908832811353
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Victory United Party [De-registered 01/11/08]", 
+    "party_id": "PP524", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

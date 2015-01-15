@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-11-16T00:00:00", 
     "campaigns_officer": "Mr Salvinder Dhillon", 
     "registered_date": "2002-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TW3 2DP", 
     "party_leader": "Mr Salvinder Dhillon", 
     "nominating_officer": "Mr Balraj Dhillon", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Balraj Dhillon", 
-    "party_id": "PP229", 
+    "party_name": "SEWA (Social Empowerment Welfare Association)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3588493995943042, 
+            51.462786750291414
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "SEWA (Social Empowerment Welfare Association) [De-registered 16/11/04]", 
+    "party_id": "PP229", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

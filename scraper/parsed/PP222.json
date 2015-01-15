@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-04-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SL2 2DP", 
     "party_leader": "Mrs Gillian Swan", 
     "nominating_officer": "Mrs Gillian Swan", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Carol Teteris", 
-    "party_id": "PP222", 
+    "party_name": "Britwellian Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6311664921768061, 
+            51.53311967605693
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Britwellian Group [De-registered 21/04/04]", 
+    "party_id": "PP222", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

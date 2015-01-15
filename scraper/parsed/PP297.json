@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-11-07T00:00:00", 
     "campaigns_officer": "Mr Ian Thomas Fleming", 
     "registered_date": "2003-03-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PL1 2PJ", 
     "party_leader": "Mr Kevin Kelway", 
     "nominating_officer": "Mr Ian Thomas Fleming", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Juanita Broughton", 
-    "party_id": "PP297", 
+    "party_name": "The Plymouth Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.144205480699406, 
+            50.36563987405278
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Plymouth Party [De-registered 11/07/05]", 
+    "party_id": "PP297", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

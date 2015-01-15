@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-07-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BR5 1EN", 
     "party_leader": "Mr Richard Howard", 
     "nominating_officer": "Mr Alex Boniface", 
     "emblems": [
         {
-            "image": "raw_data/PPm2536/Emblem_1047.jpg", 
+            "image": "Emblem_1047.jpg", 
+            "primary": false, 
             "id": "1047", 
             "description": "P4P"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.07710904429781384, 
+            51.38095350651596
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Privatise for Prosperity", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

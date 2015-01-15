@@ -11,6 +11,45 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2007-06-06T00:00:00", 
+    "postcode": "DL8 3RA", 
+    "party_leader": "Mr John Blackie", 
+    "nominating_officer": "Mr John Blackie", 
+    "emblems": [
+        {
+            "image": "Emblem_400.gif", 
+            "primary": false, 
+            "id": "400", 
+            "description": "White rose of Yorkshire"
+        }
+    ], 
+    "party_address": "Dryden House\r\nMarket Place\r\nHawes\r\nNorth Yorkshire\r\nDL8 3RA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Blackie", 
+    "party_id": "PP673", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.198221533391331, 
+            54.30425414493472
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independents of North Yorkshire", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -60,35 +99,5 @@
             "translation": "", 
             "description": "INDEPENDENT (Save the Friarage Hospital)"
         }
-    ], 
-    "party_leader": "Mr John Blackie", 
-    "nominating_officer": "Mr John Blackie", 
-    "emblems": [
-        {
-            "image": "raw_data/PP673/Emblem_400.gif", 
-            "id": "400", 
-            "description": "White rose of Yorkshire"
-        }
-    ], 
-    "party_address": "Dryden House\r\nMarket Place\r\nHawes\r\nNorth Yorkshire\r\nDL8 3RA\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr John Blackie", 
-    "party_id": "PP673", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Independents of North Yorkshire", 
-    "alternative_names": [
-        ""
     ]
 }

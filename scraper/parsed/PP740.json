@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-11-26T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-02-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Sunderland First"
-        }
-    ], 
+    "postcode": "SR1 1QX", 
     "party_leader": "Mr Patrick Lavelle", 
     "nominating_officer": "Mr Dennis McDonald", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Patrick Lavelle", 
-    "party_id": "PP740", 
+    "party_name": "Sunderland First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3806171825961386, 
+            54.90551828153636
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Sunderland First [De-registered 26/11/09]", 
+    "party_id": "PP740", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Sunderland First"
+        }
     ]
 }

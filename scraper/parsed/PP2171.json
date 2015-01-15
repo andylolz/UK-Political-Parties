@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GL52 6QX", 
     "party_leader": "Mr Roger Sainsbury", 
     "nominating_officer": "Mr Alisdair Findlay", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.0586196677747615, 
+            51.89511261695379
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "British Commonwealth Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

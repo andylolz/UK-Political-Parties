@@ -3,22 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-01-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "For People, Animals and the Environment"
-        }
-    ], 
+    "postcode": "E2 2DF", 
     "party_leader": "Ms Vanessa Helen Hudson", 
     "nominating_officer": "Mr Jonathan Homan", 
     "emblems": [
         {
-            "image": "raw_data/PP616/Emblem_362.gif", 
+            "image": "Emblem_362.gif", 
+            "primary": false, 
             "id": "362", 
             "description": "A Political Party to help create a better world for people and animals"
         }, 
         {
-            "image": "raw_data/PP616/Emblem_911.jpg", 
+            "image": "Emblem_911.jpg", 
+            "primary": false, 
             "id": "911", 
             "description": "AWP"
         }
@@ -39,9 +36,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.0604190260902184, 
+            51.532724393927474
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Animal Welfare Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For People, Animals and the Environment"
+        }
     ]
 }

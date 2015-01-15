@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2009-08-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-02-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH1 2HH", 
     "party_leader": "Mr Robin Bankhead", 
     "nominating_officer": "Mr Robin Bankhead", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robin Bankhead", 
-    "party_id": "PP275", 
+    "party_name": "Adam Lyal's Witchery Tour Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.194296939646181, 
+            55.948217324030615
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Adam Lyal's Witchery Tour Party [De-registered 08/06/09]", 
+    "party_id": "PP275", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

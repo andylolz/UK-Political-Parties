@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-02-27T00:00:00", 
     "campaigns_officer": "Mr Paul Brook", 
     "registered_date": "2001-05-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CW9 6LT", 
     "party_leader": "Mr Andrew Wright", 
     "nominating_officer": "Mr Paul Brook", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Catherine Mary Williams", 
-    "party_id": "PP179", 
+    "party_name": "The Tatton Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.468584141767359, 
+            53.30809947099822
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Tatton Group [De-registered 27/02/02]", 
+    "party_id": "PP179", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-05-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DE7 6HZ", 
     "party_leader": "Mrs Pamela May Somerville McAlester", 
     "nominating_officer": "Mrs Pamela May Somerville McAlester", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Ann Oxenham Coombe", 
-    "party_id": "PP501", 
+    "party_name": "Senior Values", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3319291359548597, 
+            52.96983471552371
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Senior Values [De-registered 17/05/06]", 
+    "party_id": "PP501", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

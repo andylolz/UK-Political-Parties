@@ -11,22 +11,25 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2000-04-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT10 8EL", 
     "party_leader": "Mr Andrew James Constantine", 
     "nominating_officer": "Mr Andrew James Constantine", 
     "emblems": [
         {
-            "image": "raw_data/PP5/Emblem_3.gif", 
+            "image": "Emblem_3.gif", 
+            "primary": false, 
             "id": "3", 
             "description": "St George and the Dragon"
         }, 
         {
-            "image": "raw_data/PP5/Emblem_4.gif", 
+            "image": "Emblem_4.gif", 
+            "primary": false, 
             "id": "4", 
             "description": "Symbol of English Independence"
         }, 
         {
-            "image": "raw_data/PP5/Emblem_5.gif", 
+            "image": "Emblem_5.gif", 
+            "primary": false, 
             "id": "5", 
             "description": "The White Dragon flag of England"
         }
@@ -47,9 +50,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3495350371697259, 
+            51.3873356183065
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "English Independence Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

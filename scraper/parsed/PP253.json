@@ -1,24 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-04-07T00:00:00", 
     "campaigns_officer": "Mr Patrick Shine", 
     "registered_date": "2002-03-07T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SL2 2QW", 
     "party_leader": "Mr Dennis Lees", 
     "nominating_officer": "Mr Patrick Shine", 
     "emblems": [
         {
-            "image": "raw_data/PP253/Emblem_213.gif", 
+            "image": "Emblem_213.gif", 
+            "primary": false, 
             "id": "213", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP253/Emblem_214.gif", 
+            "image": "Emblem_214.gif", 
+            "primary": false, 
             "id": "214", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP253/Emblem_215.gif", 
+            "image": "Emblem_215.gif", 
+            "primary": false, 
             "id": "215", 
             "description": "Emblem 3"
         }
@@ -33,15 +37,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Julie Anne Grimes", 
-    "party_id": "PP253", 
+    "party_name": "Independent Britwellian Residents", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6377199720323127, 
+            51.53285425219603
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Independent Britwellian Residents [De-registered 04/07/14]", 
+    "party_id": "PP253", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

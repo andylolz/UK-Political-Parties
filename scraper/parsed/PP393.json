@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-05-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BB1 2EX", 
     "party_leader": "Mr Robin James Evans", 
     "nominating_officer": "Mr Robin James Evans", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robin James Evans", 
-    "party_id": "PP393", 
+    "party_name": "BNSP", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.4441375597094828, 
+            53.74051940224839
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "BNSP [De-registered 01/11/07]", 
+    "party_id": "PP393", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

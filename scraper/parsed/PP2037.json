@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-12-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KW15 1BU", 
     "party_leader": "Mr Alistair Gordon", 
     "nominating_officer": "Mr John Richards", 
     "emblems": [
         {
-            "image": "raw_data/PP2037/Emblem_815.jpg", 
+            "image": "Emblem_815.jpg", 
+            "primary": false, 
             "id": "815", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.9621610097439643, 
+            58.97818987237597
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Orkney Manifesto Group", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

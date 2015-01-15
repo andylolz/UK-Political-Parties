@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2004-01-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ZE2 9LA", 
     "party_leader": "Mr Brian Nugent", 
     "nominating_officer": "Ms Dallas Carter", 
     "emblems": [
         {
-            "image": "raw_data/PP372/Emblem_272.gif", 
+            "image": "Emblem_272.gif", 
+            "primary": false, 
             "id": "272", 
             "description": "Saltire flag of St Andrew flag of Scotland"
         }, 
         {
-            "image": "raw_data/PP372/Emblem_273.gif", 
+            "image": "Emblem_273.gif", 
+            "primary": false, 
             "id": "273", 
             "description": "Cross with text FREE above and SCOTLAND below"
         }, 
         {
-            "image": "raw_data/PP372/Emblem_274.gif", 
+            "image": "Emblem_274.gif", 
+            "primary": false, 
             "id": "274", 
             "description": "No symbol over and round EU flag which is in the background"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3347753387145047, 
+            60.10495580259611
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Free Scotland Party [FSP]", 
     "alternative_names": [
         "Freiceadan Saor Alba [FSA]"
-    ]
+    ], 
+    "descriptions": []
 }

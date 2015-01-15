@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Charles Nicholls", 
     "registered_date": "2010-08-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HR1 2NH", 
     "party_leader": "Mr Anthony J W Powers", 
     "nominating_officer": "Cllr Mark Hubbard", 
     "emblems": [
         {
-            "image": "raw_data/PP883/Emblem_565.gif", 
+            "image": "Emblem_565.gif", 
+            "primary": false, 
             "id": "565", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.7144273089332676, 
+            52.05314817662037
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "It's OUR County (Herefordshire)", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

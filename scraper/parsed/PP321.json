@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-01-06T00:00:00", 
     "campaigns_officer": "Mr Colin Dennett", 
     "registered_date": "2004-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CF40 2LW", 
     "party_leader": "Mr Jeff Gregory", 
     "nominating_officer": "Mr Jeff Gregory", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Gwyn Haings", 
-    "party_id": "PP321", 
+    "party_name": "Rhondda Peoples Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.449633355004436, 
+            51.63104555801961
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Rhondda Peoples Party [De-registered 01/06/05]", 
+    "party_id": "PP321", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

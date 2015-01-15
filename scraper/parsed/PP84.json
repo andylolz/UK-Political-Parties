@@ -11,17 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2001-02-16T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "United Kingdom Independence Party"
-        }
-    ], 
+    "postcode": "TG12 9BG", 
     "party_leader": "Mr Nigel Paul Farage", 
     "nominating_officer": "Mr Peter David Reeve", 
     "emblems": [
         {
-            "image": "raw_data/PP84/Emblem_100.gif", 
+            "image": "Emblem_100.gif", 
+            "primary": false, 
             "id": "100", 
             "description": "A pound sterling sign with the letters UKIP through the middle"
         }
@@ -42,9 +38,19 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Northern Ireland", 
     "party_name": "UK Independence Party (UK I P)", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "United Kingdom Independence Party"
+        }
     ]
 }

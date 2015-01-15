@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "Mr Eric Teasdale", 
     "registered_date": "2006-10-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BD8 7QW", 
     "party_leader": "Mr Norman Scarth", 
     "nominating_officer": "Mr Norman Scarth", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Norman Scarth", 
-    "party_id": "PP592", 
+    "party_name": "Anti-Crime Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7740471049743753, 
+            53.80566601939185
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Anti-Crime Party [De-registered 01/11/08]", 
+    "party_id": "PP592", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

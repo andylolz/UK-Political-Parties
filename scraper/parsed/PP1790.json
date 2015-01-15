@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-09-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PR3 3YP", 
     "party_leader": "Mr Tony Johnson", 
     "nominating_officer": "Mr Andrew Wallin", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.5329212726608863, 
+            53.81351822924501
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Independent Political Alliance Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

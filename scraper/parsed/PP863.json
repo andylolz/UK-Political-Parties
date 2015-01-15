@@ -11,21 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-13T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Magna Carta Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "\"Payment in lieu of Castleguard\" ONLY"
-        }
-    ], 
+    "postcode": "TW1 2AP", 
     "party_leader": "Mr David D. Wedgwood", 
     "nominating_officer": "Mr David D. Wedgwood", 
     "emblems": [
         {
-            "image": "raw_data/PP863/Emblem_547.gif", 
+            "image": "Emblem_547.gif", 
+            "primary": false, 
             "id": "547", 
             "description": "Emblem 1"
         }
@@ -46,9 +38,26 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3171910335522764, 
+            51.454876451566264
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Magna Carta Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Magna Carta Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "\"Payment in lieu of Castleguard\" ONLY"
+        }
     ]
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-04-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EC1M 6AN", 
     "party_leader": "Mr Richard Franklin", 
     "nominating_officer": "Mr Derek Daniels", 
     "emblems": [
         {
-            "image": "raw_data/PP2063/Emblem_851.jpg", 
+            "image": "Emblem_851.jpg", 
+            "primary": false, 
             "id": "851", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.10030544474241687, 
+            51.52116525835559
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The 30-50 Coalition", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

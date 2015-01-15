@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2004-06-29T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-02-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NP12 0DJ", 
     "party_leader": "Mr Paul Taylor", 
     "nominating_officer": "Mr Paul Taylor", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Taylor", 
-    "party_id": "PP280", 
+    "party_name": "Reality", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.1845349949660937, 
+            51.67272916851918
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Reality [De-registered 29/06/04]", 
+    "party_id": "PP280", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

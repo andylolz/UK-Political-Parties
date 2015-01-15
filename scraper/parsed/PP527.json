@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-05-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-01-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KY12 0LU", 
     "party_leader": "Mr Thomas John Minogue", 
     "nominating_officer": "Mrs Deborah Jobson", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Thomas John Minogue", 
-    "party_id": "PP527", 
+    "party_name": "Abolish Forth Bridge Tolls Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.4566339705100586, 
+            56.076946102066344
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Abolish Forth Bridge Tolls Party [De-registered 21/05/07]", 
+    "party_id": "PP527", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

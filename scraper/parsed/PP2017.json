@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-06-02T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Wear Valley Independent Group"
-        }
-    ], 
+    "postcode": "DL15 8JS", 
     "party_leader": "Cllr Patricia Ann Jopling", 
     "nominating_officer": "Ms Lesley Zair", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Cllr Patricia Ann Jopling", 
-    "party_id": "PP2017", 
+    "party_name": "Wear Valley Independent Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.746089096701545, 
+            54.69421947837398
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Wear Valley Independent Group [De-registered 03/11/14]", 
+    "party_id": "PP2017", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Wear Valley Independent Group"
+        }
     ]
 }

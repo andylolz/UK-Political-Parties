@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Peter John Pigott", 
     "registered_date": "2005-04-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GU21 5AH", 
     "party_leader": "Miss Ruth Margery Temple", 
     "nominating_officer": "Miss Ruth Margery Temple", 
     "emblems": [
         {
-            "image": "raw_data/PP491/Emblem_314.gif", 
+            "image": "Emblem_314.gif", 
+            "primary": false, 
             "id": "314", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5567109458985462, 
+            51.319534676737206
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Magna Carta Conservation Party Great Britain", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,19 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CH42 0LB", 
     "party_leader": "Mr Andrew Colin Dow", 
     "nominating_officer": "Mr John Damian Maher", 
     "emblems": [
         {
-            "image": "raw_data/PP315/Emblem_250.gif", 
+            "image": "Emblem_250.gif", 
+            "primary": false, 
             "id": "250", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP315/Emblem_251.gif", 
+            "image": "Emblem_251.gif", 
+            "primary": false, 
             "id": "251", 
             "description": "Emblem 2"
         }
@@ -28,15 +31,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andrew Colin Dow", 
-    "party_id": "PP315", 
+    "party_name": "Wirral Independent Network", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.026277950303898, 
+            53.38327609259152
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Wirral Independent Network [De-registered 05/11/13]", 
+    "party_id": "PP315", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

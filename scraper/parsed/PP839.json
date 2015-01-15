@@ -3,30 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "Mrs Jane Ann Kurian", 
     "registered_date": "2010-03-15T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Promoting Christian Values in Government"
-        }, 
-        {
-            "translation": "", 
-            "description": "Promoting Christian Family Values"
-        }, 
-        {
-            "translation": "", 
-            "description": "Promoting Christian Values in Society"
-        }
-    ], 
+    "postcode": "CV6 5SP", 
     "party_leader": "Mr Ron Lebar", 
     "nominating_officer": "Mr William Sidhu", 
     "emblems": [
         {
-            "image": "raw_data/PP839/Emblem_518.gif", 
+            "image": "Emblem_518.gif", 
+            "primary": false, 
             "id": "518", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP839/Emblem_519.gif", 
+            "image": "Emblem_519.gif", 
+            "primary": false, 
             "id": "519", 
             "description": "Emblem 2"
         }
@@ -47,9 +36,30 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4919179429777125, 
+            52.43106316647184
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Christian Movement for Great Britain", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Promoting Christian Values in Government"
+        }, 
+        {
+            "translation": "", 
+            "description": "Promoting Christian Family Values"
+        }, 
+        {
+            "translation": "", 
+            "description": "Promoting Christian Values in Society"
+        }
     ]
 }

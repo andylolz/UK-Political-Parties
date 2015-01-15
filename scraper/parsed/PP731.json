@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "Ms Kate Jasper", 
     "registered_date": "2008-09-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TR18 4BG", 
     "party_leader": "Mr William Nelson Goodden", 
     "nominating_officer": "Mr William Nelson Goodden", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.534851374481838, 
+            50.11605154605185
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Democratic Independence Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

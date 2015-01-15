@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LS24 9BA", 
     "party_leader": "Mr Ian Laidlaw Wilson", 
     "nominating_officer": "Dr Glyn Powell", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2609284228796251, 
+            53.88488108164602
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "UK Yorkshire Socialist Alliance Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

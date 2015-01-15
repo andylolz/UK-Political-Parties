@@ -11,17 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-11T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Equal Opportunity for Every Child"
-        }
-    ], 
+    "postcode": "08080", 
     "party_leader": "Mr Niall Caldwell", 
     "nominating_officer": "Mike Baker", 
     "emblems": [
         {
-            "image": "raw_data/PP2482/Emblem_1032.jpg", 
+            "image": "Emblem_1032.jpg", 
+            "primary": false, 
             "id": "1032", 
             "description": "Meritocracy Logo Black"
         }
@@ -42,9 +38,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.7879685, 
+            42.1680787
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "UK Meritocracy Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Equal Opportunity for Every Child"
+        }
     ]
 }

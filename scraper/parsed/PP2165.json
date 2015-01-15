@@ -3,16 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-11-28T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "British Independents"
-        }, 
-        {
-            "translation": "", 
-            "description": "The Brits"
-        }
-    ], 
+    "postcode": "DE24 0PR", 
     "party_leader": "Mr David Gale", 
     "nominating_officer": "Miss Adele Chatterton", 
     "emblems": [], 
@@ -32,9 +23,26 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.4190931486043983, 
+            52.89561752632388
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "British Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "British Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Brits"
+        }
     ]
 }

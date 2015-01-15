@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-09-08T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NW3 3DJ", 
     "party_leader": "Miss Ena Kapetanovic", 
     "nominating_officer": "Miss Maria Lilibeth Torio", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Charles Jonathan F. Target", 
-    "party_id": "PP551", 
+    "party_name": "Vision and Voice", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.16357082443684004, 
+            51.54194723203658
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Vision and Voice [De-registered 09/08/07]", 
+    "party_id": "PP551", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

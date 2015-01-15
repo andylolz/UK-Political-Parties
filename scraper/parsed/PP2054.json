@@ -9,27 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-09-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-28T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "PPP"
-        }, 
-        {
-            "translation": "", 
-            "description": "Working for health wealth of nation"
-        }, 
-        {
-            "translation": "By Example Shall We Lead", 
-            "description": "Exemplu Ducimus"
-        }
-    ], 
+    "postcode": "DY11 5TA", 
     "party_leader": "Mr George William Lynes", 
     "nominating_officer": "Mr George William Lynes", 
     "emblems": [
         {
-            "image": "raw_data/PP2054/Emblem_830.jpg", 
+            "image": "Emblem_830.jpg", 
+            "primary": false, 
             "id": "830", 
             "description": "Emblem 1"
         }
@@ -44,15 +33,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr George William Lynes", 
-    "party_id": "PP2054", 
+    "party_name": "Pensioners Peoples Party (PPP)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.2771760588506575, 
+            52.42288291270728
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Pensioners Peoples Party (PPP) [De-registered 09/04/14]", 
+    "party_id": "PP2054", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "PPP"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working for health wealth of nation"
+        }, 
+        {
+            "translation": "By Example Shall We Lead", 
+            "description": "Exemplu Ducimus"
+        }
     ]
 }

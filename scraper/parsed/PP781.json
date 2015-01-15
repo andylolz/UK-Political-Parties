@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-10-28T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-10-16T00:00:00", 
+    "postcode": "DN31 9FY", 
+    "party_leader": "Mr Adrian Howe", 
+    "nominating_officer": "Mr Adrian Howe", 
+    "emblems": [], 
+    "party_address": "P.O. Box 612\r\nGrimsby\r\nDN31 9FY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Claire Howe", 
+    "party_name": "The P.N.D.P.", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.0773755814669643, 
+            53.57217385196638
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP781", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,29 +73,5 @@
             "translation": "", 
             "description": "Scottish P.N.D.P."
         }
-    ], 
-    "party_leader": "Mr Adrian Howe", 
-    "nominating_officer": "Mr Adrian Howe", 
-    "emblems": [], 
-    "party_address": "P.O. Box 612\r\nGrimsby\r\nDN31 9FY\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Claire Howe", 
-    "party_id": "PP781", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The P.N.D.P. [De-registered 28/10/10]", 
-    "alternative_names": [
-        ""
     ]
 }

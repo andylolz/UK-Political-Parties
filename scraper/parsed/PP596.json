@@ -1,19 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-04-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-02-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B21 1DJ", 
     "party_leader": "Ms Gill Chant", 
     "nominating_officer": "Ms Gill Chant", 
     "emblems": [
         {
-            "image": "raw_data/PP596/Emblem_350.gif", 
+            "image": "Emblem_350.gif", 
+            "primary": false, 
             "id": "350", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP596/Emblem_351.gif", 
+            "image": "Emblem_351.gif", 
+            "primary": false, 
             "id": "351", 
             "description": "Emblem 2"
         }
@@ -28,15 +31,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Stephen White", 
-    "party_id": "PP596", 
+    "party_name": "the independence index", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9202627014331979, 
+            52.50003802686602
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "the independence index [De-registered 13/04/12]", 
+    "party_id": "PP596", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

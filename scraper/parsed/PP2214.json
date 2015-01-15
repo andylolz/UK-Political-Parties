@@ -3,21 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-10-01T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Vote British!"
-        }, 
-        {
-            "translation": "", 
-            "description": "Defending the Union 2014"
-        }
-    ], 
+    "postcode": "W1U 6PZ", 
     "party_leader": "Mr Paul Golding", 
     "nominating_officer": "Mr Paul Golding", 
     "emblems": [
         {
-            "image": "raw_data/PP2214/Emblem_900.jpg", 
+            "image": "Emblem_900.jpg", 
+            "primary": false, 
             "id": "900", 
             "description": "Britain First"
         }
@@ -38,9 +30,26 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.15862886148972036, 
+            51.52075547051453
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Britain First", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Vote British!"
+        }, 
+        {
+            "translation": "", 
+            "description": "Defending the Union 2014"
+        }
     ]
 }

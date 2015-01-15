@@ -3,26 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-01-12T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "South Woodham Ferrers Independents"
-        }, 
-        {
-            "translation": "", 
-            "description": "SWFI"
-        }
-    ], 
+    "postcode": "CM3 5GS", 
     "party_leader": "Mr Kevin Golding", 
     "nominating_officer": "Mr Samuel Richard Coley", 
     "emblems": [
         {
-            "image": "raw_data/PP896/Emblem_583.gif", 
+            "image": "Emblem_583.gif", 
+            "primary": false, 
             "id": "583", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP896/Emblem_584.gif", 
+            "image": "Emblem_584.gif", 
+            "primary": false, 
             "id": "584", 
             "description": "Emblem 2"
         }
@@ -43,9 +36,26 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.6186717226090804, 
+            51.637062724222226
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "South Woodham Ferrers Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "South Woodham Ferrers Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "SWFI"
+        }
     ]
 }

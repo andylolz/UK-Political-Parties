@@ -3,16 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-09-15T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The modern successors to the Whigs"
-        }, 
-        {
-            "translation": "", 
-            "description": "The buff and blues"
-        }
-    ], 
+    "postcode": "SE5 9ED", 
     "party_leader": "Mr Waleed Ghani", 
     "nominating_officer": "Mr Waleed Ghani", 
     "emblems": [], 
@@ -32,9 +23,26 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.10024745743094317, 
+            51.47093178496073
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Whig Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The modern successors to the Whigs"
+        }, 
+        {
+            "translation": "", 
+            "description": "The buff and blues"
+        }
     ]
 }

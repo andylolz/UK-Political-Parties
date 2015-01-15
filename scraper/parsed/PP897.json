@@ -11,34 +11,19 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2010-01-12T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Peterborough Independents"
-        }, 
-        {
-            "translation": "", 
-            "description": "Werrington Independents"
-        }, 
-        {
-            "translation": "", 
-            "description": "North Ward Independents"
-        }, 
-        {
-            "translation": "", 
-            "description": "Newborough Independents"
-        }
-    ], 
+    "postcode": "PE3 9TG", 
     "party_leader": "Mr Michael Fletcher", 
     "nominating_officer": "Mr Stephen Lane", 
     "emblems": [
         {
-            "image": "raw_data/PP897/Emblem_585.gif", 
+            "image": "Emblem_585.gif", 
+            "primary": false, 
             "id": "585", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP897/Emblem_968.png", 
+            "image": "Emblem_968.png", 
+            "primary": false, 
             "id": "968", 
             "description": "I"
         }
@@ -59,9 +44,34 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.29092633066883494, 
+            52.575627829076446
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Peterborough Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Peterborough Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Werrington Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "North Ward Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Newborough Independents"
+        }
     ]
 }

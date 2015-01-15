@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-06-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-31T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH4 1ED", 
     "party_leader": "Mr Noel Collins", 
     "nominating_officer": "Mr Noel Collins", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andrew Hamilton", 
-    "party_id": "PP330", 
+    "party_name": "Am Partaidh Dhuthchail - The Rural Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.2157684081857854, 
+            55.95784642444478
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Am Partaidh Dhuthchail - The Rural Party [De-registered 17/06/04]", 
+    "party_id": "PP330", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

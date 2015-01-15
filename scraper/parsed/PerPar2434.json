@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-07-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH1 3EP", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.1917261679663613, 
+            55.95627523064392
+        ]
+    }, 
     "register": null, 
     "party_name": "Wealthy Nation", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

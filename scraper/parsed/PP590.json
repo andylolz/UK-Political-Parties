@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2008-07-23T00:00:00", 
     "campaigns_officer": "Mr Bryan Graham Saunder", 
     "registered_date": "2006-10-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B69 9BF", 
     "party_leader": "Mr Shari Singh Temochin", 
     "nominating_officer": "Mr Shari Singh Temochin", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Shari Singh Temochin", 
-    "party_id": "PP590", 
+    "party_name": "Red and Green Alliance Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.0270238, 
+            52.49853659999999
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Red and Green Alliance Party [De-registered 23/07/08]", 
+    "party_id": "PP590", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

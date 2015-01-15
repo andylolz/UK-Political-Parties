@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CB1 2NU", 
     "party_leader": "Mr Philip Slater", 
     "nominating_officer": "Mrs Elizabeth Ann Sowerby Slater", 
     "emblems": [
         {
-            "image": "raw_data/PP45/Emblem_36.gif", 
+            "image": "Emblem_36.gif", 
+            "primary": false, 
             "id": "36", 
             "description": "The letters RP in combination with if required the words Referendum Party or Plaid Referendum Cymru or Scottish Referendum Party in a box the whole contained if required within an outline"
         }, 
         {
-            "image": "raw_data/PP45/Emblem_37.gif", 
+            "image": "Emblem_37.gif", 
+            "primary": false, 
             "id": "37", 
             "description": "The letters RP in combination with if required the words Referendum Party or Plaid Referendum Cymru or Scottish Referendum Party in a box and a slogan eg \"The people will decide\" also in a box the whole contained if required within an outline"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.14002282467844435, 
+            52.20027746518239
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Referendum Party", 
     "alternative_names": [
         "Plaid Referendum Cymru"
-    ]
+    ], 
+    "descriptions": []
 }

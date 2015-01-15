@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-03-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GU2 9TT", 
     "party_leader": "Mr John Morris", 
     "nominating_officer": "Mr John Morris", 
     "emblems": [
         {
-            "image": "raw_data/PP133/Emblem_146.gif", 
+            "image": "Emblem_146.gif", 
+            "primary": false, 
             "id": "146", 
             "description": "The word \"PEACE\" in bold type with a double ruling above and below the word"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5975071503123349, 
+            51.2555819232755
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Peace Party - Non-violence, Justice, Environment", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

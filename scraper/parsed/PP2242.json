@@ -3,29 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-18T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Old Swan against cuts and discrimination"
-        }, 
-        {
-            "translation": "", 
-            "description": "Old Swan Against The Cuts"
-        }, 
-        {
-            "translation": "", 
-            "description": "Against Cuts in Services and Benefits"
-        }, 
-        {
-            "translation": "", 
-            "description": "Old Swan public services not private"
-        }
-    ], 
+    "postcode": "L13 4DQ", 
     "party_leader": "Mr Martin Ralph", 
     "nominating_officer": "Ms Margaret McAdam", 
     "emblems": [
         {
-            "image": "raw_data/PP2242/Emblem_927.jpg", 
+            "image": "Emblem_927.jpg", 
+            "primary": false, 
             "id": "927", 
             "description": "Old Swan against the Cuts"
         }
@@ -46,9 +30,34 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.906557212807312, 
+            53.4108076647927
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Old Swan Against the Cuts", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Old Swan against cuts and discrimination"
+        }, 
+        {
+            "translation": "", 
+            "description": "Old Swan Against The Cuts"
+        }, 
+        {
+            "translation": "", 
+            "description": "Against Cuts in Services and Benefits"
+        }, 
+        {
+            "translation": "", 
+            "description": "Old Swan public services not private"
+        }
     ]
 }

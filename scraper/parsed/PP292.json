@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-03-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "AB42 2UG", 
     "party_leader": "Mr George Alexander Geddes", 
     "nominating_officer": "Mr George Geddes", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Rosemary Crighton", 
-    "party_id": "PP292", 
+    "party_name": "The Fishing Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.813141434437321, 
+            57.50664164814034
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Fishing Party [De-registered 23/03/04]", 
+    "party_id": "PP292", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

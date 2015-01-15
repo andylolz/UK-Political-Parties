@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-10-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SG14 1HD", 
     "party_leader": "Mr James Thornton", 
     "nominating_officer": "Mrs Vivienne Thornton", 
     "emblems": [
         {
-            "image": "raw_data/PP595/Emblem_349.gif", 
+            "image": "Emblem_349.gif", 
+            "primary": false, 
             "id": "349", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Thornton", 
-    "party_id": "PP595", 
+    "party_name": "East Herts People", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.08012520816245211, 
+            51.79448376644786
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "East Herts People [De-registered 05/11/13]", 
+    "party_id": "PP595", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Gregory Farmer", 
     "registered_date": "2006-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ME5 8EY", 
     "party_leader": "Mr Graeme Mark Pike", 
     "nominating_officer": "Mr Graeme Mark Pike", 
     "emblems": [
         {
-            "image": "raw_data/PP556/Emblem_336.gif", 
+            "image": "Emblem_336.gif", 
+            "primary": false, 
             "id": "336", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.5357320030823298, 
+            51.34516689252315
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Medway Independent Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-03-27T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Fair to Both Sides"
-        }
-    ], 
+    "postcode": "KT9 1SD", 
     "party_leader": "Mr Richard Hunt", 
     "nominating_officer": "Mr Daniel Campbell", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.29650709563485844, 
+            51.36939199794357
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Fair Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Fair to Both Sides"
+        }
     ]
 }

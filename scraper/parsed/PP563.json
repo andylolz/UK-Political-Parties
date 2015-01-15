@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-04-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CW8 2TY", 
     "party_leader": "Mr Brian Hadland", 
     "nominating_officer": "Mr George Jones", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr George Jones", 
-    "party_id": "PP563", 
+    "party_name": "English Awareness Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.604696342305148, 
+            53.2396297406422
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "English Awareness Party [De-registered 01/11/07]", 
+    "party_id": "PP563", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

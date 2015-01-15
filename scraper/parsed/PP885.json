@@ -3,35 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Ms Karen Worrall", 
     "registered_date": "2010-09-29T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Progress Through Partnership"
-        }, 
-        {
-            "translation": "", 
-            "description": "Strength Through Partnership"
-        }, 
-        {
-            "translation": "", 
-            "description": "Shared future through a Fair Future"
-        }
-    ], 
+    "postcode": "BT20 4XD", 
     "party_leader": "Mr Mark Gordon", 
     "nominating_officer": "Ms Alison Blayney", 
     "emblems": [
         {
-            "image": "raw_data/PP885/Emblem_567.gif", 
+            "image": "Emblem_567.gif", 
+            "primary": false, 
             "id": "567", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP885/Emblem_568.gif", 
+            "image": "Emblem_568.gif", 
+            "primary": false, 
             "id": "568", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP885/Emblem_569.gif", 
+            "image": "Emblem_569.gif", 
+            "primary": false, 
             "id": "569", 
             "description": "Emblem 3"
         }
@@ -52,9 +42,30 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.663306448032889, 
+            54.64901801965393
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Community Partnership (Northern Ireland)", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Progress Through Partnership"
+        }, 
+        {
+            "translation": "", 
+            "description": "Strength Through Partnership"
+        }, 
+        {
+            "translation": "", 
+            "description": "Shared future through a Fair Future"
+        }
     ]
 }

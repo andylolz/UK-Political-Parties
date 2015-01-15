@@ -1,8 +1,60 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-05-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-01-27T00:00:00", 
+    "postcode": "FK15 0FJ", 
+    "party_leader": "Dr Mark Edward Campbell-Roddis", 
+    "nominating_officer": "Mrs Karen Ellen Campbell-Roddis", 
+    "emblems": [
+        {
+            "image": "Emblem_484.gif", 
+            "primary": false, 
+            "id": "484", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_485.gif", 
+            "primary": false, 
+            "id": "485", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_486.gif", 
+            "primary": false, 
+            "id": "486", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "1 Pont Crescent\r\nDunblane\r\nPethshire\r\nFK15 0FJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Karen Ellen Campbell-Roddis", 
+    "party_name": "Mainstream Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.963044927790051, 
+            56.19772617155361
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP802", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,45 +96,5 @@
             "translation": "", 
             "description": "Scottish Mainstream Party"
         }
-    ], 
-    "party_leader": "Dr Mark Edward Campbell-Roddis", 
-    "nominating_officer": "Mrs Karen Ellen Campbell-Roddis", 
-    "emblems": [
-        {
-            "image": "raw_data/PP802/Emblem_484.gif", 
-            "id": "484", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP802/Emblem_485.gif", 
-            "id": "485", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP802/Emblem_486.gif", 
-            "id": "486", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "1 Pont Crescent\r\nDunblane\r\nPethshire\r\nFK15 0FJ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Karen Ellen Campbell-Roddis", 
-    "party_id": "PP802", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Mainstream Party [De-registered 05/04/11]", 
-    "alternative_names": [
-        ""
     ]
 }

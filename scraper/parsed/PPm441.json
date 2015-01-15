@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-06-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-05-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SG6 1AP", 
     "party_leader": "Mr Raymond Smale", 
     "nominating_officer": "Mr Harry Hawkins", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm441", 
+    "party_name": "Town Council Campaigner", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.21588773848018805, 
+            51.99228595484958
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "Town Council Campaigner [De-registered 27/06/05]", 
+    "party_id": "PPm441", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

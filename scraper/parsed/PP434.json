@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-30T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "LPNI"
-        }
-    ], 
+    "postcode": "BT30 7QW", 
     "party_leader": "Mr Malachi Curran", 
     "nominating_officer": "Mr Malachi Curran", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.646353471205, 
+            54.24980163351061
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Labour Party of Northern Ireland", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "LPNI"
+        }
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-12-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "OX3 0ET", 
     "party_leader": "Mr Joseph Sullivan", 
     "nominating_officer": "Mr Desmond Sullivan", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Desmond Sullivan", 
-    "party_id": "PP401", 
+    "party_name": "N.O.T.A.", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2371213608446854, 
+            51.7596234364248
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "N.O.T.A. [De-registered 12/01/06]", 
+    "party_id": "PP401", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-12-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-08-01T00:00:00", 
-    "descriptions": [], 
+    "postcode": "W8 6NN", 
     "party_leader": "Mr Alfred John Shearer Bovill", 
     "nominating_officer": "Mr Peter Barrington Moore", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Bilal Souai", 
-    "party_id": "PP359", 
+    "party_name": "Single Issues Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.199783558195238, 
+            51.498409618600874
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Single Issues Party [De-registered 12/12/05]", 
+    "party_id": "PP359", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -9,14 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-01-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PR5 0JR", 
     "party_leader": "Mr Thomas Edward Sharratt", 
     "nominating_officer": "Mr Thomas Edward Sharratt", 
     "emblems": [
         {
-            "image": "raw_data/PP273/Emblem_220.gif", 
+            "image": "Emblem_220.gif", 
+            "primary": false, 
             "id": "220", 
             "description": "Emblem 1"
         }
@@ -31,15 +33,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Thomas Edward Sharratt", 
-    "party_id": "PP273", 
+    "party_name": "The Idle Toad", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.61970309933045, 
+            53.74348792303138
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Idle Toad [De-registered 03/11/14]", 
+    "party_id": "PP273", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

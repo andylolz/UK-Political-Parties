@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-04-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ME2 4FX", 
     "party_leader": "Mr Christopher Barker", 
     "nominating_officer": "Mr Christopher Barker", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Joseph Patrick Mullane", 
-    "party_id": "PP458", 
+    "party_name": "No More Excessive Housing In Kent", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.5194107318710991, 
+            51.389776616222235
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "No More Excessive Housing In Kent [De-registered 14/04/05]", 
+    "party_id": "PP458", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

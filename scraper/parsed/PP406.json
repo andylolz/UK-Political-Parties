@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-06-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-08-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SL5 0PE", 
     "party_leader": "Mrs Rona Brown", 
     "nominating_officer": "Mr Larry Kreeger", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Rona Brown", 
-    "party_id": "PP406", 
+    "party_name": "The Congressional Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6534344503570622, 
+            51.40178743617415
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "The Congressional Party [De-registered 06/06/06]", 
+    "party_id": "PP406", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

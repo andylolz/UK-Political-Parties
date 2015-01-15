@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-02-22T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "W1F 0NE", 
     "party_leader": "Mr Harry Cole", 
     "nominating_officer": "Mr Ali Wood", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Simon Byron", 
-    "party_id": "PP873", 
+    "party_name": "Citizens for Undead Rights and Equality", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13480955484190074, 
+            51.513158139993195
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Citizens for Undead Rights and Equality [De-registered 22/02/11]", 
+    "party_id": "PP873", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "You decide"
-        }
-    ], 
+    "postcode": "WC2B 5LQ", 
     "party_leader": "Mr Martin Jarvis", 
     "nominating_officer": "Mr Benjamin Lynch", 
     "emblems": [
         {
-            "image": "raw_data/PP820/Emblem_502.gif", 
+            "image": "Emblem_502.gif", 
+            "primary": false, 
             "id": "502", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Darren Lucraft", 
-    "party_id": "PP820", 
+    "party_name": "REPRESENT", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12346732614604186, 
+            51.515962737686756
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "REPRESENT [De-registered 05/11/13]", 
+    "party_id": "PP820", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "You decide"
+        }
     ]
 }

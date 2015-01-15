@@ -1,18 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-07-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-10-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The Left Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "Left Alternative"
-        }
-    ], 
+    "postcode": "E3 2DA", 
     "party_leader": "Mr Michael Gavan", 
     "nominating_officer": "Mr Michael Gavan", 
     "emblems": [], 
@@ -26,15 +18,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Jackie Turner", 
-    "party_id": "PP696", 
+    "party_name": "Left List", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.030205385157196552, 
+            51.52721203525706
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Left List [De-registered 13/07/09]", 
+    "party_id": "PP696", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Left Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Left Alternative"
+        }
     ]
 }

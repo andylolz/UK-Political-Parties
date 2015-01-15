@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-06-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NN15 7HJ", 
     "party_leader": "Ms Yvonne Hossack", 
     "nominating_officer": "Ms Yvonne Hossack", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Nicola Louise Slawson", 
-    "party_id": "PP461", 
+    "party_name": "Short Fat Solicitor Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.7307606526689775, 
+            52.393832437122704
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Short Fat Solicitor Party [De-registered 23/06/06]", 
+    "party_id": "PP461", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

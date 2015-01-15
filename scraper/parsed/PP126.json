@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-03-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SS5 4LE", 
     "party_leader": "Mrs Angela Heath", 
     "nominating_officer": "Mr Peter Zear", 
     "emblems": [
         {
-            "image": "raw_data/PP126/Emblem_138.gif", 
+            "image": "Emblem_138.gif", 
+            "primary": false, 
             "id": "138", 
             "description": "A curved row of terraced houses with the sun rising behind"
         }, 
         {
-            "image": "raw_data/PP126/Emblem_139.gif", 
+            "image": "Emblem_139.gif", 
+            "primary": false, 
             "id": "139", 
             "description": "A curved row of terraced houses with the sun rising behind and the words Hawkwell Residents underneath"
         }, 
         {
-            "image": "raw_data/PP126/Emblem_140.gif", 
+            "image": "Emblem_140.gif", 
+            "primary": false, 
             "id": "140", 
             "description": "A curved row of terraced houses with the sun rising behind and the words Hawkwell Residents over the top"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.6760343004743202, 
+            51.59431761009786
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Hawkwell Residents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

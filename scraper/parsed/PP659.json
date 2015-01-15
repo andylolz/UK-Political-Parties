@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST9 0LF", 
     "party_leader": "Mr Lee Emerick", 
     "nominating_officer": "Mr Trevor Keith Austin", 
     "emblems": [
         {
-            "image": "raw_data/PP659/Emblem_390.gif", 
+            "image": "Emblem_390.gif", 
+            "primary": false, 
             "id": "390", 
             "description": "A stylized AngloSaxon \"M\""
         }, 
         {
-            "image": "raw_data/PP659/Emblem_391.gif", 
+            "image": "Emblem_391.gif", 
+            "primary": false, 
             "id": "391", 
             "description": "A stylized AngloSaxon \"M\" surrounded by the words \"MERCIAN PARTY\""
         }, 
         {
-            "image": "raw_data/PP659/Emblem_392.gif", 
+            "image": "Emblem_392.gif", 
+            "primary": false, 
             "id": "392", 
             "description": "An AngloSaxon crown surmounting the words \"MERCIAN PARTY\""
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.100671274273676, 
+            53.025854253841175
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Mercian Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Robert Finnigan", 
     "registered_date": "2004-07-01T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LS27 7AE", 
     "party_leader": "Mr Robert Finnigan", 
     "nominating_officer": "Mr Robert Finnigan", 
     "emblems": [
         {
-            "image": "raw_data/PP356/Emblem_262.gif", 
+            "image": "Emblem_262.gif", 
+            "primary": false, 
             "id": "262", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP356/Emblem_263.gif", 
+            "image": "Emblem_263.gif", 
+            "primary": false, 
             "id": "263", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.6341538230124673, 
+            53.75998426576534
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Morley Borough Independents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

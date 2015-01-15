@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-05-02T00:00:00", 
+    "postcode": "WN4 9TT", 
+    "party_leader": "Mr Michael Moulding", 
+    "nominating_officer": "Mr Lee Aspey", 
+    "emblems": [
+        {
+            "image": "Emblem_928.png", 
+            "primary": false, 
+            "id": "928", 
+            "description": "CAP"
+        }
+    ], 
+    "party_address": "27 Wolmer Street\r\nAshton in Makerfield\r\nWigan\r\nWN4 9TT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Catherine Aspey", 
+    "party_id": "PP2232", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.6480611132690672, 
+            53.49415258636954
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Community Action Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,35 +75,5 @@
             "translation": "", 
             "description": "Honesty and Integrity"
         }
-    ], 
-    "party_leader": "Mr Michael Moulding", 
-    "nominating_officer": "Mr Lee Aspey", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2232/Emblem_928.png", 
-            "id": "928", 
-            "description": "CAP"
-        }
-    ], 
-    "party_address": "27 Wolmer Street\r\nAshton in Makerfield\r\nWigan\r\nWN4 9TT\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Catherine Aspey", 
-    "party_id": "PP2232", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Community Action Party", 
-    "alternative_names": [
-        ""
     ]
 }

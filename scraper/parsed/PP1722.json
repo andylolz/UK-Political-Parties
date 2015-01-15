@@ -3,34 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Republican Socialist Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "Bermondsey Republican Socialists"
-        }, 
-        {
-            "translation": "", 
-            "description": "For Democracy and Social Ownership"
-        }, 
-        {
-            "translation": "", 
-            "description": "RSP. SF."
-        }
-    ], 
+    "postcode": "CV21 9BJ", 
     "party_leader": "Mr Steve Freeman", 
     "nominating_officer": "Ms Janice Fowler", 
     "emblems": [
         {
-            "image": "raw_data/PP1722/Emblem_640.gif", 
+            "image": "Emblem_640.gif", 
+            "primary": false, 
             "id": "640", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1722/Emblem_641.gif", 
+            "image": "Emblem_641.gif", 
+            "primary": false, 
             "id": "641", 
             "description": "Emblem 2"
         }
@@ -51,9 +36,34 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.250428168334496, 
+            52.37981167586193
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Republican Socialist Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Republican Socialist Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Bermondsey Republican Socialists"
+        }, 
+        {
+            "translation": "", 
+            "description": "For Democracy and Social Ownership"
+        }, 
+        {
+            "translation": "", 
+            "description": "RSP. SF."
+        }
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW6 6JT", 
     "party_leader": "Mr Rodney Hylton-Potts", 
     "nominating_officer": "Mr Rodney Hylton-Potts", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Oliver Plummer", 
-    "party_id": "PP452", 
+    "party_name": "Get Britain Back Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.21943067148924897, 
+            51.479294852119295
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Get Britain Back Party [De-registered 01/11/08]", 
+    "party_id": "PP452", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

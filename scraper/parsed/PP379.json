@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-11-15T00:00:00", 
     "campaigns_officer": "Mrs Susan Enderby", 
     "registered_date": "2004-01-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EX16 7SN", 
     "party_leader": "Mr David Mercer", 
     "nominating_officer": "Mr David Mercer", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Mercer", 
-    "party_id": "PP379", 
+    "party_name": "Party for True Democracy", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.380249419724323, 
+            50.92121459497569
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Party for True Democracy [De-registered 15/11/05]", 
+    "party_id": "PP379", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

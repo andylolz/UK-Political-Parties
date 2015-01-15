@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-26T00:00:00", 
+    "postcode": "N1 9DX", 
+    "party_leader": "Ms Christine Hurley", 
+    "nominating_officer": "Ms Christine Hurley", 
+    "emblems": [
+        {
+            "image": "Emblem_949.jpg", 
+            "primary": false, 
+            "id": "949", 
+            "description": "Left Unity Logo"
+        }
+    ], 
+    "party_address": "5\r\nCaledonian Road\r\nLondon\r\nLondon\r\nN1 9DX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew Burgin", 
+    "party_id": "PP2045", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12121544876864455, 
+            51.531456760471116
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Left Unity", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,35 +75,5 @@
             "translation": "", 
             "description": "jobs not bombs"
         }
-    ], 
-    "party_leader": "Ms Christine Hurley", 
-    "nominating_officer": "Ms Christine Hurley", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2045/Emblem_949.jpg", 
-            "id": "949", 
-            "description": "Left Unity Logo"
-        }
-    ], 
-    "party_address": "5\r\nCaledonian Road\r\nLondon\r\nLondon\r\nN1 9DX\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Andrew Burgin", 
-    "party_id": "PP2045", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Left Unity", 
-    "alternative_names": [
-        ""
     ]
 }

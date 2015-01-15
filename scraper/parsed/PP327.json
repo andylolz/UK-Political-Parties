@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-03-15T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NG34 7NU", 
     "party_leader": "Ms Heather Lorimer", 
     "nominating_officer": "Ms Heather Lorimer", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Suiter", 
-    "party_id": "PP327", 
+    "party_name": "Campaign Against Hospital Closures in Lincolnshire", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.424985026794938, 
+            52.992034248811464
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Campaign Against Hospital Closures in Lincolnshire [De-registered 15/03/07]", 
+    "party_id": "PP327", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,18 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-07-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-23T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "For democracy with government and opposition"
-        }, 
-        {
-            "translation": "", 
-            "description": "Against expenses abuse and double jobbing"
-        }
-    ], 
+    "postcode": "BT17 0EH", 
     "party_leader": "Mr Patrick Vernon", 
     "nominating_officer": "Ms Geraldine Vernon", 
     "emblems": [], 
@@ -26,15 +18,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Patrick Vernon", 
-    "party_id": "PP848", 
+    "party_name": "Give Our Children A Future Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -6.003358128406346, 
+            54.55499414914618
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Give Our Children A Future Party [De-registered 30/07/14]", 
+    "party_id": "PP848", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For democracy with government and opposition"
+        }, 
+        {
+            "translation": "", 
+            "description": "Against expenses abuse and double jobbing"
+        }
     ]
 }

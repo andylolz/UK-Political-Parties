@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT5 4FS", 
     "party_leader": "Mr William Hutchinson", 
     "nominating_officer": "Mr Brian Lacey", 
     "emblems": [
         {
-            "image": "raw_data/PP101/Emblem_113.gif", 
+            "image": "Emblem_113.gif", 
+            "primary": false, 
             "id": "113", 
             "description": "Map of United Kingdom with respective national flags"
         }, 
         {
-            "image": "raw_data/PP101/Emblem_114.gif", 
+            "image": "Emblem_114.gif", 
+            "primary": false, 
             "id": "114", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP101/Emblem_977.jpg", 
+            "image": "Emblem_977.jpg", 
+            "primary": false, 
             "id": "977", 
             "description": "Emblem 1"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.901099528339643, 
+            54.59290483863387
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Progressive Unionist Party of Northern Ireland", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

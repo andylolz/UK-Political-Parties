@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-09-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "E5 0UD", 
     "party_leader": "Mr Toyin Agbetu", 
     "nominating_officer": "Ms Oleander William", 
     "emblems": [
         {
-            "image": "raw_data/PP348/Emblem_260.gif", 
+            "image": "Emblem_260.gif", 
+            "primary": false, 
             "id": "260", 
             "description": "Ligali Party Shield emblem with the words A voice for the African British community"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.057555147818096584, 
+            51.56001508294022
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Ligali Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

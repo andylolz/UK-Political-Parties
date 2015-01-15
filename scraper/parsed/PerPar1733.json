@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2011-06-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT7 1HE", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.928619190263009, 
+            54.58633486750059
+        ]
+    }, 
     "register": null, 
     "party_name": "Alliance - Alliance Party of Northern Ireland", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

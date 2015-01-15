@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2001-09-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CB4 3EZ", 
     "party_leader": "Mr Paul Nicholas Bellamy", 
     "nominating_officer": "Mr Paul Nicholas Bellamy", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Bellamy", 
-    "party_id": "PP134", 
+    "party_name": "Full Executive Democratic President By Referendum", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.11606963592785229, 
+            52.218504508730696
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Full Executive Democratic President By Referendum [De-registered 09/07/01]", 
+    "party_id": "PP134", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

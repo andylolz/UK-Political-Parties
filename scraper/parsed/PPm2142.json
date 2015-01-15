@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2013-08-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN26 6DW", 
     "party_leader": "Mr Joseph O'Riordan", 
     "nominating_officer": "Mr Joseph O'Riordan", 
     "emblems": [
         {
-            "image": "raw_data/PPm2142/Emblem_871.jpg", 
+            "image": "Emblem_871.jpg", 
+            "primary": false, 
             "id": "871", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.24036698966290637, 
+            50.82534668408109
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Polegate Independent", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-06-07T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Democracy for England"
-        }
-    ], 
+    "postcode": "B92 8TA", 
     "party_leader": "Mr Matthew Ward", 
     "nominating_officer": "Mr Matthew Ward", 
     "emblems": [
         {
-            "image": "raw_data/PP1813/Emblem_746.jpg", 
+            "image": "Emblem_746.jpg", 
+            "primary": false, 
             "id": "746", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7878229129265903, 
+            52.43772621634681
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Democratic Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Democracy for England"
+        }
     ]
 }

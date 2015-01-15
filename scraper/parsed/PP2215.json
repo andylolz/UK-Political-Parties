@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Valley Independents working in the Community"
-        }
-    ], 
+    "postcode": "HD9 5QB", 
     "party_leader": "Cllr Terry Lyons", 
     "nominating_officer": "Cllr Edgar Holroyd-Doveton", 
     "emblems": [
         {
-            "image": "raw_data/PP2215/Emblem_901.jpg", 
+            "image": "Emblem_901.jpg", 
+            "primary": false, 
             "id": "901", 
             "description": "Logo 3, image of an 'i'"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8556674145362977, 
+            53.59628666850386
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Valley Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Valley Independents working in the Community"
+        }
     ]
 }

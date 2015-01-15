@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT19 0BQ", 
     "party_leader": "Mr Eber Kington", 
     "nominating_officer": "Mrs Janet Cooper", 
     "emblems": [
         {
-            "image": "raw_data/PP230/Emblem_194.gif", 
+            "image": "Emblem_194.gif", 
+            "primary": false, 
             "id": "194", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.25879835007269175, 
+            51.35831631860096
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Ewell Court Residents' Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

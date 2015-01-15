@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-10-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT36 6TJ", 
     "party_leader": "Mr Cedric Wilson", 
     "nominating_officer": "Mr Cedric Wilson", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Norman Jonathan Boyd", 
-    "party_id": "PP3", 
+    "party_name": "Northern Ireland Unionist Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.939997453245316, 
+            54.69214738609338
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Northern Ireland Unionist Party [De-registered 10/03/08]", 
+    "party_id": "PP3", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-03-10T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-02-27T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TQ13 8JY", 
     "party_leader": "Mrs Nicky Heyworth", 
     "nominating_officer": "Mr Richard Taylor-Young", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Richard Taylor-Young", 
-    "party_id": "PP635", 
+    "party_name": "The Street Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.8472291457016445, 
+            50.688994813711524
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "The Street Party [De-registered 03/10/07]", 
+    "party_id": "PP635", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

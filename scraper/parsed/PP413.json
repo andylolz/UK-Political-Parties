@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-07-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TD10 6UJ", 
     "party_leader": "Ms Joy Hart", 
     "nominating_officer": "Mr John Hart", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Joy Hart", 
-    "party_id": "PP413", 
+    "party_name": "Beyond", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.3904680769999356, 
+            55.69880624954275
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Beyond [De-registered 30/07/07]", 
+    "party_id": "PP413", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
+    "postcode": "CR0 1BD", 
+    "party_leader": "Mr Robert Griffiths", 
+    "nominating_officer": "Mr Martin Richard Levy", 
+    "emblems": [
+        {
+            "image": "Emblem_91.gif", 
+            "primary": false, 
+            "id": "91", 
+            "description": "Hammer and sickle"
+        }, 
+        {
+            "image": "Emblem_92.gif", 
+            "primary": false, 
+            "id": "92", 
+            "description": "Peace dove and hammer"
+        }, 
+        {
+            "image": "Emblem_93.gif", 
+            "primary": false, 
+            "id": "93", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Ruskin House\r\n23 Coombe Road\r\nCroydon\r\nSurrey\r\nCR0 1BD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr Martin John Graham", 
+    "party_id": "PP78", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.09762075620489068, 
+            51.36750928132871
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Communist Party of Britain", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "Y Blaid Gomiwnyddol Gymreig", 
@@ -52,45 +103,5 @@
             "translation": "Y Blaid Gomiwnyddol Brydeinig", 
             "description": "The British Communist Party"
         }
-    ], 
-    "party_leader": "Mr Robert Griffiths", 
-    "nominating_officer": "Mr Martin Richard Levy", 
-    "emblems": [
-        {
-            "image": "raw_data/PP78/Emblem_91.gif", 
-            "id": "91", 
-            "description": "Hammer and sickle"
-        }, 
-        {
-            "image": "raw_data/PP78/Emblem_92.gif", 
-            "id": "92", 
-            "description": "Peace dove and hammer"
-        }, 
-        {
-            "image": "raw_data/PP78/Emblem_93.gif", 
-            "id": "93", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "Ruskin House\r\n23 Coombe Road\r\nCroydon\r\nSurrey\r\nCR0 1BD\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Dr Martin John Graham", 
-    "party_id": "PP78", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Communist Party of Britain", 
-    "alternative_names": [
-        ""
     ]
 }

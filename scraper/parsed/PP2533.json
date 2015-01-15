@@ -11,12 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-11T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "UK Constitutional Reform Movement"
-        }
-    ], 
+    "postcode": "TW18 4SU", 
     "party_leader": "Mr Ray Sheath", 
     "nominating_officer": "Mr Ray Sheath", 
     "emblems": [], 
@@ -36,9 +31,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.514354809968646, 
+            51.43384598330683
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "2015 Constitutionalists UK", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "UK Constitutional Reform Movement"
+        }
     ]
 }

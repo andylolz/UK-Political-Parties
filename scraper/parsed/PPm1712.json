@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HP4 3TE", 
     "party_leader": "Ms Janette Ann Dunbavand", 
     "nominating_officer": "Ms Tracy Amanda Pike", 
     "emblems": [
         {
-            "image": "raw_data/PPm1712/Emblem_637.gif", 
+            "image": "Emblem_637.gif", 
+            "primary": false, 
             "id": "637", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.602403849446543, 
+            51.77657630730082
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Northchurch Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

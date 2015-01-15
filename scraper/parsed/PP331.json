@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-03-16T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LL11 1EH", 
     "party_leader": "Dr John Marek", 
     "nominating_officer": "Mr Marc Jones", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Evans", 
-    "party_id": "PP331", 
+    "party_name": "Forward Wales", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.998573008149775, 
+            53.04931884723349
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Forward Wales [De-registered 16/03/10]", 
+    "party_id": "PP331", 
     "alternative_names": [
         "Cymru Ymlaen"
-    ]
+    ], 
+    "descriptions": []
 }

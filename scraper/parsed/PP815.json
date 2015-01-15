@@ -3,30 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-02-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Centre Democrats"
-        }, 
-        {
-            "translation": "", 
-            "description": "Centre Democrats - Everyone Counts"
-        }, 
-        {
-            "translation": "", 
-            "description": "CD"
-        }
-    ], 
+    "postcode": "KT3 6DS", 
     "party_leader": "Mr Michael Elmer", 
     "nominating_officer": "Dr Mary Gobbi", 
     "emblems": [
         {
-            "image": "raw_data/PP815/Emblem_499.gif", 
+            "image": "Emblem_499.gif", 
+            "primary": false, 
             "id": "499", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP815/Emblem_500.gif", 
+            "image": "Emblem_500.gif", 
+            "primary": false, 
             "id": "500", 
             "description": "Emblem 2"
         }
@@ -47,9 +36,30 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.25425541857162604, 
+            51.395819670118726
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Centre Democrats", 
     "alternative_names": [
         "Democratiaid Canalog"
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Centre Democrats"
+        }, 
+        {
+            "translation": "", 
+            "description": "Centre Democrats - Everyone Counts"
+        }, 
+        {
+            "translation": "", 
+            "description": "CD"
+        }
     ]
 }

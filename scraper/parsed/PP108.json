@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-25T00:00:00", 
+    "postcode": "E11 1YD", 
+    "party_leader": "Mr David Nellist", 
+    "nominating_officer": "Ms Hannah Sell", 
+    "emblems": [
+        {
+            "image": "Emblem_125.gif", 
+            "primary": false, 
+            "id": "125", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_126.gif", 
+            "primary": false, 
+            "id": "126", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_945.jpg", 
+            "primary": false, 
+            "id": "945", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "PO Box 24697\r\nLondon\r\nE11 1YD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Clive Adrian Heemskerk", 
+    "party_id": "PP108", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.00879821162280082, 
+            51.56403186844152
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Socialist Alternative", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,45 +91,5 @@
             "translation": "", 
             "description": "Socialist Alternative - Putting People First"
         }
-    ], 
-    "party_leader": "Mr David Nellist", 
-    "nominating_officer": "Ms Hannah Sell", 
-    "emblems": [
-        {
-            "image": "raw_data/PP108/Emblem_125.gif", 
-            "id": "125", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP108/Emblem_126.gif", 
-            "id": "126", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP108/Emblem_945.jpg", 
-            "id": "945", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "PO Box 24697\r\nLondon\r\nE11 1YD\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Clive Adrian Heemskerk", 
-    "party_id": "PP108", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Socialist Alternative", 
-    "alternative_names": [
-        ""
     ]
 }

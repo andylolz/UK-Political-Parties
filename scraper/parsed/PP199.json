@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG9 1LA", 
     "party_leader": "Mrs Elizabeth Hodgkin", 
     "nominating_officer": "Mr David Richard Feary", 
     "emblems": [
         {
-            "image": "raw_data/PP199/Emblem_179.gif", 
+            "image": "Emblem_179.gif", 
+            "primary": false, 
             "id": "179", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP199/Emblem_180.gif", 
+            "image": "Emblem_180.gif", 
+            "primary": false, 
             "id": "180", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP199/Emblem_181.gif", 
+            "image": "Emblem_181.gif", 
+            "primary": false, 
             "id": "181", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9018558911518875, 
+            51.53057910024759
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Henley Residents Group", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

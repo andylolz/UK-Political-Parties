@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-10-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-14T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Because science matters"
-        }
-    ], 
+    "postcode": "BN7 1ET", 
     "party_leader": "Dr Michael Brooks", 
     "nominating_officer": "Mr Sumit Paul-Choudhury", 
     "emblems": [
         {
-            "image": "raw_data/PP871/Emblem_554.gif", 
+            "image": "Emblem_554.gif", 
+            "primary": false, 
             "id": "554", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Michael Brooks", 
-    "party_id": "PP871", 
+    "party_name": "The Science Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.004919213280235891, 
+            50.87053152000976
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Science Party [De-registered 20/10/11]", 
+    "party_id": "PP871", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Because science matters"
+        }
     ]
 }

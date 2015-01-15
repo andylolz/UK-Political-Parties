@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "na Emily Wenden", 
     "registered_date": "2003-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GU4 8PP", 
     "party_leader": "Mr Rasched Michael Abdullah", 
     "nominating_officer": "na Emily Wenden", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "na Alexandra Sarah Forsyth", 
-    "party_id": "PP304", 
+    "party_name": "Trinity", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5441579318597571, 
+            51.23141528605548
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Trinity [De-registered 06/11/09]", 
+    "party_id": "PP304", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

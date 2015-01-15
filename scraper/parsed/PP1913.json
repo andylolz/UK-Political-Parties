@@ -9,28 +9,22 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2012-09-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-06-21T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "New Dawn"
-        }, 
-        {
-            "translation": "", 
-            "description": "A new dawn in British politics"
-        }
-    ], 
+    "postcode": "EC1V 2NX", 
     "party_leader": "Mr Lee Cooper", 
     "nominating_officer": "Mr Lee Cooper", 
     "emblems": [
         {
-            "image": "raw_data/PP1913/Emblem_750.jpg", 
+            "image": "Emblem_750.jpg", 
+            "primary": false, 
             "id": "750", 
             "description": "Main Logo monochrome"
         }, 
         {
-            "image": "raw_data/PP1913/Emblem_751.jpg", 
+            "image": "Emblem_751.jpg", 
+            "primary": false, 
             "id": "751", 
             "description": "Shield monochrome"
         }
@@ -45,15 +39,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Lee Cooper", 
-    "party_id": "PP1913", 
+    "party_name": "New Dawn", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.089123629173034, 
+            51.52726941722609
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "New Dawn [De-registered 09/11/12]", 
+    "party_id": "PP1913", 
     "alternative_names": [
         "Gwawr Newydd"
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "New Dawn"
+        }, 
+        {
+            "translation": "", 
+            "description": "A new dawn in British politics"
+        }
     ]
 }

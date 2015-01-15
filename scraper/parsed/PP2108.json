@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-10-07T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Independent Loxford"
-        }
-    ], 
+    "postcode": "IG1 2SY", 
     "party_leader": "Cllr Filly K Maravala", 
     "nominating_officer": "Cllr Filly K Maravala", 
     "emblems": [
         {
-            "image": "raw_data/PP2108/Emblem_859.jpg", 
+            "image": "Emblem_859.jpg", 
+            "primary": false, 
             "id": "859", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.07868066129911039, 
+            51.55086325411972
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Independent Loxford", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Independent Loxford"
+        }
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-06-13T00:00:00", 
     "campaigns_officer": "Mr Mohan Singh Nayyar", 
     "registered_date": "2004-04-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "W5 3EA", 
     "party_leader": "Mr Piara Singh Aulakh", 
     "nominating_officer": "Mr Piara Singh Aulakh", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Piara Singh Aulakh", 
-    "party_id": "PP382", 
+    "party_name": "Alliance For Diversity In Community", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2876019099961529, 
+            51.52206171732844
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Alliance For Diversity In Community [De-registered 13/06/05]", 
+    "party_id": "PP382", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

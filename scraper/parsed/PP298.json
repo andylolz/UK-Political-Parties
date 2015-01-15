@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-10-05T00:00:00", 
     "campaigns_officer": "Mr Steve Brinkley", 
     "registered_date": "2003-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IP11 9DY", 
     "party_leader": "Mr Paul Woolstenholmes", 
     "nominating_officer": "Mr Paul Woolstenholmes", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Sarah Squirrell", 
-    "party_id": "PP298", 
+    "party_name": "Firefighters Against Cuts", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.3367285224087557, 
+            51.97073417720687
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Firefighters Against Cuts [De-registered 10/05/04]", 
+    "party_id": "PP298", 
     "alternative_names": [
         "Diffoddwyr T\u00e0n yn Erbyn Toriadau"
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Paul Bean", 
     "registered_date": "2012-01-02T00:00:00", 
+    "postcode": "DH7 7NL", 
+    "party_leader": "Mr Peter Kellow", 
+    "nominating_officer": "Mr Paul Bean", 
+    "emblems": [
+        {
+            "image": "Emblem_693.png", 
+            "primary": false, 
+            "id": "693", 
+            "description": "Astraea"
+        }, 
+        {
+            "image": "Emblem_694.png", 
+            "primary": false, 
+            "id": "694", 
+            "description": "Celtic Pentaskel"
+        }, 
+        {
+            "image": "Emblem_695.png", 
+            "primary": false, 
+            "id": "695", 
+            "description": "United Republic Flag"
+        }
+    ], 
+    "party_address": "5 Alderdene Close\r\nUpshaw Moor\r\nDurham\r\nDH7 7NL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/03", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Peter Kellow", 
+    "party_id": "PP1860", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.628763171736608, 
+            54.77296342172265
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Democratic Republican Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,45 +95,5 @@
             "translation": "", 
             "description": "For a Written Republican Constitution"
         }
-    ], 
-    "party_leader": "Mr Peter Kellow", 
-    "nominating_officer": "Mr Paul Bean", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1860/Emblem_693.png", 
-            "id": "693", 
-            "description": "Astraea"
-        }, 
-        {
-            "image": "raw_data/PP1860/Emblem_694.png", 
-            "id": "694", 
-            "description": "Celtic Pentaskel"
-        }, 
-        {
-            "image": "raw_data/PP1860/Emblem_695.png", 
-            "id": "695", 
-            "description": "United Republic Flag"
-        }
-    ], 
-    "party_address": "5 Alderdene Close\r\nUpshaw Moor\r\nDurham\r\nDH7 7NL\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/03", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Peter Kellow", 
-    "party_id": "PP1860", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Democratic Republican Party", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN20 9QD", 
     "party_leader": "Mr John Edgar Dalziel Pritchett", 
     "nominating_officer": "Mr John Edgar Dalziel Pritchett", 
     "emblems": [
         {
-            "image": "raw_data/PPm303/Emblem_240.gif", 
+            "image": "Emblem_240.gif", 
+            "primary": false, 
             "id": "240", 
             "description": "House"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.24710921398253535, 
+            50.81109655503132
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Willingdon Residents' Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

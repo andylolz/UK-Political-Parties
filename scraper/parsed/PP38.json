@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-03-16T00:00:00", 
+    "postcode": "RM1 4RB", 
+    "party_leader": "Mr Clarence Barrett", 
+    "nominating_officer": "Mr Ronald Ower", 
+    "emblems": [
+        {
+            "image": "Emblem_30.gif", 
+            "primary": false, 
+            "id": "30", 
+            "description": "A house"
+        }
+    ], 
+    "party_address": "115 Havering Road\r\nRomford\r\nEssex\r\nRM1 4RB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "30/06", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Denis Henry Stevens", 
+    "party_id": "PP38", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.17315826633923717, 
+            51.5910486487619
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Havering Residents Association", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -32,35 +71,5 @@
             "translation": "", 
             "description": "Havering Residents Association Heaton and Gooshays"
         }
-    ], 
-    "party_leader": "Mr Clarence Barrett", 
-    "nominating_officer": "Mr Ronald Ower", 
-    "emblems": [
-        {
-            "image": "raw_data/PP38/Emblem_30.gif", 
-            "id": "30", 
-            "description": "A house"
-        }
-    ], 
-    "party_address": "115 Havering Road\r\nRomford\r\nEssex\r\nRM1 4RB\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "30/06", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Denis Henry Stevens", 
-    "party_id": "PP38", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Havering Residents Association", 
-    "alternative_names": [
-        ""
     ]
 }

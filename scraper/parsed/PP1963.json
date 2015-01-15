@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
+    "postcode": "EC1V 2NX", 
+    "party_leader": "Mr James Rigby", 
+    "nominating_officer": "Ms Clarissa Clement", 
+    "emblems": [
+        {
+            "image": "Emblem_764.jpg", 
+            "primary": false, 
+            "id": "764", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_766.jpg", 
+            "primary": false, 
+            "id": "766", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_767.jpg", 
+            "primary": false, 
+            "id": "767", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Kemp House\r\n152 City Road\r\nLondon\r\nEC1V 2NX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Richard Carey", 
+    "party_id": "PP1963", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.089123629173034, 
+            51.52726941722609
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Pro Liberty", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,45 +91,5 @@
             "translation": "", 
             "description": "Liberty for the People of Corby"
         }
-    ], 
-    "party_leader": "Mr James Rigby", 
-    "nominating_officer": "Ms Clarissa Clement", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1963/Emblem_764.jpg", 
-            "id": "764", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP1963/Emblem_766.jpg", 
-            "id": "766", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP1963/Emblem_767.jpg", 
-            "id": "767", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "Kemp House\r\n152 City Road\r\nLondon\r\nEC1V 2NX\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Richard Carey", 
-    "party_id": "PP1963", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Pro Liberty", 
-    "alternative_names": [
-        ""
     ]
 }

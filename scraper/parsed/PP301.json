@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-03-25T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KY11 2DL", 
     "party_leader": "Mr John Storrar Winton", 
     "nominating_officer": "Mr John Storrar Winton", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Yvonne McRoberts", 
-    "party_id": "PP301", 
+    "party_name": "Local Health Concern", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.4110507068728317, 
+            56.03252959754928
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Local Health Concern [De-registered 25/03/09]", 
+    "party_id": "PP301", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

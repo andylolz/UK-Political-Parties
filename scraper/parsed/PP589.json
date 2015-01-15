@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-04-15T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-10-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "MK40 4QE", 
     "party_leader": "Dr Barry Edward Monk", 
     "nominating_officer": "Mr Michael Charles Frampton", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Barry Edward Monk", 
-    "party_id": "PP589", 
+    "party_name": "Save Bedford Hospital", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5085299654851877, 
+            52.14025253182097
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Save Bedford Hospital [De-registered 15/04/09]", 
+    "party_id": "PP589", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

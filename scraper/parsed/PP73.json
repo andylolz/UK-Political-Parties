@@ -3,27 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Andrew Jordan", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "(LEADER ARTHUR SCARGILL)"
-        }
-    ], 
+    "postcode": "L38 0BS", 
     "party_leader": "Mr Arthur Scargill", 
     "nominating_officer": "Mr Andrew Jordan", 
     "emblems": [
         {
-            "image": "raw_data/PP73/Emblem_79.gif", 
+            "image": "Emblem_79.gif", 
+            "primary": false, 
             "id": "79", 
             "description": "SLP Wales"
         }, 
         {
-            "image": "raw_data/PP73/Emblem_80.gif", 
+            "image": "Emblem_80.gif", 
+            "primary": false, 
             "id": "80", 
             "description": "SLP Scotland"
         }, 
         {
-            "image": "raw_data/PP73/Emblem_81.gif", 
+            "image": "Emblem_81.gif", 
+            "primary": false, 
             "id": "81", 
             "description": "Globe with map of Earth with wordsletters Socialist Labour PartySLP"
         }
@@ -44,9 +42,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.0611417304930932, 
+            53.52453775659202
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Socialist Labour Party", 
     "alternative_names": [
         "Plaid Lafur Sosialaidd"
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "(LEADER ARTHUR SCARGILL)"
+        }
     ]
 }

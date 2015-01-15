@@ -11,7 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2004-08-01T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN14 9WF", 
     "party_leader": "Mr Norman Hennings", 
     "nominating_officer": "Mr Norman Hennings", 
     "emblems": [], 
@@ -31,9 +31,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.37095723577290696, 
+            50.81412566139178
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Truly Independent English Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

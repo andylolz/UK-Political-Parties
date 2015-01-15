@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-04T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Working together for you"
-        }
-    ], 
+    "postcode": "TW15 2JB", 
     "party_leader": "Mr Frank Ayers", 
     "nominating_officer": "Mr Michael Bannister", 
     "emblems": [
         {
-            "image": "raw_data/PP2056/Emblem_842.jpg", 
+            "image": "Emblem_842.jpg", 
+            "primary": false, 
             "id": "842", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.4591506121395038, 
+            51.434374323988095
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Spelthorne Independent Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Working together for you"
+        }
     ]
 }

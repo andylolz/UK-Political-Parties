@@ -1,19 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-07-25T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-04-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1X 9NG", 
     "party_leader": "Professor A J T RAJ", 
     "nominating_officer": "Professor J.M.R. RAJ", 
     "emblems": [
         {
-            "image": "raw_data/PP156/Emblem_165.gif", 
+            "image": "Emblem_165.gif", 
+            "primary": false, 
             "id": "165", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP156/Emblem_166.gif", 
+            "image": "Emblem_166.gif", 
+            "primary": false, 
             "id": "166", 
             "description": "Emblem 2"
         }
@@ -28,15 +31,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Professor A J T RAJ", 
-    "party_id": "PP156", 
+    "party_name": "The People's Progressive Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.11644522471041674, 
+            51.52896127684438
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "The People's Progressive Party [De-registered 25/07/11]", 
+    "party_id": "PP156", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

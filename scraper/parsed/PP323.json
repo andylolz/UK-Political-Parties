@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-05-18T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LE3 0BR", 
     "party_leader": "Ms Valerie Smalley", 
     "nominating_officer": "Ms Valerie Smalley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Greta Jane Smalley", 
-    "party_id": "PP323", 
+    "party_name": "No War Protest Vote", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.1487289509528071, 
+            52.628879312430826
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "No War Protest Vote [De-registered 18/05/04]", 
+    "party_id": "PP323", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

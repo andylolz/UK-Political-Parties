@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "Miss Bernadette Mellian", 
     "registered_date": "2006-11-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NW9 0HD", 
     "party_leader": "Mr Mark Aberdeen", 
     "nominating_officer": "Mr Mark Aberdeen", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Amir Hadi Abedinzadh", 
-    "party_id": "PP610", 
+    "party_name": "Enterprise Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.26568707676841086, 
+            51.59575541454413
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Enterprise Party [De-registered 06/11/09]", 
+    "party_id": "PP610", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

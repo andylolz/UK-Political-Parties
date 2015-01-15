@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2004-07-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN26 5LZ", 
     "party_leader": "Mr Richard Stuart Williams", 
     "nominating_officer": "Mr Peter Sayers", 
     "emblems": [
         {
-            "image": "raw_data/PP403/Emblem_289.gif", 
+            "image": "Emblem_289.gif", 
+            "primary": false, 
             "id": "289", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP403/Emblem_290.gif", 
+            "image": "Emblem_290.gif", 
+            "primary": false, 
             "id": "290", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.2396003408116938, 
+            50.81526126088931
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Motorists, Equity & Unity Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

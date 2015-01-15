@@ -9,8 +9,41 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-08-03T00:00:00", 
+    "postcode": "ME12 2DE", 
+    "party_leader": "Mr Christopher Paul Boden", 
+    "nominating_officer": "Mr Christopher Paul Boden", 
+    "emblems": [], 
+    "party_address": "1 Adelaide House\r\nThe Broadway\r\nMinster on Sea\r\nKent\r\nME12 2DE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Christopher Paul Boden", 
+    "party_name": "Kent Campaign Against Increasing Council Taxes", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.7989581654267786, 
+            51.432113955754176
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP542", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,29 +85,5 @@
             "translation": "", 
             "description": "Bobbing First!"
         }
-    ], 
-    "party_leader": "Mr Christopher Paul Boden", 
-    "nominating_officer": "Mr Christopher Paul Boden", 
-    "emblems": [], 
-    "party_address": "1 Adelaide House\r\nThe Broadway\r\nMinster on Sea\r\nKent\r\nME12 2DE\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2009-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Christopher Paul Boden", 
-    "party_id": "PP542", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Kent Campaign Against Increasing Council Taxes [De-registered 01/11/08]", 
-    "alternative_names": [
-        ""
     ]
 }

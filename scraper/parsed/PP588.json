@@ -1,22 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-07-28T00:00:00", 
     "campaigns_officer": "Mr Malcolm Reade", 
     "registered_date": "2006-06-10T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The Had Enough Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "Had Enough"
-        }, 
-        {
-            "translation": "", 
-            "description": "Have You Had Enough"
-        }
-    ], 
+    "postcode": "EH26 0RN", 
     "party_leader": "Mr George McCleery", 
     "nominating_officer": "Mr George McCleery", 
     "emblems": [], 
@@ -30,15 +18,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr George McCleery", 
-    "party_id": "PP588", 
+    "party_name": "The Had Enough Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.2081089459412016, 
+            55.846626595272475
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Had Enough Party [De-registered 28/07/09]", 
+    "party_id": "PP588", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Had Enough Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Had Enough"
+        }, 
+        {
+            "translation": "", 
+            "description": "Have You Had Enough"
+        }
     ]
 }

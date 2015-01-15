@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-12-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HR1 4PU", 
     "party_leader": "Mr Amila Y'Mech", 
     "nominating_officer": "Mr Bill Horrocks", 
     "emblems": [
         {
-            "image": "raw_data/PP834/Emblem_509.gif", 
+            "image": "Emblem_509.gif", 
+            "primary": false, 
             "id": "509", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP834/Emblem_510.gif", 
+            "image": "Emblem_510.gif", 
+            "primary": false, 
             "id": "510", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP834/Emblem_511.gif", 
+            "image": "Emblem_511.gif", 
+            "primary": false, 
             "id": "511", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.582038733480219, 
+            51.994897232850036
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Humanity", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

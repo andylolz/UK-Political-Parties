@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-03-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW1H 0HW", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13500641799227517, 
+            51.497397376096345
+        ]
+    }, 
     "register": null, 
     "party_name": "The Campaign for British Influence in Europe Limited", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

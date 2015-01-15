@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2004-08-19T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-04-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SP7 9AS", 
     "party_leader": "Mr Joseph Charles Martin Duthie", 
     "nominating_officer": "Mr Joseph Charles Martin Duthie", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Joseph Charles Martin Duthie", 
-    "party_id": "PP154", 
+    "party_name": "The Lower Excise Duty Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.153011862823487, 
+            51.04178623001653
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Lower Excise Duty Party [De-registered 19/08/04]", 
+    "party_id": "PP154", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

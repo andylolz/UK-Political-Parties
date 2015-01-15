@@ -3,21 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-07-24T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "For Russia"
-        }, 
-        {
-            "translation": "", 
-            "description": "The For Russia Party"
-        }
-    ], 
+    "postcode": "DN3 3NG", 
     "party_leader": "Mr Thomas Scott-Chambers", 
     "nominating_officer": "Mr Andres Klenski", 
     "emblems": [
         {
-            "image": "raw_data/PP2438/Emblem_1009.jpg", 
+            "image": "Emblem_1009.jpg", 
+            "primary": false, 
             "id": "1009", 
             "description": "For Russia"
         }
@@ -38,9 +30,26 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.033184413142263, 
+            53.50978264196635
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "For Russia", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For Russia"
+        }, 
+        {
+            "translation": "", 
+            "description": "The For Russia Party"
+        }
     ]
 }

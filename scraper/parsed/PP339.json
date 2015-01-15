@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-11-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-11-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "M43 7DE", 
     "party_leader": "Mr Jack Anthony Crossfield", 
     "nominating_officer": "Mr Jack Anthony Crossfield", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Gwendoline Crossfield", 
-    "party_id": "PP339", 
+    "party_name": "Local Community Party (L.C.P.)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.139812132393523, 
+            53.48590547149073
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Local Community Party (L.C.P.) [De-registered 11/05/06]", 
+    "party_id": "PP339", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

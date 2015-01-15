@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LN11 8UP", 
     "party_leader": "Cllr Terry Knowles", 
     "nominating_officer": "Mr Edward Mossop", 
     "emblems": [
         {
-            "image": "raw_data/PP646/Emblem_379.gif", 
+            "image": "Emblem_379.gif", 
+            "primary": false, 
             "id": "379", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.09605607546511231, 
+            53.36087489672103
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "East Lindsey Independent Group", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

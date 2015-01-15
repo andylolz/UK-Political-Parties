@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-06-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-10-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "L13 4BB", 
     "party_leader": "Mr John James Campbell", 
     "nominating_officer": "Mrs Carol Ann Carr", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John James Campbell", 
-    "party_id": "PP682", 
+    "party_name": "Smokers U.K.", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.907349081447731, 
+            53.40701733524941
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Smokers U.K. [De-registered 30/06/08]", 
+    "party_id": "PP682", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

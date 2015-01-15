@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-10-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN7 1YH", 
     "party_leader": "Mr Robert Shepherd", 
     "nominating_officer": "Mr Martin Leeburn", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Catherine Darcy", 
-    "party_id": "PP663", 
+    "party_name": "Friends of The Lewes Arms", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.009516382566130488, 
+            50.87438489164135
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Friends of The Lewes Arms [De-registered 10/04/08]", 
+    "party_id": "PP663", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

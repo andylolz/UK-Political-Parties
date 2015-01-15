@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Nigel Dodds MP MLA", 
     "registered_date": "1999-01-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT4 3BU", 
     "party_leader": "Mr Peter David Robinson MP MLA", 
     "nominating_officer": "Mr Peter David Robinson MP MLA", 
     "emblems": [
         {
-            "image": "raw_data/PP70/Emblem_76.gif", 
+            "image": "Emblem_76.gif", 
+            "primary": false, 
             "id": "76", 
             "description": "DUP Crest SWORD"
         }, 
         {
-            "image": "raw_data/PP70/Emblem_77.gif", 
+            "image": "Emblem_77.gif", 
+            "primary": false, 
             "id": "77", 
             "description": "Heartshaped UNION FLAG with United Unionists written in bold underneath"
         }, 
         {
-            "image": "raw_data/PP70/Emblem_78.gif", 
+            "image": "Emblem_78.gif", 
+            "primary": false, 
             "id": "78", 
             "description": "DUP Logo LION"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.875253142078297, 
+            54.59926440098285
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Democratic Unionist Party - D.U.P.", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

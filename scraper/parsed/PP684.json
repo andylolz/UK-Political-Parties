@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-11-21T00:00:00", 
+    "postcode": "RG17 0TT", 
+    "party_leader": "Mr Andrew Peter Withers", 
+    "nominating_officer": "Mr Liam Hillman", 
+    "emblems": [
+        {
+            "image": "Emblem_1019.jpg", 
+            "primary": false, 
+            "id": "1019", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "6 South Groves\r\nStag Hill\r\nChilton Foliat\r\nNr Hungerford\r\nWiltshire\r\nRG17 0TT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Nic Coome", 
+    "party_id": "PP684", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5389503616617095, 
+            51.43312558656216
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Libertarian Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,35 +75,5 @@
             "translation": "", 
             "description": "No more income tax"
         }
-    ], 
-    "party_leader": "Mr Andrew Peter Withers", 
-    "nominating_officer": "Mr Liam Hillman", 
-    "emblems": [
-        {
-            "image": "raw_data/PP684/Emblem_1019.jpg", 
-            "id": "1019", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "6 South Groves\r\nStag Hill\r\nChilton Foliat\r\nNr Hungerford\r\nWiltshire\r\nRG17 0TT\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Nic Coome", 
-    "party_id": "PP684", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Libertarian Party", 
-    "alternative_names": [
-        ""
     ]
 }

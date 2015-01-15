@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Michael Eddy", 
     "registered_date": "2003-03-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TS17 9QB", 
     "party_leader": "Mr Stephen Francis Walmsely", 
     "nominating_officer": "Mr Stephen Francis Walmsely", 
     "emblems": [
         {
-            "image": "raw_data/PP296/Emblem_239.gif", 
+            "image": "Emblem_239.gif", 
+            "primary": false, 
             "id": "239", 
             "description": "Thornaby Independent Association 5 lamps logo"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.281849808142682, 
+            54.54434371137
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Thornaby Independent Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

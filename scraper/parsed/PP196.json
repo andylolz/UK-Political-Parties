@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-08-16T00:00:00", 
+    "postcode": "NW2 5SR", 
+    "party_leader": "Mr Russell White", 
+    "nominating_officer": "Mr Christopher Nason", 
+    "emblems": [
+        {
+            "image": "Emblem_178.gif", 
+            "primary": false, 
+            "id": "178", 
+            "description": "The name Populist Party in black and white"
+        }
+    ], 
+    "party_address": "4 Huntingdon House\r\nSt Pauls Avenue\r\nWillesden Green\r\nLondon\r\nNW2 5SR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jonathan Frederick Boulter", 
+    "party_id": "PP196", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2220953301386299, 
+            51.54887362146747
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Populist Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,35 +91,5 @@
             "translation": "", 
             "description": "New Dawn"
         }
-    ], 
-    "party_leader": "Mr Russell White", 
-    "nominating_officer": "Mr Christopher Nason", 
-    "emblems": [
-        {
-            "image": "raw_data/PP196/Emblem_178.gif", 
-            "id": "178", 
-            "description": "The name Populist Party in black and white"
-        }
-    ], 
-    "party_address": "4 Huntingdon House\r\nSt Pauls Avenue\r\nWillesden Green\r\nLondon\r\nNW2 5SR\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Jonathan Frederick Boulter", 
-    "party_id": "PP196", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Populist Party", 
-    "alternative_names": [
-        ""
     ]
 }

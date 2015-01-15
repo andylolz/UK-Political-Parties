@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-07-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ZZ0 0ZZ", 
     "party_leader": "Dr Gerald Raymond Morgan", 
     "nominating_officer": "Mrs Susan Mary Hale", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.9162291, 
+            54.6612442
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "English Parliamentary Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,37 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-08-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-01-25T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Allied Independents Representatives"
-        }, 
-        {
-            "translation": "", 
-            "description": "AIR"
-        }, 
-        {
-            "translation": "", 
-            "description": "Angus Independents Representatives"
-        }
-    ], 
+    "postcode": "DD11 3EH", 
     "party_leader": "Mr David Fairweather", 
     "nominating_officer": "Mr David Fairweather", 
     "emblems": [
         {
-            "image": "raw_data/PP900/Emblem_592.gif", 
+            "image": "Emblem_592.gif", 
+            "primary": false, 
             "id": "592", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP900/Emblem_593.gif", 
+            "image": "Emblem_593.gif", 
+            "primary": false, 
             "id": "593", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP900/Emblem_594.gif", 
+            "image": "Emblem_594.gif", 
+            "primary": false, 
             "id": "594", 
             "description": "Emblem 3"
         }
@@ -46,15 +37,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr P Nield", 
-    "party_id": "PP900", 
+    "party_name": "Angus Independents Representatives (AIR)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.60733912786333, 
+            56.56405660714137
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Angus Independents Representatives (AIR) [De-registered 17/08/11]", 
+    "party_id": "PP900", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Allied Independents Representatives"
+        }, 
+        {
+            "translation": "", 
+            "description": "AIR"
+        }, 
+        {
+            "translation": "", 
+            "description": "Angus Independents Representatives"
+        }
     ]
 }

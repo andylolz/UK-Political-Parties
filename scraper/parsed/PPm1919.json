@@ -11,22 +11,25 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2012-06-22T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BA2 8AF", 
     "party_leader": "Cllr David Walker", 
     "nominating_officer": "Cllr David Walker", 
     "emblems": [
         {
-            "image": "raw_data/PPm1919/Emblem_737.jpg", 
+            "image": "Emblem_737.jpg", 
+            "primary": false, 
             "id": "737", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PPm1919/Emblem_738.jpg", 
+            "image": "Emblem_738.jpg", 
+            "primary": false, 
             "id": "738", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PPm1919/Emblem_739.jpg", 
+            "image": "Emblem_739.jpg", 
+            "primary": false, 
             "id": "739", 
             "description": "Emblem 3"
         }
@@ -47,9 +50,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.432697746900704, 
+            51.317202573156585
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Peasedown 1st", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

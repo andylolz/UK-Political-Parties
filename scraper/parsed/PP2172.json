@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-10-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-25T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Save King George Hospital"
-        }
-    ], 
+    "postcode": "IG3 8SG", 
     "party_leader": "Mr Andy Walker", 
     "nominating_officer": "Mr Andy Walker", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Kim Bownas", 
-    "party_id": "PP2172", 
+    "party_name": "Save King George Hospital Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.10729300426379405, 
+            51.56977710696777
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Save King George Hospital Party [De-registered 30/10/14]", 
+    "party_id": "PP2172", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Save King George Hospital"
+        }
     ]
 }

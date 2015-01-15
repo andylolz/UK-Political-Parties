@@ -9,8 +9,48 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2011-03-24T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-08-10T00:00:00", 
+    "postcode": "BN2 1TR", 
+    "party_leader": "Mr Steven Moss", 
+    "nominating_officer": "Mr Steven Moss", 
+    "emblems": [
+        {
+            "image": "Emblem_460.gif", 
+            "primary": false, 
+            "id": "460", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "39B Marine Parade\r\nBrighton\r\nBN2 1TR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Steven Moss", 
+    "party_name": "Liberators", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13247980094994583, 
+            50.81966219301289
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP780", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,35 +76,5 @@
             "translation": "", 
             "description": "Voluntaryists"
         }
-    ], 
-    "party_leader": "Mr Steven Moss", 
-    "nominating_officer": "Mr Steven Moss", 
-    "emblems": [
-        {
-            "image": "raw_data/PP780/Emblem_460.gif", 
-            "id": "460", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "39B Marine Parade\r\nBrighton\r\nBN2 1TR\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Steven Moss", 
-    "party_id": "PP780", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Liberators [De-registered 24/03/11]", 
-    "alternative_names": [
-        ""
     ]
 }

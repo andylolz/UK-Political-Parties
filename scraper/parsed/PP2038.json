@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Jason Budd", 
     "registered_date": "2013-03-26T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BS8 4TJ", 
     "party_leader": "Mr Stephen Perry", 
     "nominating_officer": "Mr Jason Budd", 
     "emblems": [
         {
-            "image": "raw_data/PP2038/Emblem_818.jpg", 
+            "image": "Emblem_818.jpg", 
+            "primary": false, 
             "id": "818", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.6099015716924416, 
+            51.45075928910246
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Independents for Bristol", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

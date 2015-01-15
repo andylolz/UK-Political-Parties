@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-08-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EN2 0AE", 
     "party_leader": "Mr Scott Wilkinson", 
     "nominating_officer": "Mr Scott Wilkinson", 
     "emblems": [
         {
-            "image": "raw_data/PP537/Emblem_329.gif", 
+            "image": "Emblem_329.gif", 
+            "primary": false, 
             "id": "329", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Sujal Zaveri", 
-    "party_id": "PP537", 
+    "party_name": "Save Chase Farm", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.08262086625578888, 
+            51.658255457054906
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Save Chase Farm [De-registered 23/11/11]", 
+    "party_id": "PP537", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

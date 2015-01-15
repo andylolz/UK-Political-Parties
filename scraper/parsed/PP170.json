@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-01-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SS8 8JB", 
     "party_leader": "Mr Nik Searle", 
     "nominating_officer": "Mr Nik Searle", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Heather Searle", 
-    "party_id": "PP170", 
+    "party_name": "The Truth Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.602085183471934, 
+            51.52348467878976
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Truth Party [De-registered 23/01/02]", 
+    "party_id": "PP170", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

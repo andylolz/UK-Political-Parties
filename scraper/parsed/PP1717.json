@@ -1,28 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-08-31T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Voice 4 Torbay"
-        }, 
-        {
-            "translation": "", 
-            "description": "Voice For Torbay"
-        }
-    ], 
+    "postcode": "TQ5 0JZ", 
     "party_leader": "Mr Michael Morey", 
     "nominating_officer": "Mr Nicholas Philip Moyese Henderson", 
     "emblems": [
         {
-            "image": "raw_data/PP1717/Emblem_636.gif", 
+            "image": "Emblem_636.gif", 
+            "primary": false, 
             "id": "636", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1717/Emblem_642.gif", 
+            "image": "Emblem_642.gif", 
+            "primary": false, 
             "id": "642", 
             "description": "Emblem 2"
         }
@@ -37,15 +31,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Roger John Richards", 
-    "party_id": "PP1717", 
+    "party_name": "Voice 4 Torbay", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.5618230789445695, 
+            50.401004349168325
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Voice 4 Torbay [De-registered 31/08/12]", 
+    "party_id": "PP1717", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Voice 4 Torbay"
+        }, 
+        {
+            "translation": "", 
+            "description": "Voice For Torbay"
+        }
     ]
 }

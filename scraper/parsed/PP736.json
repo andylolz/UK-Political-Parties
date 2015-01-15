@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-12-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-02-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SN25 4WT", 
     "party_leader": "Mr Robin Page", 
     "nominating_officer": "Mrs Rebecca Faye Hillman", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Tasmin Ruth Bowden", 
-    "party_id": "PP736", 
+    "party_name": "United Kingdom First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7871496572735912, 
+            51.59772560179029
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "United Kingdom First [De-registered 12/04/10]", 
+    "party_id": "PP736", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

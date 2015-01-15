@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-09-07T00:00:00", 
+    "postcode": "NW1 3HP", 
+    "party_leader": "Mr Dan 'Danger' Barrett", 
+    "nominating_officer": "Mr Adam 'Awesome' Moore", 
+    "emblems": [], 
+    "party_address": "Guinness World Records\r\n184-192 Drummond Street\r\nLondon\r\nNW1 3HP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Adam 'Awesome' Moore", 
+    "party_name": "The Bragster Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.140626471484937, 
+            51.526388538579404
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP769", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -20,29 +53,5 @@
             "translation": "", 
             "description": "Make brags not war!"
         }
-    ], 
-    "party_leader": "Mr Dan 'Danger' Barrett", 
-    "nominating_officer": "Mr Adam 'Awesome' Moore", 
-    "emblems": [], 
-    "party_address": "Guinness World Records\r\n184-192 Drummond Street\r\nLondon\r\nNW1 3HP\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Adam 'Awesome' Moore", 
-    "party_id": "PP769", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Bragster Party [De-registered 02/03/10]", 
-    "alternative_names": [
-        ""
     ]
 }

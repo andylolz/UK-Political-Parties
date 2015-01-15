@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-07-28T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-03T00:00:00", 
+    "postcode": "SW12 8TT", 
+    "party_leader": "Mr Hugh Salmon", 
+    "nominating_officer": "Mrs Caroline d'Auria", 
+    "emblems": [], 
+    "party_address": "96 Thurleigh Road\r\nLondon\r\nSW12 8TT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Seema Kotecha", 
+    "party_name": "Hugh Salmon for Battersea Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1551903410303684, 
+            51.45278988048896
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP829", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -32,29 +65,5 @@
             "translation": "", 
             "description": "Bring on the best for Battersea"
         }
-    ], 
-    "party_leader": "Mr Hugh Salmon", 
-    "nominating_officer": "Mrs Caroline d'Auria", 
-    "emblems": [], 
-    "party_address": "96 Thurleigh Road\r\nLondon\r\nSW12 8TT\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Seema Kotecha", 
-    "party_id": "PP829", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Hugh Salmon for Battersea Party [De-registered 28/07/10]", 
-    "alternative_names": [
-        ""
     ]
 }

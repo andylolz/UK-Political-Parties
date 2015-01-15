@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Glenn Croston", 
     "registered_date": "2014-02-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "M44 6PA", 
     "party_leader": "Mr Glenn Croston", 
     "nominating_officer": "Mr Kenneth Warnes", 
     "emblems": [
         {
-            "image": "raw_data/PP2247/Emblem_917.jpg", 
+            "image": "Emblem_917.jpg", 
+            "primary": false, 
             "id": "917", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP2247/Emblem_918.png", 
+            "image": "Emblem_918.png", 
+            "primary": false, 
             "id": "918", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP2247/Emblem_919.jpg", 
+            "image": "Emblem_919.jpg", 
+            "primary": false, 
             "id": "919", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.4197866710978, 
+            53.45547047657215
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "VALOUR", 
     "alternative_names": [
         "VALOUR"
-    ]
+    ], 
+    "descriptions": []
 }

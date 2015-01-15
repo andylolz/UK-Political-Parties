@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2005-03-08T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-07-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BD16 2RL", 
     "party_leader": "Mr David William Crabtree", 
     "nominating_officer": "Mr David William Crabtree", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David William Crabtree", 
-    "party_id": "PP480", 
+    "party_name": "Iraq War. Not In My Name", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.843055413384758, 
+            53.85195595365385
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Iraq War. Not In My Name [De-registered 03/08/05]", 
+    "party_id": "PP480", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
+    "postcode": "SW10 0BB", 
+    "party_leader": "Mr Dirk Hazell", 
+    "nominating_officer": "Mr Dirk Hazell", 
+    "emblems": [
+        {
+            "image": "Emblem_754.jpg", 
+            "primary": false, 
+            "id": "754", 
+            "description": "monochrome simple logo"
+        }
+    ], 
+    "party_address": "Office 103\r\n405 Kings Road\r\nLondon\r\nSW10 0BB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "30/09", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Brendan Donnelly", 
+    "party_id": "PP1952", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1776430482185286, 
+            51.48278941707174
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "4 Freedoms Party (UK EPP)", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,35 +91,5 @@
             "translation": "", 
             "description": "Europe's Leading Party Believes in London"
         }
-    ], 
-    "party_leader": "Mr Dirk Hazell", 
-    "nominating_officer": "Mr Dirk Hazell", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1952/Emblem_754.jpg", 
-            "id": "754", 
-            "description": "monochrome simple logo"
-        }
-    ], 
-    "party_address": "Office 103\r\n405 Kings Road\r\nLondon\r\nSW10 0BB\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "30/09", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Brendan Donnelly", 
-    "party_id": "PP1952", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "4 Freedoms Party (UK EPP)", 
-    "alternative_names": [
-        ""
     ]
 }

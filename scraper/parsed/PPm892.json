@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-07-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST15 8LG", 
     "party_leader": "Mrs Jill Hood", 
     "nominating_officer": "Mr Robert Kenney", 
     "emblems": [
         {
-            "image": "raw_data/PPm892/Emblem_579.gif", 
+            "image": "Emblem_579.gif", 
+            "primary": false, 
             "id": "579", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm892", 
+    "party_name": "Stone's Independent Voice", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.15896433811054, 
+            52.90771704254652
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "Stone's Independent Voice [De-registered 20/07/12]", 
+    "party_id": "PPm892", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

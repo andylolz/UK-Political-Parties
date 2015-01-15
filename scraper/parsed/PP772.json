@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-06-08T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-08-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE1 1EE", 
     "party_leader": "Mr Kevin Flynn", 
     "nominating_officer": "Mr Paul Baker", 
     "emblems": [
         {
-            "image": "raw_data/PP772/Emblem_454.gif", 
+            "image": "Emblem_454.gif", 
+            "primary": false, 
             "id": "454", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Baker", 
-    "party_id": "PP772", 
+    "party_name": "Public Services Not Private Profit", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.6124747352672224, 
+            54.97103599189768
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Public Services Not Private Profit [De-registered 06/08/12]", 
+    "party_id": "PP772", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

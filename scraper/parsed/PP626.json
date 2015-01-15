@@ -1,8 +1,41 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-10-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-02-02T00:00:00", 
+    "postcode": "CT7 9PL", 
+    "party_leader": "Mr John Worrow", 
+    "nominating_officer": "Mr John Worrow", 
+    "emblems": [], 
+    "party_address": "16 Ingoldsby Road\r\nBirchington\r\nKent\r\nCT7 9PL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Roy Douglas Ovenden", 
+    "party_name": "Independent Action", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.2897941307082503, 
+            51.37667544721163
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP626", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,29 +85,5 @@
             "translation": "", 
             "description": "Independent Action (Broadstairs Residents)"
         }
-    ], 
-    "party_leader": "Mr John Worrow", 
-    "nominating_officer": "Mr John Worrow", 
-    "emblems": [], 
-    "party_address": "16 Ingoldsby Road\r\nBirchington\r\nKent\r\nCT7 9PL\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2009-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Roy Douglas Ovenden", 
-    "party_id": "PP626", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Independent Action [De-registered 10/04/08]", 
-    "alternative_names": [
-        ""
     ]
 }

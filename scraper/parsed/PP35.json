@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2004-08-24T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-02-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "AL1 1RB", 
     "party_leader": "Mrs Amanda Ringwood", 
     "nominating_officer": "Mrs Amanda Ringwood", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Amanda Ringwood", 
-    "party_id": "PP35", 
+    "party_name": "No Candidate Deserves My Vote!", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3405200027791593, 
+            51.748065803059795
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "No Candidate Deserves My Vote! [De-registered 24/08/04]", 
+    "party_id": "PP35", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

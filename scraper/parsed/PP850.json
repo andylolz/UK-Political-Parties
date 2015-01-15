@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-29T00:00:00", 
+    "postcode": "YO42 2BQ", 
+    "party_leader": "Mr Anthony William Marron", 
+    "nominating_officer": "Mr Jeff Shepherd", 
+    "emblems": [
+        {
+            "image": "Emblem_611.gif", 
+            "primary": false, 
+            "id": "611", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "31 Chapmangate\r\nPocklington\r\nYork\r\nYO42 2BQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Malcolm James Lindley", 
+    "party_name": "The East Yorkshire Independents Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.7775236943691445, 
+            53.93275063778114
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP850", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -36,35 +76,5 @@
             "translation": "", 
             "description": "West Wolds Independents, Vote for Change"
         }
-    ], 
-    "party_leader": "Mr Anthony William Marron", 
-    "nominating_officer": "Mr Jeff Shepherd", 
-    "emblems": [
-        {
-            "image": "raw_data/PP850/Emblem_611.gif", 
-            "id": "611", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "31 Chapmangate\r\nPocklington\r\nYork\r\nYO42 2BQ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2013-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Malcolm James Lindley", 
-    "party_id": "PP850", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The East Yorkshire Independents Party [De-registered 05/11/13]", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-04-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SK13 8NS", 
     "party_leader": "Mr Leslie Colin Wilcox", 
     "nominating_officer": "Mr Leslie Colin Wilcox", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Amanda Jane Whitehead", 
-    "party_id": "PP288", 
+    "party_name": "Glossopdale Independent Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9470376135600163, 
+            53.435236041829135
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Glossopdale Independent Party [De-registered 14/04/05]", 
+    "party_id": "PP288", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-11-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GU2 9PD", 
     "party_leader": "Mr Andrew Bell", 
     "nominating_officer": "Mr Andrew Bell", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Alexandra Bell", 
-    "party_id": "PP7", 
+    "party_name": "Liberal Unionist Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5914952737925424, 
+            51.256292087616025
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Liberal Unionist Party [De-registered 01/11/07]", 
+    "party_id": "PP7", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

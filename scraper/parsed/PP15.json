@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-02-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT10 9BB", 
     "party_leader": "Mr Nigel Haig-Brown", 
     "nominating_officer": "Mr Roy Turner", 
     "emblems": [
         {
-            "image": "raw_data/PP15/Emblem_9.gif", 
+            "image": "Emblem_9.gif", 
+            "primary": false, 
             "id": "9", 
             "description": "Oaktree silhouette surrounded by words Hinchley Wood Residents Association"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.342887588670729, 
+            51.37680153946256
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Hinchley Wood Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

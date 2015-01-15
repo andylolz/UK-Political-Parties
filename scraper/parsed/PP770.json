@@ -46,6 +46,57 @@
     ], 
     "campaigns_officer": "Mr Andrew John Edward Halsall", 
     "registered_date": "2009-07-30T00:00:00", 
+    "postcode": "M3 5HW", 
+    "party_leader": "Mr Laurence Guthrie Kaye", 
+    "nominating_officer": "Mr Edward John Geraghty", 
+    "emblems": [
+        {
+            "image": "Emblem_450.jpg", 
+            "primary": false, 
+            "id": "450", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_451.jpg", 
+            "primary": false, 
+            "id": "451", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_452.jpg", 
+            "primary": false, 
+            "id": "452", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Studio 202\r\nIslington Mill\r\nJames Street\r\nManchester\r\nM3 5HW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Sam Clark", 
+    "party_id": "PP770", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.263362201431844, 
+            53.481849762376584
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Pirate Party UK", 
+    "alternative_names": [
+        "Plaid Mor-leidr DU"
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -95,45 +146,5 @@
             "translation": "", 
             "description": "Official Scottish Pirate Party Candidate"
         }
-    ], 
-    "party_leader": "Mr Laurence Guthrie Kaye", 
-    "nominating_officer": "Mr Edward John Geraghty", 
-    "emblems": [
-        {
-            "image": "raw_data/PP770/Emblem_450.jpg", 
-            "id": "450", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP770/Emblem_451.jpg", 
-            "id": "451", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP770/Emblem_452.jpg", 
-            "id": "452", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "Studio 202\r\nIslington Mill\r\nJames Street\r\nManchester\r\nM3 5HW\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Sam Clark", 
-    "party_id": "PP770", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Pirate Party UK", 
-    "alternative_names": [
-        "Plaid Mor-leidr DU"
     ]
 }

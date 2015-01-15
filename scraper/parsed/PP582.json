@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-11-09T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-09-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HD9 6PG", 
     "party_leader": "Mr Raymond Burns", 
     "nominating_officer": "Mr Robert Staniforth", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Melodie Staniforth", 
-    "party_id": "PP582", 
+    "party_name": "The Blah Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.788056382792384, 
+            53.60465312230374
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Blah Party [De-registered 11/09/08]", 
+    "party_id": "PP582", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

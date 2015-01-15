@@ -9,18 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2011-05-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-02T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Working for common good of all"
-        }, 
-        {
-            "translation": "", 
-            "description": "Social Justice, Solidarity, Pro-Life, Green"
-        }
-    ], 
+    "postcode": "DG1 1WB", 
     "party_leader": "Mrs Teresa Smith", 
     "nominating_officer": "Mrs Teresa Smith", 
     "emblems": [], 
@@ -34,15 +26,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Teresa Smith", 
-    "party_id": "PP810", 
+    "party_name": "Common Good and Justice for All", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.6095773521948296, 
+            55.06970958504473
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Common Good and Justice for All [De-registered 05/04/11]", 
+    "party_id": "PP810", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Working for common good of all"
+        }, 
+        {
+            "translation": "", 
+            "description": "Social Justice, Solidarity, Pro-Life, Green"
+        }
     ]
 }

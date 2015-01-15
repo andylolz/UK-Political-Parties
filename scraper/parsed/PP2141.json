@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-09T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The Party of the Centre Left"
-        }
-    ], 
+    "postcode": "N1 2TG", 
     "party_leader": "Professor Alan Sked", 
     "nominating_officer": "Mr Anthony Murphy", 
     "emblems": [
         {
-            "image": "raw_data/PP2141/Emblem_873.jpg", 
+            "image": "Emblem_873.jpg", 
+            "primary": false, 
             "id": "873", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.10186329049756171, 
+            51.537430986659544
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "New Deal", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Party of the Centre Left"
+        }
     ]
 }

@@ -1,8 +1,54 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-10-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-10-12T00:00:00", 
+    "postcode": "CF24 4NX", 
+    "party_leader": "Mr Mark Lloyd Pritchard", 
+    "nominating_officer": "Mr Timothy Owen Pritchard", 
+    "emblems": [
+        {
+            "image": "Emblem_471.gif", 
+            "primary": false, 
+            "id": "471", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_472.gif", 
+            "primary": false, 
+            "id": "472", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "Flat 2\r\nLion Court\r\n28 Daniel Street\r\nCardiff\r\nCF24 4NX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Mark Lloyd Pritchard", 
+    "party_name": "The Awesome Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.1766328849547283, 
+            51.495410094658666
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP791", 
+    "alternative_names": [
+        "Y Plaid Cyffro"
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -44,40 +90,5 @@
             "translation": "", 
             "description": "Vote awesome"
         }
-    ], 
-    "party_leader": "Mr Mark Lloyd Pritchard", 
-    "nominating_officer": "Mr Timothy Owen Pritchard", 
-    "emblems": [
-        {
-            "image": "raw_data/PP791/Emblem_471.gif", 
-            "id": "471", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP791/Emblem_472.gif", 
-            "id": "472", 
-            "description": "Emblem 2"
-        }
-    ], 
-    "party_address": "Flat 2\r\nLion Court\r\n28 Daniel Street\r\nCardiff\r\nCF24 4NX\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Mark Lloyd Pritchard", 
-    "party_id": "PP791", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Awesome Party [De-registered 10/03/11]", 
-    "alternative_names": [
-        "Y Plaid Cyffro"
     ]
 }

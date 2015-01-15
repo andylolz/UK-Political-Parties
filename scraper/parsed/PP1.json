@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-11-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HP9 1SA", 
     "party_leader": "Mr Geoffrey Grover", 
     "nominating_officer": "Dr Leslie Stuart Davies", 
     "emblems": [
         {
-            "image": "raw_data/PP1/Emblem_1.gif", 
+            "image": "Emblem_1.gif", 
+            "primary": false, 
             "id": "1", 
             "description": "A lower case i surmounted by a circle containing an upper case B All enclosed in a rhomboid with the top to the right of the bottom"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6411805016151666, 
+            51.60157475595245
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Beaconsfield Independent Electors Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

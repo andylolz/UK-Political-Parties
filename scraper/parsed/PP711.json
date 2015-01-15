@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-02-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "HD2 1TH", 
     "party_leader": "Mrs Annette Jallow", 
     "nominating_officer": "Mrs Annette Jallow", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Charlotte John", 
-    "party_id": "PP711", 
+    "party_name": "Kirklees Save Our Services", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.747842259488992, 
+            53.67574395584229
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Kirklees Save Our Services [De-registered 06/11/09]", 
+    "party_id": "PP711", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -11,39 +11,25 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2011-09-28T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Hartlepool Independents - Putting Hartlepool First"
-        }, 
-        {
-            "translation": "", 
-            "description": "Hartlepool Independents"
-        }, 
-        {
-            "translation": "", 
-            "description": "Hartlepool First"
-        }, 
-        {
-            "translation": "", 
-            "description": "Putting Hartlepool First"
-        }
-    ], 
+    "postcode": "TS24 2QN", 
     "party_leader": "Mr Keith William Dawkins", 
     "nominating_officer": "Mr Stephen Allison", 
     "emblems": [
         {
-            "image": "raw_data/PP1810/Emblem_682.jpg", 
+            "image": "Emblem_682.jpg", 
+            "primary": false, 
             "id": "682", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1810/Emblem_684.jpg", 
+            "image": "Emblem_684.jpg", 
+            "primary": false, 
             "id": "684", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP1810/Emblem_685.jpg", 
+            "image": "Emblem_685.jpg", 
+            "primary": false, 
             "id": "685", 
             "description": "Emblem 3"
         }
@@ -64,9 +50,31 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
     "party_name": "Hartlepool Independents - Putting Hartlepool First", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Hartlepool Independents - Putting Hartlepool First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Hartlepool Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Hartlepool First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Putting Hartlepool First"
+        }
     ]
 }

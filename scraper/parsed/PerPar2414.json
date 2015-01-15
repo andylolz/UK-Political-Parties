@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-06-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "G40 3TA", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.225816728777332, 
+            55.849522672688806
+        ]
+    }, 
     "register": null, 
     "party_name": "Grand Orange Lodge of Scotland", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

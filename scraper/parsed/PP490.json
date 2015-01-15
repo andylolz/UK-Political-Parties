@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-04-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BH15 1NQ", 
     "party_leader": "Mr Mark Oakley", 
     "nominating_officer": "Mr Mark Oakley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Eleanor Cowley", 
-    "party_id": "PP490", 
+    "party_name": "The Dungeons Death And Taxes Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9870156618789083, 
+            50.715910646406584
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Dungeons Death And Taxes Party [De-registered 27/04/10]", 
+    "party_id": "PP490", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,34 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-09-11T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "We Dare"
-        }, 
-        {
-            "translation": "", 
-            "description": "Our People First and Always"
-        }, 
-        {
-            "translation": "", 
-            "description": "Defend the Nation"
-        }, 
-        {
-            "translation": "", 
-            "description": "Land and People"
-        }
-    ], 
+    "postcode": "PO19 3EJ", 
     "party_leader": "Mr Ian Johnson", 
     "nominating_officer": "Mr Arthur Dennis Whiting", 
     "emblems": [
         {
-            "image": "raw_data/PP1969/Emblem_773.jpg", 
+            "image": "Emblem_773.jpg", 
+            "primary": false, 
             "id": "773", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1969/Emblem_774.jpg", 
+            "image": "Emblem_774.jpg", 
+            "primary": false, 
             "id": "774", 
             "description": "Emblem 2"
         }
@@ -51,9 +36,34 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.7878332388882083, 
+            50.8400198233394
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Patria", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "We Dare"
+        }, 
+        {
+            "translation": "", 
+            "description": "Our People First and Always"
+        }, 
+        {
+            "translation": "", 
+            "description": "Defend the Nation"
+        }, 
+        {
+            "translation": "", 
+            "description": "Land and People"
+        }
     ]
 }

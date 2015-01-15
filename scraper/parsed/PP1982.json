@@ -9,23 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-05-12T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Free Association for Independent Representation"
-        }, 
-        {
-            "translation": "", 
-            "description": "FAIR & Independent"
-        }
-    ], 
+    "postcode": "DL17 8DN", 
     "party_leader": "Mr Gordon Barker", 
     "nominating_officer": "Mr Brian Gibson", 
     "emblems": [
         {
-            "image": "raw_data/PP1982/Emblem_823.jpg", 
+            "image": "Emblem_823.jpg", 
+            "primary": false, 
             "id": "823", 
             "description": "Emblem1"
         }
@@ -40,15 +33,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Elizabeth Round", 
-    "party_id": "PP1982", 
+    "party_name": "F.A.I.R.", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5522319257763506, 
+            54.68742199015907
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "F.A.I.R. [De-registered 05/11/13]", 
+    "party_id": "PP1982", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Free Association for Independent Representation"
+        }, 
+        {
+            "translation": "", 
+            "description": "FAIR & Independent"
+        }
     ]
 }

@@ -3,25 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-10-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Defend our health, jobs and environment"
-        }, 
-        {
-            "translation": "", 
-            "description": "For public health, not private profit"
-        }, 
-        {
-            "translation": "", 
-            "description": "Keep our county frack-free!"
-        }
-    ], 
+    "postcode": "BT93 5EZ", 
     "party_leader": "Mr Donal O'Cofaigh", 
     "nominating_officer": "Ms Victoria Guthrie", 
     "emblems": [
         {
-            "image": "raw_data/PP2295/Emblem_946.jpg", 
+            "image": "Emblem_946.jpg", 
+            "primary": false, 
             "id": "946", 
             "description": "Emblem1"
         }
@@ -42,9 +30,30 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -7.871087286011974, 
+            54.29745880052188
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Fermanagh Against Fracking", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Defend our health, jobs and environment"
+        }, 
+        {
+            "translation": "", 
+            "description": "For public health, not private profit"
+        }, 
+        {
+            "translation": "", 
+            "description": "Keep our county frack-free!"
+        }
     ]
 }

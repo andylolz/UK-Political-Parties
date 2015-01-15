@@ -3,20 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-05T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "A Fresh Start For All"
-        }, 
-        {
-            "translation": "", 
-            "description": "Be in the kNOw"
-        }, 
-        {
-            "translation": "", 
-            "description": "Say YES to NO"
-        }
-    ], 
+    "postcode": "PR4 2ZA", 
     "party_leader": "Mr Paul Holland", 
     "nominating_officer": "Mr Christopher Reed", 
     "emblems": [], 
@@ -36,9 +23,30 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.869362616484093, 
+            53.78208731662216
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Say NO Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A Fresh Start For All"
+        }, 
+        {
+            "translation": "", 
+            "description": "Be in the kNOw"
+        }, 
+        {
+            "translation": "", 
+            "description": "Say YES to NO"
+        }
     ]
 }

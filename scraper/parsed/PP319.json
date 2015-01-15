@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Walter Duncan Lyon Pollock", 
     "registered_date": "2003-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SL4 2RP", 
     "party_leader": "Mr Walter Duncan Lyon Pollock", 
     "nominating_officer": "Mrs Margaret Lynda Hodskins", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5837446135579526, 
+            51.46254449544602
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Old Windsor Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

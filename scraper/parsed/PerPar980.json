@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2004-08-31T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B6 4LD", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8916903580409599, 
+            52.491833595091805
+        ]
+    }, 
     "register": null, 
     "party_name": "United Kingdom Independence Party", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

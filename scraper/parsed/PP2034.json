@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-21T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "(and the women who love them)"
-        }
-    ], 
+    "postcode": "BA1 1AA", 
     "party_leader": "Mr Mike Buchanan", 
     "nominating_officer": "Mr Mike Buchanan", 
     "emblems": [
         {
-            "image": "raw_data/PP2034/Emblem_813.jpg", 
+            "image": "Emblem_813.jpg", 
+            "primary": false, 
             "id": "813", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.3555617292554496, 
+            51.37885788588602
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Justice For Men & Boys", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "(and the women who love them)"
+        }
     ]
 }

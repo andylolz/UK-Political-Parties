@@ -11,17 +11,19 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2005-12-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG14 6NF", 
     "party_leader": "Mr Christopher John Tyce", 
     "nominating_officer": "Mr Christopher John Tyce", 
     "emblems": [
         {
-            "image": "raw_data/PP478/Emblem_308.gif", 
+            "image": "Emblem_308.gif", 
+            "primary": false, 
             "id": "308", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP478/Emblem_309.gif", 
+            "image": "Emblem_309.gif", 
+            "primary": false, 
             "id": "309", 
             "description": "Emblem 2"
         }
@@ -42,9 +44,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3459358202664604, 
+            51.37517342957062
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Centreground Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

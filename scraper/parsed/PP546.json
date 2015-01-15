@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-11-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-03-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CV2 2GR", 
     "party_leader": "Mrs Val Stone", 
     "nominating_officer": "Miss Kate Hunter", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Val Stone", 
-    "party_id": "PP546", 
+    "party_name": "The Independent Voice of Longford", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.453726101477916, 
+            52.43782439065696
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Independent Voice of Longford [De-registered 21/11/06]", 
+    "party_id": "PP546", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

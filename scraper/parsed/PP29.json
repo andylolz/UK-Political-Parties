@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-12-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TN9 2UE", 
     "party_leader": "Dr Alan Sked", 
     "nominating_officer": "Mrs Bernadette Bullen", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Bernadette Bullen", 
-    "party_id": "PP29", 
+    "party_name": "All-Party Alliance Against Brussels", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.26185760626604354, 
+            51.1911455091389
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "All-Party Alliance Against Brussels [De-registered 12/05/05]", 
+    "party_id": "PP29", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

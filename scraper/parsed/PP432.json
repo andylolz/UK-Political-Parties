@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-02-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NN5 6BP", 
     "party_leader": "Mrs Yvonne Dale", 
     "nominating_officer": "Mr John Harrisson", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Harrisson", 
-    "party_id": "PP432", 
+    "party_name": "S O S! Voters Against Overdevelopment of Northampton", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9310594974076202, 
+            52.24932028888627
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "S O S! Voters Against Overdevelopment of Northampton [De-registered 06/11/09]", 
+    "party_id": "PP432", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

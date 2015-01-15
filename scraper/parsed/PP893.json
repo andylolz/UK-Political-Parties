@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-05-17T00:00:00", 
     "campaigns_officer": "Mr Carl Thewlis", 
     "registered_date": "2010-11-16T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "A-Team Properties"
-        }
-    ], 
+    "postcode": "LS5 3HG", 
     "party_leader": "Mr Carl Thewlis", 
     "nominating_officer": "Mr Hendrie Iwanczuk", 
     "emblems": [
         {
-            "image": "raw_data/PP893/Emblem_580.gif", 
+            "image": "Emblem_580.gif", 
+            "primary": false, 
             "id": "580", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Hendrie Iwanczuk", 
-    "party_id": "PP893", 
+    "party_name": "A-Team Properties", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5973230848349607, 
+            53.817335793385375
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "A-Team Properties [De-registered 17/05/11]", 
+    "party_id": "PP893", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A-Team Properties"
+        }
     ]
 }

@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2004-10-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE66 1QB", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.702900940067473, 
+            55.41098895744016
+        ]
+    }, 
     "register": null, 
     "party_name": "Supporters of Rural Northumberland", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

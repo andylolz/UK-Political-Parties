@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-04-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-02-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CT1 1SA", 
     "party_leader": "Mr J J Cooper Esq Cws", 
     "nominating_officer": "Miss R V E Cooper", 
     "emblems": [
         {
-            "image": "raw_data/PP56/Emblem_58.gif", 
+            "image": "Emblem_58.gif", 
+            "primary": false, 
             "id": "58", 
             "description": "The Rose and Shield of England"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Nicholas Bissenden", 
-    "party_id": "PP56", 
+    "party_name": "Council Tax Payers Party (England's Own)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.105615933732327, 
+            51.275641492929054
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Council Tax Payers Party (England's Own) [De-registered 14/04/11]", 
+    "party_id": "PP56", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

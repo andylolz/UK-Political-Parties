@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-02-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "E3 3PN", 
     "party_leader": "Mr Terry McGrenera", 
     "nominating_officer": "Mr Terry McGrenera", 
     "emblems": [
         {
-            "image": "raw_data/PP902/Emblem_596.gif", 
+            "image": "Emblem_596.gif", 
+            "primary": false, 
             "id": "596", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.020224982654430984, 
+            51.52032650739502
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The House Party - Homes For Londoners", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

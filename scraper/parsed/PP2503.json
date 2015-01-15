@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Geoffrey Cooper", 
+    "registered_date": "2014-12-15T00:00:00", 
+    "postcode": "BH8 0DN", 
+    "party_leader": "Mr David Ross", 
+    "nominating_officer": "Mr Geoffrey Cooper", 
+    "emblems": [], 
+    "party_address": "3 Wood Row\r\nThroop Road\r\nBournemouth\r\nBH8 0DN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/03", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Ross", 
+    "party_id": "PP2503", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -1.8452886044908128, 
+            50.762561826740246
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Bournemouth Independent Alliance", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Bournemouth Independent Alliance"
+        }
+    ]
+}

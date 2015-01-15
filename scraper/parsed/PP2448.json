@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-08T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Campaigning for informed electorate on independence"
-        }
-    ], 
+    "postcode": "G84 9BT", 
     "party_leader": "Mr John Black", 
     "nominating_officer": "Mr Anthony John Brodie", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.72661437165391, 
+            56.011955972433285
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Scottish Jacobite Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Campaigning for informed electorate on independence"
+        }
     ]
 }

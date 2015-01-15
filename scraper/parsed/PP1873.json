@@ -9,29 +9,28 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-11-07T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "Rhwydwaith Libertariaid Annibynnol", 
-            "description": "Independent Libertarian Network"
-        }
-    ], 
+    "postcode": "ST14 8EF", 
     "party_leader": "na Gavin Webb", 
     "nominating_officer": "na Gavin Webb", 
     "emblems": [
         {
-            "image": "raw_data/PP1873/Emblem_728.jpg", 
+            "image": "Emblem_728.jpg", 
+            "primary": false, 
             "id": "728", 
             "description": "A male/female silhouette above the words 'Independent Libertarians'"
         }, 
         {
-            "image": "raw_data/PP1873/Emblem_729.jpg", 
+            "image": "Emblem_729.jpg", 
+            "primary": false, 
             "id": "729", 
             "description": "A male/female silhouette above the words 'Libertariaid Annibynnol'"
         }, 
         {
-            "image": "raw_data/PP1873/Emblem_730.jpg", 
+            "image": "Emblem_730.jpg", 
+            "primary": false, 
             "id": "730", 
             "description": "A male/female silhouette above the words 'Independent Libertarians' and 'Libertariaid Annibynnol'"
         }
@@ -46,15 +45,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "na Gavin Webb", 
-    "party_id": "PP1873", 
+    "party_name": "Independent Libertarian Network", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.856431562613123, 
+            52.90296398888774
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Independent Libertarian Network [De-registered 03/11/14]", 
+    "party_id": "PP1873", 
     "alternative_names": [
         "Rhwydwaith Libertariaid Annibynnol"
+    ], 
+    "descriptions": [
+        {
+            "translation": "Rhwydwaith Libertariaid Annibynnol", 
+            "description": "Independent Libertarian Network"
+        }
     ]
 }

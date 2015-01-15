@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Richard Cole", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TR9 6PQ", 
     "party_leader": "Mr Richard Michael Cole", 
     "nominating_officer": "Mr Phillip Charles Henry Rendle", 
     "emblems": [
         {
-            "image": "raw_data/PP58/Emblem_60.gif", 
+            "image": "Emblem_60.gif", 
+            "primary": false, 
             "id": "60", 
             "description": "Cornwall map with with a white cross over it"
         }, 
         {
-            "image": "raw_data/PP58/Emblem_61.gif", 
+            "image": "Emblem_61.gif", 
+            "primary": false, 
             "id": "61", 
             "description": "Round logo with Mebyon Kernow placed around a white cross on black background"
         }, 
         {
-            "image": "raw_data/PP58/Emblem_62.gif", 
+            "image": "Emblem_62.gif", 
+            "primary": false, 
             "id": "62", 
             "description": "Outline of Cornwall with MK superimposed on it"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.935201811313656, 
+            50.38968793678224
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Mebyon Kernow - The Party for Cornwall", 
     "alternative_names": [
         "Mebyon Kernow is Sons of Cornwall"
-    ]
+    ], 
+    "descriptions": []
 }

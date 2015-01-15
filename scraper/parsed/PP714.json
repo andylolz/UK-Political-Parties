@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-11-18T00:00:00", 
     "campaigns_officer": "Mrs Anthea Vivienne Lacey", 
     "registered_date": "2008-05-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TW15 3HU", 
     "party_leader": "Mr John Shaw Gore", 
     "nominating_officer": "Mr John Julian Oliver", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Shaw Gore", 
-    "party_id": "PP714", 
+    "party_name": "Campaign for Independent Politicians", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.4774870401779492, 
+            51.43716770394976
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Campaign for Independent Politicians [De-registered 18/11/10]", 
+    "party_id": "PP714", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

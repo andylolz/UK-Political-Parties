@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GL50 1DU", 
     "party_leader": "Mr Lee Holder", 
     "nominating_officer": "Mr Huw Thorley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Lucy K Nicholas", 
-    "party_id": "PP144", 
+    "party_name": "The Chaos Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.0716458982115125, 
+            51.89850392152815
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Chaos Party [De-registered 01/11/08]", 
+    "party_id": "PP144", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

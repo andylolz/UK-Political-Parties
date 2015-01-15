@@ -11,24 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-15T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Representing the people of Mitcham"
-        }, 
-        {
-            "translation": "", 
-            "description": "Working to improve Mitcham"
-        }, 
-        {
-            "translation": "", 
-            "description": "Promoting jobs in Mitcham"
-        }, 
-        {
-            "translation": "", 
-            "description": "Helping preserve Mitcham's environment"
-        }
-    ], 
+    "postcode": "CR4 4ER", 
     "party_leader": "Mr Alan Hutchings", 
     "nominating_officer": "Mrs Beth Morrison", 
     "emblems": [], 
@@ -48,9 +31,34 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1717902023170771, 
+            51.39932818343285
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Mitcham Independent Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Representing the people of Mitcham"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working to improve Mitcham"
+        }, 
+        {
+            "translation": "", 
+            "description": "Promoting jobs in Mitcham"
+        }, 
+        {
+            "translation": "", 
+            "description": "Helping preserve Mitcham's environment"
+        }
     ]
 }

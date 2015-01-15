@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2005-02-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TS17 0TX", 
     "party_leader": "Mr Ross Patterson", 
     "nominating_officer": "Mr Ross Patterson", 
     "emblems": [
         {
-            "image": "raw_data/PP427/Emblem_297.gif", 
+            "image": "Emblem_297.gif", 
+            "primary": false, 
             "id": "297", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3053521800855354, 
+            54.51938899925953
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Ingleby Barwick Independent Society", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

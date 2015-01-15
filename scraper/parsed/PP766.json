@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-06-23T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Alliance for Workers' Liberty"
-        }
-    ], 
+    "postcode": "SE1 3DG", 
     "party_leader": "Ms Cathy Nugent", 
     "nominating_officer": "Mr Mark Osborn", 
     "emblems": [
         {
-            "image": "raw_data/PP766/Emblem_446.gif", 
+            "image": "Emblem_446.gif", 
+            "primary": false, 
             "id": "446", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.07713737101511992, 
+            51.49900769622159
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Alliance for Workers' Liberty", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Alliance for Workers' Liberty"
+        }
     ]
 }

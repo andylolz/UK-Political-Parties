@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-09-28T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-08-31T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IP14 6LR", 
     "party_leader": "Mr Chad Noble", 
     "nominating_officer": "Mr Chad Noble", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Amanda Noble", 
-    "party_id": "PP511", 
+    "party_name": "Imagine", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.2155915880550023, 
+            52.205622511760765
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Imagine [De-registered 28/09/06]", 
+    "party_id": "PP511", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Christopher Sadler", 
     "registered_date": "1999-12-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT12 2PR", 
     "party_leader": "Mr Christopher Sadler", 
     "nominating_officer": "Miss Pauline Mary Lamb", 
     "emblems": [
         {
-            "image": "raw_data/PP75/Emblem_85.gif", 
+            "image": "Emblem_85.gif", 
+            "primary": false, 
             "id": "85", 
             "description": "swan in circle with lettering 1"
         }, 
         {
-            "image": "raw_data/PP75/Emblem_86.gif", 
+            "image": "Emblem_86.gif", 
+            "primary": false, 
             "id": "86", 
             "description": "swan in circle with lettering 2"
         }, 
         {
-            "image": "raw_data/PP75/Emblem_87.gif", 
+            "image": "Emblem_87.gif", 
+            "primary": false, 
             "id": "87", 
             "description": "swan in circle with lettering 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.42407951161630025, 
+            51.3882629225526
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Walton Society", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DA2 7BN", 
     "party_leader": "Mr John Kennedy Crockford", 
     "nominating_officer": "Mr Keith John Davenport", 
     "emblems": [
         {
-            "image": "raw_data/PP188/Emblem_176.gif", 
+            "image": "Emblem_176.gif", 
+            "primary": false, 
             "id": "176", 
             "description": "A hand placing a voting slip into a ballot box made up of two faces one happy one sad: one holding an empty glass one full"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.20640063743854647, 
+            51.427467119909956
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Fancy Dress Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

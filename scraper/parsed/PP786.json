@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-01-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-11-30T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Independent (Buckinghamshire Campaign for Democracy)"
-        }
-    ], 
+    "postcode": "SW1P 3HL", 
     "party_leader": "Mr John C C Stevens", 
     "nominating_officer": "Mr John Edmund Odell", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Edmund Odell", 
-    "party_id": "PP786", 
+    "party_name": "The Buckinghamshire Campaign for Democracy", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1279739550692571, 
+            51.496035364063026
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Buckinghamshire Campaign for Democracy [De-registered 01/07/10]", 
+    "party_id": "PP786", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Independent (Buckinghamshire Campaign for Democracy)"
+        }
     ]
 }

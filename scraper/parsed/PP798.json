@@ -1,23 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-05-28T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-01-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "United Voice"
-        }, 
-        {
-            "translation": "", 
-            "description": "The United Voice"
-        }
-    ], 
+    "postcode": "E1 4AX", 
     "party_leader": "Mr Hasib Hikmat", 
     "nominating_officer": "Mr Shanur Miah", 
     "emblems": [
         {
-            "image": "raw_data/PP798/Emblem_481.gif", 
+            "image": "Emblem_481.gif", 
+            "primary": false, 
             "id": "481", 
             "description": "Emblem 1"
         }
@@ -32,15 +25,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Amina Monir", 
-    "party_id": "PP798", 
+    "party_name": "United Voice", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.051093050783017915, 
+            51.52320853180291
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "United Voice [De-registered 28/05/14]", 
+    "party_id": "PP798", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "United Voice"
+        }, 
+        {
+            "translation": "", 
+            "description": "The United Voice"
+        }
     ]
 }

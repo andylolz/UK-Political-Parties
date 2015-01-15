@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SE5 0TH", 
     "party_leader": "Mr Mark Mihajlovic", 
     "nominating_officer": "Mr Graham Whatley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mark Mihajlovic", 
-    "party_id": "PP552", 
+    "party_name": "The Clarendon Terrace Society", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1005292184273163, 
+            51.47732110076136
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Clarendon Terrace Society [De-registered 01/11/08]", 
+    "party_id": "PP552", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

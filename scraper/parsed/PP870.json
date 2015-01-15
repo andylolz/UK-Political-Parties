@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B30 1NE", 
     "party_leader": "Mr Derek Fletcher", 
     "nominating_officer": "Mr Timothy Fletcher", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Frances Fletcher", 
-    "party_id": "PP870", 
+    "party_name": "Nobody Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9345082102207714, 
+            52.419819114548645
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Nobody Party [De-registered 05/12/12]", 
+    "party_id": "PP870", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

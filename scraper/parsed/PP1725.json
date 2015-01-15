@@ -3,21 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "CAMPAIGNING FOR A BETTER HENLEY"
-        }, 
-        {
-            "translation": "", 
-            "description": "SUPPORTING THE INTERESTS OF HENLEY RESIDENTS"
-        }
-    ], 
+    "postcode": "B95 5BG", 
     "party_leader": "Mr Michael D Willmott", 
     "nominating_officer": "Mr William Leech", 
     "emblems": [
         {
-            "image": "raw_data/PP1725/Emblem_710.gif", 
+            "image": "Emblem_710.gif", 
+            "primary": false, 
             "id": "710", 
             "description": "Emblem 1"
         }
@@ -38,9 +30,26 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.78002998363512, 
+            52.28901486432066
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Henley Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "CAMPAIGNING FOR A BETTER HENLEY"
+        }, 
+        {
+            "translation": "", 
+            "description": "SUPPORTING THE INTERESTS OF HENLEY RESIDENTS"
+        }
     ]
 }

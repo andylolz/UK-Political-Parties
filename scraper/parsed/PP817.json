@@ -11,24 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2010-02-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The Free Democratic Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "The F D P"
-        }, 
-        {
-            "translation": "", 
-            "description": "Free Democratic Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "F.D.P."
-        }
-    ], 
+    "postcode": "HP17 8HQ", 
     "party_leader": "Mr Clifford Craig-Butler", 
     "nominating_officer": "Mr Clifford Craig-Butler", 
     "emblems": [], 
@@ -48,9 +31,34 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9245615548563438, 
+            51.77067612490972
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Free Democratic Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Free Democratic Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "The F D P"
+        }, 
+        {
+            "translation": "", 
+            "description": "Free Democratic Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "F.D.P."
+        }
     ]
 }

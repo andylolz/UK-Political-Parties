@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2004-01-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LN12 1LH", 
     "party_leader": "Mr Thomas John Hodge", 
     "nominating_officer": "Mr Thomas John Hodge", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Thomas John Hodge", 
-    "party_id": "PP270", 
+    "party_name": "UK Social and Countryside Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.24981289701340106, 
+            53.347645729692005
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "UK Social and Countryside Party [De-registered 20/01/04]", 
+    "party_id": "PP270", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

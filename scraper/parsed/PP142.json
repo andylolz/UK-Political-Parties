@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Philip Andrews", 
     "registered_date": "2000-08-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TW7 4NW", 
     "party_leader": "Mr Paul Fisher", 
     "nominating_officer": "Mr Phil Andrews", 
     "emblems": [
         {
-            "image": "raw_data/PP142/Emblem_154.gif", 
+            "image": "Emblem_154.gif", 
+            "primary": false, 
             "id": "154", 
             "description": "Oak tree emerging from roots"
         }, 
         {
-            "image": "raw_data/PP142/Emblem_155.gif", 
+            "image": "Emblem_155.gif", 
+            "primary": false, 
             "id": "155", 
             "description": "\"Tree Roots Community\""
         }, 
         {
-            "image": "raw_data/PP142/Emblem_156.gif", 
+            "image": "Emblem_156.gif", 
+            "primary": false, 
             "id": "156", 
             "description": "\"Tree Roots Community ICG\""
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.34500193738147084, 
+            51.47906608790149
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Community (London Borough of Hounslow)", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

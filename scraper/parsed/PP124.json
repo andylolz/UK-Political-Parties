@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2001-09-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-03-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PO38 1XT", 
     "party_leader": "Mr Phil Murray", 
     "nominating_officer": "Mr Phil Murray", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Allison Murray", 
-    "party_id": "PP124", 
+    "party_name": "Isle of Wight Party_removed", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2547617187479618, 
+            50.58382629955608
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Isle of Wight Party_removed [De-registered 09/07/01]", 
+    "party_id": "PP124", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BR8 7LW", 
     "party_leader": "Mrs Deirdre Morris", 
     "nominating_officer": "na Elizabeth Smith", 
     "emblems": [
         {
-            "image": "raw_data/PP308/Emblem_246.gif", 
+            "image": "Emblem_246.gif", 
+            "primary": false, 
             "id": "246", 
             "description": "Independent"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.17650037683082748, 
+            51.40915889346691
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Hextable Independent", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

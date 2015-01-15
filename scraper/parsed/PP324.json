@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-02-02T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG1 6JZ", 
     "party_leader": "Ms Karen Rumbol", 
     "nominating_officer": "Mr Peter Burt", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Judith Wicks", 
-    "party_id": "PP324", 
+    "party_name": "Berkshire Stop The War Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9837947138009261, 
+            51.447154075505765
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Berkshire Stop The War Party [De-registered 02/02/05]", 
+    "party_id": "PP324", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

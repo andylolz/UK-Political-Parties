@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
+    "postcode": "NG19 6EU", 
+    "party_leader": "Mr Barry Michael Answer", 
+    "nominating_officer": "Mr Roger Stendall", 
+    "emblems": [
+        {
+            "image": "Emblem_762.jpg", 
+            "primary": false, 
+            "id": "762", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "22 Westfield Drive\r\nMansfield\r\nNottinghamshire\r\nNG19 6EU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Denise Answer", 
+    "party_name": "Nottinghamshire Independent Forum", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.218534203757888, 
+            53.152399554270794
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP1960", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -32,35 +72,5 @@
             "translation": "", 
             "description": "Independent Putting Mansfield First"
         }
-    ], 
-    "party_leader": "Mr Barry Michael Answer", 
-    "nominating_officer": "Mr Roger Stendall", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1960/Emblem_762.jpg", 
-            "id": "762", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "22 Westfield Drive\r\nMansfield\r\nNottinghamshire\r\nNG19 6EU\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
-    "fax": "", 
-    "end_date": "2014-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Denise Answer", 
-    "party_id": "PP1960", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Nottinghamshire Independent Forum [De-registered 03/11/14]", 
-    "alternative_names": [
-        ""
     ]
 }

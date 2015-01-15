@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-01-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-11-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW17 9US", 
     "party_leader": "Mr Richard Lloyd", 
     "nominating_officer": "Mr Anthony D'Arcy", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Michael Edward Sansum", 
-    "party_id": "PP600", 
+    "party_name": "Socialist Studies Party (1904)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.16560209128026523, 
+            51.42857504518012
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Socialist Studies Party (1904) [De-registered 01/06/12]", 
+    "party_id": "PP600", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

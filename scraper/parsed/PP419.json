@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-12-04T00:00:00", 
     "campaigns_officer": "Mr David Hall", 
     "registered_date": "2004-11-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RG6 5GN", 
     "party_leader": "Mr Michael Hall", 
     "nominating_officer": "Mr Michael Hall", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Michael Hall", 
-    "party_id": "PP419", 
+    "party_name": "telepathicpartnership.com", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9387654462034607, 
+            51.426784200364736
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "telepathicpartnership.com [De-registered 12/04/10]", 
+    "party_id": "PP419", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

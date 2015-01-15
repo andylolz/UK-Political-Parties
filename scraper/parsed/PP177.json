@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-07-19T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT32 3HS", 
     "party_leader": "Mr Bernard Charles Bill Lloyd-Briden", 
     "nominating_officer": "Mr Bernard Charles Bill Lloyd-Briden", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Kathleen Brett", 
-    "party_id": "PP177", 
+    "party_name": "The Renaissance Independent Party of Europe", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -6.277784052684303, 
+            54.343105953637085
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "The Renaissance Independent Party of Europe [De-registered 19/07/07]", 
+    "party_id": "PP177", 
     "alternative_names": [
         "Parti Neamhspleach Athbheochana na L Eropa"
-    ]
+    ], 
+    "descriptions": []
 }

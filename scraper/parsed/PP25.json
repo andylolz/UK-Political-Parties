@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2006-09-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "E6 3DH", 
     "party_leader": "Mr Frederick Charles Jones", 
     "nominating_officer": "Mr Frederick Charles Jones", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Frederick Charles Jones", 
-    "party_id": "PP25", 
+    "party_name": "Newham Independents Association", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.048664215734296086, 
+            51.52872068290448
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Newham Independents Association [De-registered 09/03/06]", 
+    "party_id": "PP25", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

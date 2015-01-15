@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-05-15T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Standing Up For North East England"
-        }
-    ], 
+    "postcode": "NE65 0TD", 
     "party_leader": "Mr Hilton Dawson", 
     "nominating_officer": "Mr Richard Rook", 
     "emblems": [
         {
-            "image": "raw_data/PP2303/Emblem_956.jpg", 
+            "image": "Emblem_956.jpg", 
+            "primary": false, 
             "id": "956", 
             "description": "EMBLEM 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.6113031325546514, 
+            55.342486248585445
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The North East Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Standing Up For North East England"
+        }
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-12-08T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ML6 9HQ", 
     "party_leader": "Mr Joseph Rowan", 
     "nominating_officer": "Mr Joseph Rowan", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Alaine McKelvie", 
-    "party_id": "PP254", 
+    "party_name": "Scottish Independence Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.9817627697751092, 
+            55.856788372630334
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Scottish Independence Party [De-registered 06/11/09]", 
+    "party_id": "PP254", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

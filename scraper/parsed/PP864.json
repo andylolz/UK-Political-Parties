@@ -9,24 +9,22 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2011-12-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-13T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "IPT"
-        }
-    ], 
+    "postcode": "N15 5ET", 
     "party_leader": "Mr Neville Kenneth Watson", 
     "nominating_officer": "Mr Neville Kenneth Watson", 
     "emblems": [
         {
-            "image": "raw_data/PP864/Emblem_548.gif", 
+            "image": "Emblem_548.gif", 
+            "primary": false, 
             "id": "548", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP864/Emblem_549.gif", 
+            "image": "Emblem_549.gif", 
+            "primary": false, 
             "id": "549", 
             "description": "Emblem 2"
         }
@@ -41,15 +39,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Neville Kenneth Watson", 
-    "party_id": "PP864", 
+    "party_name": "Independent People Together", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.0783534457905121, 
+            51.58273919447211
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Independent People Together [De-registered 12/04/11]", 
+    "party_id": "PP864", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "IPT"
+        }
     ]
 }

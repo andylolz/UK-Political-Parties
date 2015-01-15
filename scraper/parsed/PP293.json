@@ -11,6 +11,51 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-14T00:00:00", 
+    "postcode": "G2 4JR", 
+    "party_leader": "Mr Alistair McConnachie", 
+    "nominating_officer": "Mr Alistair McConnachie", 
+    "emblems": [
+        {
+            "image": "Emblem_234.gif", 
+            "primary": false, 
+            "id": "234", 
+            "description": "Right forearm with clenched hand making a thumbsup sign on a completely black background"
+        }, 
+        {
+            "image": "Emblem_235.gif", 
+            "primary": false, 
+            "id": "235", 
+            "description": "Right forearm with clenched hand making a thumbsup sign on a striped background with stripes running diagonally from right to left"
+        }
+    ], 
+    "party_address": "268 Bath Street\r\nGlasgow\r\nLanarkshire\r\nG2 4JR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Alistair McConnachie", 
+    "party_id": "PP293", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.268828222788584, 
+            55.8654894445895
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independent Green Voice", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -60,40 +105,5 @@
             "translation": "", 
             "description": "Independent Green Voice - For Ethical Politics"
         }
-    ], 
-    "party_leader": "Mr Alistair McConnachie", 
-    "nominating_officer": "Mr Alistair McConnachie", 
-    "emblems": [
-        {
-            "image": "raw_data/PP293/Emblem_234.gif", 
-            "id": "234", 
-            "description": "Right forearm with clenched hand making a thumbsup sign on a completely black background"
-        }, 
-        {
-            "image": "raw_data/PP293/Emblem_235.gif", 
-            "id": "235", 
-            "description": "Right forearm with clenched hand making a thumbsup sign on a striped background with stripes running diagonally from right to left"
-        }
-    ], 
-    "party_address": "268 Bath Street\r\nGlasgow\r\nLanarkshire\r\nG2 4JR\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Alistair McConnachie", 
-    "party_id": "PP293", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Independent Green Voice", 
-    "alternative_names": [
-        ""
     ]
 }

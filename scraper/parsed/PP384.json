@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-07-26T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-04-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KY13 0RW", 
     "party_leader": "Dr Brendan Hamill", 
     "nominating_officer": "Dr Brendan Hamill", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Virginia Stacy-Marks", 
-    "party_id": "PP384", 
+    "party_name": "Scottish Wind Watch", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.438201122361399, 
+            56.242280143127395
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Scottish Wind Watch [De-registered 26/07/07]", 
+    "party_id": "PP384", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

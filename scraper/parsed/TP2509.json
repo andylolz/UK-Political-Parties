@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-11-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC2H 9JQ", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12365420010876411, 
+            51.51492259468525
+        ]
+    }, 
     "register": null, 
     "party_name": "Independent Diplomat Commission", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "Mr Iftekhar Ahmad Siddiqi", 
     "registered_date": "2006-07-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B9 5BG", 
     "party_leader": "Mr Abdul Qayyum Chaudhary", 
     "nominating_officer": "Mr Abdul Hafeez Chaudhary", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "na Sajjaad Hamid", 
-    "party_id": "PP465", 
+    "party_name": "The Khair (Best) Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8598550953906345, 
+            52.47576215748855
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Khair (Best) Party [De-registered 06/11/09]", 
+    "party_id": "PP465", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -9,22 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-04-15T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Honest Integrity, Determined Openmindedness"
-        }, 
-        {
-            "translation": "", 
-            "description": "Look, Listen, Learn"
-        }, 
-        {
-            "translation": "", 
-            "description": "Redefining the 'Great' of Britain"
-        }
-    ], 
+    "postcode": "SO21 2PT", 
     "party_leader": "Mr Jon Joshua Perera", 
     "nominating_officer": "Mr Jon Joshua Perera", 
     "emblems": [], 
@@ -38,15 +26,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jon Joshua Perera", 
-    "party_id": "PP875", 
+    "party_name": "Social Governance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.39267825669042, 
+            51.11133977819159
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Social Governance [De-registered 05/12/12]", 
+    "party_id": "PP875", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Honest Integrity, Determined Openmindedness"
+        }, 
+        {
+            "translation": "", 
+            "description": "Look, Listen, Learn"
+        }, 
+        {
+            "translation": "", 
+            "description": "Redefining the 'Great' of Britain"
+        }
     ]
 }

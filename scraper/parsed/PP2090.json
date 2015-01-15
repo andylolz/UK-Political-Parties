@@ -3,26 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-05-06T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "NI Maturing In the 21st Century"
-        }, 
-        {
-            "translation": "", 
-            "description": "Aspire To Better"
-        }
-    ], 
+    "postcode": "BT25 1AW", 
     "party_leader": "Mr Basil McCrea", 
     "nominating_officer": "Mr Jonathan Damien McCarthy", 
     "emblems": [
         {
-            "image": "raw_data/PP2090/Emblem_852.jpg", 
+            "image": "Emblem_852.jpg", 
+            "primary": false, 
             "id": "852", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP2090/Emblem_853.jpg", 
+            "image": "Emblem_853.jpg", 
+            "primary": false, 
             "id": "853", 
             "description": "Emblem 2"
         }
@@ -43,9 +36,26 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -6.148545764830128, 
+            54.41423014930758
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "NI21", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "NI Maturing In the 21st Century"
+        }, 
+        {
+            "translation": "", 
+            "description": "Aspire To Better"
+        }
     ]
 }

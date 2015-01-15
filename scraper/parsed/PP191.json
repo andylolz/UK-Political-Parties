@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "Mrs Tasleem Begum", 
     "registered_date": "2001-06-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B26 1HN", 
     "party_leader": "Miss Sajada Bi", 
     "nominating_officer": "Miss Sajada Bi", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Sajada Bi", 
-    "party_id": "PP191", 
+    "party_name": "British Kashmiris Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8076214106970276, 
+            52.45829323878
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "British Kashmiris Party [De-registered 01/11/07]", 
+    "party_id": "PP191", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

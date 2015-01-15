@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-07-28T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-10-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SL3 6JF", 
     "party_leader": "Mr Andrew Cowen", 
     "nominating_officer": "Mrs Jacqueline Jean McGurk", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andrew Cowen", 
-    "party_id": "PP790", 
+    "party_name": "A Vote Against MP Expense Abuse", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5448935944901223, 
+            51.55295200356932
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "A Vote Against MP Expense Abuse [De-registered 28/07/10]", 
+    "party_id": "PP790", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

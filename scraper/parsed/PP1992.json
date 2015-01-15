@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-01-29T00:00:00", 
+    "postcode": "LD1 5ND", 
+    "party_leader": "Mr Jeff Green", 
+    "nominating_officer": "Dr Donald Boyd", 
+    "emblems": [
+        {
+            "image": "Emblem_789.gif", 
+            "primary": false, 
+            "id": "789", 
+            "description": "Welsh Christian Party"
+        }, 
+        {
+            "image": "Emblem_790.gif", 
+            "primary": false, 
+            "id": "790", 
+            "description": "Scottish Christian Party"
+        }, 
+        {
+            "image": "Emblem_805.jpg", 
+            "primary": false, 
+            "id": "805", 
+            "description": "Christian Party"
+        }
+    ], 
+    "party_address": "Highland Moors\r\nWellington Rd\r\nLlandrindod Wells\r\nPowys\r\nLD1 5ND\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Margaret Harrold", 
+    "party_id": "PP1992", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.385173126694186, 
+            52.22827935885077
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Christian Party \"Proclaiming Christ's Lordship\"", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "Christians Together"
         }
-    ], 
-    "party_leader": "Mr Jeff Green", 
-    "nominating_officer": "Dr Donald Boyd", 
-    "emblems": [
-        {
-            "image": "raw_data/PP1992/Emblem_789.gif", 
-            "id": "789", 
-            "description": "Welsh Christian Party"
-        }, 
-        {
-            "image": "raw_data/PP1992/Emblem_790.gif", 
-            "id": "790", 
-            "description": "Scottish Christian Party"
-        }, 
-        {
-            "image": "raw_data/PP1992/Emblem_805.jpg", 
-            "id": "805", 
-            "description": "Christian Party"
-        }
-    ], 
-    "party_address": "Highland Moors\r\nWellington Rd\r\nLlandrindod Wells\r\nPowys\r\nLD1 5ND\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Margaret Harrold", 
-    "party_id": "PP1992", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Christian Party \"Proclaiming Christ's Lordship\"", 
-    "alternative_names": [
-        ""
     ]
 }

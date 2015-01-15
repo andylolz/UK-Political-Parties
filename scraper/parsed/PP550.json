@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-03-04T00:00:00", 
     "campaigns_officer": "Professor Dorothy Mitchell", 
     "registered_date": "2006-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE21 4BN", 
     "party_leader": "Professor Dorothy Mitchell", 
     "nominating_officer": "The Reverend Ceiteach Michl Marschl", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "The Reverend Ceiteach Michl Marschl", 
-    "party_id": "PP550", 
+    "party_name": "Space Navies Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.7194105363550187, 
+            54.96068076578427
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Space Navies Party [De-registered 03/04/09]", 
+    "party_id": "PP550", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

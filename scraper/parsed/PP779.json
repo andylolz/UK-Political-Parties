@@ -1,18 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-01-10T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The Party of England"
-        }, 
-        {
-            "translation": "", 
-            "description": "The Radical Alternative for England"
-        }
-    ], 
+    "postcode": "CH62 5ER", 
     "party_leader": "Mr David Owens", 
     "nominating_officer": "Mr David Owens", 
     "emblems": [], 
@@ -26,15 +18,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Leslie Albert Taylor", 
-    "party_id": "PP779", 
+    "party_name": "English Radical Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.997512766112207, 
+            53.35930363043588
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "English Radical Alliance [De-registered 23/11/11]", 
+    "party_id": "PP779", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Party of England"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Radical Alternative for England"
+        }
     ]
 }

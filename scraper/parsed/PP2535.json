@@ -3,24 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-07-11T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Protection our towns, villages and countryside"
-        }, 
-        {
-            "translation": "", 
-            "description": "Stopping destruction of Surrey\u2019s green spaces"
-        }, 
-        {
-            "translation": "", 
-            "description": "Preserving Guildford\u2019s greenbelt for our future"
-        }, 
-        {
-            "translation": "", 
-            "description": "Protecting our greenbelt through democracy"
-        }
-    ], 
+    "postcode": "KT24 5DB", 
     "party_leader": "Mrs Susan Parker", 
     "nominating_officer": "Mr Michael Bruton", 
     "emblems": [], 
@@ -40,9 +23,34 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.4276073379017759, 
+            51.27518513310516
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Guildford Greenbelt Group", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Protection our towns, villages and countryside"
+        }, 
+        {
+            "translation": "", 
+            "description": "Stopping destruction of Surrey\u2019s green spaces"
+        }, 
+        {
+            "translation": "", 
+            "description": "Preserving Guildford\u2019s greenbelt for our future"
+        }, 
+        {
+            "translation": "", 
+            "description": "Protecting our greenbelt through democracy"
+        }
     ]
 }

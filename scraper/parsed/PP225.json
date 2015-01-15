@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-07-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BL9 9LE", 
     "party_leader": "Mr David Paul Bentley", 
     "nominating_officer": "Mr David Paul Bentley", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Louise Llewellyn", 
-    "party_id": "PP225", 
+    "party_name": "Environment and Wildlife", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.3006821299020355, 
+            53.581110338303866
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Environment and Wildlife [De-registered 07/07/03]", 
+    "party_id": "PP225", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

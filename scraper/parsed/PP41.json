@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-05-07T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WS3 1EL", 
     "party_leader": "Mr Brian Powell", 
     "nominating_officer": "Mr David John Church", 
     "emblems": [
         {
-            "image": "raw_data/PP41/Emblem_34.gif", 
+            "image": "Emblem_34.gif", 
+            "primary": false, 
             "id": "34", 
             "description": "Design incorporating the letters Dlp"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David John Church", 
-    "party_id": "PP41", 
+    "party_name": "Democratic Labour Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9917314654602691, 
+            52.60896646032475
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Democratic Labour Party [De-registered 05/07/11]", 
+    "party_id": "PP41", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

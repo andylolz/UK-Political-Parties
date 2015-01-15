@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-12-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RM1 4RB", 
     "party_leader": "Mr Denis Henry Stevens", 
     "nominating_officer": "Mr Philip Howard Wailing", 
     "emblems": [
         {
-            "image": "raw_data/PPm1991/Emblem_788.jpg", 
+            "image": "Emblem_788.jpg", 
+            "primary": false, 
             "id": "788", 
             "description": "Emblem house double lined"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.17315826633923717, 
+            51.5910486487619
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Pettits Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

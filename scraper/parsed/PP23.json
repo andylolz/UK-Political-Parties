@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-24T00:00:00", 
+    "postcode": "LA4 5XY", 
+    "party_leader": "Mr Roger Dennison", 
+    "nominating_officer": "Mr Geoff Knight", 
+    "emblems": [
+        {
+            "image": "Emblem_18.gif", 
+            "primary": false, 
+            "id": "18", 
+            "description": "Beauty Surrounds Health Abounds Sailing boat + floral crest"
+        }, 
+        {
+            "image": "Emblem_19.gif", 
+            "primary": false, 
+            "id": "19", 
+            "description": "People Before Politics Sailing boat + floral crest"
+        }, 
+        {
+            "image": "Emblem_20.gif", 
+            "primary": false, 
+            "id": "20", 
+            "description": "Black + white rosette"
+        }
+    ], 
+    "party_address": "90 Broadway\r\nMorecambe\r\nLancashire\r\nLA4 5XY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Michael David Greenall", 
+    "party_id": "PP23", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.84278791394862, 
+            54.06998489101146
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Morecambe Bay Independents", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "Morecambe Independents"
         }
-    ], 
-    "party_leader": "Mr Roger Dennison", 
-    "nominating_officer": "Mr Geoff Knight", 
-    "emblems": [
-        {
-            "image": "raw_data/PP23/Emblem_18.gif", 
-            "id": "18", 
-            "description": "Beauty Surrounds Health Abounds Sailing boat + floral crest"
-        }, 
-        {
-            "image": "raw_data/PP23/Emblem_19.gif", 
-            "id": "19", 
-            "description": "People Before Politics Sailing boat + floral crest"
-        }, 
-        {
-            "image": "raw_data/PP23/Emblem_20.gif", 
-            "id": "20", 
-            "description": "Black + white rosette"
-        }
-    ], 
-    "party_address": "90 Broadway\r\nMorecambe\r\nLancashire\r\nLA4 5XY\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Michael David Greenall", 
-    "party_id": "PP23", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Morecambe Bay Independents", 
-    "alternative_names": [
-        ""
     ]
 }

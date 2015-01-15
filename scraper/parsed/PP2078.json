@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-09-05T00:00:00", 
-    "descriptions": [], 
+    "postcode": "L32 6QX", 
     "party_leader": "Miss susan smith", 
     "nominating_officer": "Miss susan smith", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.878225589731189, 
+            53.47193654092165
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Nationwide Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

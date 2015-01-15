@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-04-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-04-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "N16 6HS", 
     "party_leader": "Mr Bruce Spenser", 
     "nominating_officer": "Mr Bruce Spenser", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Franca De Nardi", 
-    "party_id": "PP80", 
+    "party_name": "Hackney 1st", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.06529785779271491, 
+            51.56727338456762
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Hackney 1st [De-registered 21/04/04]", 
+    "party_id": "PP80", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

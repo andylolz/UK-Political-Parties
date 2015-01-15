@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-12-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-05T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CB2 1TQ", 
     "party_leader": "Mr Nigel Harris", 
     "nominating_officer": "Mr Nigel Harris", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Harris", 
-    "party_id": "PP173", 
+    "party_name": "World", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.11759232381514395, 
+            52.20712043056472
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "World [De-registered 12/03/08]", 
+    "party_id": "PP173", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

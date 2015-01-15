@@ -1,19 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-09-10T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-08-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NW2 5SR", 
     "party_leader": "Mr Russell John Kennedy White", 
     "nominating_officer": "Mr Laurence Williams", 
     "emblems": [
         {
-            "image": "raw_data/PP525/Emblem_320.gif", 
+            "image": "Emblem_320.gif", 
+            "primary": false, 
             "id": "320", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP525/Emblem_321.gif", 
+            "image": "Emblem_321.gif", 
+            "primary": false, 
             "id": "321", 
             "description": "A fresh light on politics 2"
         }
@@ -28,15 +31,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andrew Ian Williams", 
-    "party_id": "PP525", 
+    "party_name": "Populist Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2220953301386299, 
+            51.54887362146747
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Populist Alliance [De-registered 09/10/14]", 
+    "party_id": "PP525", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

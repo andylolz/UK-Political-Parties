@@ -9,8 +9,60 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2011-07-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-12-21T00:00:00", 
+    "postcode": "SS1 3DT", 
+    "party_leader": "Mr Thomas Faithful Darwood", 
+    "nominating_officer": "Mr Thomas Faithful Darwood", 
+    "emblems": [
+        {
+            "image": "Emblem_473.gif", 
+            "primary": false, 
+            "id": "473", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_474.gif", 
+            "primary": false, 
+            "id": "474", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_475.gif", 
+            "primary": false, 
+            "id": "475", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "41 Butterys\r\nThorpe Bay\r\nSouthend on Sea\r\nEssex\r\nSS1 3DT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Thomas Faithful Darwood", 
+    "party_name": "The British Constitution Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.7419061600455932, 
+            51.53866346801514
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP793", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -60,45 +112,5 @@
             "translation": "", 
             "description": "Leading British aspirations to success"
         }
-    ], 
-    "party_leader": "Mr Thomas Faithful Darwood", 
-    "nominating_officer": "Mr Thomas Faithful Darwood", 
-    "emblems": [
-        {
-            "image": "raw_data/PP793/Emblem_473.gif", 
-            "id": "473", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP793/Emblem_474.gif", 
-            "id": "474", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP793/Emblem_475.gif", 
-            "id": "475", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "41 Butterys\r\nThorpe Bay\r\nSouthend on Sea\r\nEssex\r\nSS1 3DT\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Thomas Faithful Darwood", 
-    "party_id": "PP793", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The British Constitution Party [De-registered 07/06/11]", 
-    "alternative_names": [
-        ""
     ]
 }

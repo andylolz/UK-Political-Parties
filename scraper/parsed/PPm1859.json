@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-01-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DA15 0FS", 
     "party_leader": "Miss Dagmar Lindsay", 
     "nominating_officer": "Mr Graeme Judge", 
     "emblems": [
         {
-            "image": "raw_data/PPm1859/Emblem_690.png", 
+            "image": "Emblem_690.png", 
+            "primary": false, 
             "id": "690", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PPm1859/Emblem_691.png", 
+            "image": "Emblem_691.png", 
+            "primary": false, 
             "id": "691", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PPm1859/Emblem_692.png", 
+            "image": "Emblem_692.png", 
+            "primary": false, 
             "id": "692", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.10112369369411538, 
+            51.435850503069815
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "The Homeland Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

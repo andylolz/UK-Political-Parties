@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-02-08T00:00:00", 
     "campaigns_officer": "Mr Iain Benjamin King", 
     "registered_date": "2004-04-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT12 5FH", 
     "party_leader": "Mr John Gilliland", 
     "nominating_officer": "Mr John Gilliland", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Sean O'Dwyer", 
-    "party_id": "PP385", 
+    "party_name": "Europe First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.937609574100682, 
+            54.58904920796556
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Europe First [De-registered 02/08/05]", 
+    "party_id": "PP385", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

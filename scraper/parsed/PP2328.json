@@ -18,12 +18,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-16T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "english", 
-            "description": "Northwood Hills Community Champions"
-        }
-    ], 
+    "postcode": "HA6 1LZ", 
     "party_leader": "Mr david bishop", 
     "nominating_officer": "Mrs Fawzia Zehra Kara-Isitt", 
     "emblems": [], 
@@ -43,9 +38,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.4116412001852415, 
+            51.5981718740076
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Northwood Hills Community Champions", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "english", 
+            "description": "Northwood Hills Community Champions"
+        }
     ]
 }

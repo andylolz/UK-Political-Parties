@@ -1,18 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-04-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-10-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The Left Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "Left Alternative"
-        }
-    ], 
+    "postcode": "E3 2DA", 
     "party_leader": "Mr Michael Gavan", 
     "nominating_officer": "Mr Michael Gavan", 
     "emblems": [], 
@@ -26,15 +18,32 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Jackie Turner", 
-    "party_id": "PP695", 
+    "party_name": "Left List", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.030205385157196552, 
+            51.52721203525706
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Left List [De-registered 20/04/10]", 
+    "party_id": "PP695", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Left Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Left Alternative"
+        }
     ]
 }

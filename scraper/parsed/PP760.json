@@ -3,6 +3,51 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-22T00:00:00", 
+    "postcode": "WN6 0JA", 
+    "party_leader": "Mr Gareth Fairhurst", 
+    "nominating_officer": "Mr Gareth Fairhurst", 
+    "emblems": [
+        {
+            "image": "Emblem_438.gif", 
+            "primary": false, 
+            "id": "438", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_625.gif", 
+            "primary": false, 
+            "id": "625", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "34 James Place\r\nStandish\r\nWigan\r\nLancashire\r\nWN6 0JA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr George Fairhurst", 
+    "party_id": "PP760", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.666790708995528, 
+            53.58972334278817
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Wigan Independents", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,40 +97,5 @@
             "translation": "", 
             "description": "Winstanley Independents"
         }
-    ], 
-    "party_leader": "Mr Gareth Fairhurst", 
-    "nominating_officer": "Mr Gareth Fairhurst", 
-    "emblems": [
-        {
-            "image": "raw_data/PP760/Emblem_438.gif", 
-            "id": "438", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP760/Emblem_625.gif", 
-            "id": "625", 
-            "description": "Emblem 2"
-        }
-    ], 
-    "party_address": "34 James Place\r\nStandish\r\nWigan\r\nLancashire\r\nWN6 0JA\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr George Fairhurst", 
-    "party_id": "PP760", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Wigan Independents", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -1,8 +1,54 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-10-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-29T00:00:00", 
+    "postcode": "SE5 9NS", 
+    "party_leader": "Mr Thomas Gabriel Leighton", 
+    "nominating_officer": "Mr James Edward Johnston", 
+    "emblems": [
+        {
+            "image": "Emblem_541.gif", 
+            "primary": false, 
+            "id": "541", 
+            "description": "Camberwell Beauty Butterfly No Writing"
+        }, 
+        {
+            "image": "Emblem_542.gif", 
+            "primary": false, 
+            "id": "542", 
+            "description": "Camberwell Beauty Butterfly Writing"
+        }
+    ], 
+    "party_address": "61-63 Coldharbour Lane\r\nno town\r\nLondon\r\nSE5 9NS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Thomas Gabriel Leighton", 
+    "party_name": "The Camberwell Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.09574991170968733, 
+            51.46967179863699
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP853", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,40 +94,5 @@
             "translation": "", 
             "description": "Camberwell Party Passionate about Camberwell"
         }
-    ], 
-    "party_leader": "Mr Thomas Gabriel Leighton", 
-    "nominating_officer": "Mr James Edward Johnston", 
-    "emblems": [
-        {
-            "image": "raw_data/PP853/Emblem_541.gif", 
-            "id": "541", 
-            "description": "Camberwell Beauty Butterfly No Writing"
-        }, 
-        {
-            "image": "raw_data/PP853/Emblem_542.gif", 
-            "id": "542", 
-            "description": "Camberwell Beauty Butterfly Writing"
-        }
-    ], 
-    "party_address": "61-63 Coldharbour Lane\r\nno town\r\nLondon\r\nSE5 9NS\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Thomas Gabriel Leighton", 
-    "party_id": "PP853", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Camberwell Party [De-registered 10/03/11]", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2002-02-09T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-09-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "M12 4AH", 
     "party_leader": "Mr Aziz Ahmed Bhatti", 
     "nominating_officer": "Mr Aziz Ahmed Bhatti", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Syed Shadab Rizvi", 
-    "party_id": "PP146", 
+    "party_name": "Anti-Corruption Forum", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.217409411793827, 
+            53.46845959467028
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Anti-Corruption Forum [De-registered 02/09/02]", 
+    "party_id": "PP146", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

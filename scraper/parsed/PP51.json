@@ -3,39 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-02-16T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Ulster Conservatives and Unionists - New Force (Joint Description with Ulster Unionist Party)"
-        }, 
-        {
-            "translation": "", 
-            "description": "Conservatives"
-        }, 
-        {
-            "translation": "", 
-            "description": "NI Conservatives"
-        }, 
-        {
-            "translation": "", 
-            "description": "Northern Ireland Conservatives"
-        }
-    ], 
+    "postcode": "SW1H 9HQ", 
     "party_leader": "The Rt Hon David Cameron", 
     "nominating_officer": "Mr Alan Mabbutt", 
     "emblems": [
         {
-            "image": "raw_data/PP51/Emblem_45.gif", 
+            "image": "Emblem_45.gif", 
+            "primary": false, 
             "id": "45", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP51/Emblem_46.gif", 
+            "image": "Emblem_46.gif", 
+            "primary": false, 
             "id": "46", 
             "description": "the Now for Change emblem"
         }, 
         {
-            "image": "raw_data/PP51/Emblem_930.jpg", 
+            "image": "Emblem_930.jpg", 
+            "primary": false, 
             "id": "930", 
             "description": "NI Conservatives emblem 2"
         }
@@ -56,9 +42,34 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13631454903857013, 
+            51.49923466347958
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Conservative and Unionist Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Ulster Conservatives and Unionists - New Force (Joint Description with Ulster Unionist Party)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Conservatives"
+        }, 
+        {
+            "translation": "", 
+            "description": "NI Conservatives"
+        }, 
+        {
+            "translation": "", 
+            "description": "Northern Ireland Conservatives"
+        }
     ]
 }

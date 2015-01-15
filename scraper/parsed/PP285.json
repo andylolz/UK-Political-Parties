@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-07-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-02-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC2N 5BW", 
     "party_leader": "Mr David Morrison", 
     "nominating_officer": "Mr Martyn William Greene", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert Wilson Menzies Durward", 
-    "party_id": "PP285", 
+    "party_name": "The People's Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.12617726441845906, 
+            51.50752611165383
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The People's Alliance [De-registered 14/07/04]", 
+    "party_id": "PP285", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

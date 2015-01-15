@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-01-09T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-06-23T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST7 2JT", 
     "party_leader": "Mr Anthony James Evans", 
     "nominating_officer": "Mr Anthony James Evans", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Sarah Ann Evans", 
-    "party_id": "PP719", 
+    "party_name": "1st Pension Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.330916124506364, 
+            53.09202741979054
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "1st Pension Party [De-registered 01/09/09]", 
+    "party_id": "PP719", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

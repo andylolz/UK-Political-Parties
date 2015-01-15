@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-05-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH8 8PJ", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.177598435155864, 
+            55.95096588425906
+        ]
+    }, 
     "register": null, 
     "party_name": "Scottish National Party (SNP)", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

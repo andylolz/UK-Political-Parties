@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SA12 8UF", 
     "party_leader": "Mr Andrew James Tutton", 
     "nominating_officer": "Mr Leslie John Davies", 
     "emblems": [
         {
-            "image": "raw_data/PP140/Emblem_860.jpg", 
+            "image": "Emblem_860.jpg", 
+            "primary": false, 
             "id": "860", 
             "description": "New emblem of Port Talbot Residents Association"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.79724797912226, 
+            51.62304531459224
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Port Talbot Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-10-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-11-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GL2 5JN", 
     "party_leader": "Dr Richard Luke Munisamy", 
     "nominating_officer": "Mr Michael Peter-Bragg", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Richard Luke Munisamy", 
-    "party_id": "PP469", 
+    "party_name": "CH.A.N.G.E.", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.2631913592974913, 
+            51.85573100980159
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "CH.A.N.G.E. [De-registered 20/10/05]", 
+    "party_id": "PP469", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

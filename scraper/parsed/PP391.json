@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-08-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-04-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CF14 3LZ", 
     "party_leader": "Mr Julius Hermer", 
     "nominating_officer": "Mr John Winterson Richards", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Winterson Richards", 
-    "party_id": "PP391", 
+    "party_name": "Cardiff Independent Citizens", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.1886510171981794, 
+            51.501655141780276
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Cardiff Independent Citizens [De-registered 17/08/10]", 
+    "party_id": "PP391", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

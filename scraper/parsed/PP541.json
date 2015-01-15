@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "RM1 4DE", 
     "party_leader": "Mr Andrew Mann", 
     "nominating_officer": "Mr Ray Morgon", 
     "emblems": [
         {
-            "image": "raw_data/PP541/Emblem_330.gif", 
+            "image": "Emblem_330.gif", 
+            "primary": false, 
             "id": "330", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Kevin Tonks", 
-    "party_id": "PP541", 
+    "party_name": "Collier Row & Mawneys Residents Association", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.1801124338614429, 
+            51.6015041776729
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Collier Row & Mawneys Residents Association [De-registered 23/11/11]", 
+    "party_id": "PP541", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,8 +1,60 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-09-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-03-13T00:00:00", 
+    "postcode": "SW1 3JL", 
+    "party_leader": "Sir Paul Judge", 
+    "nominating_officer": "Mr Alan Wallace", 
+    "emblems": [
+        {
+            "image": "Emblem_427.gif", 
+            "primary": false, 
+            "id": "427", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_428.gif", 
+            "primary": false, 
+            "id": "428", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_429.gif", 
+            "primary": false, 
+            "id": "429", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "152 Grosvenor Road\r\nLondon\r\nSW1 3JL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Sir Paul Judge", 
+    "party_name": "Jury Team", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.2754618, 
+            51.4895682
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP746", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +104,5 @@
             "translation": "", 
             "description": "Alliance for Democracy (Joint Description with Christian Party \"Proclaiming Christ's Lordship\", and English Democrats Party)"
         }
-    ], 
-    "party_leader": "Sir Paul Judge", 
-    "nominating_officer": "Mr Alan Wallace", 
-    "emblems": [
-        {
-            "image": "raw_data/PP746/Emblem_427.gif", 
-            "id": "427", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP746/Emblem_428.gif", 
-            "id": "428", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP746/Emblem_429.gif", 
-            "id": "429", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "152 Grosvenor Road\r\nLondon\r\nSW1 3JL\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Sir Paul Judge", 
-    "party_id": "PP746", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Jury Team [De-registered 09/05/11]", 
-    "alternative_names": [
-        ""
     ]
 }

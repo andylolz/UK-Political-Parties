@@ -1,8 +1,48 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-09-19T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-06-10T00:00:00", 
+    "postcode": "G1 3DX", 
+    "party_leader": "Mr John Mitchell", 
+    "nominating_officer": "Mrs Nadia Rosenberg", 
+    "emblems": [
+        {
+            "image": "Emblem_574.gif", 
+            "primary": false, 
+            "id": "574", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "38 Queen Street\r\nGlasgow\r\nG1 3DX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "15/09", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-09-15T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Nadia Rosenberg", 
+    "party_name": "Scottish Homeland Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.251891700374287, 
+            55.858673591146726
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP888", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -40,35 +80,5 @@
             "translation": "", 
             "description": "British Homeland Party"
         }
-    ], 
-    "party_leader": "Mr John Mitchell", 
-    "nominating_officer": "Mrs Nadia Rosenberg", 
-    "emblems": [
-        {
-            "image": "raw_data/PP888/Emblem_574.gif", 
-            "id": "574", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "38 Queen Street\r\nGlasgow\r\nG1 3DX\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "15/09", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-09-15T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mrs Nadia Rosenberg", 
-    "party_id": "PP888", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Scottish Homeland Party [De-registered 19/09/11]", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-02-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2000-04-01T00:00:00", 
-    "descriptions": [], 
+    "postcode": "FK5 4DD", 
     "party_leader": "Mr Thomas L Taylor", 
     "nominating_officer": "Mrs Avril Anne Taylor", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Avril Anne Taylor", 
-    "party_id": "PP88", 
+    "party_name": "The Scottish Freedom Referendum Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.8037805931583626, 
+            56.02882185513017
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Scottish Freedom Referendum Party [De-registered 02/11/04]", 
+    "party_id": "PP88", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,6 +3,38 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-04-23T00:00:00", 
+    "postcode": "BT15 2JZ", 
+    "party_leader": "Mr Robert McKee", 
+    "nominating_officer": "Ms Samantha Jane Stacey", 
+    "emblems": [], 
+    "party_address": "43 Upper Mervue Street\r\nBelfast\r\nAntrim\r\nBT15 2JZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr William Hill", 
+    "party_id": "PP2071", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.932885989472445, 
+            54.61479154717057
+        ]
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Protestant Coalition", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -48,29 +80,5 @@
             "translation": "", 
             "description": "Defending the Union"
         }
-    ], 
-    "party_leader": "Mr Robert McKee", 
-    "nominating_officer": "Ms Samantha Jane Stacey", 
-    "emblems": [], 
-    "party_address": "43 Upper Mervue Street\r\nBelfast\r\nAntrim\r\nBT15 2JZ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr William Hill", 
-    "party_id": "PP2071", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Northern Ireland", 
-    "party_name": "Protestant Coalition", 
-    "alternative_names": [
-        ""
     ]
 }

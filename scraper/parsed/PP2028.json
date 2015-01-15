@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-13T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Spennymoor Independents People Before Politics"
-        }
-    ], 
+    "postcode": "DL16 6TT", 
     "party_leader": "Mr Kevin Thompson", 
     "nominating_officer": "Mr Clive Maddison", 
     "emblems": [
         {
-            "image": "raw_data/PP2028/Emblem_806.jpg", 
+            "image": "Emblem_806.jpg", 
+            "primary": false, 
             "id": "806", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.606945950497077, 
+            54.70636685898638
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Spennymoor Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Spennymoor Independents People Before Politics"
+        }
     ]
 }

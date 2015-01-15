@@ -9,8 +9,41 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2009-07-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-20T00:00:00", 
+    "postcode": "WC1N 3XX", 
+    "party_leader": "Mr David Michael", 
+    "nominating_officer": "Mr David Michael", 
+    "emblems": [], 
+    "party_address": "BM Box 4785\r\nLondon\r\nWC1N 3XX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Michael", 
+    "party_name": "Fair Pay Fair Trade Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13424361194036336, 
+            51.517132821076316
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP750", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -32,29 +65,5 @@
             "translation": "", 
             "description": "Punishment does not work"
         }
-    ], 
-    "party_leader": "Mr David Michael", 
-    "nominating_officer": "Mr David Michael", 
-    "emblems": [], 
-    "party_address": "BM Box 4785\r\nLondon\r\nWC1N 3XX\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2010-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr David Michael", 
-    "party_id": "PP750", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Fair Pay Fair Trade Party [De-registered 27/07/09]", 
-    "alternative_names": [
-        ""
     ]
 }

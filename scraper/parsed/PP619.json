@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "Mr Simon Ferson", 
     "registered_date": "2007-01-30T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NE63 9JZ", 
     "party_leader": "Mr Simon Ferson", 
     "nominating_officer": "Mr Michael Boden", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Michael Boden", 
-    "party_id": "PP619", 
+    "party_name": "Fresh", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5671732732445538, 
+            55.18735007519212
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Fresh [De-registered 01/11/08]", 
+    "party_id": "PP619", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

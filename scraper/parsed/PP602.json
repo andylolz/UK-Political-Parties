@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-02-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DA7 4PS", 
     "party_leader": "Miss Carolyn Jane Holliman", 
     "nominating_officer": "Mr John Anthony Ellis", 
     "emblems": [
         {
-            "image": "raw_data/PP602/Emblem_356.gif", 
+            "image": "Emblem_356.gif", 
+            "primary": false, 
             "id": "356", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.13661601102280324, 
+            51.46692623277499
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "The Animal Protection Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,39 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-20T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Northampton - Save our Public Services"
-        }, 
-        {
-            "translation": "", 
-            "description": "Northampton -Save our Services"
-        }, 
-        {
-            "translation": "", 
-            "description": "Northampton - Save our NHS"
-        }, 
-        {
-            "translation": "", 
-            "description": "Campaign for Public Services"
-        }
-    ], 
+    "postcode": "NN5 6HN", 
     "party_leader": "Mr David Spencer Green", 
     "nominating_officer": "Mr Norman Adams", 
     "emblems": [
         {
-            "image": "raw_data/PP756/Emblem_434.gif", 
+            "image": "Emblem_434.gif", 
+            "primary": false, 
             "id": "434", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP756/Emblem_435.gif", 
+            "image": "Emblem_435.gif", 
+            "primary": false, 
             "id": "435", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP756/Emblem_436.gif", 
+            "image": "Emblem_436.gif", 
+            "primary": false, 
             "id": "436", 
             "description": "Emblem 3"
         }
@@ -56,9 +42,34 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9491934062064343, 
+            52.24376497754467
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Northampton - Save Our Public Services", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Northampton - Save our Public Services"
+        }, 
+        {
+            "translation": "", 
+            "description": "Northampton -Save our Services"
+        }, 
+        {
+            "translation": "", 
+            "description": "Northampton - Save our NHS"
+        }, 
+        {
+            "translation": "", 
+            "description": "Campaign for Public Services"
+        }
     ]
 }

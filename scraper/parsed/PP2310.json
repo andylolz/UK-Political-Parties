@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-09-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "FY7 8JQ", 
     "party_leader": "Mr Mark Berry", 
     "nominating_officer": "Ms Cheryl Atkinson", 
     "emblems": [
         {
-            "image": "raw_data/PP2310/Emblem_963.jpg", 
+            "image": "Emblem_963.jpg", 
+            "primary": false, 
             "id": "963", 
             "description": "The Reality Party"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.045503720337305, 
+            53.90164553910126
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Reality Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

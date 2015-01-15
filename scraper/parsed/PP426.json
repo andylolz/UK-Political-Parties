@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2005-07-02T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PL3 4JE", 
     "party_leader": "Mr Bernard Toolan", 
     "nominating_officer": "Mr Terence Toolan", 
     "emblems": [
         {
-            "image": "raw_data/PP426/Emblem_296.gif", 
+            "image": "Emblem_296.gif", 
+            "primary": false, 
             "id": "296", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.139509255555513, 
+            50.38471352412034
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Vivamus", 
     "alternative_names": [
         "Let Us Live"
-    ]
+    ], 
+    "descriptions": []
 }

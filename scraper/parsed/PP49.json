@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2000-03-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT13 8BJ", 
     "party_leader": "Mr Charles Cecil Refoy", 
     "nominating_officer": "Mr Charles Cecil Refoy", 
     "emblems": [
         {
-            "image": "raw_data/PP49/Emblem_43.gif", 
+            "image": "Emblem_43.gif", 
+            "primary": false, 
             "id": "43", 
             "description": "St George and the dragon on St Georges hill"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.4593545834798269, 
+            51.37867853901225
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "St. George's Hill Independents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

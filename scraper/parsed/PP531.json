@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-02-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TD5 8EY", 
     "party_leader": "Mr Stuart Alexander Usher", 
     "nominating_officer": "Mr William Burns", 
     "emblems": [
         {
-            "image": "raw_data/PP531/Emblem_328.gif", 
+            "image": "Emblem_328.gif", 
+            "primary": false, 
             "id": "328", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.422694502406, 
+            55.59491944494755
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Scotland Against Crooked Lawyers", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

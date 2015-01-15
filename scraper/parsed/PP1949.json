@@ -11,12 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Zero Tolerance Policing for Criminals"
-        }
-    ], 
+    "postcode": "KT10 1EN", 
     "party_leader": "Mr Kevin Hurley", 
     "nominating_officer": "Mr Kevin Hurley", 
     "emblems": [], 
@@ -36,9 +31,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3698779592078505, 
+            51.40292549094371
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Zero Tolerance Policing ex  Chief", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Zero Tolerance Policing for Criminals"
+        }
     ]
 }

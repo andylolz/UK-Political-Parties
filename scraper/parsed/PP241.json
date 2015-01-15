@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-04-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-03-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "N4 3BS", 
     "party_leader": "Mrs Celia Dignan", 
     "nominating_officer": "Mrs Celia Dignan", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jonathan Rutherford", 
-    "party_id": "PP241", 
+    "party_name": "Save Arthur Simpson Library", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1168675861853149, 
+            51.568328165171785
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Save Arthur Simpson Library [De-registered 14/04/03]", 
+    "party_id": "PP241", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

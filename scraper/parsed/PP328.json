@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "L4 9TS", 
     "party_leader": "Mr George Knibb", 
     "nominating_officer": "Mrs Pauline Connelly", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr George Knibb", 
-    "party_id": "PP328", 
+    "party_name": "Liverpool Labour Community Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.9484427042805477, 
+            53.44472086571797
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Liverpool Labour Community Party [De-registered 02/11/10]", 
+    "party_id": "PP328", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

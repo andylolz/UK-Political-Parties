@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-08-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-06-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KT12 4BZ", 
     "party_leader": "Mr Clive Royston Green", 
     "nominating_officer": "Mr Clive Royston Green", 
     "emblems": [], 
@@ -17,15 +18,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Brenda Eileen Green", 
-    "party_id": "PP221", 
+    "party_name": "Hersham Village Society", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "Hersham Village Society [De-registered 08/06/09]", 
+    "party_id": "PP221", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

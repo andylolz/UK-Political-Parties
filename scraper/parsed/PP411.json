@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-06-10T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Left Unity"
-        }
-    ], 
+    "postcode": "M14 5PN", 
     "party_leader": "Dr John Nicholson", 
     "nominating_officer": "Mr Declan O'Neill", 
     "emblems": [
         {
-            "image": "raw_data/PP411/Emblem_292.gif", 
+            "image": "Emblem_292.gif", 
+            "primary": false, 
             "id": "292", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr John Nicholson", 
-    "party_id": "PP411", 
+    "party_name": "Socialist Unity", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.214143430319327, 
+            53.45707709480611
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Socialist Unity [De-registered 23/11/11]", 
+    "party_id": "PP411", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Left Unity"
+        }
     ]
 }

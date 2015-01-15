@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-04-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN14 7BU", 
     "party_leader": "Ms Dawn Smith", 
     "nominating_officer": "Ms Dawn Smith", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Dawn Smith", 
-    "party_id": "PP389", 
+    "party_name": "Stop! Durrington's Overdevelopment - Save Titnores' Trees", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.37381748898014816, 
+            50.81923775622386
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Stop! Durrington's Overdevelopment - Save Titnores' Trees [De-registered 06/11/09]", 
+    "party_id": "PP389", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

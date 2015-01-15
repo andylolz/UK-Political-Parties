@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-09-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH3 9AG", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.2089173927700267, 
+            55.94308776765568
+        ]
+    }, 
     "register": null, 
     "party_name": "Better Together 2012 Ltd", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

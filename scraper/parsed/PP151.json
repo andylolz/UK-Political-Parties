@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2003-10-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-05T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NN1 4DH", 
     "party_leader": "Mr Keiron Harvey", 
     "nominating_officer": "Mr Keiron Harvey", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Tina Harvey", 
-    "party_id": "PP151", 
+    "party_name": "Liberated Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.8841128975296451, 
+            52.24168436984444
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Liberated Party [De-registered 13/10/03]", 
+    "party_id": "PP151", 
     "alternative_names": [
         "Plaid Ryddhad"
-    ]
+    ], 
+    "descriptions": []
 }

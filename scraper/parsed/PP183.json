@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-05-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BD13 2NR", 
     "party_leader": "Dr Margaret Gwendoline Riseborough", 
     "nominating_officer": "Dr Margaret Gwendoline Riseborough", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr George Frank Riseborough", 
-    "party_id": "PP183", 
+    "party_name": "Defend The Welfare State Against Blairism", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8670087967765947, 
+            53.7666532618698
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Defend The Welfare State Against Blairism [De-registered 30/05/02]", 
+    "party_id": "PP183", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

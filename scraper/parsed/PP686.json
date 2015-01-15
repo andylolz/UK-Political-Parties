@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-11-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WS3 4AJ", 
     "party_leader": "Mr Angela Elizabeth Howells", 
     "nominating_officer": "Mr Philip John Evans", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Jayne Elizabeth Sanders", 
-    "party_id": "PP686", 
+    "party_name": "Pelsall Independent Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9812983287635666, 
+            52.626612169861744
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Pelsall Independent Alliance [De-registered 23/11/11]", 
+    "party_id": "PP686", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,32 +1,22 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-05-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-02-18T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "People politics not party politics"
-        }, 
-        {
-            "translation": "", 
-            "description": "Fighting for the right to be English"
-        }, 
-        {
-            "translation": "", 
-            "description": "One people, one party, one cause"
-        }
-    ], 
+    "postcode": "BB3 0AZ", 
     "party_leader": "Mr Michael Johnson", 
     "nominating_officer": "Mr John Moncrieff", 
     "emblems": [
         {
-            "image": "raw_data/PP906/Emblem_599.gif", 
+            "image": "Emblem_599.gif", 
+            "primary": false, 
             "id": "599", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP906/Emblem_600.gif", 
+            "image": "Emblem_600.gif", 
+            "primary": false, 
             "id": "600", 
             "description": "Emblem 2"
         }
@@ -41,15 +31,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Moncrieff", 
-    "party_id": "PP906", 
+    "party_name": "For England Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.478900676144711, 
+            53.711057105875454
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "For England Party [De-registered 05/12/12]", 
+    "party_id": "PP906", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "People politics not party politics"
+        }, 
+        {
+            "translation": "", 
+            "description": "Fighting for the right to be English"
+        }, 
+        {
+            "translation": "", 
+            "description": "One people, one party, one cause"
+        }
     ]
 }

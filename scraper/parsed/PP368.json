@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-05-05T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-04-15T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SK6 7WT", 
     "party_leader": "Mr David Charles Spencer", 
     "nominating_officer": "Mrs Sabrina Jones", 
     "emblems": [
         {
-            "image": "raw_data/PP368/Emblem_271.gif", 
+            "image": "Emblem_271.gif", 
+            "primary": false, 
             "id": "271", 
             "description": "Emblem 1"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Chapman Pearson", 
-    "party_id": "PP368", 
+    "party_name": "Democratic Socialist Alliance - People Before Profit", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.06331315230452, 
+            53.393111657421294
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Democratic Socialist Alliance - People Before Profit [De-registered 05/05/11]", 
+    "party_id": "PP368", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

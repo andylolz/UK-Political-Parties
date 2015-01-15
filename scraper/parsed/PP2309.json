@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-04T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Modern United Europeans"
-        }
-    ], 
+    "postcode": "WC1X 9ND", 
     "party_leader": "Mr Tommy Tomescu", 
     "nominating_officer": "Mr Tommy Tomescu", 
     "emblems": [
         {
-            "image": "raw_data/PP2309/Emblem_960.jpg", 
+            "image": "Emblem_960.jpg", 
+            "primary": false, 
             "id": "960", 
             "description": "Modern United Europeans"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.11700049633464146, 
+            51.52878134892143
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Europeans Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Modern United Europeans"
+        }
     ]
 }

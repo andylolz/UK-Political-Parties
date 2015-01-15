@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2009-01-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-03-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CO6 1ZE", 
     "party_leader": "Mr Paul Richard Thorogood", 
     "nominating_officer": "Mr Paul Richard Thorogood", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Richard Thorogood", 
-    "party_id": "PP705", 
+    "party_name": "Cut Tax on Petrol and Diesel", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.7433388, 
+            51.9133581
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Cut Tax on Petrol and Diesel [De-registered 13/01/09]", 
+    "party_id": "PP705", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

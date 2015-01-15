@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2009-06-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-12-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TN16 2HP", 
     "party_leader": "na Bridget Rowe", 
     "nominating_officer": "Mr J.M. Greenbough", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Damian Wilson", 
-    "party_id": "PP732", 
+    "party_name": "Libertas UK", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.05258621164068278, 
+            51.29950472012298
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Libertas UK [De-registered 06/11/09]", 
+    "party_id": "PP732", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

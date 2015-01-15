@@ -11,27 +11,25 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2004-08-01T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Residents' Association of London Official Candidate"
-        }
-    ], 
+    "postcode": "RM14 2AX", 
     "party_leader": "Ms Kathleen Brown", 
     "nominating_officer": "Ms Kathleen Brown", 
     "emblems": [
         {
-            "image": "raw_data/PP361/Emblem_264.gif", 
+            "image": "Emblem_264.gif", 
+            "primary": false, 
             "id": "264", 
             "description": "Mainly white emblem"
         }, 
         {
-            "image": "raw_data/PP361/Emblem_265.gif", 
+            "image": "Emblem_265.gif", 
+            "primary": false, 
             "id": "265", 
             "description": "Mostly black emblem"
         }, 
         {
-            "image": "raw_data/PP361/Emblem_266.gif", 
+            "image": "Emblem_266.gif", 
+            "primary": false, 
             "id": "266", 
             "description": "Mainly black emblem"
         }
@@ -52,9 +50,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.24764924164434268, 
+            51.55114675213792
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Residents' Association of London", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Residents' Association of London Official Candidate"
+        }
     ]
 }

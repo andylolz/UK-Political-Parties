@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-06-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "AB16 6XH", 
     "party_leader": "Mr Arthur Groat", 
     "nominating_officer": "Mr Stuart Binnie", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Arthur Groat", 
-    "party_id": "PP584", 
+    "party_name": "The Scottish Cosmopolitans", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.154873079888197, 
+            57.15645552536963
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Scottish Cosmopolitans [De-registered 01/11/08]", 
+    "party_id": "PP584", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

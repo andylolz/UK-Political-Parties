@@ -11,17 +11,19 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2005-01-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1N 3XX", 
     "party_leader": "na Therese Muchewicz", 
     "nominating_officer": "na Therese Muchewicz", 
     "emblems": [
         {
-            "image": "raw_data/PP424/Emblem_294.gif", 
+            "image": "Emblem_294.gif", 
+            "primary": false, 
             "id": "294", 
             "description": "A white V on a black background"
         }, 
         {
-            "image": "raw_data/PP424/Emblem_295.gif", 
+            "image": "Emblem_295.gif", 
+            "primary": false, 
             "id": "295", 
             "description": "A white V on a black background with Veritas at bottom"
         }
@@ -42,9 +44,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13424361194036336, 
+            51.517132821076316
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Veritas", 
     "alternative_names": [
         "Truth"
-    ]
+    ], 
+    "descriptions": []
 }

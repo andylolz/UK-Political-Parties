@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2002-04-18T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-02-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NR2 2DH", 
     "party_leader": "Mr Alun Buffry", 
     "nominating_officer": "Mr Alun Buffry", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Hugh Stuart Robertson", 
-    "party_id": "PP18", 
+    "party_name": "Legalise Cannabis Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.2777508157325308, 
+            52.62046874779239
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Legalise Cannabis Alliance [De-registered 18/04/02]", 
+    "party_id": "PP18", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

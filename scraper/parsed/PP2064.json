@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "Ms Gillian Griffiths", 
     "registered_date": "2013-04-17T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The Independent Socialist Party"
-        }
-    ], 
+    "postcode": "NE34 6JQ", 
     "party_leader": "Mr Philip George Brown", 
     "nominating_officer": "Ms Gillian Griffiths", 
     "emblems": [
         {
-            "image": "raw_data/PP2064/Emblem_843.jpg", 
+            "image": "Emblem_843.jpg", 
+            "primary": false, 
             "id": "843", 
             "description": "Emblem 1"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.40705843599526, 
+            54.983625103021424
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Independent Socialist Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Independent Socialist Party"
+        }
     ]
 }

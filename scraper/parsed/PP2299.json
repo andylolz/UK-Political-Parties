@@ -3,6 +3,45 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-03-04T00:00:00", 
+    "postcode": "L37 8BJ", 
+    "party_leader": "Mrs Maria Bennett", 
+    "nominating_officer": "Mr Derek Baxter", 
+    "emblems": [
+        {
+            "image": "Emblem_951.jpg", 
+            "primary": false, 
+            "id": "951", 
+            "description": "Emblem1"
+        }
+    ], 
+    "party_address": "16 Selby Drive\r\nFormby\r\nMerseyside\r\nL37 8BJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Bernard Prescott", 
+    "party_id": "PP2299", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.050718826295508, 
+            53.55502092439565
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "FRAG", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -24,35 +63,5 @@
             "translation": "", 
             "description": "Community Action not Party Politics"
         }
-    ], 
-    "party_leader": "Mrs Maria Bennett", 
-    "nominating_officer": "Mr Derek Baxter", 
-    "emblems": [
-        {
-            "image": "raw_data/PP2299/Emblem_951.jpg", 
-            "id": "951", 
-            "description": "Emblem1"
-        }
-    ], 
-    "party_address": "16 Selby Drive\r\nFormby\r\nMerseyside\r\nL37 8BJ\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Bernard Prescott", 
-    "party_id": "PP2299", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "FRAG", 
-    "alternative_names": [
-        ""
     ]
 }

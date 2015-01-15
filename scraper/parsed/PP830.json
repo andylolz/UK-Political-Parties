@@ -1,27 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-05-04T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "For Halifax People, not for Party"
-        }, 
-        {
-            "translation": "", 
-            "description": "Halifax People First and Always"
-        }, 
-        {
-            "translation": "", 
-            "description": "Halifax People Halifax Party Halifax Pride"
-        }
-    ], 
+    "postcode": "HX5 0QZ", 
     "party_leader": "Mrs Diane Park", 
     "nominating_officer": "Mrs Diane Park", 
     "emblems": [
         {
-            "image": "raw_data/PP830/Emblem_506.gif", 
+            "image": "Emblem_506.gif", 
+            "primary": false, 
             "id": "506", 
             "description": "Emblem 1"
         }
@@ -36,15 +25,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Ian Park", 
-    "party_id": "PP830", 
+    "party_name": "Independent Voice for Halifax", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8509581511791282, 
+            53.68516523082417
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Independent Voice for Halifax [De-registered 05/04/11]", 
+    "party_id": "PP830", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For Halifax People, not for Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Halifax People First and Always"
+        }, 
+        {
+            "translation": "", 
+            "description": "Halifax People Halifax Party Halifax Pride"
+        }
     ]
 }

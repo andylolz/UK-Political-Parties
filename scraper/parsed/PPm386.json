@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-05-03T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-04-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "M14 5TD", 
     "party_leader": "Dr Jonathan Lockhart", 
     "nominating_officer": "Ms Ailis Ni Riain", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm386", 
+    "party_name": "Commonwealth Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.2265221, 
+            53.4569734
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "Commonwealth Party [De-registered 05/03/05]", 
+    "party_id": "PPm386", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

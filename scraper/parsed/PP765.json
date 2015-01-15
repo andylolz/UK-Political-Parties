@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "Miss Evie Hirst", 
     "registered_date": "2009-06-23T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "For the future"
-        }
-    ], 
+    "postcode": "BD24 9BX", 
     "party_leader": "Mr Joe Lord", 
     "nominating_officer": "Mr Joe Lord", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Joe Lord", 
-    "party_id": "PP765", 
+    "party_name": "The Youth Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.2843313705662993, 
+            54.07080468567515
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Youth Party [De-registered 23/11/11]", 
+    "party_id": "PP765", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For the future"
+        }
     ]
 }

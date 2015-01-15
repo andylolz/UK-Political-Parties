@@ -3,16 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-10-29T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Residents for Uttlesford - Saffron Walden"
-        }, 
-        {
-            "translation": "", 
-            "description": "Residents for Uttlesford - Newport"
-        }
-    ], 
+    "postcode": "CB11 3ED", 
     "party_leader": "Dan Starr", 
     "nominating_officer": "Mr Paul Gadd", 
     "emblems": [], 
@@ -32,9 +23,26 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.2505050834121833, 
+            52.016029940077075
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Residents for Uttlesford", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Residents for Uttlesford - Saffron Walden"
+        }, 
+        {
+            "translation": "", 
+            "description": "Residents for Uttlesford - Newport"
+        }
     ]
 }

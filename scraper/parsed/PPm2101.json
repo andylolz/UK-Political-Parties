@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-07T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TS15 9BA", 
     "party_leader": "Dr Martin Kenefec", 
     "nominating_officer": "Mr Jason Hadlow", 
     "emblems": [
         {
-            "image": "raw_data/PPm2101/Emblem_856.jpg", 
+            "image": "Emblem_856.jpg", 
+            "primary": false, 
             "id": "856", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3565588806844668, 
+            54.51085585126164
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Yarm Residents Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-02-19T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Whitwell Residents Association Candidate"
-        }
-    ], 
+    "postcode": "S80 4SR", 
     "party_leader": "Mr George Webster", 
     "nominating_officer": "Mr George Webster", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2051891302131401, 
+            53.287093449856215
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Whitwell Resident's Association", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Whitwell Residents Association Candidate"
+        }
     ]
 }

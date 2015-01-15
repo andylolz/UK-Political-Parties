@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-06-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "M14 6LJ", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.2189478502451623, 
+            53.44543726042122
+        ]
+    }, 
     "register": null, 
     "party_name": "Union of Shop, Distributive & Allied Workers (USDAW)", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

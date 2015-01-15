@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-07-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-11-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "IP19 8BX", 
     "party_leader": "na Athena Macaeda", 
     "nominating_officer": "na Rachel Ward", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "na Athena Macaeda", 
-    "party_id": "PP603", 
+    "party_name": "The Dragon Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.5031468464740971, 
+            52.346143096638464
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Dragon Party [De-registered 23/07/08]", 
+    "party_id": "PP603", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

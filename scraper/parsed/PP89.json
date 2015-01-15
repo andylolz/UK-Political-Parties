@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-09-05T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Fight for an anti-war government"
-        }
-    ], 
+    "postcode": "SW8 2LA", 
     "party_leader": "Mr Chris Coleman", 
     "nominating_officer": "Mr Roger Nettleship", 
     "emblems": [
         {
-            "image": "raw_data/PP89/Emblem_105.gif", 
+            "image": "Emblem_105.gif", 
+            "primary": false, 
             "id": "105", 
             "description": "Hammer and Sickle within 5pointed star"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1304692290877069, 
+            51.47694800557027
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Revolutionary Communist Party Britain (Marxist-Leninist)", 
     "alternative_names": [
         "Plaid Gomiwnyddol Chwyldroadol Brydeinig (Marcsaidd-Leninaidd)"
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Fight for an anti-war government"
+        }
     ]
 }

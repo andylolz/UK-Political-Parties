@@ -1,14 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-02-08T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-02-22T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Y.R.T.D.P."
-        }
-    ], 
+    "postcode": "SG17 5JB", 
     "party_leader": "Mr Eric Hannah", 
     "nominating_officer": "Mr Eric Hannah", 
     "emblems": [], 
@@ -22,15 +18,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Ralph", 
-    "party_id": "PP818", 
+    "party_name": "Your Right To Democracy Party Limited", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.3237523055727379, 
+            52.03492620318724
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Your Right To Democracy Party Limited [De-registered 02/08/11]", 
+    "party_id": "PP818", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Y.R.T.D.P."
+        }
     ]
 }

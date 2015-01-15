@@ -3,39 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-05-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Liberty Great Britain"
-        }, 
-        {
-            "translation": "", 
-            "description": "Faithful to tradition, revolutionary in outlook."
-        }, 
-        {
-            "translation": "", 
-            "description": "Vote for real people, not politicians!"
-        }, 
-        {
-            "translation": "", 
-            "description": "No to terrorism, yes to Britain"
-        }
-    ], 
+    "postcode": "W1B 3HH", 
     "party_leader": "Mr Paul Weston", 
     "nominating_officer": "Dr George Whale", 
     "emblems": [
         {
-            "image": "raw_data/PP2032/Emblem_810.jpg", 
+            "image": "Emblem_810.jpg", 
+            "primary": false, 
             "id": "810", 
             "description": "Liberty GB Black Text"
         }, 
         {
-            "image": "raw_data/PP2032/Emblem_811.jpg", 
+            "image": "Emblem_811.jpg", 
+            "primary": false, 
             "id": "811", 
             "description": "Liberty GB White Text"
         }, 
         {
-            "image": "raw_data/PP2032/Emblem_985.jpg", 
+            "image": "Emblem_985.jpg", 
+            "primary": false, 
             "id": "985", 
             "description": "Liberty GB Black 'L'"
         }
@@ -56,9 +42,34 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1424081012258767, 
+            51.51732535626162
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Liberty Great Britain", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Liberty Great Britain"
+        }, 
+        {
+            "translation": "", 
+            "description": "Faithful to tradition, revolutionary in outlook."
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote for real people, not politicians!"
+        }, 
+        {
+            "translation": "", 
+            "description": "No to terrorism, yes to Britain"
+        }
     ]
 }

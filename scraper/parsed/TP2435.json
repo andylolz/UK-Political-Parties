@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-01-07T00:00:00", 
-    "descriptions": [], 
+    "postcode": "E6 2JG", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.04976552526211125, 
+            51.53815277870417
+        ]
+    }, 
     "register": null, 
     "party_name": "Political Animal Lobby Ltd", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

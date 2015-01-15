@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-02-16T00:00:00", 
-    "descriptions": [], 
+    "postcode": "GU2 9PD", 
     "party_leader": "Mr Andrew R McM Bell", 
     "nominating_officer": "Mr Andrew R McM Bell", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andrew Bell", 
-    "party_id": "PP8", 
+    "party_name": "Liberal Unionist Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5914952737925424, 
+            51.256292087616025
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Liberal Unionist Party [De-registered 01/11/07]", 
+    "party_id": "PP8", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

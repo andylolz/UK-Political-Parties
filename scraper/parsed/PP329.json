@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2005-04-14T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-31T00:00:00", 
-    "descriptions": [], 
+    "postcode": "KY16 8YL", 
     "party_leader": "Ms Helen Anne McDade", 
     "nominating_officer": "Ms Helen Anne McDade", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Bill McDade", 
-    "party_id": "PP329", 
+    "party_name": "Save Local Hospitals - Dunfermline, Perth, Stirling", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.829310145463086, 
+            56.32991640152703
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Save Local Hospitals - Dunfermline, Perth, Stirling [De-registered 14/04/05]", 
+    "party_id": "PP329", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

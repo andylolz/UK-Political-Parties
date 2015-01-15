@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Communist League"
-        }
-    ], 
+    "postcode": "E2 6DG", 
     "party_leader": "Mr Antony Hunt", 
     "nominating_officer": "Ms Pamela Holmes", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.07118678512435586, 
+            51.52494352110803
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Communist League Election Campaign", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Communist League"
+        }
     ]
 }

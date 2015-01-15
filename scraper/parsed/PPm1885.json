@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NP25 3BW", 
     "party_leader": "Mr Brian Paul Ramsey", 
     "nominating_officer": "Mr Terence Arthur Ashton", 
     "emblems": [
         {
-            "image": "raw_data/PPm1885/Emblem_711.jpg", 
+            "image": "Emblem_711.jpg", 
+            "primary": false, 
             "id": "711", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.711868071565597, 
+            51.812898177036466
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "The Monmouth Party", 
     "alternative_names": [
         "Plaid Trefynwy"
-    ]
+    ], 
+    "descriptions": []
 }

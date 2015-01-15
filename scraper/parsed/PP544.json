@@ -1,14 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-03-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TF4 3JP", 
     "party_leader": "Mr Victor Tonks", 
     "nominating_officer": "Mr Denis Graham Allen", 
     "emblems": [
         {
-            "image": "raw_data/PP544/Emblem_332.gif", 
+            "image": "Emblem_332.gif", 
+            "primary": false, 
             "id": "332", 
             "description": "TAWPA"
         }
@@ -23,15 +25,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Carol Jayne Drewry", 
-    "party_id": "PP544", 
+    "party_name": "Telford and Wrekin People's Association", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.467047120537033, 
+            52.66154328633497
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Telford and Wrekin People's Association [De-registered 05/11/13]", 
+    "party_id": "PP544", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

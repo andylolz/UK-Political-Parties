@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-12-04T00:00:00", 
     "campaigns_officer": "Mr Lee Wanger", 
     "registered_date": "2002-02-13T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST6 5HL", 
     "party_leader": "Mr Lee Wanger", 
     "nominating_officer": "Mr Edward Owen", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert Cooper", 
-    "party_id": "PP217", 
+    "party_name": "Stoke-on-Trent INDEPENDENT Group", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.215209296458624, 
+            53.062692125669926
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Stoke-on-Trent INDEPENDENT Group [De-registered 12/04/10]", 
+    "party_id": "PP217", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

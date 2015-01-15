@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-11T00:00:00", 
     "campaigns_officer": "Mr Edward William Owen", 
     "registered_date": "2005-04-05T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST6 3DD", 
     "party_leader": "Mr Edward William Owen", 
     "nominating_officer": "Mrs Valerie Owen", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Valerie Owen", 
-    "party_id": "PP390", 
+    "party_name": "The Potteries Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1925752892047687, 
+            53.03990763220536
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Potteries Alliance [De-registered 02/11/10]", 
+    "party_id": "PP390", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-04-09T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EH3 6BH", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.207214074401593, 
+            55.95421054430445
+        ]
+    }, 
     "register": null, 
     "party_name": "Educational Institute of Scotland", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2002-10-07T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CO9 2QH", 
     "party_leader": "Mrs Jacqueline Pell", 
     "nominating_officer": "Mrs Jacqueline Pell", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.6366435648718651, 
+            51.952341125397155
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Halstead Residents' Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

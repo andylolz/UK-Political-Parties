@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-08-10T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-08T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DY13 8SP", 
     "party_leader": "Mr Barry James Mapp", 
     "nominating_officer": "Mr Barry James Mapp", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "na Margaret Elizabeth Skipton", 
-    "party_id": "PP505", 
+    "party_name": "Emergent Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.2881708061287163, 
+            52.34325794941218
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Emergent Party [De-registered 08/10/08]", 
+    "party_id": "PP505", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

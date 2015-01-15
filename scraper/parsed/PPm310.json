@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-20T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SL0 0NJ", 
     "party_leader": "Mr Peter John Stokes", 
     "nominating_officer": "Ms Diane Waller", 
     "emblems": [], 
@@ -23,9 +23,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.5296215621108491, 
+            51.54391345177747
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "The Grumpy Old Men Political Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

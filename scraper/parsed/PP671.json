@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-11-30T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-12-06T00:00:00", 
-    "descriptions": [], 
+    "postcode": "MK7 7SQ", 
     "party_leader": "Mr Jonathan Worth", 
     "nominating_officer": "Mr Rodney Bristow", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Peter Storms", 
-    "party_id": "PP671", 
+    "party_name": "Nationwide Reform Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.6862532349260502, 
+            52.02388972226711
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "Nationwide Reform Party [De-registered 30/11/12]", 
+    "party_id": "PP671", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

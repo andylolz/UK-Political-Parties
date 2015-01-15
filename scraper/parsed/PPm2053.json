@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-28T00:00:00", 
-    "descriptions": [], 
+    "postcode": "PL14 4DW", 
     "party_leader": "Ms Susan Shand", 
     "nominating_officer": "Ms Susan Shand", 
     "emblems": [
         {
-            "image": "raw_data/PPm2053/Emblem_829.jpg", 
+            "image": "Emblem_829.jpg", 
+            "primary": false, 
             "id": "829", 
             "description": "Emblem 1"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.468026170120303, 
+            50.450394676990975
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Open Liskeard", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

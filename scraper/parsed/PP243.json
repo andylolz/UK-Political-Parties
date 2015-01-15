@@ -11,22 +11,25 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2002-07-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "B36 8AU", 
     "party_leader": "Mr Peter Frank Johnson", 
     "nominating_officer": "Mr Peter Frank Johnson", 
     "emblems": [
         {
-            "image": "raw_data/PP243/Emblem_202.gif", 
+            "image": "Emblem_202.gif", 
+            "primary": false, 
             "id": "202", 
             "description": "Initials SDP in ITC American Typewriter bold condensed with underline"
         }, 
         {
-            "image": "raw_data/PP243/Emblem_203.gif", 
+            "image": "Emblem_203.gif", 
+            "primary": false, 
             "id": "203", 
             "description": "Initials SDP in ITC American Typewriter bold condensed with double underline and tick"
         }, 
         {
-            "image": "raw_data/PP243/Emblem_204.gif", 
+            "image": "Emblem_204.gif", 
+            "primary": false, 
             "id": "204", 
             "description": "The word The Social Democratic in ITC American Typewriter bold condensed"
         }
@@ -47,9 +50,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8050969845682108, 
+            52.50344573042381
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Social Democratic Party", 
     "alternative_names": [
         "Yblaid Ddemocrataidd Gymbdeithasol"
-    ]
+    ], 
+    "descriptions": []
 }

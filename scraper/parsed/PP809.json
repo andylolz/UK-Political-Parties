@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-10-02T00:00:00", 
+    "postcode": "G40 1YD", 
+    "party_leader": "Mr Daniel Houston", 
+    "nominating_officer": "Mr Mark Dingwall", 
+    "emblems": [
+        {
+            "image": "Emblem_491.gif", 
+            "primary": false, 
+            "id": "491", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_492.gif", 
+            "primary": false, 
+            "id": "492", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_493.gif", 
+            "primary": false, 
+            "id": "493", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "PO BOX 2420\r\nGlasgow\r\nG40 1YD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Alan Kennedy", 
+    "party_id": "PP809", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.2237053386497445, 
+            55.85255366784658
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Scottish Unionist Party", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "Proudly Scottish, Proudly British"
         }
-    ], 
-    "party_leader": "Mr Daniel Houston", 
-    "nominating_officer": "Mr Mark Dingwall", 
-    "emblems": [
-        {
-            "image": "raw_data/PP809/Emblem_491.gif", 
-            "id": "491", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP809/Emblem_492.gif", 
-            "id": "492", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP809/Emblem_493.gif", 
-            "id": "493", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "PO BOX 2420\r\nGlasgow\r\nG40 1YD\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Alan Kennedy", 
-    "party_id": "PP809", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Scottish Unionist Party", 
-    "alternative_names": [
-        ""
     ]
 }

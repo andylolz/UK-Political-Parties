@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-09-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "WC1N 3XX", 
     "party_leader": "Mr Peter Coen", 
     "nominating_officer": "Mr Ross Baptie", 
     "emblems": [
         {
-            "image": "raw_data/PP204/Emblem_186.gif", 
+            "image": "Emblem_186.gif", 
+            "primary": false, 
             "id": "186", 
             "description": "The word IWCA in black in a black outline oval with a white background IWCA in lower case"
         }, 
         {
-            "image": "raw_data/PP204/Emblem_187.gif", 
+            "image": "Emblem_187.gif", 
+            "primary": false, 
             "id": "187", 
             "description": "The word IWCA in white on a black background in an oval"
         }, 
         {
-            "image": "raw_data/PP204/Emblem_188.gif", 
+            "image": "Emblem_188.gif", 
+            "primary": false, 
             "id": "188", 
             "description": "The word IWCA in white in a white outline oval with a black background IWCA in lower case"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13424361194036336, 
+            51.517132821076316
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Independent Working Class Association", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2006-01-25T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "TN13 3QG", 
     "party_leader": "Mr Mark Calder Ellis", 
     "nominating_officer": "Mr Mark Calder Ellis", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mark Calder Ellis", 
-    "party_id": "PP4", 
+    "party_name": "United Kingdom Pathfinders", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.1903330340006729, 
+            51.287188006124964
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "United Kingdom Pathfinders [De-registered 25/01/06]", 
+    "party_id": "PP4", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

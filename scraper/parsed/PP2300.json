@@ -11,35 +11,25 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-03-17T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "yourvoiceparty.org.uk"
-        }, 
-        {
-            "translation": "", 
-            "description": "...a better democracy"
-        }, 
-        {
-            "translation": "", 
-            "description": "...no policies just your voice!"
-        }
-    ], 
+    "postcode": "GU31 4HL", 
     "party_leader": "Mr Julian James", 
     "nominating_officer": "Mr Julian James", 
     "emblems": [
         {
-            "image": "raw_data/PP2300/Emblem_953.jpg", 
+            "image": "Emblem_953.jpg", 
+            "primary": false, 
             "id": "953", 
             "description": "yourvoice_emblem_001"
         }, 
         {
-            "image": "raw_data/PP2300/Emblem_954.jpg", 
+            "image": "Emblem_954.jpg", 
+            "primary": false, 
             "id": "954", 
             "description": "yourvoice_emblem_002"
         }, 
         {
-            "image": "raw_data/PP2300/Emblem_955.jpg", 
+            "image": "Emblem_955.jpg", 
+            "primary": false, 
             "id": "955", 
             "description": "yourvoice_emblem_004"
         }
@@ -60,9 +50,30 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.917433068833917, 
+            51.001840291505225
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "YOURvoice", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "yourvoiceparty.org.uk"
+        }, 
+        {
+            "translation": "", 
+            "description": "...a better democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "...no policies just your voice!"
+        }
     ]
 }

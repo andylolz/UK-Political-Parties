@@ -9,14 +9,16 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2014-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SE16 3PB", 
     "party_leader": "Mr Andreas Whittam Smith", 
     "nominating_officer": "Mr Andreas Whittam Smith", 
     "emblems": [
         {
-            "image": "raw_data/PP1962/Emblem_763.jpg", 
+            "image": "Emblem_763.jpg", 
+            "primary": false, 
             "id": "763", 
             "description": "Emblem 1"
         }
@@ -31,15 +33,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andreas Whittam Smith", 
-    "party_id": "PP1962", 
+    "party_name": "Democracy 2015", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.05961288109815732, 
+            51.48996022288434
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Democracy 2015 [De-registered 03/11/14]", 
+    "party_id": "PP1962", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

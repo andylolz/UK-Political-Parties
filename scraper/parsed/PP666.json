@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-05-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "G60 5EW", 
     "party_leader": "Mr Andrew White", 
     "nominating_officer": "Mr Andrew White", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jackie Maceira", 
-    "party_id": "PP666", 
+    "party_name": "A Strong Voice For Clydebank", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.446943495329764, 
+            55.9180787828237
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "A Strong Voice For Clydebank [De-registered 01/11/08]", 
+    "party_id": "PP666", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

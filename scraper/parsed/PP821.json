@@ -11,12 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-03T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "NIC"
-        }
-    ], 
+    "postcode": "SW7 4RT", 
     "party_leader": "Mr Roland Courtenay", 
     "nominating_officer": "Mr Roland Courtenay", 
     "emblems": [], 
@@ -36,9 +31,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1852427869299209, 
+            51.49560467294025
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "NIC", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "NIC"
+        }
     ]
 }

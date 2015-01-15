@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-01-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BN41 2AD", 
     "party_leader": "Mr David Field", 
     "nominating_officer": "Mr David Field", 
     "emblems": [
         {
-            "image": "raw_data/PP778/Emblem_459.gif", 
+            "image": "Emblem_459.gif", 
+            "primary": false, 
             "id": "459", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.21823628813398283, 
+            50.84004242737375
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Birthday Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

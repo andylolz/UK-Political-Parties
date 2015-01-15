@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "Dublin 3", 
     "party_leader": "Mr Brian Leeson", 
     "nominating_officer": "Mr Breandan Mac Cionnaith", 
     "emblems": [
         {
-            "image": "raw_data/PP1715/Emblem_629.gif", 
+            "image": "Emblem_629.gif", 
+            "primary": false, 
             "id": "629", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,14 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Northern Ireland", 
     "party_name": "\u00e9ir\u00edg\u00ed", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

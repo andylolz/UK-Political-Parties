@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CR0 1BD", 
     "party_leader": "Mr Robert Griffiths", 
     "nominating_officer": "Mr Ben Stevenson", 
     "emblems": [
         {
-            "image": "raw_data/PP649/Emblem_381.gif", 
+            "image": "Emblem_381.gif", 
+            "primary": false, 
             "id": "381", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.09762075620489068, 
+            51.36750928132871
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Unity For Peace And Socialism", 
     "alternative_names": [
         "Undod Am Heddwch A Sosialaeth"
-    ]
+    ], 
+    "descriptions": []
 }

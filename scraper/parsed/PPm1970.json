@@ -3,22 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-12-11T00:00:00", 
-    "descriptions": [], 
+    "postcode": "CH3 6PU", 
     "party_leader": "Mr Victor John Button", 
     "nominating_officer": "Ms Katie Saxby", 
     "emblems": [
         {
-            "image": "raw_data/PPm1970/Emblem_775.jpg", 
+            "image": "Emblem_775.jpg", 
+            "primary": false, 
             "id": "775", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PPm1970/Emblem_776.jpg", 
+            "image": "Emblem_776.jpg", 
+            "primary": false, 
             "id": "776", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PPm1970/Emblem_794.jpg", 
+            "image": "Emblem_794.jpg", 
+            "primary": false, 
             "id": "794", 
             "description": "Emblem 3"
         }
@@ -39,9 +42,17 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.878749480927148, 
+            53.085107252090395
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Gift Economy Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

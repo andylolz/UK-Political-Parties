@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2006-09-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-21T00:00:00", 
-    "descriptions": [], 
+    "postcode": "LE13 0AN", 
     "party_leader": "Mr Allan Jackson", 
     "nominating_officer": "Mr Allan Jackson", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Allan Jackson", 
-    "party_id": "PP317", 
+    "party_name": "Melton Borough Progressive Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.8843163320138229, 
+            52.7551082899352
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Melton Borough Progressive Alliance [De-registered 09/01/06]", 
+    "party_id": "PP317", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2004-12-24T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW3 6XE", 
     "party_leader": "na Dominica Mary Roberts", 
     "nominating_officer": "na Julia Jayne Millington", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Yvonne Windsor", 
-    "party_id": "PP115", 
+    "party_name": "ProLife", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.1684651517884229, 
+            51.488258432124645
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "ProLife [De-registered 24/12/04]", 
+    "party_id": "PP115", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

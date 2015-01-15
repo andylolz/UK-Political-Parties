@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-15T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Issues, not politics"
-        }
-    ], 
+    "postcode": "30020", 
     "party_leader": "Mr Richard John Cottrell", 
     "nominating_officer": "Mr Richard John Cottrell", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            12.4592086, 
+            45.6156965
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Campaign West Independent", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Issues, not politics"
+        }
     ]
 }

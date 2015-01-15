@@ -9,9 +9,10 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2006-08-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT6 8JZ", 
     "party_leader": "Mr Samuel Charles Smyth", 
     "nominating_officer": "Mr Samuel Charles Smyth", 
     "emblems": [], 
@@ -25,15 +26,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Samuel Charles Smyth", 
-    "party_id": "PP539", 
+    "party_name": "Procapitalism", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.906085753102542, 
+            54.58468901793182
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Procapitalism [De-registered 05/11/13]", 
+    "party_id": "PP539", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

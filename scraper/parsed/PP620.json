@@ -9,8 +9,48 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2011-04-26T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2007-01-30T00:00:00", 
+    "postcode": "BH8 0PH", 
+    "party_leader": "Mr Peter Lucas", 
+    "nominating_officer": "Mr Peter Lucas", 
+    "emblems": [
+        {
+            "image": "Emblem_365.gif", 
+            "primary": false, 
+            "id": "365", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "14 Landford Gardens\r\nBournemouth\r\nDorset\r\nBH8 0PH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Peter Lucas", 
+    "party_name": "British Right Alliance", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8468193935632977, 
+            50.75401186383165
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP620", 
+    "alternative_names": [
+        "Cynghrair Dde Brydeinig"
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -60,35 +100,5 @@
             "translation": "", 
             "description": "Your pension, Your Future"
         }
-    ], 
-    "party_leader": "Mr Peter Lucas", 
-    "nominating_officer": "Mr Peter Lucas", 
-    "emblems": [
-        {
-            "image": "raw_data/PP620/Emblem_365.gif", 
-            "id": "365", 
-            "description": "Emblem 1"
-        }
-    ], 
-    "party_address": "14 Landford Gardens\r\nBournemouth\r\nDorset\r\nBH8 0PH\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Peter Lucas", 
-    "party_id": "PP620", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "British Right Alliance [De-registered 26/04/11]", 
-    "alternative_names": [
-        "Cynghrair Dde Brydeinig"
     ]
 }

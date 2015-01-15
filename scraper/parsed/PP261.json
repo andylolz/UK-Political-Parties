@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-10-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2002-08-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EX32 7QR", 
     "party_leader": "Mr William James Waghorn", 
     "nominating_officer": "Mr William James Waghorn", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Gregory Patrick Ivory", 
-    "party_id": "PP261", 
+    "party_name": "Anti Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.861006512203544, 
+            51.127623940113295
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Anti Party [De-registered 10/01/11]", 
+    "party_id": "PP261", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

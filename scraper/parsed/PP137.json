@@ -1,24 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-09-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-03-29T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT36 6UD", 
     "party_leader": "Mr Denis Watson", 
     "nominating_officer": "Dr William Alexander Fraser Agnew", 
     "emblems": [
         {
-            "image": "raw_data/PP137/Emblem_147.gif", 
+            "image": "Emblem_147.gif", 
+            "primary": false, 
             "id": "147", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP137/Emblem_148.gif", 
+            "image": "Emblem_148.gif", 
+            "primary": false, 
             "id": "148", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP137/Emblem_149.gif", 
+            "image": "Emblem_149.gif", 
+            "primary": false, 
             "id": "149", 
             "description": "Emblem 3"
         }
@@ -33,15 +37,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr William Alexander Fraser Agnew", 
-    "party_id": "PP137", 
+    "party_name": "United Unionist Coalition", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.936227503663908, 
+            54.692775051105016
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "United Unionist Coalition [De-registered 21/09/12]", 
+    "party_id": "PP137", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

@@ -9,8 +9,41 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2010-01-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-29T00:00:00", 
+    "postcode": "N14 4UW", 
+    "party_leader": "Mr Jeremy Sturgess", 
+    "nominating_officer": "Mr Jeremy Sturgess", 
+    "emblems": [], 
+    "party_address": "c/o J.B. Sturgess\r\nTrent Park Public Golf Course\r\nBramley Road\r\nSouthgate\r\nN14 4UW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jeremy Sturgess", 
+    "party_name": "The Better Britain Party", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.13113661069009303, 
+            51.64925395886337
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP858", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -60,29 +93,5 @@
             "translation": "", 
             "description": "Better cut Taxes"
         }
-    ], 
-    "party_leader": "Mr Jeremy Sturgess", 
-    "nominating_officer": "Mr Jeremy Sturgess", 
-    "emblems": [], 
-    "party_address": "c/o J.B. Sturgess\r\nTrent Park Public Golf Course\r\nBramley Road\r\nSouthgate\r\nN14 4UW\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2011-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Jeremy Sturgess", 
-    "party_id": "PP858", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "The Better Britain Party [De-registered 01/12/10]", 
-    "alternative_names": [
-        ""
     ]
 }

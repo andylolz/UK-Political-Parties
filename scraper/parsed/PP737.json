@@ -3,17 +3,19 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-02-17T00:00:00", 
-    "descriptions": [], 
+    "postcode": "ST10 2NH", 
     "party_leader": "Ms Linda Ann Malyon", 
     "nominating_officer": "Mr Ronald Gorden Locker", 
     "emblems": [
         {
-            "image": "raw_data/PP737/Emblem_688.gif", 
+            "image": "Emblem_688.gif", 
+            "primary": false, 
             "id": "688", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP737/Emblem_824.jpg", 
+            "image": "Emblem_824.jpg", 
+            "primary": false, 
             "id": "824", 
             "description": "Emblem 2"
         }
@@ -34,9 +36,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.969428028267094, 
+            53.042442172731754
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Moorlands Democratic Alliance", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

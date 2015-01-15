@@ -3,35 +3,25 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-25T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "Description 1", 
-            "description": "Castle Ward Independent"
-        }, 
-        {
-            "translation": "Description 2", 
-            "description": "Castle Independent"
-        }, 
-        {
-            "translation": "Description 3", 
-            "description": "Castle Ward Independents"
-        }
-    ], 
+    "postcode": "MK40 3QS", 
     "party_leader": "Cllr Apu Bagchi", 
     "nominating_officer": "Mr Paul Ogden", 
     "emblems": [
         {
-            "image": "raw_data/PP1714/Emblem_626.gif", 
+            "image": "Emblem_626.gif", 
+            "primary": false, 
             "id": "626", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP1714/Emblem_627.gif", 
+            "image": "Emblem_627.gif", 
+            "primary": false, 
             "id": "627", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP1714/Emblem_628.gif", 
+            "image": "Emblem_628.gif", 
+            "primary": false, 
             "id": "628", 
             "description": "Emblem 3"
         }
@@ -52,9 +42,30 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.4553201449924385, 
+            52.13824591392153
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Castle Independents", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "Description 1", 
+            "description": "Castle Ward Independent"
+        }, 
+        {
+            "translation": "Description 2", 
+            "description": "Castle Independent"
+        }, 
+        {
+            "translation": "Description 3", 
+            "description": "Castle Ward Independents"
+        }
     ]
 }

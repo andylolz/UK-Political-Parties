@@ -3,12 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-05-09T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "M.F.P."
-        }
-    ], 
+    "postcode": "BH17 9EE", 
     "party_leader": "Mr Nicholas Tapping", 
     "nominating_officer": "Mr Peter Mogridge", 
     "emblems": [], 
@@ -28,9 +23,22 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.9637583176573634, 
+            50.75202027213517
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Money Free Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "M.F.P."
+        }
     ]
 }

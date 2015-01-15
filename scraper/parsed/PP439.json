@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2008-07-17T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-02-25T00:00:00", 
-    "descriptions": [], 
+    "postcode": "M19 2DU", 
     "party_leader": "Dr Matthew Kay", 
     "nominating_officer": "Dr Matthew Kay", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Kay", 
-    "party_id": "PP439", 
+    "party_name": "The Resolutionist Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.1956824053146002, 
+            53.44452490174993
+        ]
+    }, 
     "register": "Northern Ireland", 
-    "party_name": "The Resolutionist Party [De-registered 17/07/08]", 
+    "party_id": "PP439", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

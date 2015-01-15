@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-03-04T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Keep the UK in the EU"
-        }
-    ], 
+    "postcode": "EH45 9LG", 
     "party_leader": "Mr Charles Cormack", 
     "nominating_officer": "Mrs Sarah Wilson", 
     "emblems": [
         {
-            "image": "raw_data/PP2317/Emblem_965.jpg", 
+            "image": "Emblem_965.jpg", 
+            "primary": false, 
             "id": "965", 
             "description": "United in Europe"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.108073109843781, 
+            55.638471776222175
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The United in Europe Party", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Keep the UK in the EU"
+        }
     ]
 }

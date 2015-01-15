@@ -3,17 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-03-17T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Working for Mexborough,the forgotten town."
-        }
-    ], 
+    "postcode": "S64 0AX", 
     "party_leader": "Mr andrew pickering", 
     "nominating_officer": "Mr William Lawrence", 
     "emblems": [
         {
-            "image": "raw_data/PP2287/Emblem_947.jpg", 
+            "image": "Emblem_947.jpg", 
+            "primary": false, 
             "id": "947", 
             "description": "MexFirstLogo3"
         }
@@ -34,9 +30,22 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2814700636046181, 
+            53.49945153774146
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Mexborough First", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Working for Mexborough,the forgotten town."
+        }
     ]
 }

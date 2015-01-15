@@ -11,12 +11,13 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2000-03-19T00:00:00", 
-    "descriptions": [], 
+    "postcode": "EN8 8BJ", 
     "party_leader": "Mr Erol Basarik", 
     "nominating_officer": "Mr Erol Basarik", 
     "emblems": [
         {
-            "image": "raw_data/PP86/Emblem_104.gif", 
+            "image": "Emblem_104.gif", 
+            "primary": false, 
             "id": "104", 
             "description": "Hand grasping the torch of learning and enlightenment lighting the way ahead adjacent to the words Reform horizontal and 2000 vertical"
         }
@@ -37,9 +38,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.035499330817837856, 
+            51.68270929467241
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Reform 2000 Party", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

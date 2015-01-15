@@ -3,6 +3,57 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Trevor James Eames", 
     "registered_date": "2010-03-15T00:00:00", 
+    "postcode": "B90 2TA", 
+    "party_leader": "Mr Dugald Andrew Brown", 
+    "nominating_officer": "Mr Joshua O'Nyons", 
+    "emblems": [
+        {
+            "image": "Emblem_520.gif", 
+            "primary": false, 
+            "id": "520", 
+            "description": "A representation of a family in a house plus text"
+        }, 
+        {
+            "image": "Emblem_521.gif", 
+            "primary": false, 
+            "id": "521", 
+            "description": "A representation of people in triangle plus text"
+        }, 
+        {
+            "image": "Emblem_707.gif", 
+            "primary": false, 
+            "id": "707", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "7 Glascote Close\r\nShirley\r\nSolihull\r\nWest Midlands\r\nB90 2TA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Barbara Mary Rogers", 
+    "party_id": "PP840", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8359661550786692, 
+            52.41463532242188
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Solihull and Meriden Residents Association", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -52,45 +103,5 @@
             "translation": "", 
             "description": "Independent Ratepayers Candidate"
         }
-    ], 
-    "party_leader": "Mr Dugald Andrew Brown", 
-    "nominating_officer": "Mr Joshua O'Nyons", 
-    "emblems": [
-        {
-            "image": "raw_data/PP840/Emblem_520.gif", 
-            "id": "520", 
-            "description": "A representation of a family in a house plus text"
-        }, 
-        {
-            "image": "raw_data/PP840/Emblem_521.gif", 
-            "id": "521", 
-            "description": "A representation of people in triangle plus text"
-        }, 
-        {
-            "image": "raw_data/PP840/Emblem_707.gif", 
-            "id": "707", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "7 Glascote Close\r\nShirley\r\nSolihull\r\nWest Midlands\r\nB90 2TA\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Authorised", 
-    "fax": "", 
-    "end_date": null, 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Ms Barbara Mary Rogers", 
-    "party_id": "PP840", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Solihull and Meriden Residents Association", 
-    "alternative_names": [
-        ""
     ]
 }

@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-06-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-11-07T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SO41 9DN", 
     "party_leader": "Mr Timothy Bentley Baker", 
     "nominating_officer": "Mr Timothy Bentley Baker", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm197", 
+    "party_name": "The United Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.5466974535656646, 
+            50.763043204458654
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "The United Party [De-registered 13/06/06]", 
+    "party_id": "PPm197", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

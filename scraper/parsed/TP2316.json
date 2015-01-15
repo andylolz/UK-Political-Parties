@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": null, 
     "registered_date": "2014-03-04T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NG31 6LL", 
     "party_leader": null, 
     "nominating_officer": null, 
     "emblems": [], 
@@ -23,7 +23,15 @@
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.654151790382982, 
+            52.90937278739496
+        ]
+    }, 
     "register": null, 
     "party_name": "The Woodland Trust", 
-    "alternative_names": []
+    "alternative_names": [], 
+    "descriptions": []
 }

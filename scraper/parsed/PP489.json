@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-14T00:00:00", 
-    "descriptions": [], 
+    "postcode": "M21 7JH", 
     "party_leader": "Mr Richard Reed", 
     "nominating_officer": "Mr James Andrew Ibbotson", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr William Brantingham", 
-    "party_id": "PP489", 
+    "party_name": "Their Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.2674788744832512, 
+            53.42724444578953
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Their Party [De-registered 01/11/07]", 
+    "party_id": "PP489", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

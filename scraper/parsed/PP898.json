@@ -1,8 +1,60 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2012-01-16T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-12-15T00:00:00", 
+    "postcode": "CW12 1HB", 
+    "party_leader": "Mr Neville Price", 
+    "nominating_officer": "Mr Iain McKinlay", 
+    "emblems": [
+        {
+            "image": "Emblem_586.gif", 
+            "primary": false, 
+            "id": "586", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_587.gif", 
+            "primary": false, 
+            "id": "587", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_588.gif", 
+            "primary": false, 
+            "id": "588", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "50 Antrobus Street\r\nCongleton\r\nCheshire\r\nCW12 1HB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Bill Keeling", 
+    "party_name": "Congleton First", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.215884194889798, 
+            53.1646622230985
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_id": "PP898", 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": [
         {
             "translation": "", 
@@ -32,45 +84,5 @@
             "translation": "", 
             "description": "Congleton 1st in Cheshire East"
         }
-    ], 
-    "party_leader": "Mr Neville Price", 
-    "nominating_officer": "Mr Iain McKinlay", 
-    "emblems": [
-        {
-            "image": "raw_data/PP898/Emblem_586.gif", 
-            "id": "586", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "raw_data/PP898/Emblem_587.gif", 
-            "id": "587", 
-            "description": "Emblem 2"
-        }, 
-        {
-            "image": "raw_data/PP898/Emblem_588.gif", 
-            "id": "588", 
-            "description": "Emblem 3"
-        }
-    ], 
-    "party_address": "50 Antrobus Street\r\nCongleton\r\nCheshire\r\nCW12 1HB\r\nUnited Kingdom\r\n", 
-    "email": "", 
-    "gibraltar_party": false, 
-    "financial_year_end": "31/12", 
-    "status": "Voluntarily Deregistered", 
-    "fax": "", 
-    "end_date": "2012-12-31T00:00:00", 
-    "phone_extension": "", 
-    "phone": "", 
-    "treasurer": "Mr Bill Keeling", 
-    "party_id": "PP898", 
-    "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
-    }, 
-    "register": "Great Britain", 
-    "party_name": "Congleton First [De-registered 16/01/12]", 
-    "alternative_names": [
-        ""
     ]
 }

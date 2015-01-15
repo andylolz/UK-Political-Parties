@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-04-20T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-08-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DN4 0JN", 
     "party_leader": "Mr Joffre Sprakes", 
     "nominating_officer": "Ms Louella Chesterman", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm114", 
+    "party_name": "The Doncaster First Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
         "exempt_from_quarterly_donation_returns": null
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.140826335208415, 
+            53.51465838226719
+        ]
+    }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "The Doncaster First Party [De-registered 20/04/10]", 
+    "party_id": "PPm114", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

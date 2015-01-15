@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2006-11-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-24T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NR2 2DE", 
     "party_leader": "Mr Alun Buffry", 
     "nominating_officer": "Mr Alun Buffry", 
     "emblems": [], 
@@ -17,15 +18,20 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Hugh Stuart Robertson", 
-    "party_id": "PP19", 
+    "party_name": "Legalise Cannabis Alliance", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
     "register": "Great Britain", 
-    "party_name": "Legalise Cannabis Alliance [De-registered 21/11/06]", 
+    "party_id": "PP19", 
     "alternative_names": [
         "Cyfreithloni Cannabis Cyfathrach"
-    ]
+    ], 
+    "descriptions": []
 }

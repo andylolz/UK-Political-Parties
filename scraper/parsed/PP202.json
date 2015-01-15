@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-04-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "SW19 3LN", 
     "party_leader": "Mr Peter Southgate", 
     "nominating_officer": "Mr Harold Alexander Forbes", 
     "emblems": [
         {
-            "image": "raw_data/PP202/Emblem_184.gif", 
+            "image": "Emblem_184.gif", 
+            "primary": false, 
             "id": "184", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.20503807018418696, 
+            51.40897864503415
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Merton Park Ward Independent Residents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

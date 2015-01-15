@@ -3,21 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-01-09T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "The People Before Profit Alliance"
-        }, 
-        {
-            "translation": "", 
-            "description": "PB4P"
-        }
-    ], 
+    "postcode": "BT48 9JE", 
     "party_leader": "Mr Eamonn McCann", 
     "nominating_officer": "Ms Fiona McCausland", 
     "emblems": [
         {
-            "image": "raw_data/PP773/Emblem_455.gif", 
+            "image": "Emblem_455.gif", 
+            "primary": false, 
             "id": "455", 
             "description": "Emblem 1"
         }
@@ -38,9 +30,26 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -7.331180564946076, 
+            54.99795430604104
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "People Before Profit Alliance", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The People Before Profit Alliance"
+        }, 
+        {
+            "translation": "", 
+            "description": "PB4P"
+        }
     ]
 }

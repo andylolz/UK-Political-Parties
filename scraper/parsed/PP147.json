@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-04-18T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DH8 6JY", 
     "party_leader": "Mr Watts Stelling", 
     "nominating_officer": "Mr William Carl Southern", 
     "emblems": [
         {
-            "image": "raw_data/PP147/Emblem_157.gif", 
+            "image": "Emblem_157.gif", 
+            "primary": false, 
             "id": "157", 
             "description": "2 Oak leaves either side of D I"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.8127838237710556, 
+            54.869972750645374
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "Derwentside Independents", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

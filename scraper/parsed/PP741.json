@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-02-16T00:00:00", 
     "campaigns_officer": "Mrs Marianne Bowness", 
     "registered_date": "2009-10-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "E14 9XQ", 
     "party_leader": "Mr Winston Truman McKenzie", 
     "nominating_officer": "Mr Winston Douglas Kennedy", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Rose-Marie McDonald", 
-    "party_id": "PP741", 
+    "party_name": "The Unity Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.020886130705495286, 
+            51.501417127154895
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "The Unity Party [De-registered 16/02/10]", 
+    "party_id": "PP741", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

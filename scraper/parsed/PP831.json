@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-12-03T00:00:00", 
-    "descriptions": [], 
+    "postcode": "NW2 1QH", 
     "party_leader": "na Dorothy Badrick", 
     "nominating_officer": "na Gina Emmanuel", 
     "emblems": [
         {
-            "image": "raw_data/PP831/Emblem_507.gif", 
+            "image": "Emblem_507.gif", 
+            "primary": false, 
             "id": "507", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.20881693919973457, 
+            51.56709701771074
+        ]
+    }, 
     "register": "Great Britain", 
     "party_name": "The Residents' Association of Barnet", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

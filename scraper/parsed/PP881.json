@@ -1,19 +1,16 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2013-05-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-12-07T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Stockton Independents Association"
-        }
-    ], 
+    "postcode": "TS18 5EY", 
     "party_leader": "Mr Paul Leng", 
     "nominating_officer": "Mr Paul Leng", 
     "emblems": [
         {
-            "image": "raw_data/PP881/Emblem_561.gif", 
+            "image": "Emblem_561.gif", 
+            "primary": false, 
             "id": "561", 
             "description": "Emblem 1"
         }
@@ -28,15 +25,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Deborah Leng", 
-    "party_id": "PP881", 
+    "party_name": "Stockton Independents Association", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3500298277836602, 
+            54.553401546647194
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Stockton Independents Association [De-registered 05/11/13]", 
+    "party_id": "PP881", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Stockton Independents Association"
+        }
     ]
 }

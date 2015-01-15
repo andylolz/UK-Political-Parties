@@ -1,29 +1,28 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-24T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Forest Heath Independent Alliance Party"
-        }
-    ], 
+    "postcode": "CB8 7DX", 
     "party_leader": "Mr John Warwick Hirst", 
     "nominating_officer": "Ms Alison Harriet Hirst", 
     "emblems": [
         {
-            "image": "raw_data/PP313/Emblem_247.gif", 
+            "image": "Emblem_247.gif", 
+            "primary": false, 
             "id": "247", 
             "description": "Emblem 1"
         }, 
         {
-            "image": "raw_data/PP313/Emblem_248.gif", 
+            "image": "Emblem_248.gif", 
+            "primary": false, 
             "id": "248", 
             "description": "Emblem 2"
         }, 
         {
-            "image": "raw_data/PP313/Emblem_249.gif", 
+            "image": "Emblem_249.gif", 
+            "primary": false, 
             "id": "249", 
             "description": "Emblem 3"
         }
@@ -38,15 +37,28 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Warwick Hirst", 
-    "party_id": "PP313", 
+    "party_name": "Newmarket Independents Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.40903699905884844, 
+            52.25311773722667
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Newmarket Independents Party [De-registered 23/11/11]", 
+    "party_id": "PP313", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Forest Heath Independent Alliance Party"
+        }
     ]
 }

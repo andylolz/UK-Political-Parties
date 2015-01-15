@@ -1,22 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2010-10-13T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2009-12-18T00:00:00", 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "Keep Bucks Blue"
-        }, 
-        {
-            "translation": "", 
-            "description": "No More Flipping"
-        }, 
-        {
-            "translation": "", 
-            "description": "No more flipping, no more troughing"
-        }
-    ], 
+    "postcode": "HP17 8BY", 
     "party_leader": "Mr David Parry", 
     "nominating_officer": "Ms Suzannah Knight", 
     "emblems": [], 
@@ -30,15 +18,36 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Suzannah Knight", 
-    "party_id": "PP795", 
+    "party_name": "Keep Bucks Blue", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.93782901955152, 
+            51.77101251904187
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "Keep Bucks Blue [De-registered 13/10/10]", 
+    "party_id": "PP795", 
     "alternative_names": [
         ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Keep Bucks Blue"
+        }, 
+        {
+            "translation": "", 
+            "description": "No More Flipping"
+        }, 
+        {
+            "translation": "", 
+            "description": "No more flipping, no more troughing"
+        }
     ]
 }

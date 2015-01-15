@@ -3,12 +3,13 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-10-10T00:00:00", 
-    "descriptions": [], 
+    "postcode": "BT41 1LT", 
     "party_leader": "Mr James Hugh Allister", 
     "nominating_officer": "Mr James Hugh Allister", 
     "emblems": [
         {
-            "image": "raw_data/PP680/Emblem_403.gif", 
+            "image": "Emblem_403.gif", 
+            "primary": false, 
             "id": "403", 
             "description": "Emblem 1"
         }
@@ -29,9 +30,17 @@
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -6.199092446701276, 
+            54.7167518055025
+        ]
+    }, 
     "register": "Northern Ireland", 
     "party_name": "Traditional Unionist Voice - TUV", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }

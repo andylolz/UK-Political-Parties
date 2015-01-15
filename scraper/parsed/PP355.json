@@ -1,9 +1,10 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2007-01-11T00:00:00", 
     "campaigns_officer": "Mrs Vicki Gill", 
     "registered_date": "2003-09-12T00:00:00", 
-    "descriptions": [], 
+    "postcode": "DE5 3GH", 
     "party_leader": "Mr Matthew Gill", 
     "nominating_officer": "Mr Phillip Gill", 
     "emblems": [], 
@@ -17,15 +18,23 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Phillip Gill", 
-    "party_id": "PP355", 
+    "party_name": "National Society for a Better Britain", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.420710212090932, 
+            53.048498008434315
+        ]
+    }, 
     "register": "Great Britain", 
-    "party_name": "National Society for a Better Britain [De-registered 01/11/07]", 
+    "party_id": "PP355", 
     "alternative_names": [
         ""
-    ]
+    ], 
+    "descriptions": []
 }
