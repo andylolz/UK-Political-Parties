@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -2.3255551459915647, 
             51.24027378134758
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": "Great Britain", 
     "party_name": "Independents at Mendip", 

@@ -32,11 +32,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -0.7178022530594977, 
             51.522813518961435
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": "Great Britain", 
     "party_name": "The Just Political Party", 

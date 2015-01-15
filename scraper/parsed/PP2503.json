@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -1.8452886044908128, 
             50.762561826740246
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": "Great Britain", 
     "party_name": "Bournemouth Independent Alliance", 

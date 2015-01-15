@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -0.503178571630191, 
             52.653778940596055
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": "Great Britain", 
     "party_name": "Stamford Group of Independents", 

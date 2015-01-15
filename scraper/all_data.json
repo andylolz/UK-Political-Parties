@@ -4958,7 +4958,7 @@
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mr Derek James Doughty", 
-        "party_name": "Scottish Unionist Party (De-registered 06/11/2009)", 
+        "party_name": "Scottish Unionist Party", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": true, 
@@ -11466,7 +11466,7 @@
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mr Kevin Grimshaw", 
-        "party_name": "The Free Party (de-registered 2002)", 
+        "party_name": "The Free Party", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": false, 
@@ -22850,11 +22850,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.0721505378215513, 
                 52.32767715345885
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "The Eccentric Party of Great Britain", 
@@ -23243,11 +23243,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -3.195612576640368, 
                 51.54247939095648
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Alter Change - Politics. Only Different", 
@@ -23521,11 +23521,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -2.3255551459915647, 
                 51.24027378134758
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Independents at Mendip", 
@@ -23707,11 +23707,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -1.8452886044908128, 
                 50.762561826740246
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Bournemouth Independent Alliance", 
@@ -23877,11 +23877,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.7178022530594977, 
                 51.522813518961435
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "The Just Political Party", 
@@ -24258,11 +24258,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -2.3538562983226257, 
                 53.462695110247964
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Population Party UK", 
@@ -24381,11 +24381,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.503178571630191, 
                 52.653778940596055
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Stamford Group of Independents", 
@@ -24627,7 +24627,7 @@
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mr George Reid", 
-        "party_name": "1st Action Party (de-registered 2003)", 
+        "party_name": "1st Action Party", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": false, 
@@ -24672,7 +24672,7 @@
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mr George Reid", 
-        "party_name": "1st Action Party (de-registered 2003)", 
+        "party_name": "1st Action Party", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": false, 
@@ -36433,7 +36433,7 @@
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Dr John Alexander Black", 
-        "party_name": "The Scottish Jacobite Party (de-registered 2007)", 
+        "party_name": "The Scottish Jacobite Party", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": false, 
@@ -42471,7 +42471,7 @@
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mr Mark Hewitt", 
-        "party_name": "People Before Profit Alliance (de-registered 2008)", 
+        "party_name": "People Before Profit Alliance", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": false, 
@@ -51948,7 +51948,7 @@
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mr Louis Harrison", 
-        "party_name": "Communities United Party (deregistered 27/01/2010)", 
+        "party_name": "Communities United Party", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": false, 
@@ -54772,7 +54772,7 @@
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Ms Heather Cox", 
-        "party_name": "Socialist Alliance (de-registered 2005)", 
+        "party_name": "Socialist Alliance", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": false, 
@@ -63003,7 +63003,7 @@
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "None", 
-        "party_name": "British Unicorn Party (de-registered 2008)", 
+        "party_name": "British Unicorn Party", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": null, 
             "exempt_from_quarterly_transaction_returns": null, 
@@ -63986,11 +63986,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.11002655048427046, 
                 51.55131231921652
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Campaign for Nuclear Disarmament", 
@@ -64311,11 +64311,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.13956869396799815, 
                 51.54773788670008
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Conservative Support Ltd", 
@@ -64533,11 +64533,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.13014400995746214, 
                 51.509190090839255
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Independent Schools Council", 
@@ -64628,11 +64628,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.17386351893298813, 
                 51.554292626357956
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Hope Not Hate Ltd", 
@@ -64665,11 +64665,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.17386351893298813, 
                 51.554292626357956
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Hope Not Hate Educational Ltd", 

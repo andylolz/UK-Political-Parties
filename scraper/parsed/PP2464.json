@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -3.195612576640368, 
             51.54247939095648
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": "Great Britain", 
     "party_name": "Alter Change - Politics. Only Different", 

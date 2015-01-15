@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -0.13014400995746214, 
             51.509190090839255
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": null, 
     "party_name": "Independent Schools Council", 

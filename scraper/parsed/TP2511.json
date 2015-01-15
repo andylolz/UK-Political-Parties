@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -0.13956869396799815, 
             51.54773788670008
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": null, 
     "party_name": "Conservative Support Ltd", 
