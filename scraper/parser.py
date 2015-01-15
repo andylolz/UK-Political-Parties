@@ -43,10 +43,24 @@ class PartyParser(dict):
             return True
         return text
 
+    def clean_party_name(self, name):
+        if not 'de-registered' in name.lower():
+            return (None, name)
+
+        # Pensioners Party [De-registered 05/11/13]
+        match = re.match(r'([^\[]+)\[De-registered ([0-9]+/[0-9]+/[0-9]+)\]', name)
+        name, date = match.groups()
+        return name.strip(), parse(date).isoformat()
 
     def parse_details(self):
         self['party_name'] = self._text_from_id(
             'ctl00_ContentPlaceHolder1_ProfileControl1_lblPrimaryNameValue')
+
+        if 'De-registered' in self['party_name']:
+            party_name, deregistered_date = self.clean_party_name(
+                self['party_name'])
+            self['party_name'] = party_name
+            self['deregistered_date'] = deregistered_date
 
         self['alternative_names'] = self._text_from_id(
             'ctl00_ContentPlaceHolder1_ProfileControl1_lblAlternativeNameValue',
