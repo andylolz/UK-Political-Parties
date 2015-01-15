@@ -262,7 +262,7 @@ class PartyParser(dict):
         all_emblems = glob.glob(os.path.join(self.folder_name, "Emblem_*"))
         for emblem in all_emblems:
             e_id = os.path.split(emblem)[-1].split('_')[-1].split('.')[0]
-            emblem_dict[e_id] = os.path.relpath(emblem)
+            emblem_dict[e_id] = os.path.basename(emblem)
         return emblem_dict
 
     def as_json(self):
