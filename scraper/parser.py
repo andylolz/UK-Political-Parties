@@ -22,6 +22,9 @@ class PartyParser(dict):
             self.folder_name, "results_page.html")))
         self.parse_details()
 
+    def _text_to_iso_date(self, text):
+        return parse(text, dayfirst=True).isoformat()
+
     def _text_from_id(self, el_id, find_all=False, soup=None, checkbox=False):
         if not soup:
             soup = self.details_soup
@@ -50,7 +53,7 @@ class PartyParser(dict):
             r'([^\[]+)\[De-registered ([0-9]+/[0-9]+/[0-9]+)\]', name)
         name, date = match.groups()
         name = re.sub(r'\([Dd]e-?registered [^\)]+\)', '', name)
-        return name.strip(), parse(date).isoformat()
+        return name.strip(), self._text_to_iso_date(date)
 
     def parse_details(self):
         self['party_name'] = self._text_from_id(
@@ -76,11 +79,11 @@ class PartyParser(dict):
         registered_date = \
             self._text_from_id("ctl00_ContentPlaceHolder1_ProfileControl1_lblRegistrationDateValue")
 
-        self['registered_date'] = parse(registered_date).isoformat()
+        self['registered_date'] = self._text_to_iso_date(registered_date)
         end_date = self._text_from_id(
                     re.compile("EffectiveEndDateValue"))
         if end_date:
-            self['end_date'] = parse(end_date).isoformat()
+            self['end_date'] = self._text_to_iso_date(end_date)
         else:
             self['end_date'] = None
 
@@ -185,6 +188,9 @@ class PartyParser(dict):
             }
             self['emblems'].append(emblem)
 
+        if self['emblems']:
+            self.mark_primary_emblem()
+
         self['descriptions'] = []
 
         descriptions_table = self.details_soup.find(
@@ -264,6 +270,17 @@ class PartyParser(dict):
             e_id = os.path.split(emblem)[-1].split('_')[-1].split('.')[0]
             emblem_dict[e_id] = os.path.basename(emblem)
         return emblem_dict
+
+    def mark_primary_emblem(self):
+        options = []
+        for emblem in self['emblems']:
+            primary = False
+            emblem['primary'] = False
+            if re.search(r'wales|scotland|ireland', emblem['description']):
+                primary = False
+            else:
+                options.append(emblem)
+        print "\n".join(d['description'] for d in options)
 
     def as_json(self):
         return json.dumps(self, indent=4)
