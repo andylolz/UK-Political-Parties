@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -0.13656891627909498, 
             51.49547083416395
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": null, 
     "party_name": "Movement for Change Ltd", 

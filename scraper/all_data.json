@@ -4744,11 +4744,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.10186042811093861, 
                 51.52120841765842
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Co-operative Party", 
@@ -10722,11 +10722,11 @@
             "exempt_from_quarterly_donation_returns": true
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 0.92354881108589, 
                 51.88345242015827
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Democratic Republican Party", 
@@ -11421,11 +11421,11 @@
             "exempt_from_quarterly_donation_returns": true
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -3.009135626482107, 
                 56.67624569300484
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Citizens First", 
@@ -19036,11 +19036,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.05973051710881289, 
                 51.40910890918092
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Britain First", 
@@ -20908,11 +20908,11 @@
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -2.8760407586697387, 
                 51.3563932398028
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "North Somerset First Independents", 
@@ -42323,11 +42323,11 @@
             "exempt_from_quarterly_donation_returns": true
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.3158147835236631, 
                 51.308305898385704
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Ashtead Independents", 
@@ -49800,11 +49800,11 @@
             "exempt_from_quarterly_donation_returns": true
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -2.659309615869714, 
                 53.59244337097712
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": "Great Britain", 
         "party_name": "Wigan Independents", 
@@ -64194,11 +64194,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.13682362014202115, 
                 51.499116856909886
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Fabian Society", 
@@ -64260,11 +64260,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.1326148023249237, 
                 51.52629723940426
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Britain Yearly Meeting of the Religious Society of Friends (Quakers)", 
@@ -64334,11 +64334,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.13656891627909498, 
                 51.49547083416395
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Movement for Change Ltd", 

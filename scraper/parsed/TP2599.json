@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -0.1326148023249237, 
             51.52629723940426
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": null, 
     "party_name": "Britain Yearly Meeting of the Religious Society of Friends (Quakers)", 
