@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2015-01-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-11-17T00:00:00", 
     "postcode": "CM16 4LZ", 
@@ -18,13 +19,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Statutorily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Michael Jack McGough", 
-    "party_id": "PP894", 
+    "party_name": "TEA Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -38,7 +39,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "TEA Party", 
+    "party_id": "PP894", 
     "alternative_names": [
         ""
     ], 

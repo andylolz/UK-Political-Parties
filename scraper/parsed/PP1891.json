@@ -11,11 +11,11 @@
     ], 
     "campaigns_officer": "Mr David McMillan", 
     "registered_date": "2012-03-22T00:00:00", 
-    "postcode": "DD3 9NE", 
+    "postcode": "DD8 4JT", 
     "party_leader": "Mr Barrie Johnson", 
     "nominating_officer": "Mr Barrie Johnson", 
     "emblems": [], 
-    "party_address": "19a St Mungo Terrace\r\nDundee\r\nDD3 9NE\r\nUnited Kingdom\r\n", 
+    "party_address": "15 Kirkton Court\r\nKirriemuir\r\nAngus\r\nDD8 4JT\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -32,11 +32,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            -3.014731298759598, 
-            56.494509176508636
-        ]
+        "coordinates ": [
+            -3.009135626482107, 
+            56.67624569300484
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Citizens First", 

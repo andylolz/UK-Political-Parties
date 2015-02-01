@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-09-15T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-14T00:00:00", 
     "postcode": "BA11 1ET", 
@@ -18,13 +19,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": null, 
-    "status": "Authorised", 
+    "status": "Statutorily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2014-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_id": "PPm1698", 
+    "party_name": "Independents for Frome", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
         "exempt_from_quarterly_transaction_returns": null, 
@@ -38,7 +39,7 @@
         ]
     }, 
     "register": "Great Britain (minor party)", 
-    "party_name": "Independents for Frome", 
+    "party_id": "PPm1698", 
     "alternative_names": [
         ""
     ], 

@@ -1,10 +1,18 @@
 {
     "fielding_in": [], 
-    "other_officers": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "David John McEwen", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }
+    ], 
     "campaigns_officer": "None", 
     "registered_date": "2001-09-05T00:00:00", 
     "postcode": "RG9 1LA", 
-    "party_leader": "Mrs Elizabeth Hodgkin", 
+    "party_leader": "Mrs Gill Dodds", 
     "nominating_officer": "Mr David Richard Feary", 
     "emblems": [
         {

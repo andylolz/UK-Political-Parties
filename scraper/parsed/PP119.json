@@ -3,11 +3,11 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
-    "postcode": "SE1 3SD", 
+    "postcode": "EC1M 4AN", 
     "party_leader": "Mr Gareth Richard Thomas MP", 
     "nominating_officer": "Ms Karen Lynn Wilkie", 
     "emblems": [], 
-    "party_address": "77 Weston Street\r\nLondon\r\nSE1 3SD\r\nUnited Kingdom\r\n", 
+    "party_address": "65 St. John Street\r\nLondon\r\nEC1M 4AN\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            -0.08601362497949304, 
-            51.502075491952205
-        ]
+        "coordinates ": [
+            -0.10186042811093861, 
+            51.52120841765842
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Co-operative Party", 

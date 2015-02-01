@@ -1,0 +1,68 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "geraldine callen", 
+            "deputy_campaigns_officer": true, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Ms Teresa Ridley", 
+    "registered_date": "2015-01-21T00:00:00", 
+    "postcode": "BS24 6UL", 
+    "party_leader": "Cllr Derek Mead", 
+    "nominating_officer": "Mr Ian Rowland", 
+    "emblems": [], 
+    "party_address": "The Laurels\r\nWest Rolstone Road\r\nHewish\r\nWeston super Mare\r\nSomerset\r\nBS24 6UL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Phil Sheridan", 
+    "party_id": "PP2301", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -2.8760407586697387, 
+            51.3563932398028
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain", 
+    "party_name": "North Somerset First Independents", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Localism for Local People"
+        }, 
+        {
+            "translation": "", 
+            "description": "Empowering our local communities"
+        }, 
+        {
+            "translation": "", 
+            "description": "Increasing transparancy within local government"
+        }, 
+        {
+            "translation": "", 
+            "description": "Putting power in the peoples hands"
+        }, 
+        {
+            "translation": "", 
+            "description": "Local people with no political bias"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
-    "deregistered_date": "2014-11-03T00:00:00", 
+    "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-10-16T00:00:00", 
     "postcode": "NW1 1JD", 
@@ -28,7 +28,7 @@
     "party_name": "NO2EU", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {

@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-10T00:00:00", 
-    "postcode": "W1U 6PZ", 
+    "postcode": "SE20 8ED", 
     "party_leader": "Mr Paul Golding", 
     "nominating_officer": "Mr Paul Golding", 
     "emblems": [
@@ -14,7 +14,7 @@
             "description": "Britain First"
         }
     ], 
-    "party_address": "Britain First HQ\r\nCommunications House\r\n26 York Street\r\nLondon\r\nW1U 6PZ\r\nUnited Kingdom\r\n", 
+    "party_address": "24 Beeches Close\r\nLondon\r\nSE20 8ED\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            -0.15862886148972036, 
-            51.52075547051453
-        ]
+        "coordinates ": [
+            -0.05973051710881289, 
+            51.40910890918092
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Britain First", 

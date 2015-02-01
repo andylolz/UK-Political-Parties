@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": null, 
+    "registered_date": "2015-01-13T00:00:00", 
+    "postcode": "SW1P 1RD", 
+    "party_leader": null, 
+    "nominating_officer": null, 
+    "emblems": [], 
+    "party_address": "24 Greencoat Place\r\nLondon\r\nSW1P 1RD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": null, 
+    "party_id": "TP2603", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -0.13656891627909498, 
+            51.49547083416395
+        ], 
+        "type": "Point"
+    }, 
+    "register": null, 
+    "party_name": "Movement for Change Ltd", 
+    "alternative_names": [], 
+    "descriptions": []
+}

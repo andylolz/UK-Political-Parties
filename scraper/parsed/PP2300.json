@@ -26,15 +26,9 @@
             "primary": false, 
             "id": "954", 
             "description": "yourvoice_emblem_002"
-        }, 
-        {
-            "image": "Emblem_955.jpg", 
-            "primary": false, 
-            "id": "955", 
-            "description": "yourvoice_emblem_004"
         }
     ], 
-    "party_address": "YOURvoice\r\n2 Bramble Road\r\nPETERSFIELD\r\nHampshire\r\nGU31 4HL\r\nUnited Kingdom\r\n", 
+    "party_address": "Yourvoice\r\n2 Bramble Road\r\nPETERSFIELD\r\nHampshire\r\nGU31 4HL\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -47,8 +41,8 @@
     "party_id": "PP2300", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
         "type": "Point", 
@@ -58,15 +52,11 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "YOURvoice", 
+    "party_name": "Yourvoice", 
     "alternative_names": [
         ""
     ], 
     "descriptions": [
-        {
-            "translation": "", 
-            "description": "yourvoiceparty.org.uk"
-        }, 
         {
             "translation": "", 
             "description": "...a better democracy"

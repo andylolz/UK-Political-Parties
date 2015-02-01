@@ -58,9 +58,9 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "LIFE", 
+    "party_name": "Life", 
     "alternative_names": [
-        "BYWYD"
+        "Bywyd"
     ], 
     "descriptions": [
         {
@@ -93,15 +93,15 @@
         }, 
         {
             "translation": "", 
-            "description": "The LIFE Party"
+            "description": "The Life Party"
         }, 
         {
             "translation": "", 
-            "description": "UK LIFE"
+            "description": "UK Life"
         }, 
         {
             "translation": "", 
-            "description": "The UK LIFE Party"
+            "description": "The UK Life Party"
         }, 
         {
             "translation": "", 

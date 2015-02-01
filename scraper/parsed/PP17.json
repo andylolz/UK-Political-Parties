@@ -48,7 +48,7 @@
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": true
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "type": "Point", 
@@ -93,7 +93,7 @@
         }, 
         {
             "translation": "", 
-            "description": "English Democrats - For an INDEPENDENT England!"
+            "description": "English Democrats - For an Independent England!"
         }, 
         {
             "translation": "", 
@@ -105,7 +105,11 @@
         }, 
         {
             "translation": "", 
-            "description": "I'm English, NOT British, NOT EUropean!"
+            "description": "I'm English, Not British, Not European!"
+        }, 
+        {
+            "translation": "", 
+            "description": "English Democrats \u2013 \u201cMore Police \u2013 catching criminals!\u201d"
         }
     ]
 }

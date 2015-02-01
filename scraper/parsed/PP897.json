@@ -9,6 +9,7 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2015-01-19T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-12-01T00:00:00", 
     "postcode": "PE3 9TG", 
@@ -32,13 +33,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Voluntarily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Neil Harrington", 
-    "party_id": "PP897", 
+    "party_name": "Peterborough Independents", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -52,7 +53,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "Peterborough Independents", 
+    "party_id": "PP897", 
     "alternative_names": [
         ""
     ], 

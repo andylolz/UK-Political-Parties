@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2015-01-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-22T00:00:00", 
     "postcode": "BA4 5XX", 
@@ -18,13 +19,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Statutorily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Keith Pagram", 
-    "party_id": "PP2345", 
+    "party_name": "TLC", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -38,7 +39,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "TLC", 
+    "party_id": "PP2345", 
     "alternative_names": [
         ""
     ], 

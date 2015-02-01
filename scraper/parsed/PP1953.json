@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2014-11-21T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
     "postcode": "SW10 0BB", 
@@ -18,13 +19,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "30/09", 
-    "status": "Authorised", 
+    "status": "Voluntarily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2014-07-25T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Marie-Louise Rossi", 
-    "party_id": "PP1953", 
+    "party_name": "UK in Europe Party (UK EPP)", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -38,7 +39,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_name": "UK in Europe Party (UK EPP)", 
+    "party_id": "PP1953", 
     "alternative_names": [
         ""
     ], 

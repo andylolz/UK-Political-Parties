@@ -182,7 +182,7 @@ if __name__ == "__main__":
                 path = "raw_data/{0}/results_page.html".format(party_id)
                 if os.path.exists(path):
                     print "Seen: {0}".format(party_id)
-                    continue
+                    # continue
                 try:
                     self.detail_view(target, party_id, path)
                 except requests.exceptions.ConnectionError:

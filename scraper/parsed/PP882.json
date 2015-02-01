@@ -4,8 +4,8 @@
     "campaigns_officer": "None", 
     "registered_date": "2010-07-12T00:00:00", 
     "postcode": "B6 4LD", 
-    "party_leader": "Ms Nikki Sinclaire MEP", 
-    "nominating_officer": "Ms Nicole Jayne Carroll", 
+    "party_leader": "Ms Nikki Sinclaire", 
+    "nominating_officer": "Ms Diane Dollman", 
     "emblems": [
         {
             "image": "Emblem_562.jpg", 
@@ -35,7 +35,7 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "Ms Claire Furber", 
+    "treasurer": "Ms Nikki Sinclaire", 
     "party_id": "PP882", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
@@ -57,11 +57,11 @@
     "descriptions": [
         {
             "translation": "", 
-            "description": "RE-ELECT NIKKI SINCLAIRE MEP"
+            "description": "Re-elect Nikki Sinclaire"
         }, 
         {
             "translation": "", 
-            "description": "Yes to UK NO to EU"
+            "description": "Yes to UK no to EU"
         }, 
         {
             "translation": "", 

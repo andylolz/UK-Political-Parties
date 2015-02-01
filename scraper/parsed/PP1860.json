@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Paul Bean", 
     "registered_date": "2012-02-01T00:00:00", 
-    "postcode": "DH7 7NL", 
+    "postcode": "CO1 2FG", 
     "party_leader": "Mr Peter Kellow", 
     "nominating_officer": "Mr Paul Bean", 
     "emblems": [
@@ -26,7 +26,7 @@
             "description": "United Republic Flag"
         }
     ], 
-    "party_address": "5 Alderdene Close\r\nUpshaw Moor\r\nDurham\r\nDH7 7NL\r\nUnited Kingdom\r\n", 
+    "party_address": "4 Ventura Drive\r\nColchester\r\nEssex\r\nCO1 2FG\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/03", 
@@ -43,11 +43,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            -1.628763171736608, 
-            54.77296342172265
-        ]
+        "coordinates ": [
+            0.92354881108589, 
+            51.88345242015827
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Democratic Republican Party", 
@@ -58,10 +58,6 @@
         {
             "translation": "", 
             "description": "Democratic Republican Party Candidate"
-        }, 
-        {
-            "translation": "", 
-            "description": "For a New Beginning"
         }, 
         {
             "translation": "", 

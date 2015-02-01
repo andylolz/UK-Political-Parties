@@ -49,7 +49,7 @@
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": false
+        "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
         "type": "Point", 
@@ -78,11 +78,11 @@
         }, 
         {
             "translation": "", 
-            "description": "Vote Roehampton: LOCAL, INDEPENDENT, HARDWORKING, HONEST"
+            "description": "Vote Roehampton: local, independent, hardworking, honest"
         }, 
         {
             "translation": "", 
-            "description": "Vote Roehampton: Your LOCAL candidates"
+            "description": "Vote Roehampton: Your local candidates"
         }, 
         {
             "translation": "", 

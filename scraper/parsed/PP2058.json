@@ -31,7 +31,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "The Say NO Party", 
+    "party_name": "The Say No Party", 
     "alternative_names": [
         ""
     ], 
@@ -42,11 +42,11 @@
         }, 
         {
             "translation": "", 
-            "description": "Be in the kNOw"
+            "description": "Be in the know"
         }, 
         {
             "translation": "", 
-            "description": "Say YES to NO"
+            "description": "Say Yes to No"
         }
     ]
 }

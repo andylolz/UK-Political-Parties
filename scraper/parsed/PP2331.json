@@ -16,6 +16,7 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2015-01-12T00:00:00", 
     "campaigns_officer": "Mr Paul Janik", 
     "registered_date": "2014-04-22T00:00:00", 
     "postcode": "SL1 6PQ", 
@@ -39,13 +40,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Statutorily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Edyta Kosnik", 
-    "party_id": "PP2331", 
+    "party_name": "ACC", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -59,7 +60,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "ACC", 
+    "party_id": "PP2331", 
     "alternative_names": [
         ""
     ], 

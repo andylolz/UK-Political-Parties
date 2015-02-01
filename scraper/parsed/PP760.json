@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-22T00:00:00", 
-    "postcode": "WN6 0JA", 
+    "postcode": "WN6 0LL", 
     "party_leader": "Mr Gareth Fairhurst", 
     "nominating_officer": "Mr Gareth Fairhurst", 
     "emblems": [
@@ -20,7 +20,7 @@
             "description": "Emblem 2"
         }
     ], 
-    "party_address": "34 James Place\r\nStandish\r\nWigan\r\nLancashire\r\nWN6 0JA\r\nUnited Kingdom\r\n", 
+    "party_address": "31 Littleton Grove\r\nStandish\r\nWigan\r\nLancashire\r\nWN6 0LL\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -37,11 +37,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            -2.666790708995528, 
-            53.58972334278817
-        ]
+        "coordinates ": [
+            -2.659309615869714, 
+            53.59244337097712
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Wigan Independents", 

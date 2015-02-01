@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": null, 
+    "registered_date": "2015-01-12T00:00:00", 
+    "postcode": "SW19 1RX", 
+    "party_leader": null, 
+    "nominating_officer": null, 
+    "emblems": [], 
+    "party_address": "150 The Broadway\r\nWimbledon\r\nLondon\r\nSW19 1RX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": null, 
+    "party_id": "TP2602", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.19831751893139482, 
+            51.41936086547569
+        ]
+    }, 
+    "register": null, 
+    "party_name": "Communication Workers Union", 
+    "alternative_names": [], 
+    "descriptions": []
+}

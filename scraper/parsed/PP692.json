@@ -9,6 +9,7 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2015-01-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2008-02-12T00:00:00", 
     "postcode": "DN21 1SA", 
@@ -26,13 +27,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Statutorily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andrew James Boulton", 
-    "party_id": "PP692", 
+    "party_name": "ENG", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -46,7 +47,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_name": "ENG", 
+    "party_id": "PP692", 
     "alternative_names": [
         ""
     ], 

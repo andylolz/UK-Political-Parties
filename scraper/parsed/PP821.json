@@ -9,6 +9,7 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2015-01-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-03T00:00:00", 
     "postcode": "SW7 4RT", 
@@ -19,13 +20,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Statutorily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Roland Courtenay", 
-    "party_id": "PP821", 
+    "party_name": "NIC", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -39,7 +40,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "NIC", 
+    "party_id": "PP821", 
     "alternative_names": [
         ""
     ], 

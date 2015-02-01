@@ -9,6 +9,7 @@
             "deputy_treasurer": false
         }
     ], 
+    "deregistered_date": "2015-01-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-09T00:00:00", 
     "postcode": "FY7 8JQ", 
@@ -26,13 +27,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Statutorily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Cheryl Atkinson", 
-    "party_id": "PP2310", 
+    "party_name": "The Reality Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -46,7 +47,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "The Reality Party", 
+    "party_id": "PP2310", 
     "alternative_names": [
         ""
     ], 
