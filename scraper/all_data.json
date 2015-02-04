@@ -11004,7 +11004,7 @@
         "registered_date": "2012-02-21T00:00:00", 
         "postcode": "KT12 4BJ", 
         "party_leader": "Mr Roy Green", 
-        "nominating_officer": "Mrs Ann Margaret Pollard", 
+        "nominating_officer": "Mr Roy Green", 
         "emblems": [
             {
                 "image": "Emblem_699.png", 
@@ -13917,7 +13917,7 @@
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": true, 
-            "exempt_from_quarterly_donation_returns": false
+            "exempt_from_quarterly_donation_returns": true
         }, 
         "geometry": {
             "type": "Point", 
@@ -17131,7 +17131,7 @@
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
             "exempt_from_quarterly_transaction_returns": true, 
-            "exempt_from_quarterly_donation_returns": false
+            "exempt_from_quarterly_donation_returns": true
         }, 
         "geometry": {
             "type": "Point", 
@@ -18298,8 +18298,8 @@
         "party_name": "Save King George Hospital Party", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": true, 
-            "exempt_from_quarterly_transaction_returns": false, 
-            "exempt_from_quarterly_donation_returns": false
+            "exempt_from_quarterly_transaction_returns": true, 
+            "exempt_from_quarterly_donation_returns": true
         }, 
         "geometry": {
             "type": "Point", 
@@ -19087,7 +19087,7 @@
         "party_id": "PP2215", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 
-            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_transaction_returns": true, 
             "exempt_from_quarterly_donation_returns": false
         }, 
         "geometry": {
@@ -42736,7 +42736,7 @@
         "end_date": null, 
         "phone_extension": "", 
         "phone": "", 
-        "treasurer": "Mr George Richard Mallender", 
+        "treasurer": "Mr Richard Mallender", 
         "party_id": "PP63", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": false, 

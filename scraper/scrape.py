@@ -4,6 +4,7 @@ import shutil
 
 import bs4
 import requests
+from PIL import Image, ImageChops
 
 results_data = {
     "ctl00$ContentPlaceHolder1$EntitySearchControl1$RadScriptManager": 'ctl00$ContentPlaceHolder1$EntitySearchControl1$ctl00$ContentPlaceHolder1$EntitySearchControl1$divResultsPerPagePanel|ctl00$ContentPlaceHolder1$EntitySearchControl1$ddlResultsPerPage',
@@ -273,7 +274,28 @@ if __name__ == "__main__":
             filename = req.headers['content-disposition'].split('=')[-1]
             path = "raw_data/{0}/{1}".format(party_id, filename)
             self.save_file(path, req.content, mode="wb")
+            self.trim_logo(path)
 
+
+        def trim_logo(self, path):
+            """
+            With thanks to this SO post:
+            http://stackoverflow.com/questions/10615901/trim-whitespace-using-pil
+            """
+            try:
+                im = Image.open(path)
+            except IOError:
+                # Sometimes the images don't exist.  Just return in that case
+                return
+            im = im.convert('RGB')
+            # Don't get 0,0, as some have a black border
+            bg = Image.new(im.mode, im.size, im.getpixel((5,5)))
+            diff = ImageChops.difference(im, bg)
+            diff = ImageChops.add(diff, diff, 1.0, -100)
+            bbox = diff.getbbox()
+            if bbox:
+                new_im = im.crop(bbox)
+                new_im.save(path)
 
         def get_accounting_units(self, party_id, vs, ev):
             data = {
