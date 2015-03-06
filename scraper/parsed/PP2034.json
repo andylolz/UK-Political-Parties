@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-21T00:00:00", 
-    "postcode": "BA1 1AA", 
+    "postcode": "EC1V 2NX", 
     "party_leader": "Mr Mike Buchanan", 
     "nominating_officer": "Mr Mike Buchanan", 
     "emblems": [
@@ -14,7 +14,7 @@
             "description": "Emblem 1"
         }
     ], 
-    "party_address": "PO Box 2220\r\nBath\r\nBA1 1AA\r\nUnited Kingdom\r\n", 
+    "party_address": "Kemp House\r\n152 City Road\r\nLondon\r\nEC1V 2NX\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -33,8 +33,8 @@
     "geometry": {
         "type": "Point", 
         "coordinates": [
-            -2.3555617292554496, 
-            51.37885788588602
+            -0.089123629173034, 
+            51.52726941722609
         ]
     }, 
     "register": "Great Britain", 

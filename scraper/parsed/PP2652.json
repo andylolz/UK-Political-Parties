@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-02-23T00:00:00", 
+    "postcode": "OX4 1LH", 
+    "party_leader": "Mr Patrick Gray", 
+    "nominating_officer": "Dr Winifred Gray", 
+    "emblems": [], 
+    "party_address": "67 Divinity Road\r\nOxford\r\nOX4 1LH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Patrick Gray", 
+    "party_id": "PP2652", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.2304834913013176, 
+            51.746947461729384
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Radical Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

@@ -8,6 +8,18 @@
     "nominating_officer": "Mr James Hugh Allister", 
     "emblems": [
         {
+            "image": "Emblem_1109.jpg", 
+            "primary": false, 
+            "id": "1109", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_1110.jpg", 
+            "primary": false, 
+            "id": "1110", 
+            "description": "Emblem 3"
+        }, 
+        {
             "image": "Emblem_403.gif", 
             "primary": false, 
             "id": "403", 

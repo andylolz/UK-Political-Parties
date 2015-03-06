@@ -1,0 +1,69 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-02-18T00:00:00", 
+    "postcode": "BA2 8AF", 
+    "party_leader": "Mr Nathan Hartley", 
+    "nominating_officer": "Mrs Karen Walker", 
+    "emblems": [
+        {
+            "image": "Emblem_1055.jpg", 
+            "primary": false, 
+            "id": "1055", 
+            "description": "Village Voice Logo 1"
+        }, 
+        {
+            "image": "Emblem_1057.jpg", 
+            "primary": false, 
+            "id": "1057", 
+            "description": "Village Voice Logo 2"
+        }
+    ], 
+    "party_address": "34 Church Road\r\nPeasedown St John\r\nBath\r\nBA2 8AF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Nathan Hartley", 
+    "party_id": "PP2550", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.432697746900704, 
+            51.317202573156585
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Village Voice", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Only working for you"
+        }, 
+        {
+            "translation": "", 
+            "description": "No politics, just Peasedown"
+        }, 
+        {
+            "translation": "", 
+            "description": "Standing up for Peasedown"
+        }, 
+        {
+            "translation": "", 
+            "description": "Making Peasedown our priority"
+        }
+    ]
+}

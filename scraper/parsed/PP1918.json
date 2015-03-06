@@ -1,7 +1,6 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
-    "deregistered_date": "2015-01-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-06-20T00:00:00", 
     "postcode": "B92 0AY", 
@@ -19,13 +18,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
+    "status": "Authorised", 
     "fax": "", 
-    "end_date": "2015-12-31T00:00:00", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Doug Ingram", 
-    "party_name": "An Independence from Europe", 
+    "party_id": "PP1918", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -39,34 +38,22 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1918", 
+    "party_name": "Independence from Europe", 
     "alternative_names": [
-        "Annibyniaeth o Ewrop"
+        ""
     ], 
     "descriptions": [
-        {
-            "translation": "", 
-            "description": "4 A Referendum"
-        }, 
         {
             "translation": "", 
             "description": "EU Out"
         }, 
         {
-            "translation": "Diddymu\u2019r Cynulliad a gadael yr Undeb Ewropeaidd", 
+            "translation": "Diddymu\u2019r Cynulliad, Gadael yrs. UE", 
             "description": "Abolish Assembly and leave European Union"
         }, 
         {
             "translation": "", 
-            "description": "Mike Nattrass MEP"
-        }, 
-        {
-            "translation": "", 
             "description": "Independence Now"
-        }, 
-        {
-            "translation": "", 
-            "description": "4 Independence"
         }, 
         {
             "translation": "", 
@@ -78,19 +65,19 @@
         }, 
         {
             "translation": "", 
-            "description": "UK Independence Now"
-        }, 
-        {
-            "translation": "", 
             "description": "EU harms working people"
         }, 
         {
             "translation": "", 
-            "description": "UK MEP Mike Nattrass"
+            "description": "EU must be joking"
         }, 
         {
             "translation": "", 
-            "description": "EU must be joking"
+            "description": "British Independence Now"
+        }, 
+        {
+            "translation": "", 
+            "description": "For Independence"
         }
     ]
 }

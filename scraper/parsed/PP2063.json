@@ -4,11 +4,11 @@
     "campaigns_officer": "None", 
     "registered_date": "2013-04-15T00:00:00", 
     "postcode": "EC1M 6AN", 
-    "party_leader": "Mr Richard Franklin", 
-    "nominating_officer": "Mr Derek Daniels", 
+    "party_leader": "Mr Elliot Ball", 
+    "nominating_officer": "Mr Richard Franklin", 
     "emblems": [
         {
-            "image": "Emblem_851.jpg", 
+            "image": "Emblem_851.png", 
             "primary": false, 
             "id": "851", 
             "description": "Emblem 1"
@@ -23,7 +23,7 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "Mr Richard Franklin", 
+    "treasurer": "Mr John Barratt", 
     "party_id": "PP2063", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 

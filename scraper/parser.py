@@ -59,6 +59,8 @@ class PartyParser(dict):
         self['party_name'] = self._text_from_id(
             'ctl00_ContentPlaceHolder1_ProfileControl1_lblPrimaryNameValue')
 
+        if not self['party_name']:
+            import ipdb; ipdb.set_trace()
         if 'De-registered' in self['party_name']:
             party_name, deregistered_date = self.clean_party_name(
                 self['party_name'])

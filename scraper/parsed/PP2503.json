@@ -6,7 +6,14 @@
     "postcode": "BH8 0DN", 
     "party_leader": "Mr David Ross", 
     "nominating_officer": "Mr Geoffrey Cooper", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1074.jpg", 
+            "primary": false, 
+            "id": "1074", 
+            "description": "BIA_Black"
+        }
+    ], 
     "party_address": "3 Wood Row\r\nThroop Road\r\nBournemouth\r\nBH8 0DN\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

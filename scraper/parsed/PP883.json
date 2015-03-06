@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "Mr Charles Nicholls", 
     "registered_date": "2010-08-25T00:00:00", 
-    "postcode": "HR1 2NH", 
+    "postcode": "HR4 0SU", 
     "party_leader": "Mr Anthony J W Powers", 
     "nominating_officer": "Cllr Mark Hubbard", 
     "emblems": [
@@ -14,7 +14,7 @@
             "description": "Emblem 1"
         }
     ], 
-    "party_address": "Castle Cliffe\r\n14-16 Quay Street\r\nHereford\r\nHR1 2NH\r\nUnited Kingdom\r\n", 
+    "party_address": "38 Middle Way\r\nFayre Oaks Home Park\r\nHereford\r\nHR4 0SU\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -33,8 +33,8 @@
     "geometry": {
         "type": "Point", 
         "coordinates": [
-            -2.7144273089332676, 
-            52.05314817662037
+            -2.7532727747288224, 
+            52.063227626833076
         ]
     }, 
     "register": "Great Britain", 

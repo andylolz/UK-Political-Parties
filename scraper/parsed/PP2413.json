@@ -6,7 +6,14 @@
     "postcode": "PE27 5QU", 
     "party_leader": "Lord Toby Jug", 
     "nominating_officer": "Lord Toby Jug", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1052.jpg", 
+            "primary": false, 
+            "id": "1052", 
+            "description": "Lord Toby Jug"
+        }
+    ], 
     "party_address": "7, Grove Court\r\nSt Ives\r\nCambridgeshire\r\nPE27 5QU\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

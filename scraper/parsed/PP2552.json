@@ -1,0 +1,55 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-02-27T00:00:00", 
+    "postcode": "EC1V 9NR", 
+    "party_leader": "Mr Paul Birch", 
+    "nominating_officer": "Mr Steve Moore", 
+    "emblems": [
+        {
+            "image": "Emblem_1056.jpeg", 
+            "primary": false, 
+            "id": "1056", 
+            "description": "cannabis leaf"
+        }
+    ], 
+    "party_address": "Runway East, Floor 9\r\n207 Old Street,\r\nLondon\r\nEC1V 9NR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Birch", 
+    "party_id": "PP2552", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.08914060861848261, 
+            51.5258308861559
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Cannabis is Safer than Alcohol", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Skunk is Safer than Alcohol"
+        }, 
+        {
+            "translation": "", 
+            "description": "Cannabis is Safer then Alcohol Candidate"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-02-20T00:00:00", 
+    "postcode": "L40 6HR", 
+    "party_leader": "Mr Adrian Owens", 
+    "nominating_officer": "Ms Jane Thompson", 
+    "emblems": [
+        {
+            "image": "Emblem_1107.jpg", 
+            "primary": false, 
+            "id": "1107", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "9 Greenacre\r\nWesthead\r\nOrmskirk\r\nLancashire\r\nL40 6HR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ian Davis", 
+    "party_id": "PP2642", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.8439011930940237, 
+            53.56349977911578
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Our West Lancashire", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Putting residents first and foremost"
+        }
+    ]
+}

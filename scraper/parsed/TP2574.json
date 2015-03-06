@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": null, 
+    "registered_date": "2015-02-06T00:00:00", 
+    "postcode": "N7 9RD", 
+    "party_leader": null, 
+    "nominating_officer": null, 
+    "emblems": [], 
+    "party_address": "14 Penn Road\r\nLondon\r\nN7 9RD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": null, 
+    "party_id": "TP2574", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -0.12011469330798863, 
+            51.553623597437785
+        ], 
+        "type": "Point"
+    }, 
+    "register": null, 
+    "party_name": "Left-of-Centre Coalition Campaign", 
+    "alternative_names": [], 
+    "descriptions": []
+}

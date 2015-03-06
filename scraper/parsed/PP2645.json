@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-02-23T00:00:00", 
+    "postcode": "IP2 9QP", 
+    "party_leader": "Christopher Fessler", 
+    "nominating_officer": "Miss Diamond Jones", 
+    "emblems": [
+        {
+            "image": "Emblem_1112.jpg", 
+            "primary": false, 
+            "id": "1112", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "26 Hale Close\r\nIpswich\r\nSuffolk\r\nIP2 9QP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Christopher Fessler", 
+    "party_id": "PP2645", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            1.1135139395086626, 
+            52.04157280417172
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "New Parliament Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

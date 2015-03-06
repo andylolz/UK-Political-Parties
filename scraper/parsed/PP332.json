@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2015-02-27T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2003-04-30T00:00:00", 
     "postcode": "WC1N 3XX", 
@@ -11,13 +12,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/03", 
-    "status": "Authorised", 
+    "status": "Voluntarily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-03-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Henrietta Elizabeth Peplow", 
-    "party_id": "PP332", 
+    "party_name": "Peace and Progress", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -31,7 +32,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "Peace and Progress", 
+    "party_id": "PP332", 
     "alternative_names": [
         ""
     ], 

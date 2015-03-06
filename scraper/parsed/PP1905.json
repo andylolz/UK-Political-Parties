@@ -1,0 +1,54 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Stephen Roy Davis", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-05-04T00:00:00", 
+    "postcode": "NP25 5AT", 
+    "party_leader": "Mr Gary Witcombe", 
+    "nominating_officer": "Mr Stephen Roy Davis", 
+    "emblems": [
+        {
+            "image": "Emblem_726.jpg", 
+            "primary": false, 
+            "id": "726", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "1 The New Bungalows\r\nWatery Lane\r\nMonmouth\r\nNP25 5AT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Susan Insley", 
+    "party_id": "PP1905", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.7327101862431733, 
+            51.810926934545044
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The British Empire Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

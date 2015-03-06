@@ -94,77 +94,127 @@ results_data = {
 }
 
 
-if __name__ == "__main__":
+class ElectoralCommissionScraper(object):
+    def __init__(self):
+        self.session = requests.Session()
 
-    class ElectoralCommissionScraper(object):
-        def __init__(self):
-            self.session = requests.Session()
+    def _extract_viewstate(self, req):
+        soup = bs4.BeautifulSoup(req.text)
+        self.VIEWSTATE = soup.find(id="__VIEWSTATE")['value']
+        return self.VIEWSTATE
 
-        def _extract_viewstate(self, req):
-            soup = bs4.BeautifulSoup(req.text)
-            self.VIEWSTATE = soup.find(id="__VIEWSTATE")['value']
-            return self.VIEWSTATE
+    def _extract_event_validation(self, req):
+        soup = bs4.BeautifulSoup(req.text)
+        self.EVENTSTATE = soup.find(id="__EVENTVALIDATION")['value']
+        return self.EVENTSTATE
 
-        def _extract_event_validation(self, req):
-            soup = bs4.BeautifulSoup(req.text)
-            self.EVENTSTATE = soup.find(id="__EVENTVALIDATION")['value']
-            return self.EVENTSTATE
-
-
+    def _view_state_generator(self, req):
+        soup = bs4.BeautifulSoup(req.text)
+        self.VIEWSTATEGENERATOR = soup.find(id="__VIEWSTATEGENERATOR")['value']
+        return self.VIEWSTATEGENERATOR
 
 
-        def first_page(self):
-            print "First page"
-            req = self.session.get(
-            "https://pefonline.electoralcommission.org.uk/Search/SearchIntro.aspx")
-            self._extract_viewstate(req)
-            self._extract_event_validation(req)
-            self.data = {
-                '__VIEWSTATE': self.VIEWSTATE,
-                '__EVENTVALIDATION': self.EVENTSTATE,
-                "__VIEWSTATEENCRYPTED": "",
-                "__EVENTTARGET": "",
-                "__EVENTARGUMENT": "",
-                "ctl00$ctl05$ctl16": "Registration search"
-            }
+    def first_page(self):
+        print "First page"
+        req = self.session.get(
+        "https://pefonline.electoralcommission.org.uk/Search/SearchIntro.aspx")
+        self._extract_viewstate(req)
+        self._extract_event_validation(req)
+        self.data = {
+            '__VIEWSTATE': self.VIEWSTATE,
+            '__EVENTVALIDATION': self.EVENTSTATE,
+            "__VIEWSTATEENCRYPTED": "",
+            "__EVENTTARGET": "",
+            "__EVENTARGUMENT": "",
+            "ctl00$ctl05$ctl16": "Registration search"
+        }
 
-        def form_page(self):
-            """
-            Requires the data set by self.first_page.
+    def form_page(self):
+        """
+        Requires the data set by self.first_page.
 
-            Note that this needs to POST to the search form, but that in turn
-            gets 'redirected' (in JS) to a GET requests at /EntitySearch.aspx
+        Note that this needs to POST to the search form, but that in turn
+        gets 'redirected' (in JS) to a GET requests at /EntitySearch.aspx
 
-            """
-            print "Form page"
-            req = self.session.post("https://pefonline.electoralcommission.org.uk"
-                               "/Search"\
-                         "/SearchIntro.aspx", self.data)
+        """
+        print "Form page"
+        req = self.session.post("https://pefonline.electoralcommission.org.uk"
+                           "/Search"\
+                     "/SearchIntro.aspx", self.data)
 
-            print "GET Form page"
-            req = self.session.get("https://pefonline.electoralcommission.org.uk"
-                               "/Search"\
-                          "/EntitySearch.aspx")
+        print "GET Form page"
+        req = self.session.get("https://pefonline.electoralcommission.org.uk"
+                           "/Search"\
+                      "/EntitySearch.aspx")
 
-            self._extract_viewstate(req)
+        self._extract_viewstate(req)
 
-        def results(self):
-            """
-            Get all results
+    def results(self):
+        """
+        Get all results
 
-            """
-            print "Results"
+        """
+        print "Results"
 
-            # ev = _extract_event_validation(x)
-            data = {
-                '__VIEWSTATE': self.VIEWSTATE,
-            }
-            data.update(results_data)
-            # print data
+        # ev = _extract_event_validation(x)
+        data = {
+            '__VIEWSTATE': self.VIEWSTATE,
+        }
+        data.update(results_data)
+        # print data
 
-            req = self.session.post("https://pefonline.electoralcommission.org.uk"
-                               "/Search"\
-                             "/EntitySearch.aspx", data, headers={
+        req = self.session.post("https://pefonline.electoralcommission.org.uk"
+                           "/Search"\
+                         "/EntitySearch.aspx", data, headers={
+            "X-MicrosoftAjax":"Delta=true",
+            "Referer":"https://pefonline.electoralcommission.org.uk/Search"
+                      "/EntitySearch.aspx",
+            "Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
+            "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) "
+                         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36",
+
+        })
+        soup = bs4.BeautifulSoup(req.text.encode('utf8'))
+        # Print all results:
+        all_results = soup.findAll('a', {'class':'RadGridLinkAlt'})
+        # print all_results
+        for result in all_results:
+            target = result['href'].split("'")[1]
+            party_id = result.get_text().replace(' ', '')
+            path = "raw_data/{0}/results_page.html".format(party_id)
+            if os.path.exists(path):
+                print "Seen: {0}".format(party_id)
+                # continue
+            try:
+                self.detail_view(target, party_id, path)
+            except requests.exceptions.ConnectionError:
+                if os.path.exists(path):
+                    # Cleanup, as we want this to be included next time
+                    # scraper is run
+                    shutil.rmtree(os.path.abspath("raw_data/{0}".format(party_id)))
+
+
+    def detail_view(self, target, party_id, path):
+        print "DETAIL VIEW {0}".format(party_id)
+        data = results_data
+        data["ctl00$ContentPlaceHolder1$EntitySearchControl1$RadScriptManager"] =\
+            'ctl00$ContentPlaceHolder1$EntitySearchControl1$ctl00$ContentPlaceHolder1$EntitySearchControl1$grdFullResultsPanel|%s' % target
+        data["__EVENTTARGET"] = target
+        data.update({
+            'ctl00$ContentPlaceHolder1$EntitySearchControl1$grdFullResults$ctl00$ctl03$ctl01$PageSizeComboBox': '25',
+            'ctl00_ContentPlaceHolder1_EntitySearchControl1_ddlResultsPerPage_ClientState': '{"logEntries":[],"value":"All","text":"All","enabled":true,"checkedIndices":[],"checkedItemsTextOverflows":false}',
+            'ctl00_ContentPlaceHolder1_EntitySearchControl1_grdFullResults_ClientState': '{"selectedIndexes":[],"selectedCellsIndexes":[],"unselectableItemsIndexes":[],"reorderedColumns":[],"expandedItems":[],"expandedGroupItems":[],"expandedFilterItems":[],"deletedItems":[],"hidedColumns":[],"showedColumns":[],"groupColsState":{},"hierarchyState":{},"scrolledPosition":"0,2","popUpLocations":{},"draggedItemsIndexes":[]}',
+            'ctl00_ContentPlaceHolder1_EntitySearchControl1_grdFullResults_ctl00_ctl03_ctl01_PageSizeComboBox_ClientState': '',
+            'ctl00_ContentPlaceHolder1_EntitySearchControl1_RadScriptManager_TSM': ';;System.Web.Extensions',
+            '__EVENTARGUMENT': '{"Command":"Select","Index":6}',
+            "ctl00_ContentPlaceHolder1_EntitySearchControl1_RadStyleSheetManager1_TSSM:;Telerik.Web.UI, Version": "2013.2.611.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-GB:57877faa-0ff2-4cb7-9385-48affc47087b:45085116:1c2121e:e24b8e95:aac1aeb7:c73cf106:9e1572d6:e25b4b77"
+
+
+        })
+        data['__VIEWSTATE'] = self.VIEWSTATE
+        # print data
+        req = self.session.post("https://pefonline.electoralcommission.org.uk"
+                           "/Search/EntitySearch.aspx", data, headers={
                 "X-MicrosoftAjax":"Delta=true",
                 "Referer":"https://pefonline.electoralcommission.org.uk/Search"
                           "/EntitySearch.aspx",
@@ -173,143 +223,43 @@ if __name__ == "__main__":
                              "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36",
 
             })
-            soup = bs4.BeautifulSoup(req.text.encode('utf8'))
-            # Print all results:
-            all_results = soup.findAll('a', {'class':'RadGridLinkAlt'})
-            # print all_results
-            for result in all_results:
-                target = result['href'].split("'")[1]
-                party_id = result.get_text().replace(' ', '')
-                path = "raw_data/{0}/results_page.html".format(party_id)
-                if os.path.exists(path):
-                    print "Seen: {0}".format(party_id)
-                    # continue
-                try:
-                    self.detail_view(target, party_id, path)
-                except requests.exceptions.ConnectionError:
-                    if os.path.exists(path):
-                        # Cleanup, as we want this to be included next time
-                        # scraper is run
-                        shutil.rmtree(os.path.abspath("raw_data/{0}".format(party_id)))
+
+        req = self.session.get("https://pefonline.electoralcommission.org.uk"
+                            "/Search/ViewRegistrations/Profile.aspx")
 
 
-        def detail_view(self, target, party_id, path):
-            print "DETAIL VIEW {0}".format(party_id)
-            data = results_data
-            data["ctl00$ContentPlaceHolder1$EntitySearchControl1$RadScriptManager"] =\
-                'ctl00$ContentPlaceHolder1$EntitySearchControl1$ctl00$ContentPlaceHolder1$EntitySearchControl1$grdFullResultsPanel|%s' % target
-            data["__EVENTTARGET"] = target
-            data.update({
-                'ctl00$ContentPlaceHolder1$EntitySearchControl1$grdFullResults$ctl00$ctl03$ctl01$PageSizeComboBox': '25',
-                'ctl00_ContentPlaceHolder1_EntitySearchControl1_ddlResultsPerPage_ClientState': '{"logEntries":[],"value":"All","text":"All","enabled":true,"checkedIndices":[],"checkedItemsTextOverflows":false}',
-                'ctl00_ContentPlaceHolder1_EntitySearchControl1_grdFullResults_ClientState': '{"selectedIndexes":[],"selectedCellsIndexes":[],"unselectableItemsIndexes":[],"reorderedColumns":[],"expandedItems":[],"expandedGroupItems":[],"expandedFilterItems":[],"deletedItems":[],"hidedColumns":[],"showedColumns":[],"groupColsState":{},"hierarchyState":{},"scrolledPosition":"0,2","popUpLocations":{},"draggedItemsIndexes":[]}',
-                'ctl00_ContentPlaceHolder1_EntitySearchControl1_grdFullResults_ctl00_ctl03_ctl01_PageSizeComboBox_ClientState': '',
-                'ctl00_ContentPlaceHolder1_EntitySearchControl1_RadScriptManager_TSM': ';;System.Web.Extensions',
-                '__EVENTARGUMENT': '{"Command":"Select","Index":6}',
-                "ctl00_ContentPlaceHolder1_EntitySearchControl1_RadStyleSheetManager1_TSSM:;Telerik.Web.UI, Version": "2013.2.611.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-GB:57877faa-0ff2-4cb7-9385-48affc47087b:45085116:1c2121e:e24b8e95:aac1aeb7:c73cf106:9e1572d6:e25b4b77"
+        soup = bs4.BeautifulSoup(req.text)
+        self.save_file(path, unicode(soup).encode('utf8'))
 
+        tmp_vs = soup.find(id="__VIEWSTATE")['value']
+        tmp_ev = soup.find(id="__EVENTVALIDATION")['value']
 
-            })
-            data['__VIEWSTATE'] = self.VIEWSTATE
-            # print data
-            req = self.session.post("https://pefonline.electoralcommission.org.uk"
-                               "/Search/EntitySearch.aspx", data, headers={
-                    "X-MicrosoftAjax":"Delta=true",
-                    "Referer":"https://pefonline.electoralcommission.org.uk/Search"
-                              "/EntitySearch.aspx",
-                    "Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
-                    "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) "
-                                 "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36",
+        self.get_accounting_units(party_id, tmp_vs, tmp_ev)
 
-                })
+        emblems = soup.findAll('a',
+            id=re.compile(r"ctl00_ContentPlaceHolder1_ProfileControl1_gvEmblems_ctl[0-9]+_lnkEmblemId"))
 
-            req = self.session.get("https://pefonline.electoralcommission.org.uk"
-                                "/Search/ViewRegistrations/Profile.aspx")
+        if emblems:
 
-
-            soup = bs4.BeautifulSoup(req.text)
-            self.save_file(path, unicode(soup).encode('utf8'))
-
-            tmp_vs = soup.find(id="__VIEWSTATE")['value']
-            tmp_ev = soup.find(id="__EVENTVALIDATION")['value']
-
-            self.get_accounting_units(party_id, tmp_vs, tmp_ev)
-
-            emblems = soup.findAll('a',
-                id=re.compile(r"ctl00_ContentPlaceHolder1_ProfileControl1_gvEmblems_ctl[0-9]+_lnkEmblemId"))
-
-            if emblems:
-
-                for emblem in emblems:
-                    self.get_emblem(party_id, emblem, tmp_vs, tmp_ev)
+            for emblem in emblems:
+                self.get_emblem(party_id, emblem, tmp_vs, tmp_ev)
 
 
 
 
-        def get_emblem(self, party_id, link, vs, ev):
-            target = link['href'].split("'")[1]
-            data = {
-                "__EVENTTARGET": target,
-                "__VIEWSTATE": vs,
-                '__EVENTVALIDATION': ev,
-                "__VIEWSTATEENCRYPTED": '',
-                "__EVENTARGUMENT": '',
-            }
+    def get_emblem(self, party_id, link, vs, ev):
+        target = link['href'].split("'")[1]
+        data = {
+            "__EVENTTARGET": target,
+            "__VIEWSTATE": vs,
+            '__EVENTVALIDATION': ev,
+            "__VIEWSTATEENCRYPTED": '',
+            "__EVENTARGUMENT": '',
+        }
 
-            req = self.session.post(
-                "https://pefonline.electoralcommission.org.uk/Search/ViewRegistrations/Profile.aspx",
-                data, headers={
-                    "Referer":"https://pefonline.electoralcommission.org.uk/Search"
-                                              "/EntitySearch.aspx",
-                    "Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
-                    "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) "
-                         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36",
-                    "Accept":"text/html,application/xhtml+xml,"
-                             "application/xml;q=0.9,image/webp,*/*;q=0.8",
-                    "Origin":"https://pefonline.electoralcommission.org.uk",
-                    "Content-Length":"95712",
-                    "Accept-Encoding":"gzip, deflate",
-                })
-
-            filename = req.headers['content-disposition'].split('=')[-1]
-            path = "raw_data/{0}/{1}".format(party_id, filename)
-            self.save_file(path, req.content, mode="wb")
-            self.trim_logo(path)
-
-
-        def trim_logo(self, path):
-            """
-            With thanks to this SO post:
-            http://stackoverflow.com/questions/10615901/trim-whitespace-using-pil
-            """
-            try:
-                im = Image.open(path)
-            except IOError:
-                # Sometimes the images don't exist.  Just return in that case
-                return
-            im = im.convert('RGB')
-            # Don't get 0,0, as some have a black border
-            bg = Image.new(im.mode, im.size, im.getpixel((5,5)))
-            diff = ImageChops.difference(im, bg)
-            diff = ImageChops.add(diff, diff, 1.0, -100)
-            bbox = diff.getbbox()
-            if bbox:
-                new_im = im.crop(bbox)
-                new_im.save(path)
-
-        def get_accounting_units(self, party_id, vs, ev):
-            data = {
-                "__EVENTTARGET": "ctl00$ContentPlaceHolder1$ProfileControl1$lnkViewAccountingUnits",
-                "__VIEWSTATE": vs,
-                '__EVENTVALIDATION': ev,
-                "__VIEWSTATEENCRYPTED": '',
-                "__EVENTARGUMENT": '',
-            }
-
-            req = self.session.post(
+        req = self.session.post(
             "https://pefonline.electoralcommission.org.uk/Search/ViewRegistrations/Profile.aspx",
             data, headers={
-                "X-MicrosoftAjax":"Delta=true",
                 "Referer":"https://pefonline.electoralcommission.org.uk/Search"
                                           "/EntitySearch.aspx",
                 "Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
@@ -318,34 +268,85 @@ if __name__ == "__main__":
                 "Accept":"text/html,application/xhtml+xml,"
                          "application/xml;q=0.9,image/webp,*/*;q=0.8",
                 "Origin":"https://pefonline.electoralcommission.org.uk",
+                "Content-Length":"95712",
                 "Accept-Encoding":"gzip, deflate",
             })
 
-            if not "ErrorHandler.aspx" in req.text:
-                req = self.session.get("https://pefonline.electoralcommission.org.uk"
-                                            "/Search/ViewRegistrations/AccountingUnitsProfile.aspx")
-                if not "This party doesn't currently have any accounting " \
-                      "units" in req.text:
-                    print "GOT ACCOUNTING UNITS"
-                    path = "raw_data/{0}/accounting_untis.html".format(party_id)
-                    self.save_file(path, req.text.encode('utf8'))
-
-        def save_file(self, full_path, content, mode="w"):
-            path, file_name = head, tail = os.path.split(full_path)
-
-            if not os.path.exists(path):
-                os.makedirs(path)
-
-            with open(full_path, mode) as f:
-                f.write(content)
-
-        def get_all(self):
-            self.first_page()
-            self.form_page()
-            self.results()
+        filename = req.headers['content-disposition'].split('=')[-1]
+        path = "raw_data/{0}/{1}".format(party_id, filename)
+        self.save_file(path, req.content, mode="wb")
+        self.trim_logo(path)
 
 
+    def trim_logo(self, path):
+        """
+        With thanks to this SO post:
+        http://stackoverflow.com/questions/10615901/trim-whitespace-using-pil
+        """
+        try:
+            im = Image.open(path)
+        except IOError:
+            # Sometimes the images don't exist.  Just return in that case
+            return
+        im = im.convert('RGB')
+        # Don't get 0,0, as some have a black border
+        bg = Image.new(im.mode, im.size, im.getpixel((5,5)))
+        diff = ImageChops.difference(im, bg)
+        diff = ImageChops.add(diff, diff, 1.0, -100)
+        bbox = diff.getbbox()
+        if bbox:
+            new_im = im.crop(bbox)
+            new_im.save(path)
 
+    def get_accounting_units(self, party_id, vs, ev):
+        data = {
+            "__EVENTTARGET": "ctl00$ContentPlaceHolder1$ProfileControl1$lnkViewAccountingUnits",
+            "__VIEWSTATE": vs,
+            '__EVENTVALIDATION': ev,
+            "__VIEWSTATEENCRYPTED": '',
+            "__EVENTARGUMENT": '',
+        }
+
+        req = self.session.post(
+        "https://pefonline.electoralcommission.org.uk/Search/ViewRegistrations/Profile.aspx",
+        data, headers={
+            "X-MicrosoftAjax":"Delta=true",
+            "Referer":"https://pefonline.electoralcommission.org.uk/Search"
+                                      "/EntitySearch.aspx",
+            "Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
+            "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) "
+                 "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36",
+            "Accept":"text/html,application/xhtml+xml,"
+                     "application/xml;q=0.9,image/webp,*/*;q=0.8",
+            "Origin":"https://pefonline.electoralcommission.org.uk",
+            "Accept-Encoding":"gzip, deflate",
+        })
+
+        if not "ErrorHandler.aspx" in req.text:
+            req = self.session.get("https://pefonline.electoralcommission.org.uk"
+                                        "/Search/ViewRegistrations/AccountingUnitsProfile.aspx")
+            if not "This party doesn't currently have any accounting " \
+                  "units" in req.text:
+                print "GOT ACCOUNTING UNITS"
+                path = "raw_data/{0}/accounting_untis.html".format(party_id)
+                self.save_file(path, req.text.encode('utf8'))
+
+    def save_file(self, full_path, content, mode="w"):
+        path, file_name = head, tail = os.path.split(full_path)
+
+        if not os.path.exists(path):
+            os.makedirs(path)
+
+        with open(full_path, mode) as f:
+            f.write(content)
+
+    def get_all(self):
+        self.first_page()
+        self.form_page()
+        self.results()
+
+
+if __name__ == "__main__":
     e = ElectoralCommissionScraper()
     print "GETTING WHOLE LIST"
     e.get_all()

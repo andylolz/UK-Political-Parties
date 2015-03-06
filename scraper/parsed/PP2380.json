@@ -6,7 +6,14 @@
     "postcode": "SE5 9ED", 
     "party_leader": "Mr Waleed Ghani", 
     "nominating_officer": "Mr Waleed Ghani", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1040.jpg", 
+            "primary": false, 
+            "id": "1040", 
+            "description": "Whig Fox"
+        }
+    ], 
     "party_address": "Flat 5\r\nBergen House\r\nCarew Street\r\nLondon\r\nSE5 9ED\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
@@ -43,6 +50,10 @@
         {
             "translation": "", 
             "description": "The buff and blues"
+        }, 
+        {
+            "translation": "", 
+            "description": "Whig Party Candidate"
         }
     ]
 }

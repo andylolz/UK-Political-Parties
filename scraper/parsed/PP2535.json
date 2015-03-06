@@ -6,7 +6,14 @@
     "postcode": "KT24 5DB", 
     "party_leader": "Mrs Susan Parker", 
     "nominating_officer": "Mr Michael Bruton", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1138.png", 
+            "primary": false, 
+            "id": "1138", 
+            "description": "emblem"
+        }
+    ], 
     "party_address": "Hadlands, High Park Avenue\r\nEast Horsley\r\nSurrey\r\nKT24 5DB\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

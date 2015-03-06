@@ -1,0 +1,54 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Meghan Brown", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-02-27T00:00:00", 
+    "postcode": "SY2 6LG", 
+    "party_leader": "Mr Stirling McNeillie", 
+    "nominating_officer": "Mr Stirling McNeillie", 
+    "emblems": [
+        {
+            "image": "Emblem_1060.jpg", 
+            "primary": false, 
+            "id": "1060", 
+            "description": "spin logo 5cm square"
+        }
+    ], 
+    "party_address": "Emstrey House NORTH\r\nShrewsbury Business Park\r\nShrewsbury\r\nSY2 6LG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Stirling McNeillie", 
+    "party_id": "PP2567", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -2.716295370550396, 
+            52.692194376376825
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Children of the Atom", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

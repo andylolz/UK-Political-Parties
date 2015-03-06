@@ -1,77 +1,6 @@
 {
     "fielding_in": [], 
-    "other_officers": [
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "John Clarke Atkinson", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Martin Bridewell", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "David John Brothers", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "James Carver", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Neil Darran Jukes", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Donald Mackay", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Geoffrey Sidall", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Michael John Speakman", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Peter Staveley", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Hugh Martyn Williams", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }
-    ], 
+    "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
     "postcode": "TQ12 6UT", 
@@ -160,11 +89,11 @@
         }, 
         {
             "translation": "", 
-            "description": "SAY NO TO EUROPEAN UNION"
+            "description": "Say no to European Union"
         }, 
         {
             "translation": "", 
-            "description": "UKIP - SCRAP HS2"
+            "description": "UKIP - Scrap HS2"
         }, 
         {
             "translation": "", 
@@ -172,7 +101,7 @@
         }, 
         {
             "translation": "", 
-            "description": "SAY NO TO TAX RISES"
+            "description": "Say no to Tax Rises"
         }
     ]
 }

@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-02-12T00:00:00", 
+    "postcode": "FY7 8JQ", 
+    "party_leader": "Mr Mark Berry", 
+    "nominating_officer": "Ms Cheryl Atkinson", 
+    "emblems": [], 
+    "party_address": "7 Bristol Avenue\r\nRossall\r\nFleetwood\r\nLancashire\r\nFY7 8JQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Cheryl Atkinson", 
+    "party_id": "PP2595", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -3.045503720337305, 
+            53.90164553910126
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "We Are The Reality Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Reality Party It's Your Reality"
+        }
+    ]
+}

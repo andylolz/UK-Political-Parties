@@ -6,7 +6,14 @@
     "postcode": "M41 7EQ", 
     "party_leader": "Mr Paul Carson", 
     "nominating_officer": "Mrs Julie Carson", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1098.jpg", 
+            "primary": false, 
+            "id": "1098", 
+            "description": "Emblem 1"
+        }
+    ], 
     "party_address": "7 Lewis Avenue\r\nDavyhulme\r\nUrmston\r\nManchester\r\nM41 7EQ\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

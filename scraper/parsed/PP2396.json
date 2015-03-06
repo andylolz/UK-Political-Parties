@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Daniel Ma", 
+    "registered_date": "2015-02-27T00:00:00", 
+    "postcode": "EC2A 4NE", 
+    "party_leader": "Mr Kin Chung WONG", 
+    "nominating_officer": "Mr Daniel Ma", 
+    "emblems": [
+        {
+            "image": "Emblem_1139.jpg", 
+            "primary": false, 
+            "id": "1139", 
+            "description": "emblem 1 bw"
+        }
+    ], 
+    "party_address": "4TH FLOOR\r\n86-90\r\nPaul Street London\r\nLONDON\r\nLondon\r\nEC2A 4NE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Tat Hang Lau", 
+    "party_id": "PP2396", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.0836282993140518, 
+            51.52561506151045
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Hong Kong Independence Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

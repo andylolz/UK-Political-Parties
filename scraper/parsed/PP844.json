@@ -18,6 +18,12 @@
             "primary": false, 
             "id": "605", 
             "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_1051.jpg", 
+            "primary": false, 
+            "id": "1051", 
+            "description": "Emblem 3"
         }
     ], 
     "party_address": "521 Romford Road\r\nLondon\r\nE7 8AD\r\nUnited Kingdom\r\n", 

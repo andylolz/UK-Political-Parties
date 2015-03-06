@@ -60,7 +60,7 @@
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Ian Price", 
+            "name": "Emilie Oldknow", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": true
         }, 
@@ -74,14 +74,7 @@
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Katherine Segal", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": true
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Fiona Stanton", 
+            "name": "Brian Roy", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": true
         }
