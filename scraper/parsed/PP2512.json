@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-03-12T00:00:00", 
+    "postcode": "OL16 2TU", 
+    "party_leader": "Mrs SHEFALI FAROOQ AHMED", 
+    "nominating_officer": "Mr farooq Ahmed", 
+    "emblems": [
+        {
+            "image": "Emblem_1149.jpg", 
+            "primary": false, 
+            "id": "1149", 
+            "description": "emblem 1"
+        }
+    ], 
+    "party_address": "107 Bellshill Crescent\r\nRochdale\r\nOL16 2TU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr farooq Ahmed", 
+    "party_id": "PP2512", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -2.1305411601216537, 
+            53.6220262672771
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Rochdale First Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

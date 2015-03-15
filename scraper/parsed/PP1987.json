@@ -9,6 +9,7 @@
             "deputy_treasurer": true
         }
     ], 
+    "deregistered_date": "2015-03-11T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-12-12T00:00:00", 
     "postcode": "NE34 8BU", 
@@ -26,13 +27,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Voluntarily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs June Elsom", 
-    "party_id": "PP1987", 
+    "party_name": "Independent - Putting People First", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -46,7 +47,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "Independent - Putting People First", 
+    "party_id": "PP1987", 
     "alternative_names": [
         ""
     ], 

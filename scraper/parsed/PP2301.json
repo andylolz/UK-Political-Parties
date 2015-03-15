@@ -14,7 +14,14 @@
     "postcode": "BS24 6UL", 
     "party_leader": "Cllr Derek Mead", 
     "nominating_officer": "Mr Ian Rowland", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1145.jpg", 
+            "primary": false, 
+            "id": "1145", 
+            "description": "Emblem 1"
+        }
+    ], 
     "party_address": "The Laurels\r\nWest Rolstone Road\r\nHewish\r\nWeston super Mare\r\nSomerset\r\nBS24 6UL\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

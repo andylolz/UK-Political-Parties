@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2015-03-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-29T00:00:00", 
     "postcode": "CR0 3JP", 
@@ -24,13 +25,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Statutorily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Vasuthevar Nehru", 
-    "party_id": "PP813", 
+    "party_name": "People's Front of Liberation Tigers", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -44,7 +45,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "People's Front of Liberation Tigers", 
+    "party_id": "PP813", 
     "alternative_names": [
         ""
     ], 

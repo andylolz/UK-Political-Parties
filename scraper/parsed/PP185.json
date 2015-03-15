@@ -9,7 +9,6 @@
             "deputy_treasurer": false
         }
     ], 
-    "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-16T00:00:00", 
     "postcode": "CR2 6EE", 
@@ -39,13 +38,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
+    "status": "Authorised", 
     "fax": "", 
-    "end_date": "2014-12-31T00:00:00", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mark Samuel", 
-    "party_name": "Putting Croydon First!", 
+    "party_id": "PP185", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -59,7 +58,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP185", 
+    "party_name": "Putting Croydon First!", 
     "alternative_names": [
         ""
     ], 

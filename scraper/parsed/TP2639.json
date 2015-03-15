@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -0.2864097956301713, 
             51.41241782920805
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": null, 
     "party_name": "Fire Brigades Union", 

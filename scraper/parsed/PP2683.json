@@ -1,0 +1,67 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-03-12T00:00:00", 
+    "postcode": "NE33 9EW", 
+    "party_leader": "Mr Michael Whitby", 
+    "nominating_officer": "Mr Martin Vaughan", 
+    "emblems": [
+        {
+            "image": "Emblem_1146.jpg", 
+            "primary": false, 
+            "id": "1146", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "PO Box 216\r\nSouth Shields\r\nNE33 9EW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Michael Whitby", 
+    "party_id": "PP2683", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -1.4264151, 
+            54.9941508
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The British Voice", 
+    "alternative_names": [
+        "Llais Prydain"
+    ], 
+    "descriptions": [
+        {
+            "translation": "Yn Amddiffyn Pobl Prydain", 
+            "description": "Protecting British People"
+        }, 
+        {
+            "translation": "", 
+            "description": "Bringing British People Together"
+        }, 
+        {
+            "translation": "", 
+            "description": "Representing the Views of British People"
+        }, 
+        {
+            "translation": "", 
+            "description": "Preserving British Culture"
+        }, 
+        {
+            "translation": "", 
+            "description": "Uniting the People of Broken Britain"
+        }
+    ]
+}

@@ -46,7 +46,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "Vox Pop", 
+    "party_name": "Stratford First", 
     "alternative_names": [
         ""
     ], 
@@ -58,18 +58,6 @@
         {
             "translation": "", 
             "description": "Stratford First Independent"
-        }, 
-        {
-            "translation": "", 
-            "description": "Vox Pop"
-        }, 
-        {
-            "translation": "", 
-            "description": "Vox Pop Independent Alliance"
-        }, 
-        {
-            "translation": "", 
-            "description": "Vox Pop Independent"
         }, 
         {
             "translation": "", 

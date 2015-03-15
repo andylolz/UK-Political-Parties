@@ -1,0 +1,61 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Tris Cotterill", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Al Murray", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Chris Scott", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Mr Tris Cotterill", 
+    "registered_date": "2015-03-06T00:00:00", 
+    "postcode": "W10 6BD", 
+    "party_leader": "Mr Al Murray", 
+    "nominating_officer": "Mr Tris Cotterill", 
+    "emblems": [], 
+    "party_address": "4a Exmoor Street\r\nLondon\r\nW10 6BD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Chris Scott", 
+    "party_id": "PP2597", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -0.2174475019556384, 
+            51.523498518124356
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Free United Kingdom Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

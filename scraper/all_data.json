@@ -2036,43 +2036,6 @@
         "other_officers": [], 
         "campaigns_officer": null, 
         "registered_date": "2014-07-14T00:00:00", 
-        "postcode": "EH6 5QG", 
-        "party_leader": null, 
-        "nominating_officer": null, 
-        "emblems": [], 
-        "party_address": "Bonnington Mill\r\n72 Newhaven Road\r\nEdinburgh\r\nEH6 5QG\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": null, 
-        "status": "Authorised", 
-        "fax": "", 
-        "end_date": null, 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": null, 
-        "party_id": "PerPar2425", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": null, 
-            "exempt_from_quarterly_transaction_returns": null, 
-            "exempt_from_quarterly_donation_returns": null
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -3.1872391895084013, 
-                55.9713691769985
-            ]
-        }, 
-        "register": null, 
-        "party_name": "Scottish Green Party", 
-        "alternative_names": [], 
-        "descriptions": []
-    }, 
-    {
-        "fielding_in": [], 
-        "other_officers": [], 
-        "campaigns_officer": null, 
-        "registered_date": "2014-07-14T00:00:00", 
         "postcode": "NW1 2HD", 
         "party_leader": null, 
         "nominating_officer": null, 
@@ -5432,58 +5395,11 @@
     {
         "fielding_in": [], 
         "other_officers": [], 
-        "deregistered_date": "2011-05-05T00:00:00", 
-        "campaigns_officer": "None", 
-        "registered_date": "2000-06-26T00:00:00", 
-        "postcode": "SA12 6JX", 
-        "party_leader": "Mr Captain Beany", 
-        "nominating_officer": "Mr Chris Garrett", 
-        "emblems": [
-            {
-                "image": "Emblem_8.gif", 
-                "primary": false, 
-                "id": "8", 
-                "description": "A smiling baked bean complete with shades encompassed by the name New Millennium Bean Party"
-            }
-        ], 
-        "party_address": "6 Flint House\r\nMoorland Road\r\nSandfields Estate\r\nPort Talbot\r\nWest Glamorgan\r\nSA12 6JX\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": "31/12", 
-        "status": "Voluntarily Deregistered", 
-        "fax": "", 
-        "end_date": "2011-12-31T00:00:00", 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": "Mr Captain Beany", 
-        "party_name": "New Millennium Bean Party", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": false, 
-            "exempt_from_quarterly_transaction_returns": true, 
-            "exempt_from_quarterly_donation_returns": true
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -3.8128063320453003, 
-                51.594030597610335
-            ]
-        }, 
-        "register": "Great Britain", 
-        "party_id": "PP13", 
-        "alternative_names": [
-            ""
-        ], 
-        "descriptions": []
-    }, 
-    {
-        "fielding_in": [], 
-        "other_officers": [], 
-        "campaigns_officer": "Mr Dave Owen", 
+        "campaigns_officer": "Ms Barbara Watt", 
         "registered_date": "2001-04-04T00:00:00", 
         "postcode": "EH6 5QG", 
         "party_leader": "Ms Martha Wardrop", 
-        "nominating_officer": "Mr Dave Owen", 
+        "nominating_officer": "Ms Martha Wardrop", 
         "emblems": [
             {
                 "image": "Emblem_145.gif", 
@@ -7788,7 +7704,7 @@
             ]
         }, 
         "register": "Great Britain", 
-        "party_name": "Vox Pop", 
+        "party_name": "Stratford First", 
         "alternative_names": [
             ""
         ], 
@@ -7800,18 +7716,6 @@
             {
                 "translation": "", 
                 "description": "Stratford First Independent"
-            }, 
-            {
-                "translation": "", 
-                "description": "Vox Pop"
-            }, 
-            {
-                "translation": "", 
-                "description": "Vox Pop Independent Alliance"
-            }, 
-            {
-                "translation": "", 
-                "description": "Vox Pop Independent"
             }, 
             {
                 "translation": "", 
@@ -10587,7 +10491,6 @@
                 "deputy_treasurer": false
             }
         ], 
-        "deregistered_date": "2014-11-01T00:00:00", 
         "campaigns_officer": "None", 
         "registered_date": "2001-05-16T00:00:00", 
         "postcode": "CR2 6EE", 
@@ -10617,13 +10520,13 @@
         "email": "", 
         "gibraltar_party": false, 
         "financial_year_end": "31/12", 
-        "status": "Statutorily Deregistered", 
+        "status": "Authorised", 
         "fax": "", 
-        "end_date": "2014-12-31T00:00:00", 
+        "end_date": null, 
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mr Mark Samuel", 
-        "party_name": "Putting Croydon First!", 
+        "party_id": "PP185", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": true, 
             "exempt_from_quarterly_transaction_returns": true, 
@@ -10637,7 +10540,7 @@
             ]
         }, 
         "register": "Great Britain", 
-        "party_id": "PP185", 
+        "party_name": "Putting Croydon First!", 
         "alternative_names": [
             ""
         ], 
@@ -12881,81 +12784,6 @@
     }, 
     {
         "fielding_in": [], 
-        "other_officers": [
-            {
-                "deputy_additional_officer": false, 
-                "deputy_nominating_officer": false, 
-                "name": "Jamie Hodgkinson", 
-                "deputy_campaigns_officer": false, 
-                "deputy_treasurer": false
-            }
-        ], 
-        "campaigns_officer": "Cllr James Ellis", 
-        "registered_date": "2012-12-05T00:00:00", 
-        "postcode": "M46 9LX", 
-        "party_leader": "Cllr Garry Wilkes", 
-        "nominating_officer": "Cllr Norman Bradbury", 
-        "emblems": [
-            {
-                "image": "Emblem_875.jpg", 
-                "primary": false, 
-                "id": "875", 
-                "description": "WIN"
-            }
-        ], 
-        "party_address": "20 Hillside Avenue\r\nAtherton\r\nManchester\r\nLancashire\r\nM46 9LX\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": "30/09", 
-        "status": "Authorised", 
-        "fax": "", 
-        "end_date": null, 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": "Cllr John Donald Hodgkinson", 
-        "party_id": "PP1951", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": true, 
-            "exempt_from_quarterly_transaction_returns": true, 
-            "exempt_from_quarterly_donation_returns": true
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -2.480489619059585, 
-                53.53127543930422
-            ]
-        }, 
-        "register": "Great Britain", 
-        "party_name": "Wigan Independent Network", 
-        "alternative_names": [
-            ""
-        ], 
-        "descriptions": [
-            {
-                "translation": "", 
-                "description": "Councillors representing People not Parties"
-            }, 
-            {
-                "translation": "", 
-                "description": "Support Real Local Democracy"
-            }, 
-            {
-                "translation": "", 
-                "description": "Encourage Town and Parish Councils"
-            }, 
-            {
-                "translation": "", 
-                "description": "Always supporting what the people want"
-            }, 
-            {
-                "translation": "", 
-                "description": "Always Abiding by the Nolan Principals"
-            }
-        ]
-    }, 
-    {
-        "fielding_in": [], 
         "other_officers": [], 
         "deregistered_date": "2015-01-12T00:00:00", 
         "campaigns_officer": "None", 
@@ -14228,6 +14056,7 @@
                 "deputy_treasurer": true
             }
         ], 
+        "deregistered_date": "2015-03-11T00:00:00", 
         "campaigns_officer": "None", 
         "registered_date": "2012-12-12T00:00:00", 
         "postcode": "NE34 8BU", 
@@ -14245,13 +14074,13 @@
         "email": "", 
         "gibraltar_party": false, 
         "financial_year_end": "31/12", 
-        "status": "Authorised", 
+        "status": "Voluntarily Deregistered", 
         "fax": "", 
-        "end_date": null, 
+        "end_date": "2015-12-31T00:00:00", 
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mrs June Elsom", 
-        "party_id": "PP1987", 
+        "party_name": "Independent - Putting People First", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": true, 
             "exempt_from_quarterly_transaction_returns": true, 
@@ -14265,7 +14094,7 @@
             ]
         }, 
         "register": "Great Britain", 
-        "party_name": "Independent - Putting People First", 
+        "party_id": "PP1987", 
         "alternative_names": [
             ""
         ], 
@@ -15175,6 +15004,7 @@
     {
         "fielding_in": [], 
         "other_officers": [], 
+        "deregistered_date": "2015-03-06T00:00:00", 
         "campaigns_officer": "None", 
         "registered_date": "2013-02-13T00:00:00", 
         "postcode": "SO30 4AZ", 
@@ -15185,13 +15015,13 @@
         "email": "", 
         "gibraltar_party": false, 
         "financial_year_end": "31/12", 
-        "status": "Authorised", 
+        "status": "Statutorily Deregistered", 
         "fax": "", 
-        "end_date": null, 
+        "end_date": "2015-12-31T00:00:00", 
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mr Raymond Hall", 
-        "party_id": "PP2027", 
+        "party_name": "Beer, Baccy and Crumpet Party", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": true, 
             "exempt_from_quarterly_transaction_returns": true, 
@@ -15205,7 +15035,7 @@
             ]
         }, 
         "register": "Great Britain", 
-        "party_name": "Beer, Baccy and Crumpet Party", 
+        "party_id": "PP2027", 
         "alternative_names": [
             ""
         ], 
@@ -15379,22 +15209,16 @@
         "nominating_officer": "Dr George Whale", 
         "emblems": [
             {
-                "image": "Emblem_810.jpg", 
+                "image": "Emblem_1150.jpg", 
                 "primary": false, 
-                "id": "810", 
-                "description": "Liberty GB Black Text"
+                "id": "1150", 
+                "description": "Emblem 1"
             }, 
             {
-                "image": "Emblem_811.jpg", 
+                "image": "Emblem_1151.jpg", 
                 "primary": false, 
-                "id": "811", 
-                "description": "Liberty GB White Text"
-            }, 
-            {
-                "image": "Emblem_985.jpg", 
-                "primary": false, 
-                "id": "985", 
-                "description": "Liberty GB Black 'L'"
+                "id": "1151", 
+                "description": "Emblem 2"
             }
         ], 
         "party_address": "Liberty GB\r\n3rd Floor\r\n207 Regent Street\r\nLONDON\r\nLondon\r\nW1B 3HH\r\nUnited Kingdom\r\n", 
@@ -15421,7 +15245,7 @@
             ]
         }, 
         "register": "Great Britain", 
-        "party_name": "Liberty Great Britain", 
+        "party_name": "Liberty GB", 
         "alternative_names": [
             ""
         ], 
@@ -15881,7 +15705,7 @@
             }, 
             {
                 "translation": "", 
-                "description": "Free and inclusive education for ALL"
+                "description": "Free and inclusive education for All"
             }, 
             {
                 "translation": "", 
@@ -17885,6 +17709,50 @@
     {
         "fielding_in": [], 
         "other_officers": [], 
+        "campaigns_officer": "None", 
+        "registered_date": "2013-09-05T00:00:00", 
+        "postcode": "BH17 9EE", 
+        "party_leader": "Mr Nicholas Tapping", 
+        "nominating_officer": "Mr Peter Mogridge", 
+        "emblems": [], 
+        "party_address": "39 Knowlton Road\r\nPoole\r\nDorset\r\nBH17 9EE\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr Nicholas Tapping", 
+        "party_id": "PP2144", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": true, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -1.9637583176573634, 
+                50.75202027213517
+            ]
+        }, 
+        "register": "Great Britain", 
+        "party_name": "The Money Free Party", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": [
+            {
+                "translation": "", 
+                "description": "M.F.P."
+            }
+        ]
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
         "deregistered_date": "2004-07-14T00:00:00", 
         "campaigns_officer": "Mr William Martin-Grayston", 
         "registered_date": "2002-03-21T00:00:00", 
@@ -18129,58 +17997,6 @@
             ""
         ], 
         "descriptions": []
-    }, 
-    {
-        "fielding_in": [], 
-        "other_officers": [], 
-        "deregistered_date": "2014-07-08T00:00:00", 
-        "campaigns_officer": "None", 
-        "registered_date": "2013-10-10T00:00:00", 
-        "postcode": "DN22 7GR", 
-        "party_leader": "Mr M F Mustapha", 
-        "nominating_officer": "Mr M F Mustapha", 
-        "emblems": [
-            {
-                "image": "Emblem_876.jpg", 
-                "primary": false, 
-                "id": "876", 
-                "description": "Emblem 1"
-            }
-        ], 
-        "party_address": "Retford Enterprise Centre\r\nRandall Way\r\nRetford\r\nNottinghamshire\r\nDN22 7GR\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": "31/12", 
-        "status": "Voluntarily Deregistered", 
-        "fax": "", 
-        "end_date": "2014-12-31T00:00:00", 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": "Mrs Isobel Law", 
-        "party_name": "PiP", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": false, 
-            "exempt_from_quarterly_transaction_returns": false, 
-            "exempt_from_quarterly_donation_returns": false
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -0.9612326710512478, 
-                53.33414638313628
-            ]
-        }, 
-        "register": "Great Britain", 
-        "party_id": "PP2161", 
-        "alternative_names": [
-            ""
-        ], 
-        "descriptions": [
-            {
-                "translation": "", 
-                "description": "Patriotic Inclusive Political"
-            }
-        ]
     }, 
     {
         "fielding_in": [], 
@@ -19847,6 +19663,60 @@
     }, 
     {
         "fielding_in": [], 
+        "other_officers": [
+            {
+                "deputy_additional_officer": false, 
+                "deputy_nominating_officer": false, 
+                "name": "Alan William Findlay", 
+                "deputy_campaigns_officer": false, 
+                "deputy_treasurer": false
+            }
+        ], 
+        "campaigns_officer": "None", 
+        "registered_date": "2014-09-12T00:00:00", 
+        "postcode": "G64 1PL", 
+        "party_leader": "Mr Marc Conaghan", 
+        "nominating_officer": "Mr John George Watson", 
+        "emblems": [
+            {
+                "image": "Emblem_989.png", 
+                "primary": false, 
+                "id": "989", 
+                "description": "Blue and yellow swirls surrounding a rising phoenix"
+            }
+        ], 
+        "party_address": "39 Springfield Road\r\nBishopbriggs\r\nStrathclyde\r\nG64 1PL\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Miss Katrina Angus", 
+        "party_id": "PP2245", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -4.21762955564298, 
+                55.90405302705192
+            ]
+        }, 
+        "register": "Great Britain", 
+        "party_name": "Scottish Libertarian Party", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
         "other_officers": [], 
         "campaigns_officer": "Mr Glenn Croston", 
         "registered_date": "2014-02-20T00:00:00", 
@@ -21040,7 +20910,14 @@
         "postcode": "BS24 6UL", 
         "party_leader": "Cllr Derek Mead", 
         "nominating_officer": "Mr Ian Rowland", 
-        "emblems": [], 
+        "emblems": [
+            {
+                "image": "Emblem_1145.jpg", 
+                "primary": false, 
+                "id": "1145", 
+                "description": "Emblem 1"
+            }
+        ], 
         "party_address": "The Laurels\r\nWest Rolstone Road\r\nHewish\r\nWeston super Mare\r\nSomerset\r\nBS24 6UL\r\nUnited Kingdom\r\n", 
         "email": "", 
         "gibraltar_party": false, 
@@ -21292,64 +21169,6 @@
                 "description": "Modern United Europeans"
             }
         ]
-    }, 
-    {
-        "fielding_in": [], 
-        "other_officers": [], 
-        "campaigns_officer": "Mrs Janice Jenner", 
-        "registered_date": "2002-03-21T00:00:00", 
-        "postcode": "KT5 8HQ", 
-        "party_leader": "Mr Dennis De Lord", 
-        "nominating_officer": "Mr Timothy Brown", 
-        "emblems": [
-            {
-                "image": "Emblem_195.gif", 
-                "primary": false, 
-                "id": "195", 
-                "description": "Lion logo Independent Group of Councillors"
-            }, 
-            {
-                "image": "Emblem_196.gif", 
-                "primary": false, 
-                "id": "196", 
-                "description": "Lion logo Independent"
-            }, 
-            {
-                "image": "Emblem_197.gif", 
-                "primary": false, 
-                "id": "197", 
-                "description": "Lion logo"
-            }
-        ], 
-        "party_address": "50 The Ridings\r\nSurbiton\r\nSurrey\r\nKT5 8HQ\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": "31/12", 
-        "status": "Authorised", 
-        "fax": "", 
-        "end_date": null, 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": "Mr Timothy Brown", 
-        "party_id": "PP231", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": true, 
-            "exempt_from_quarterly_transaction_returns": true, 
-            "exempt_from_quarterly_donation_returns": true
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -0.28597557450796735, 
-                51.396341882742604
-            ]
-        }, 
-        "register": "Great Britain", 
-        "party_name": "Independent Group of Councillors", 
-        "alternative_names": [
-            ""
-        ], 
-        "descriptions": []
     }, 
     {
         "fielding_in": [], 
@@ -23587,6 +23406,61 @@
     {
         "fielding_in": [], 
         "other_officers": [], 
+        "campaigns_officer": "None", 
+        "registered_date": "2015-03-12T00:00:00", 
+        "postcode": "E20 1AN", 
+        "party_leader": "Dr Raymond Smith", 
+        "nominating_officer": "Mr Paul Robinson", 
+        "emblems": [
+            {
+                "image": "Emblem_1025.jpg", 
+                "primary": false, 
+                "id": "1025", 
+                "description": "Emblem1"
+            }
+        ], 
+        "party_address": "61 Vesta House\r\n4 Liberty Bridge Road\r\nLondon\r\nLondon\r\nE20 1AN\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr Alexander Hilton", 
+        "party_id": "PP2486", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "coordinates ": [
+                -0.007846960125610949, 
+                51.54764337730929
+            ], 
+            "type": "Point"
+        }, 
+        "register": "Great Britain", 
+        "party_name": "Something New", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": [
+            {
+                "translation": "", 
+                "description": "Nothing borrowed. Nothing old. Something New."
+            }, 
+            {
+                "translation": "", 
+                "description": "The old politics working for you?"
+            }
+        ]
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
         "campaigns_officer": "Pippa Goldfinger", 
         "registered_date": "2014-11-21T00:00:00", 
         "postcode": "BA11 2LW", 
@@ -23855,6 +23729,52 @@
         }, 
         "register": "Great Britain", 
         "party_name": "Halstead Residents' Association", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "campaigns_officer": "None", 
+        "registered_date": "2015-03-12T00:00:00", 
+        "postcode": "OL16 2TU", 
+        "party_leader": "Mrs SHEFALI FAROOQ AHMED", 
+        "nominating_officer": "Mr farooq Ahmed", 
+        "emblems": [
+            {
+                "image": "Emblem_1149.jpg", 
+                "primary": false, 
+                "id": "1149", 
+                "description": "emblem 1"
+            }
+        ], 
+        "party_address": "107 Bellshill Crescent\r\nRochdale\r\nOL16 2TU\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr farooq Ahmed", 
+        "party_id": "PP2512", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "coordinates ": [
+                -2.1305411601216537, 
+                53.6220262672771
+            ], 
+            "type": "Point"
+        }, 
+        "register": "Great Britain", 
+        "party_name": "Rochdale First Party", 
         "alternative_names": [
             ""
         ], 
@@ -24755,6 +24675,120 @@
     }, 
     {
         "fielding_in": [], 
+        "other_officers": [
+            {
+                "deputy_additional_officer": false, 
+                "deputy_nominating_officer": true, 
+                "name": "dave pearson", 
+                "deputy_campaigns_officer": false, 
+                "deputy_treasurer": true
+            }
+        ], 
+        "campaigns_officer": "None", 
+        "registered_date": "2015-03-11T00:00:00", 
+        "postcode": "NG9 8DJ", 
+        "party_leader": "Mr dave pearson", 
+        "nominating_officer": "Mrs Amanda Hull", 
+        "emblems": [], 
+        "party_address": "42 CHURCH STREET\r\nSTAPLEFORD\r\nNG9 8DJ\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr dave pearson", 
+        "party_id": "PP2576", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": true, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "coordinates ": [
+                -1.2732930381882743, 
+                52.93240943518761
+            ], 
+            "type": "Point"
+        }, 
+        "register": "Great Britain", 
+        "party_name": "Stapleford Alliance", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [
+            {
+                "deputy_additional_officer": false, 
+                "deputy_nominating_officer": false, 
+                "name": "Amanda Williams", 
+                "deputy_campaigns_officer": false, 
+                "deputy_treasurer": false
+            }
+        ], 
+        "campaigns_officer": "None", 
+        "registered_date": "2015-03-12T00:00:00", 
+        "postcode": "MK7 8FE", 
+        "party_leader": "Mr Matthew Gibson", 
+        "nominating_officer": "Mr Matthew Gibson", 
+        "emblems": [
+            {
+                "image": "Emblem_1067.jpg", 
+                "primary": false, 
+                "id": "1067", 
+                "description": "Emblem 1"
+            }
+        ], 
+        "party_address": "122 Felsted\r\nCaldecotte\r\nMilton Keynes\r\nBuckinghamshire\r\nMK7 8FE\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr Matthew Gibson", 
+        "party_id": "PP2577", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "coordinates ": [
+                -0.7018271119606639, 
+                52.00649347888204
+            ], 
+            "type": "Point"
+        }, 
+        "register": "Great Britain", 
+        "party_name": "Keep It Real Party", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": [
+            {
+                "translation": "", 
+                "description": "Keep It Real Candidate"
+            }, 
+            {
+                "translation": "", 
+                "description": "The Keep It Real Party Candidate"
+            }, 
+            {
+                "translation": "", 
+                "description": "Let\u2019s Keep It Real"
+            }
+        ]
+    }, 
+    {
+        "fielding_in": [], 
         "other_officers": [], 
         "campaigns_officer": "None", 
         "registered_date": "2002-09-18T00:00:00", 
@@ -24919,6 +24953,67 @@
                 "description": "The Reality Party It's Your Reality"
             }
         ]
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [
+            {
+                "deputy_additional_officer": false, 
+                "deputy_nominating_officer": false, 
+                "name": "Tris Cotterill", 
+                "deputy_campaigns_officer": false, 
+                "deputy_treasurer": false
+            }, 
+            {
+                "deputy_additional_officer": false, 
+                "deputy_nominating_officer": false, 
+                "name": "Al Murray", 
+                "deputy_campaigns_officer": false, 
+                "deputy_treasurer": false
+            }, 
+            {
+                "deputy_additional_officer": false, 
+                "deputy_nominating_officer": false, 
+                "name": "Chris Scott", 
+                "deputy_campaigns_officer": false, 
+                "deputy_treasurer": false
+            }
+        ], 
+        "campaigns_officer": "Mr Tris Cotterill", 
+        "registered_date": "2015-03-06T00:00:00", 
+        "postcode": "W10 6BD", 
+        "party_leader": "Mr Al Murray", 
+        "nominating_officer": "Mr Tris Cotterill", 
+        "emblems": [], 
+        "party_address": "4a Exmoor Street\r\nLondon\r\nW10 6BD\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr Chris Scott", 
+        "party_id": "PP2597", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": true, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "coordinates ": [
+                -0.2174475019556384, 
+                51.523498518124356
+            ], 
+            "type": "Point"
+        }, 
+        "register": "Great Britain", 
+        "party_name": "Free United Kingdom Party", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": []
     }, 
     {
         "fielding_in": [], 
@@ -25247,6 +25342,12 @@
                 "primary": false, 
                 "id": "1107", 
                 "description": "Emblem 1"
+            }, 
+            {
+                "image": "Emblem_1153.jpg", 
+                "primary": false, 
+                "id": "1153", 
+                "description": "Emblem 2"
             }
         ], 
         "party_address": "9 Greenacre\r\nWesthead\r\nOrmskirk\r\nLancashire\r\nL40 6HR\r\nUnited Kingdom\r\n", 
@@ -25420,7 +25521,7 @@
         "registered_date": "2015-02-24T00:00:00", 
         "postcode": "CT10 1QB", 
         "party_leader": "Ms Ruth Bailey", 
-        "nominating_officer": "Ms Sophie Jordan", 
+        "nominating_officer": "Miss Sophie Jopson", 
         "emblems": [
             {
                 "image": "Emblem_1116.jpg", 
@@ -25773,6 +25874,146 @@
             "P\u00e0irt\u00ec an Fh\u00ecordhaonlathais"
         ], 
         "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "campaigns_officer": "None", 
+        "registered_date": "2015-03-12T00:00:00", 
+        "postcode": "NE33 9EW", 
+        "party_leader": "Mr Michael Whitby", 
+        "nominating_officer": "Mr Martin Vaughan", 
+        "emblems": [
+            {
+                "image": "Emblem_1146.jpg", 
+                "primary": false, 
+                "id": "1146", 
+                "description": "Emblem 1"
+            }
+        ], 
+        "party_address": "PO Box 216\r\nSouth Shields\r\nNE33 9EW\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr Michael Whitby", 
+        "party_id": "PP2683", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "coordinates ": [
+                -1.4264151, 
+                54.9941508
+            ], 
+            "type": "Point"
+        }, 
+        "register": "Great Britain", 
+        "party_name": "The British Voice", 
+        "alternative_names": [
+            "Llais Prydain"
+        ], 
+        "descriptions": [
+            {
+                "translation": "Yn Amddiffyn Pobl Prydain", 
+                "description": "Protecting British People"
+            }, 
+            {
+                "translation": "", 
+                "description": "Bringing British People Together"
+            }, 
+            {
+                "translation": "", 
+                "description": "Representing the Views of British People"
+            }, 
+            {
+                "translation": "", 
+                "description": "Preserving British Culture"
+            }, 
+            {
+                "translation": "", 
+                "description": "Uniting the People of Broken Britain"
+            }
+        ]
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "campaigns_officer": "Mrs Cathy Gardner", 
+        "registered_date": "2015-03-12T00:00:00", 
+        "postcode": "EX24 6JY", 
+        "party_leader": "Mr Ben Ingham", 
+        "nominating_officer": "Mr Paul Arnott", 
+        "emblems": [
+            {
+                "image": "Emblem_1147.jpg", 
+                "primary": false, 
+                "id": "1147", 
+                "description": "Emblem 1"
+            }, 
+            {
+                "image": "Emblem_1148.jpg", 
+                "primary": false, 
+                "id": "1148", 
+                "description": "Emblem 2"
+            }
+        ], 
+        "party_address": "Minton House\r\nChurch Street\r\nColyton\r\nDevon\r\nEX24 6JY\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mrs Sheila Smith", 
+        "party_id": "PP2684", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "coordinates ": [
+                -3.071177884534498, 
+                50.740889692272184
+            ], 
+            "type": "Point"
+        }, 
+        "register": "Great Britain", 
+        "party_name": "East Devon Alliance", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": [
+            {
+                "translation": "", 
+                "description": "Independent East Devon Alliance"
+            }, 
+            {
+                "translation": "", 
+                "description": "East Devon Alliance of Independents"
+            }, 
+            {
+                "translation": "", 
+                "description": "East Devon Independent Alliance"
+            }, 
+            {
+                "translation": "", 
+                "description": "Alliance of East Devon Independents"
+            }, 
+            {
+                "translation": "", 
+                "description": "East Devon Alliance: Working for you"
+            }
+        ]
     }, 
     {
         "fielding_in": [], 
@@ -29118,6 +29359,46 @@
         }, 
         "register": "Great Britain", 
         "party_id": "PP336", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "deregistered_date": "2006-05-11T00:00:00", 
+        "campaigns_officer": "None", 
+        "registered_date": "2003-06-11T00:00:00", 
+        "postcode": "M43 7DE", 
+        "party_leader": "Mr Jack Anthony Crossfield", 
+        "nominating_officer": "Mr Jack Anthony Crossfield", 
+        "emblems": [], 
+        "party_address": "32 Fold Avenue\r\nDroylsden\r\nTameside\r\nManchester\r\nLancashire\r\nM43 7DE\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Voluntarily Deregistered", 
+        "fax": "", 
+        "end_date": "2007-12-31T00:00:00", 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mrs Gwendoline Crossfield", 
+        "party_name": "Local Community Party (L.C.P.)", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": true
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -2.139812132393523, 
+                53.48590547149073
+            ]
+        }, 
+        "register": "Great Britain", 
+        "party_id": "PP339", 
         "alternative_names": [
             ""
         ], 
@@ -34044,6 +34325,79 @@
     {
         "fielding_in": [], 
         "other_officers": [], 
+        "campaigns_officer": "Mr Gerald Gordon Wheeler", 
+        "registered_date": "2000-01-27T00:00:00", 
+        "postcode": "DY10 1QX", 
+        "party_leader": "Mr Nigel John Thomas", 
+        "nominating_officer": "Mr Peter Winston Montgomery Young", 
+        "emblems": [
+            {
+                "image": "Emblem_35.gif", 
+                "primary": false, 
+                "id": "35", 
+                "description": "Heart in hand"
+            }, 
+            {
+                "image": "Emblem_976.png", 
+                "primary": false, 
+                "id": "976", 
+                "description": "Heart in hand with text"
+            }
+        ], 
+        "party_address": "Independent Kidderminster Hospital and Health Concern\r\nStation Approach\r\nComberton Hill\r\nKidderminster\r\nWorcestershire\r\nDY10 1QX\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr Keith Roderick Robertson", 
+        "party_id": "PP44", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": true, 
+            "exempt_from_quarterly_donation_returns": true
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -2.240275910424151, 
+                52.384117528867954
+            ]
+        }, 
+        "register": "Great Britain", 
+        "party_name": "Independent Kidderminster Hospital and Health Concern", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": [
+            {
+                "translation": "", 
+                "description": "Independent Health Concern"
+            }, 
+            {
+                "translation": "", 
+                "description": "Health Concern"
+            }, 
+            {
+                "translation": "", 
+                "description": "IHC"
+            }, 
+            {
+                "translation": "", 
+                "description": "Community And Health Concern"
+            }, 
+            {
+                "translation": "", 
+                "description": "Independent Community And Health Concern"
+            }
+        ]
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
         "campaigns_officer": "Mrs Helen Simpson-Storey", 
         "registered_date": "2005-03-05T00:00:00", 
         "postcode": "TS15 9TU", 
@@ -35346,6 +35700,46 @@
     }, 
     {
         "fielding_in": [], 
+        "other_officers": [], 
+        "deregistered_date": "2009-06-08T00:00:00", 
+        "campaigns_officer": "None", 
+        "registered_date": "2005-04-04T00:00:00", 
+        "postcode": "NE20 9PQ", 
+        "party_leader": "The Reverend Andrew Paul Merton", 
+        "nominating_officer": "Mr John Douglas Hague", 
+        "emblems": [], 
+        "party_address": "159 Darras Road\r\nPonteland\r\nNewcastle upon Tyne\r\nNE20 9PQ\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Voluntarily Deregistered", 
+        "fax": "", 
+        "end_date": "2010-12-31T00:00:00", 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr John Douglas Hague", 
+        "party_name": "Newcastle Academy with Christian Values Party", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": true, 
+            "exempt_from_quarterly_donation_returns": true
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -1.7581725798082715, 
+                55.04123517917777
+            ]
+        }, 
+        "register": "Great Britain", 
+        "party_id": "PP470", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
         "other_officers": [
             {
                 "deputy_additional_officer": false, 
@@ -36216,6 +36610,7 @@
     {
         "fielding_in": [], 
         "other_officers": [], 
+        "deregistered_date": "2015-03-06T00:00:00", 
         "campaigns_officer": "None", 
         "registered_date": "2005-04-12T00:00:00", 
         "postcode": "L39 2XF", 
@@ -36239,13 +36634,13 @@
         "email": "", 
         "gibraltar_party": false, 
         "financial_year_end": "31/12", 
-        "status": "Authorised", 
+        "status": "Statutorily Deregistered", 
         "fax": "", 
-        "end_date": null, 
+        "end_date": "2015-12-31T00:00:00", 
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mrs Patricia Rosemary Franklin-Braid", 
-        "party_id": "PP488", 
+        "party_name": "Clause 28, Children's Protection Christian Democrats", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": true, 
             "exempt_from_quarterly_transaction_returns": true, 
@@ -36259,7 +36654,7 @@
             ]
         }, 
         "register": "Great Britain", 
-        "party_name": "Clause 28, Children's Protection Christian Democrats", 
+        "party_id": "PP488", 
         "alternative_names": [
             ""
         ], 
@@ -37525,6 +37920,46 @@
         "party_id": "PP514", 
         "alternative_names": [
             "Plaid Diwygo Arian"
+        ], 
+        "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "deregistered_date": "2008-12-01T00:00:00", 
+        "campaigns_officer": "Mr Ian Oxley", 
+        "registered_date": "2005-09-21T00:00:00", 
+        "postcode": "TQ3 1JX", 
+        "party_leader": "Mr Ian Oxley", 
+        "nominating_officer": "Mr Ian Oxley", 
+        "emblems": [], 
+        "party_address": "173 Southfield Ave\r\nPaignton\r\nDevon\r\nTQ3 1JX\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Voluntarily Deregistered", 
+        "fax": "", 
+        "end_date": "2009-12-31T00:00:00", 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mrs Peggy Oxley", 
+        "party_name": "Torbay Residents Independent Forum", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": true, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": true
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -3.5835522976727843, 
+                50.44835950714769
+            ]
+        }, 
+        "register": "Great Britain", 
+        "party_id": "PP515", 
+        "alternative_names": [
+            ""
         ], 
         "descriptions": []
     }, 
@@ -42230,47 +42665,51 @@
         "descriptions": [
             {
                 "translation": "", 
-                "description": "SOLIDARITY Scotland's Socialist Movement (TOMMY SHERIDAN)"
+                "description": "Solidarity Scotland's Socialist Movement (Tommy Sheridan)"
             }, 
             {
                 "translation": "", 
-                "description": "SOLIDARITY - TOMMY SHERIDAN"
+                "description": "Solidarity - Tommy Sheridan"
             }, 
             {
                 "translation": "", 
-                "description": "TOMMY SHERIDAN - SOLIDARITY"
+                "description": "Tommy Sheridan - Solidarity"
             }, 
             {
                 "translation": "", 
-                "description": "SOLIDARITY Scotland's Socialist Movement TOMMY SHERIDAN"
+                "description": "Solidarity"
             }, 
             {
                 "translation": "", 
-                "description": "SOLIDARITY"
+                "description": "against war Solidarity - Tommy Sheridan"
             }, 
             {
                 "translation": "", 
-                "description": "SOLIDARITY - TOMMY SHERIDAN, ROSEMARY BYRNE"
+                "description": "against low pay Solidarity - Tommy Sheridan"
             }, 
             {
                 "translation": "", 
-                "description": "SOLIDARITY - TOMMY SHERIDAN - SAVE MEADOWBANK"
-            }, 
-            {
-                "translation": "", 
-                "description": "against war SOLIDARITY - TOMMY SHERIDAN"
-            }, 
-            {
-                "translation": "", 
-                "description": "against low pay SOLIDARITY - TOMMY SHERIDAN"
-            }, 
-            {
-                "translation": "", 
-                "description": "against poverty SOLIDARITY - TOMMY SHERIDAN"
+                "description": "against poverty Solidarity - Tommy Sheridan"
             }, 
             {
                 "translation": "", 
                 "description": "Solidarity - Trade Unionist and Socialist Coalition (Joint Description with Trade Unionist and Socialist Coalition)"
+            }, 
+            {
+                "translation": "", 
+                "description": "Hope Over Fear - Solidarity"
+            }, 
+            {
+                "translation": "", 
+                "description": "Solidarity - Hope Over Fear"
+            }, 
+            {
+                "translation": "", 
+                "description": "Hope Over Fear - Solidarity Scotland"
+            }, 
+            {
+                "translation": "", 
+                "description": "Hope Over Fear"
             }
         ]
     }, 
@@ -43164,6 +43603,46 @@
         }, 
         "register": "Great Britain", 
         "party_id": "PP623", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "deregistered_date": "2009-06-08T00:00:00", 
+        "campaigns_officer": "None", 
+        "registered_date": "2007-02-02T00:00:00", 
+        "postcode": "NW1 7DT", 
+        "party_leader": "Mr Sara Ward Bartlett", 
+        "nominating_officer": "Mr Sara Ward Bartlett", 
+        "emblems": [], 
+        "party_address": "24-28 Oval Road\r\nLondon\r\nNW1 7DT\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Voluntarily Deregistered", 
+        "fax": "", 
+        "end_date": "2010-12-31T00:00:00", 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Miss Sophie Hearsey", 
+        "party_name": "women4theworld", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -0.14744759877807997, 
+                51.540183004326096
+            ]
+        }, 
+        "register": "Northern Ireland", 
+        "party_id": "PP624", 
         "alternative_names": [
             ""
         ], 
@@ -44817,46 +45296,6 @@
     {
         "fielding_in": [], 
         "other_officers": [], 
-        "deregistered_date": "2008-05-06T00:00:00", 
-        "campaigns_officer": "None", 
-        "registered_date": "2007-03-19T00:00:00", 
-        "postcode": "EH1 2BB", 
-        "party_leader": "Mr Richard Leat", 
-        "nominating_officer": "Mr Richard Leat", 
-        "emblems": [], 
-        "party_address": "Top Flat\r\n22 Rutland Square\r\nEdinburgh\r\nEH1 2BB\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": "31/12", 
-        "status": "Voluntarily Deregistered", 
-        "fax": "", 
-        "end_date": "2009-12-31T00:00:00", 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": "Mrs Veronika Tudhope", 
-        "party_name": "The Anti-Trident Party", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": false, 
-            "exempt_from_quarterly_transaction_returns": false, 
-            "exempt_from_quarterly_donation_returns": false
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -3.209545409985404, 
-                55.94833812192417
-            ]
-        }, 
-        "register": "Great Britain", 
-        "party_id": "PP651", 
-        "alternative_names": [
-            ""
-        ], 
-        "descriptions": []
-    }, 
-    {
-        "fielding_in": [], 
-        "other_officers": [], 
         "campaigns_officer": "None", 
         "registered_date": "2007-03-19T00:00:00", 
         "postcode": "CF61 2GT", 
@@ -45002,59 +45441,6 @@
         }, 
         "register": "Great Britain", 
         "party_name": "Action To Save St.John's Hospital", 
-        "alternative_names": [
-            ""
-        ], 
-        "descriptions": []
-    }, 
-    {
-        "fielding_in": [], 
-        "other_officers": [], 
-        "deregistered_date": "2013-11-05T00:00:00", 
-        "campaigns_officer": "None", 
-        "registered_date": "2007-03-19T00:00:00", 
-        "postcode": "BB3 2RG", 
-        "party_leader": "Mr Stephen Francis Potter", 
-        "nominating_officer": "Mr Anthony Melia", 
-        "emblems": [
-            {
-                "image": "Emblem_387.gif", 
-                "primary": false, 
-                "id": "387", 
-                "description": "Coat of Arms Darwen"
-            }, 
-            {
-                "image": "Emblem_388.gif", 
-                "primary": false, 
-                "id": "388", 
-                "description": "Darwen Tower"
-            }
-        ], 
-        "party_address": "Cameo Hairdressers\r\n31-34 Railway Road\r\nDarwen\r\nLancashire\r\nBB3 2RG\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": "31/12", 
-        "status": "Voluntarily Deregistered", 
-        "fax": "", 
-        "end_date": "2013-12-31T00:00:00", 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": "Mrs Florence Ann Potter", 
-        "party_name": "For Darwen", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": true, 
-            "exempt_from_quarterly_transaction_returns": true, 
-            "exempt_from_quarterly_donation_returns": true
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -2.4657228059508545, 
-                53.69626059813201
-            ]
-        }, 
-        "register": "Great Britain", 
-        "party_id": "PP655", 
         "alternative_names": [
             ""
         ], 
@@ -46205,7 +46591,7 @@
         "descriptions": [
             {
                 "translation": "", 
-                "description": "INDEPENDENT (Save Scarborough General Hospital)"
+                "description": "Independent (Save Scarborough General Hospital)"
             }, 
             {
                 "translation": "", 
@@ -46241,7 +46627,7 @@
             }, 
             {
                 "translation": "", 
-                "description": "INDEPENDENT (Save Harrogate District Hospital)"
+                "description": "Independent (Save Harrogate District Hospital)"
             }, 
             {
                 "translation": "", 
@@ -46249,7 +46635,7 @@
             }, 
             {
                 "translation": "", 
-                "description": "INDEPENDENT (Save the Friarage Hospital)"
+                "description": "Independent (Save the Friarage Hospital)"
             }
         ]
     }, 
@@ -47677,52 +48063,6 @@
     {
         "fielding_in": [], 
         "other_officers": [], 
-        "campaigns_officer": "None", 
-        "registered_date": "2008-03-19T00:00:00", 
-        "postcode": "LL53 8SD", 
-        "party_leader": "Mr Owain Williams", 
-        "nominating_officer": "Mr Alwyn Gruffydd", 
-        "emblems": [
-            {
-                "image": "Emblem_412.gif", 
-                "primary": false, 
-                "id": "412", 
-                "description": "Emblem 1"
-            }
-        ], 
-        "party_address": "Bwlch Groes\r\nLlaniestyn\r\nPwllheli\r\nGwynedd\r\nLL53 8SD\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": "31/12", 
-        "status": "Authorised", 
-        "fax": "", 
-        "end_date": null, 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": "Ms Gweno Glyn", 
-        "party_id": "PP702", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": true, 
-            "exempt_from_quarterly_transaction_returns": true, 
-            "exempt_from_quarterly_donation_returns": true
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -4.553884328768131, 
-                52.87403533008685
-            ]
-        }, 
-        "register": "Great Britain", 
-        "party_name": "Llais Gwynedd - The Voice of Gwynedd", 
-        "alternative_names": [
-            ""
-        ], 
-        "descriptions": []
-    }, 
-    {
-        "fielding_in": [], 
-        "other_officers": [], 
         "campaigns_officer": "Mr Dave Kelly", 
         "registered_date": "2008-03-28T00:00:00", 
         "postcode": "L32 7RG", 
@@ -47925,66 +48265,6 @@
             ""
         ], 
         "descriptions": []
-    }, 
-    {
-        "fielding_in": [], 
-        "other_officers": [
-            {
-                "deputy_additional_officer": false, 
-                "deputy_nominating_officer": false, 
-                "name": "David Fishel", 
-                "deputy_campaigns_officer": false, 
-                "deputy_treasurer": false
-            }
-        ], 
-        "deregistered_date": "2014-05-15T00:00:00", 
-        "campaigns_officer": "None", 
-        "registered_date": "2008-03-28T00:00:00", 
-        "postcode": "L18 2EB", 
-        "party_leader": "Mr Jeffrey Berman", 
-        "nominating_officer": "Mr Jeffrey Berman", 
-        "emblems": [
-            {
-                "image": "Emblem_416.gif", 
-                "primary": false, 
-                "id": "416", 
-                "description": "Emblem 1"
-            }
-        ], 
-        "party_address": "21 Wyndcote Road\r\nMossley Hill\r\nLiverpool\r\nMerseyside\r\nL18 2EB\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": "31/12", 
-        "status": "Voluntarily Deregistered", 
-        "fax": "", 
-        "end_date": "2014-12-31T00:00:00", 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": "Mr Jeffrey Berman", 
-        "party_name": "The Liverpool Independent Party", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": true, 
-            "exempt_from_quarterly_transaction_returns": true, 
-            "exempt_from_quarterly_donation_returns": true
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -2.908634504307002, 
-                53.38757358493995
-            ]
-        }, 
-        "register": "Great Britain", 
-        "party_id": "PP708", 
-        "alternative_names": [
-            ""
-        ], 
-        "descriptions": [
-            {
-                "translation": "", 
-                "description": "Liverpool Independent Party - Representing Local people"
-            }
-        ]
     }, 
     {
         "fielding_in": [], 
@@ -48883,7 +49163,7 @@
         "descriptions": [
             {
                 "translation": "", 
-                "description": "(LEADER ARTHUR SCARGILL)"
+                "description": "(Leader Arthur Scargill)"
             }
         ]
     }, 
@@ -51436,6 +51716,170 @@
             {
                 "translation": "", 
                 "description": "Scotland Affords High State Pensions"
+            }
+        ]
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "deregistered_date": "2010-03-02T00:00:00", 
+        "campaigns_officer": "None", 
+        "registered_date": "2009-07-09T00:00:00", 
+        "postcode": "NW1 3HP", 
+        "party_leader": "Mr Dan 'Danger' Barrett", 
+        "nominating_officer": "Mr Adam 'Awesome' Moore", 
+        "emblems": [], 
+        "party_address": "Guinness World Records\r\n184-192 Drummond Street\r\nLondon\r\nNW1 3HP\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Voluntarily Deregistered", 
+        "fax": "", 
+        "end_date": "2011-12-31T00:00:00", 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr Adam 'Awesome' Moore", 
+        "party_name": "The Bragster Party", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": false, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -0.140626471484937, 
+                51.526388538579404
+            ]
+        }, 
+        "register": "Great Britain", 
+        "party_id": "PP769", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": [
+            {
+                "translation": "", 
+                "description": "Victory is sweet"
+            }, 
+            {
+                "translation": "", 
+                "description": "We dare you!"
+            }, 
+            {
+                "translation": "", 
+                "description": "The right to brag"
+            }, 
+            {
+                "translation": "", 
+                "description": "Make brags not war!"
+            }
+        ]
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "campaigns_officer": "None", 
+        "registered_date": "1999-01-14T00:00:00", 
+        "postcode": "CF10 4AL", 
+        "party_leader": "Ms Leanne Wood", 
+        "nominating_officer": "Mrs Rhuanedd Richards", 
+        "emblems": [
+            {
+                "image": "Emblem_88.gif", 
+                "primary": false, 
+                "id": "88", 
+                "description": "Emblem 1"
+            }, 
+            {
+                "image": "Emblem_89.gif", 
+                "primary": false, 
+                "id": "89", 
+                "description": "Emblem 2"
+            }, 
+            {
+                "image": "Emblem_90.gif", 
+                "primary": false, 
+                "id": "90", 
+                "description": "Emblem 3"
+            }
+        ], 
+        "party_address": "Ty Gwynfor\r\nMarine Chambers\r\nAnson Court\r\nAtlantic Wharf\r\nCaerdydd\r\nCF10 4AL\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr Owen Glyndwr Erasmus", 
+        "party_id": "PP77", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": true, 
+            "exempt_from_quarterly_donation_returns": false
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -3.1660200687567004, 
+                51.476372354624836
+            ]
+        }, 
+        "register": "Great Britain", 
+        "party_name": "Plaid Cymru - The Party of Wales", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": [
+            {
+                "translation": "", 
+                "description": "Plaid Cymru - The Party of Wales"
+            }, 
+            {
+                "translation": "Plaid Cymru - Achubwch Ysbyty Llandudno", 
+                "description": "Plaid Cymru - Save Llandudno Hospital"
+            }, 
+            {
+                "translation": "Plaid Cymru - Achubwch Ysbyty Llwynhelyg", 
+                "description": "Plaid Cymru - Save Withybush Hospital"
+            }, 
+            {
+                "translation": "Plaid Cymru - Achubwch ein Ysbyty", 
+                "description": "Plaid Cymru - Save our Hospital"
+            }, 
+            {
+                "translation": "Plaid Cymru - Llais Sir G\u00e2r", 
+                "description": "Plaid Cymru - Carmarthenshire's Voice"
+            }, 
+            {
+                "translation": "Plaid Cymru - Peidiwch israddio ein ysbyty", 
+                "description": "Plaid Cymru - No Hospital Downgrade"
+            }, 
+            {
+                "translation": "Plaid Cymru - Llais y Gogledd", 
+                "description": "Plaid Cymru - North Wales Voice"
+            }, 
+            {
+                "translation": "Plaid Cymru - Gwna Wahaniaeth", 
+                "description": "Plaid Cymru - Make a Difference"
+            }, 
+            {
+                "translation": "Plaid Cymru - Achubwch ein Gwasanaeth lechyd", 
+                "description": "Plaid Cymru - Save our Health Service"
+            }, 
+            {
+                "translation": "Plaid Cymru - Llais Cynon", 
+                "description": "Plaid Cymru - Cynon Voice"
+            }, 
+            {
+                "translation": "Plaid Cymru - Eich Plaid Leol Chi", 
+                "description": "Plaid Cymru - Your Local Party"
+            }, 
+            {
+                "translation": "Plaid Cymru- Cymru'n Gyntaf", 
+                "description": "Plaid Cymru- Wales First"
             }
         ]
     }, 
@@ -54789,6 +55233,7 @@
     {
         "fielding_in": [], 
         "other_officers": [], 
+        "deregistered_date": "2015-03-06T00:00:00", 
         "campaigns_officer": "None", 
         "registered_date": "2010-03-29T00:00:00", 
         "postcode": "CR0 3JP", 
@@ -54812,13 +55257,13 @@
         "email": "", 
         "gibraltar_party": false, 
         "financial_year_end": "31/12", 
-        "status": "Authorised", 
+        "status": "Statutorily Deregistered", 
         "fax": "", 
-        "end_date": null, 
+        "end_date": "2015-12-31T00:00:00", 
         "phone_extension": "", 
         "phone": "", 
         "treasurer": "Mr Vasuthevar Nehru", 
-        "party_id": "PP813", 
+        "party_name": "People's Front of Liberation Tigers", 
         "accounting_units": {
             "exempt_from_parliamentary_election_returns": true, 
             "exempt_from_quarterly_transaction_returns": true, 
@@ -54832,7 +55277,7 @@
             ]
         }, 
         "register": "Great Britain", 
-        "party_name": "People's Front of Liberation Tigers", 
+        "party_id": "PP813", 
         "alternative_names": [
             ""
         ], 
@@ -56567,11 +57012,11 @@
             }, 
             {
                 "translation": "", 
-                "description": "Independent Ratepayers & Residents Association Candidate"
+                "description": "Solihull Independent Party"
             }, 
             {
                 "translation": "", 
-                "description": "Independent Ratepayers Candidate"
+                "description": "Independent Dickens Heath Residents Action Group"
             }
         ]
     }, 
@@ -58275,7 +58720,7 @@
             }, 
             {
                 "translation": "", 
-                "description": "\"Payment in lieu of Castleguard\" ONLY"
+                "description": "\"Payment in lieu of Castleguard\" Only"
             }
         ]
     }, 
@@ -58436,6 +58881,10 @@
             {
                 "translation": "", 
                 "description": "Comprehensive High Quality Free Transport"
+            }, 
+            {
+                "translation": "", 
+                "description": "www.freetransport.org"
             }
         ]
     }, 
@@ -60564,19 +61013,19 @@
         "nominating_officer": "Ms Sarah Morris", 
         "emblems": [
             {
-                "image": "Emblem_106.gif", 
+                "image": "Emblem_106.jpg", 
                 "primary": false, 
                 "id": "106", 
                 "description": "A bird in flight above the words Liberal Democrats"
             }, 
             {
-                "image": "Emblem_107.gif", 
+                "image": "Emblem_107.png", 
                 "primary": false, 
                 "id": "107", 
-                "description": "A bird in flight"
+                "description": "A bird in flight above the words Welsh Lib Dems"
             }, 
             {
-                "image": "Emblem_108.gif", 
+                "image": "Emblem_108.png", 
                 "primary": false, 
                 "id": "108", 
                 "description": "A bird in flight above the words Scottish Liberal Democrats"
@@ -60608,13 +61057,9 @@
         "register": "Great Britain", 
         "party_name": "Liberal Democrats", 
         "alternative_names": [
-            "Democratiaid Rhyddfrydol Cymru"
+            "Democratiaid Rhyddfrydol"
         ], 
         "descriptions": [
-            {
-                "translation": "", 
-                "description": "Democratiaid Rhyddfrydol Cymru - Welsh Liberal Democrats"
-            }, 
             {
                 "translation": "", 
                 "description": "Welsh Liberal Democrats - Democratiaid Rhyddfrydol Cymru"
@@ -60628,7 +61073,7 @@
                 "description": "Welsh Liberal Democrats"
             }, 
             {
-                "translation": "T\u00eem Ffocws Y Democratiaid Rhyddfrydol", 
+                "translation": "T\u00eem Ffocws y Democratiaid Rhyddfrydol", 
                 "description": "Liberal Democrat Focus Team"
             }, 
             {
@@ -60636,15 +61081,7 @@
                 "description": "Scottish Liberal Democrat Focus Team"
             }, 
             {
-                "translation": "Democratiaid Rhyddfrydol - Am Brydain Decach", 
-                "description": "Liberal Democrats - for a fairer Britain"
-            }, 
-            {
-                "translation": "Democratiaid Rhyddfrydol - Am Brydain Fwy Gwyrdd", 
-                "description": "Liberal Democrats - for a greener Britain"
-            }, 
-            {
-                "translation": "Democrat Rhyddfrydol", 
+                "translation": "Democratiaid Rhyddfrydol", 
                 "description": "Liberal Democrat"
             }, 
             {
@@ -60658,6 +61095,14 @@
             {
                 "translation": "", 
                 "description": "London Liberal Democrats"
+            }, 
+            {
+                "translation": "Democratiaid Rhyddfrydol Economi Gryfach Cymdeithas Decach", 
+                "description": "Liberal Democrats - Stronger Economy Fairer Society"
+            }, 
+            {
+                "translation": "T\u00eem Ffocws Democratiaid Rhyddfrydol Cymru", 
+                "description": "Welsh Liberal Democrats FOCUS team"
             }
         ]
     }, 
@@ -61082,6 +61527,72 @@
             {
                 "translation": "", 
                 "description": "Newcastle upon Tyne Community First Party"
+            }
+        ]
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "deregistered_date": "2012-12-05T00:00:00", 
+        "campaigns_officer": "None", 
+        "registered_date": "2011-02-18T00:00:00", 
+        "postcode": "BB3 0AZ", 
+        "party_leader": "Mr Michael Johnson", 
+        "nominating_officer": "Mr John Moncrieff", 
+        "emblems": [
+            {
+                "image": "Emblem_599.gif", 
+                "primary": false, 
+                "id": "599", 
+                "description": "Emblem 1"
+            }, 
+            {
+                "image": "Emblem_600.gif", 
+                "primary": false, 
+                "id": "600", 
+                "description": "Emblem 2"
+            }
+        ], 
+        "party_address": "54 Anchor Avenue\r\nDarwen\r\nLancashire\r\nBB3 0AZ\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": "31/12", 
+        "status": "Statutorily Deregistered", 
+        "fax": "", 
+        "end_date": "2012-12-31T00:00:00", 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": "Mr John Moncrieff", 
+        "party_name": "For England Party", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": false, 
+            "exempt_from_quarterly_transaction_returns": true, 
+            "exempt_from_quarterly_donation_returns": true
+        }, 
+        "geometry": {
+            "type": "Point", 
+            "coordinates": [
+                -2.478900676144711, 
+                53.711057105875454
+            ]
+        }, 
+        "register": "Great Britain", 
+        "party_id": "PP906", 
+        "alternative_names": [
+            ""
+        ], 
+        "descriptions": [
+            {
+                "translation": "", 
+                "description": "People politics not party politics"
+            }, 
+            {
+                "translation": "", 
+                "description": "Fighting for the right to be English"
+            }, 
+            {
+                "translation": "", 
+                "description": "One people, one party, one cause"
             }
         ]
     }, 
@@ -63823,43 +64334,6 @@
         "fielding_in": [], 
         "other_officers": [], 
         "campaigns_officer": null, 
-        "registered_date": "2014-04-03T00:00:00", 
-        "postcode": "NG31 6LL", 
-        "party_leader": null, 
-        "nominating_officer": null, 
-        "emblems": [], 
-        "party_address": "Kempton Way\r\nGrantham\r\nLincolnshire\r\nNG31 6LL\r\nUnited Kingdom\r\n", 
-        "email": "", 
-        "gibraltar_party": false, 
-        "financial_year_end": null, 
-        "status": "Authorised", 
-        "fax": "", 
-        "end_date": null, 
-        "phone_extension": "", 
-        "phone": "", 
-        "treasurer": null, 
-        "party_id": "TP2316", 
-        "accounting_units": {
-            "exempt_from_parliamentary_election_returns": null, 
-            "exempt_from_quarterly_transaction_returns": null, 
-            "exempt_from_quarterly_donation_returns": null
-        }, 
-        "geometry": {
-            "type": "Point", 
-            "coordinates": [
-                -0.654151790382982, 
-                52.90937278739496
-            ]
-        }, 
-        "register": null, 
-        "party_name": "The Woodland Trust", 
-        "alternative_names": [], 
-        "descriptions": []
-    }, 
-    {
-        "fielding_in": [], 
-        "other_officers": [], 
-        "campaigns_officer": null, 
         "registered_date": "2014-04-09T00:00:00", 
         "postcode": "EC1R 0NE", 
         "party_leader": null, 
@@ -65145,11 +65619,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.12011469330798863, 
                 51.553623597437785
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Left-of-Centre Coalition Campaign", 
@@ -65425,11 +65899,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.09966230886215346, 
                 51.49575085703118
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "The Salvation Army", 
@@ -65462,11 +65936,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.10684396503116188, 
                 51.54632412685936
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "The Campaign to End All Animal Experiments", 
@@ -65499,11 +65973,11 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.2864097956301713, 
                 51.41241782920805
-            ], 
-            "type": "Point"
+            ]
         }, 
         "register": null, 
         "party_name": "Fire Brigades Union", 
@@ -65536,14 +66010,51 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -0.1295234993809313, 
                 51.528208351121314
+            ]
+        }, 
+        "register": null, 
+        "party_name": "UNISON: The Public Service Union", 
+        "alternative_names": [], 
+        "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "campaigns_officer": null, 
+        "registered_date": "2015-03-05T00:00:00", 
+        "postcode": "CT1 3DN", 
+        "party_leader": null, 
+        "nominating_officer": null, 
+        "emblems": [], 
+        "party_address": "Camburgh House\r\n27 New Dover Road\r\nCantebury\r\nKent\r\nCT1 3DN\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": null, 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": null, 
+        "party_id": "TP2646", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": null, 
+            "exempt_from_quarterly_transaction_returns": null, 
+            "exempt_from_quarterly_donation_returns": null
+        }, 
+        "geometry": {
+            "coordinates ": [
+                1.0886576726666228, 
+                51.27466930256789
             ], 
             "type": "Point"
         }, 
         "register": null, 
-        "party_name": "UNISON: The Public Service Union", 
+        "party_name": "Equitable Members Action Group Ltd", 
         "alternative_names": [], 
         "descriptions": []
     }, 
@@ -65610,14 +66121,51 @@
             "exempt_from_quarterly_donation_returns": null
         }, 
         "geometry": {
-            "coordinates ": [
+            "type": "Point", 
+            "coordinates": [
                 -1.9878804371250618, 
                 50.712961138505506
+            ]
+        }, 
+        "register": null, 
+        "party_name": "Lush Ltd", 
+        "alternative_names": [], 
+        "descriptions": []
+    }, 
+    {
+        "fielding_in": [], 
+        "other_officers": [], 
+        "campaigns_officer": null, 
+        "registered_date": "2015-02-25T00:00:00", 
+        "postcode": "SW19 9EX", 
+        "party_leader": null, 
+        "nominating_officer": null, 
+        "emblems": [], 
+        "party_address": "PO Box 72710\r\nLondon\r\nSW19 9EX\r\nUnited Kingdom\r\n", 
+        "email": "", 
+        "gibraltar_party": false, 
+        "financial_year_end": null, 
+        "status": "Authorised", 
+        "fax": "", 
+        "end_date": null, 
+        "phone_extension": "", 
+        "phone": "", 
+        "treasurer": null, 
+        "party_id": "TP2661", 
+        "accounting_units": {
+            "exempt_from_parliamentary_election_returns": null, 
+            "exempt_from_quarterly_transaction_returns": null, 
+            "exempt_from_quarterly_donation_returns": null
+        }, 
+        "geometry": {
+            "coordinates ": [
+                -0.2135818998708257, 
+                51.417014317860776
             ], 
             "type": "Point"
         }, 
         "register": null, 
-        "party_name": "Lush Ltd", 
+        "party_name": "Stand Up To UKIP", 
         "alternative_names": [], 
         "descriptions": []
     }

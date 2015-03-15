@@ -8,19 +8,19 @@
     "nominating_officer": "Ms Sarah Morris", 
     "emblems": [
         {
-            "image": "Emblem_106.gif", 
+            "image": "Emblem_106.jpg", 
             "primary": false, 
             "id": "106", 
             "description": "A bird in flight above the words Liberal Democrats"
         }, 
         {
-            "image": "Emblem_107.gif", 
+            "image": "Emblem_107.png", 
             "primary": false, 
             "id": "107", 
-            "description": "A bird in flight"
+            "description": "A bird in flight above the words Welsh Lib Dems"
         }, 
         {
-            "image": "Emblem_108.gif", 
+            "image": "Emblem_108.png", 
             "primary": false, 
             "id": "108", 
             "description": "A bird in flight above the words Scottish Liberal Democrats"
@@ -52,13 +52,9 @@
     "register": "Great Britain", 
     "party_name": "Liberal Democrats", 
     "alternative_names": [
-        "Democratiaid Rhyddfrydol Cymru"
+        "Democratiaid Rhyddfrydol"
     ], 
     "descriptions": [
-        {
-            "translation": "", 
-            "description": "Democratiaid Rhyddfrydol Cymru - Welsh Liberal Democrats"
-        }, 
         {
             "translation": "", 
             "description": "Welsh Liberal Democrats - Democratiaid Rhyddfrydol Cymru"
@@ -72,7 +68,7 @@
             "description": "Welsh Liberal Democrats"
         }, 
         {
-            "translation": "T\u00eem Ffocws Y Democratiaid Rhyddfrydol", 
+            "translation": "T\u00eem Ffocws y Democratiaid Rhyddfrydol", 
             "description": "Liberal Democrat Focus Team"
         }, 
         {
@@ -80,15 +76,7 @@
             "description": "Scottish Liberal Democrat Focus Team"
         }, 
         {
-            "translation": "Democratiaid Rhyddfrydol - Am Brydain Decach", 
-            "description": "Liberal Democrats - for a fairer Britain"
-        }, 
-        {
-            "translation": "Democratiaid Rhyddfrydol - Am Brydain Fwy Gwyrdd", 
-            "description": "Liberal Democrats - for a greener Britain"
-        }, 
-        {
-            "translation": "Democrat Rhyddfrydol", 
+            "translation": "Democratiaid Rhyddfrydol", 
             "description": "Liberal Democrat"
         }, 
         {
@@ -102,6 +90,14 @@
         {
             "translation": "", 
             "description": "London Liberal Democrats"
+        }, 
+        {
+            "translation": "Democratiaid Rhyddfrydol Economi Gryfach Cymdeithas Decach", 
+            "description": "Liberal Democrats - Stronger Economy Fairer Society"
+        }, 
+        {
+            "translation": "T\u00eem Ffocws Democratiaid Rhyddfrydol Cymru", 
+            "description": "Welsh Liberal Democrats FOCUS team"
         }
     ]
 }

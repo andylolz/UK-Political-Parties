@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": null, 
+    "registered_date": "2015-02-25T00:00:00", 
+    "postcode": "SW19 9EX", 
+    "party_leader": null, 
+    "nominating_officer": null, 
+    "emblems": [], 
+    "party_address": "PO Box 72710\r\nLondon\r\nSW19 9EX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": null, 
+    "party_id": "TP2661", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -0.2135818998708257, 
+            51.417014317860776
+        ], 
+        "type": "Point"
+    }, 
+    "register": null, 
+    "party_name": "Stand Up To UKIP", 
+    "alternative_names": [], 
+    "descriptions": []
+}

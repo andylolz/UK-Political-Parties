@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -0.1295234993809313, 
             51.528208351121314
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": null, 
     "party_name": "UNISON: The Public Service Union", 

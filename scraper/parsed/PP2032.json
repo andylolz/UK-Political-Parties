@@ -8,22 +8,16 @@
     "nominating_officer": "Dr George Whale", 
     "emblems": [
         {
-            "image": "Emblem_810.jpg", 
+            "image": "Emblem_1150.jpg", 
             "primary": false, 
-            "id": "810", 
-            "description": "Liberty GB Black Text"
+            "id": "1150", 
+            "description": "Emblem 1"
         }, 
         {
-            "image": "Emblem_811.jpg", 
+            "image": "Emblem_1151.jpg", 
             "primary": false, 
-            "id": "811", 
-            "description": "Liberty GB White Text"
-        }, 
-        {
-            "image": "Emblem_985.jpg", 
-            "primary": false, 
-            "id": "985", 
-            "description": "Liberty GB Black 'L'"
+            "id": "1151", 
+            "description": "Emblem 2"
         }
     ], 
     "party_address": "Liberty GB\r\n3rd Floor\r\n207 Regent Street\r\nLONDON\r\nLondon\r\nW1B 3HH\r\nUnited Kingdom\r\n", 
@@ -50,7 +44,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "Liberty Great Britain", 
+    "party_name": "Liberty GB", 
     "alternative_names": [
         ""
     ], 

@@ -1,0 +1,127 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1">
+    <script type="text/javascript" src="/Scripts/Common.js" ></script>
+    <title>
+	Electoral Commission
+</title><link href="Styles/PEFMain.css" rel="stylesheet" type="text/css" /><link href="Styles/PEFMenu.css" rel="stylesheet" type="text/css" /> 
+    
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+       
+    
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-22295315-2']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+</head>
+<body class="body">    
+    <div class="main">
+        <form name="aspnetForm" method="post" action="ErrorHandler.aspx?aspxerrorpath=%2fSearch%2fViewReturns%2fCampaignExpenditureReturnItem.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="RnYTZnfyXUH9Wcbn4hAX7u2FPL+yrs8PfSWYvhlXXzfnENjmfgV4Eu0MqcobSybCX4hdPBPoYAn9LtREhMfuqED4wU2niXji6PzU/HowHkpu6PSVJNIlxF6FflIqU5/Dz2b2utytwCKXIawhS1QdInHvM31/KzcaWz+E9PvC8GVpvh9NtBfsu8JbRoTJfMjSjcbh4Abi1PK3wBX24BNVj2AFWRWSKuVEOj/tG8yeFafg6VOUINlYS6GxgsXV2TdBqxsCDBCCFbklJcCWegsteNB3dkUGmupaotO2Mgghhcb7u+DdRsffrdXcKpGHdSTGj+w2G9bP3G0KnlkPLCavZw2oO5GEjALicjaQtnt1jded9L0+roRydvO07KyRQh/wBwI3/2LIHJ0binqReUf4iI7Hmi3UhMfKLCJ0KY7C7VPHG7ngb1kyUR3Wd+5vPylT6xWe+emyFOBBgU9viXjL2FJwgC5/CKj2wrl44K9nTHFhobs2lGm2ZGIJqBsafr54cxrc5Rnz7j5M4xmzHJQoRxWP9Suo4HR77NNzKUSuVfmYSkr4hMCOQ89NJL8NnIc0jWjaceg95MgOmvU5amaSV7ov9AyJyHKq/WgW7Ni8MmtajuPxCNmxW51bE26VLZWGC2ZrgMdIbijpQJoKF2e2NG1HLcgCXeUOarR7xf5WWUZd/PLAu/RUDpZikFFrf9zBhLCHpFjt8EkZY7owOBbERpE7b1bJNeECqBX7l3u12keRV2LjeMNUNHp7KidKbX7w+cs/vjxkFqcLMei09fazASK0tkhE4fXX4/9bA135eY1NF9v/nEz8OB9oPuYiZ2MhHZgSfriKnRC39sdsK3+24IzUBHD7SZO8IWM6IEU7IYcZY7arcRnJJHbiWiSa7MA7vQGk+U2R/bowLtTN4v9OZaggkW9xYmrNwRYubYIP5biQI0IsBwDsFV3/4Ik0y52fvGssgc1AkqguruSBRDGYMXs0LdA6IAp+Pu9vV8sKQyBA6jKwu/bmAAxe6tRkOL+6tOuq598U0nGm6CSr2hDqLH/MugFlgOxVSpWINvaihjzbrFgDRRODjyTsPfXRP/Gq7P+CQRUR6J5cEsbH8Dmvvh2kc7wpeaO38i3mqLjB2Ev6X1mjV9fYg/zSX7mEQIkQCdH72AzBxcpWfULhUd6qtV/DdSClXnY3/S3GXq72Lr1WqTUqpjs5T58Uv8NDK/40aw9wCB224s0Q6yPNcc7i/vKhWBs3uvizsVAi6/QLPvFvbbsQh/oST+PMIMHJ0dhxDsOooKfHpGeNJEEyOMtYgI5noumq4eEo7n99RdKJ/h+TyAY2UUXLZNrZalW6l2hABkT+CWiDqnXPrxfG4p6uCdQ0kVuE6v6RXYSj+QCmOkdtn50eJNGRgitMtv8mNmTeBk0tfNENPwnwM7cOzOnwNZ8TLwkYJjUHqBlmDO8wdXRQ5UMzhaEjz0IsNpz+x/9GH9xpOOEH3sVStiLHUTZOnjD+BRwf2E9EoctHDJORIFB6xfmwt5RX7Rh1mzm7HvDv3zVul163zRuYG6EKCXagSV8OAZMBpCd5zv8jiWSepLlthtO+MTkvkIcn99iBE3qF4O9LH36LAvxyjbCaB3WUHcm1Vlg=" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="22EAA316" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="L1uW4O/BCnfrmNbK67vi4dxUfRRx1jE/CkHcMbEChtLirgMFZmrgsqh2ZJKQXb45YWjqk8YQ6RFJtthfWJF/fa2dEUg=" />
+</div>
+            
+            
+
+<div class="cookie_outer">
+    
+    <div class="cookie_banner">
+        <img id="ctl00_CookiePolicySection_imgInfo" class="info" src="Images/cookie_info.png" style="height:16px;width:16px;border-width:0px;" />
+        <a id="ctl00_CookiePolicySection_lnkReadThis" href="http://www.electoralcommission.org.uk/disclaimer">Read our policy about how we use cookies and your personal information</a>
+    </div>
+
+</div>
+
+
+             
+            <div id="ctl00_topmenu" class="topmenu">
+                
+            </div>
+            
+            
+            
+            <div class="whitebanner">
+                <a href="http://www.electoralcommission.org.uk/" style="display: inline">
+                    <img id="ctl00_imgLogo" src="/Images/LogoEnglish.gif" alt="Electoral Commission Logo" style="border-width:0px;border: solid 0px white;" />
+                </a>
+                <div id="ctl00_user" style="text-align: center;" class="divuser">
+                    <h3 id="ctl00_userheader" style="margin-top: 0px; text-align: left;">
+                        
+                    </h3>
+                </div>                
+            </div>
+            
+          
+            <div id="ctl00_pageContent" class="pageContent">
+                
+    <h2>
+        <span id="ctl00_ContentPlaceHolder1_lblExceptionHeader">Sorry an exception has occurred.</span>
+    </h2>
+
+    <div class="formfieldset">
+        
+        <h3 style="margin-bottom: 5px;">
+            <span id="ctl00_ContentPlaceHolder1_lblMessageDetail">Message detail:</span>
+        </h3>
+        
+        <div style=" margin-left:5px;">
+            <div id="ctl00_ContentPlaceHolder1_messageDetail" style="margin-bottom: 10px;">We are unable to determine why the error occurred.<p style='font-weight:bold;margin-top:10px;'>Error Reference: 18e46134. Error Timestamp 05/02/2015 20:52:35: </p></div>
+
+            <div style="margin-bottom: 5px;">
+                <span id="ctl00_ContentPlaceHolder1_lblClickNext">Please click continue.</span>
+                <input type="submit" name="ctl00$ContentPlaceHolder1$btnContinue" value="Continue" id="ctl00_ContentPlaceHolder1_btnContinue" class="submit" />
+            </div>
+
+            <div style="margin-bottom: 5px;">
+                <span id="ctl00_ContentPlaceHolder1_lblContact">For support please contact: 020 7271 0616</span>
+            </div>
+        </div>            
+    </div>
+
+
+            </div>
+            
+
+<br /><br />
+
+<div class="footer">
+
+    <ul>
+        <li>
+            <a id="ctl00_Footer1_lnkCopyright" href="http://www.electoralcommission.org.uk/copyright" target="_blank">Copyright</a> 
+        </li>
+        <li>
+            <a id="ctl00_Footer1_lnkDisclaimer" href="http://www.electoralcommission.org.uk/terms" target="_blank">How we use your information</a>
+        </li>
+        <li>
+            <a id="ctl00_Footer1_lnkAccessibility" href="http://www.electoralcommission.org.uk/accessibility" target="_blank">Accessibility</a>
+        </li>        
+        <li style="float:right;">
+            <a id="ctl00_Footer1_lnkAdobeWebsite" href="http://get.adobe.com/uk/reader/" target="_blank">Get Adobe Reader</a>
+        </li>
+    </ul>
+
+</div>
+
+<br />
+        </form>
+    </div>
+</body>
+</html>
