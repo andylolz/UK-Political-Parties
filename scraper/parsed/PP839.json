@@ -37,11 +37,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.4919179429777125, 
             52.43106316647184
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Christian Movement for Great Britain", 

@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             0.24710921398253535, 
             50.81109655503132
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Willingdon Residents' Association", 

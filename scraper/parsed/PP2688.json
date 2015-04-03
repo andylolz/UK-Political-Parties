@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-03-17T00:00:00", 
+    "postcode": "TR10 8AB", 
+    "party_leader": "Mr Terence Marett", 
+    "nominating_officer": "Mr Terrance Jones", 
+    "emblems": [], 
+    "party_address": "Ponsharden Boatyard\r\nFalmouth Road\r\nPenryn\r\nCornwall\r\nTR10 8AB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Barrie Challingsworth", 
+    "party_id": "PP2688", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.090252608224025, 
+            50.16514645559409
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Sustainable Population Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

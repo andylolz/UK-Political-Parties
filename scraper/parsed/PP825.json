@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.08003603871547607, 
             51.54692260503737
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "United Kingdom People Quality Life Party", 

@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.3053521800855354, 
             54.51938899925953
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Ingleby Barwick Independent Society", 

@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.2126231490785377, 
             51.748642529163305
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Free Public Transport Party", 

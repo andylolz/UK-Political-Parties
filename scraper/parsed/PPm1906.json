@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.16515494818364046, 
             51.53447232021603
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain (minor party)", 
     "party_name": "The Cromwell Republican Commonwealth Party", 

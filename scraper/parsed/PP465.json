@@ -17,7 +17,7 @@
     "end_date": "2010-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "na Sajjaad Hamid", 
+    "treasurer": "Sajjaad Hamid", 
     "party_name": "The Khair (Best) Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.8598550953906345, 
             52.47576215748855
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP465", 

@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.887125178622523, 
             53.19752759269069
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain (minor party)", 
     "party_name": "White Rose GB", 

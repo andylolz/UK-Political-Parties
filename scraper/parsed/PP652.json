@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -3.4677069375236718, 
             51.410460670091716
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Llantwit First Independents", 

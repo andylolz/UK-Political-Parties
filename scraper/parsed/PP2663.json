@@ -1,0 +1,59 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "GU9 8NG", 
+    "party_leader": "Mr Jerry Hyman", 
+    "nominating_officer": "Mr Jerry Hyman", 
+    "emblems": [
+        {
+            "image": "Emblem_1135.jpg", 
+            "primary": false, 
+            "id": "1135", 
+            "description": "Balance housing with people & wildlife"
+        }
+    ], 
+    "party_address": "19 Wessex Place\r\nAlfred Road\r\nFarnham\r\nSurrey\r\nGU9 8NG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr Penny Marriott", 
+    "party_id": "PP2663", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.7942116082247904, 
+            51.20990705396092
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Farham Residents", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Striving together for governance with integrity"
+        }, 
+        {
+            "translation": "", 
+            "description": "Protecting the environment from unmitigated disaster"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent minds offering solutions and progress"
+        }
+    ]
+}

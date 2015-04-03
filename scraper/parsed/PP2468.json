@@ -3,11 +3,18 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-10-29T00:00:00", 
-    "postcode": "CB11 3ED", 
+    "postcode": "CB11 4ED", 
     "party_leader": "Dan Starr", 
     "nominating_officer": "Mr Paul Gadd", 
-    "emblems": [], 
-    "party_address": "3 London Road\r\nSaffron Walden\r\nCB11 3ED\r\nUnited Kingdom\r\n", 
+    "emblems": [
+        {
+            "image": "Emblem_1050.gif", 
+            "primary": false, 
+            "id": "1050", 
+            "description": "Mono Logo"
+        }
+    ], 
+    "party_address": "3 London Road\r\nSaffron Walden\r\nCB11 4ED\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/03", 
@@ -26,8 +33,8 @@
     "geometry": {
         "type": "Point", 
         "coordinates": [
-            0.2505050834121833, 
-            52.016029940077075
+            0.23849158015936608, 
+            52.01944218117218
         ]
     }, 
     "register": "Great Britain", 
@@ -43,6 +50,10 @@
         {
             "translation": "", 
             "description": "Residents for Uttlesford - Newport"
+        }, 
+        {
+            "translation": "", 
+            "description": "Residents for Uttlesford - Dunmow"
         }
     ]
 }

@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.3305189343813497, 
             51.231312914860275
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain (minor party)", 
     "party_name": "Independents for Frome", 

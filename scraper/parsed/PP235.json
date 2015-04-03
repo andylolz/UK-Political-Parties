@@ -32,7 +32,7 @@
     "treasurer": "Mr John Joseph Lee", 
     "party_id": "PP235", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 

@@ -1,7 +1,6 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
-    "deregistered_date": "2015-01-12T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
     "postcode": "SW10 0BB", 
@@ -9,23 +8,23 @@
     "nominating_officer": "Mr Dirk Hazell", 
     "emblems": [
         {
-            "image": "Emblem_754.jpg", 
+            "image": "Emblem_1164.png", 
             "primary": false, 
-            "id": "754", 
-            "description": "monochrome simple logo"
+            "id": "1164", 
+            "description": "Emblem 1"
         }
     ], 
     "party_address": "Office 103\r\n405 Kings Road\r\nLondon\r\nSW10 0BB\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "30/09", 
-    "status": "Statutorily Deregistered", 
+    "status": "Authorised", 
     "fax": "", 
-    "end_date": "2015-09-30T00:00:00", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Brendan Donnelly", 
-    "party_name": "4 Freedoms Party (UK EPP)", 
+    "party_id": "PP1952", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -39,34 +38,14 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1952", 
+    "party_name": "Alliance EPP: European People\u2019s Party UK", 
     "alternative_names": [
         ""
     ], 
     "descriptions": [
         {
             "translation": "", 
-            "description": "Strong Scotland EPP Leads European Reform"
-        }, 
-        {
-            "translation": "", 
-            "description": "London and EPP Leading Europe's Future"
-        }, 
-        {
-            "translation": "", 
-            "description": "UK EPP: Britain's bridge to Europe"
-        }, 
-        {
-            "translation": "", 
-            "description": "Better Together: Britain in Europe"
-        }, 
-        {
-            "translation": "", 
             "description": "We Believe in People"
-        }, 
-        {
-            "translation": "", 
-            "description": "Scotland's Voice in Europe's Leading Party"
         }, 
         {
             "translation": "", 
@@ -78,19 +57,23 @@
         }, 
         {
             "translation": "", 
-            "description": "Scotland's Future with Europe's Leading Party"
-        }, 
-        {
-            "translation": "", 
             "description": "London's Future with Europe's Leading Party"
         }, 
         {
             "translation": "", 
-            "description": "Europe's Leading Party Believes in Scotland"
+            "description": "Europe's Leading Party Believes in London"
         }, 
         {
             "translation": "", 
-            "description": "Europe's Leading Party Believes in London"
+            "description": "Britain\u2019s future in Europe: 4 Freedoms"
+        }, 
+        {
+            "translation": "", 
+            "description": "Alliance for Britain\u2019s 4 Freedoms Future"
+        }, 
+        {
+            "translation": "", 
+            "description": "EPP: European People\u2019s Party"
         }
     ]
 }

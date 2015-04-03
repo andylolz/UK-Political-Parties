@@ -8,16 +8,16 @@
     "nominating_officer": "Mr Peter Ruane", 
     "emblems": [
         {
-            "image": "Emblem_1111.jpg", 
-            "primary": false, 
-            "id": "1111", 
-            "description": "Emblem 2"
-        }, 
-        {
             "image": "Emblem_433.gif", 
             "primary": false, 
             "id": "433", 
             "description": "Emblem 1 community first"
+        }, 
+        {
+            "image": "Emblem_1111.jpg", 
+            "primary": false, 
+            "id": "1111", 
+            "description": "Emblem 2"
         }
     ], 
     "party_address": "3 Meadow Head Avenue\r\nTonacliffe\r\nWhitworth\r\nLancashire\r\nOL12 8TH\r\nUnited Kingdom\r\n", 
@@ -37,11 +37,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.1749770274250753, 
             53.64814313978378
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Community First", 

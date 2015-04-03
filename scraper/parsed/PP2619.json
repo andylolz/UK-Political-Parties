@@ -1,0 +1,95 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "KA280BN", 
+    "party_leader": "Mr John McCloskey", 
+    "nominating_officer": "Mr Thomas Cameron", 
+    "emblems": [
+        {
+            "image": "Emblem_1101.jpg", 
+            "primary": false, 
+            "id": "1101", 
+            "description": "OfficialEmblem1Monochrome"
+        }
+    ], 
+    "party_address": "14\r\nKames Street\r\nMillport\r\nIsle Of Cumbrae\r\nAyrshire\r\nKA280BN\r\nScotland\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John McCloskey", 
+    "party_id": "PP2619", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -4.918603049127183, 
+            55.75644606883217
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Meritocracy P\u00e0rtaidh na h-Alba", 
+    "alternative_names": [
+        "Scottish Meritocracy Party"
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Scottish Meritocracy Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Equal Opportunities For Every Child"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Pro-Scottish Independence Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Fair Opportunity Based Only On Merit"
+        }, 
+        {
+            "translation": "", 
+            "description": "Building A Fairer Society"
+        }, 
+        {
+            "translation": "", 
+            "description": "Social Justice For All"
+        }, 
+        {
+            "translation": "", 
+            "description": "Sustainable Energies Over Fossil Fuels"
+        }, 
+        {
+            "translation": "", 
+            "description": "Protecting Gaelic Language and Culture"
+        }, 
+        {
+            "translation": "", 
+            "description": "Ridding Scotland Of Nuclear Weapons"
+        }, 
+        {
+            "translation": "", 
+            "description": "Looking After Scotland's Environment"
+        }, 
+        {
+            "translation": "", 
+            "description": "Fighting For Scotland's Citizen's Rights"
+        }, 
+        {
+            "translation": "", 
+            "description": "Changing The System From The Inside"
+        }
+    ]
+}

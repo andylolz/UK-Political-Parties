@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -5.646353471205, 
             54.24980163351061
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Northern Ireland", 
     "party_name": "Labour Party of Northern Ireland", 

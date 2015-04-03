@@ -1,0 +1,79 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Nicholas Mason", 
+    "registered_date": "2015-03-17T00:00:00", 
+    "postcode": "RG2 0FP", 
+    "party_leader": "Mr Jamie Wake", 
+    "nominating_officer": "Mr Jamie Wake", 
+    "emblems": [
+        {
+            "image": "Emblem_1061.png", 
+            "primary": false, 
+            "id": "1061", 
+            "description": "The Independents Alliance - Main Logo"
+        }, 
+        {
+            "image": "Emblem_1062.png", 
+            "primary": false, 
+            "id": "1062", 
+            "description": "The Local Candidate Representing Local People"
+        }, 
+        {
+            "image": "Emblem_1063.png", 
+            "primary": false, 
+            "id": "1063", 
+            "description": "Reading Independents Putting People First"
+        }
+    ], 
+    "party_address": "21 Gweal Avenue\r\nReading\r\nBerkshire\r\nRG2 0FP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jamie Wake", 
+    "party_id": "PP2398", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9736853043986654, 
+            51.430799727842086
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Independents Alliance", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Reading Independents - Putting Voters First"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Independents Alliance Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Local Candidate representing Local People"
+        }, 
+        {
+            "translation": "", 
+            "description": "Wake Up to the Only Alternative"
+        }, 
+        {
+            "translation": "", 
+            "description": "Reading first, politics second"
+        }
+    ]
+}

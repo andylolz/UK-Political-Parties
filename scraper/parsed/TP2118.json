@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.1215515864082717, 
             53.30877270407877
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Campaign For an Independent Britain", 

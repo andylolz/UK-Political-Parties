@@ -14,7 +14,14 @@
     "postcode": "ST4 1ED", 
     "party_leader": "Mr paul toussaint", 
     "nominating_officer": "Mr Artemis Molyneux", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1160.jpg", 
+            "primary": false, 
+            "id": "1160", 
+            "description": "Emblem 1"
+        }
+    ], 
     "party_address": "97\r\nSelwyn st\r\nStoke\r\nStaffordshire\r\nST4 1ED\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -5.920704160429092, 
             54.574985708325826
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Northern Ireland", 
     "party_id": "PP622", 

@@ -43,11 +43,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.05050133876908413, 
             51.52457456604802
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Trade Unionist and Socialist Coalition", 
@@ -98,6 +98,10 @@
         {
             "translation": "", 
             "description": "Left Unity - Trade Unionists and Socialists (Joint Description with Left Unity)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Walsall Socialist and Trade Union Candidate"
         }
     ]
 }

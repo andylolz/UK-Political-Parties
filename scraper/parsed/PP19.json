@@ -26,7 +26,10 @@
     }, 
     "geometry": {
         "type": "Point", 
-        "coordinates": null
+        "coordinates": [
+            1.2796911, 
+            52.62640949999999
+        ]
     }, 
     "register": "Great Britain", 
     "party_id": "PP19", 

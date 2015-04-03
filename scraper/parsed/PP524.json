@@ -5,7 +5,7 @@
     "campaigns_officer": "Miss Mercel Hislop", 
     "registered_date": "2006-01-12T00:00:00", 
     "postcode": "N3 3BB", 
-    "party_leader": "na Maureen Barbara Clemetson", 
+    "party_leader": "Maureen Barbara Clemetson", 
     "nominating_officer": "Mrs Carol McKintosh", 
     "emblems": [], 
     "party_address": "61 Beechwood Avenue (Beechwood Lodge)\r\nFinchley\r\nN3 3BB\r\nUnited Kingdom\r\n", 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.19366152400368208, 
             51.5908832811353
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP524", 

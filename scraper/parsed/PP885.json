@@ -43,11 +43,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -5.663306448032889, 
             54.64901801965393
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Northern Ireland", 
     "party_name": "Community Partnership (Northern Ireland)", 

@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -5.924075987458718, 
             54.58714651075398
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Northern Ireland", 
     "party_name": "SDLP (Social Democratic & Labour Party)", 

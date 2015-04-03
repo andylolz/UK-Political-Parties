@@ -5,7 +5,7 @@
     "registered_date": "1999-02-25T00:00:00", 
     "postcode": "TQ12 6UT", 
     "party_leader": "Mr Nigel Paul Farage", 
-    "nominating_officer": "Mr Peter David Reeve", 
+    "nominating_officer": "Mr Christopher Mark Adams", 
     "emblems": [
         {
             "image": "Emblem_101.gif", 
@@ -43,11 +43,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -3.6620988530117846, 
             50.578625928964094
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "UK Independence Party (UKIP)", 
@@ -70,10 +70,6 @@
         {
             "translation": "UKIP Cymru", 
             "description": "UKIP Wales"
-        }, 
-        {
-            "translation": "", 
-            "description": "UKIP Local Residents"
         }, 
         {
             "translation": "", 

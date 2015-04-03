@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.17386351893298813, 
             51.554292626357956
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Hope Not Hate Ltd", 

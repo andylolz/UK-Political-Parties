@@ -44,7 +44,10 @@
     }, 
     "geometry": {
         "type": "Point", 
-        "coordinates": null
+        "coordinates": [
+            -1.298362927541217, 
+            52.76280085756305
+        ]
     }, 
     "register": "Great Britain", 
     "party_name": "British Democratic Party", 

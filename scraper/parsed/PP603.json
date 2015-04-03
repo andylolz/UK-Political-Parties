@@ -5,8 +5,8 @@
     "campaigns_officer": "None", 
     "registered_date": "2006-12-11T00:00:00", 
     "postcode": "IP19 8BX", 
-    "party_leader": "na Athena Macaeda", 
-    "nominating_officer": "na Rachel Ward", 
+    "party_leader": "Athena Macaeda", 
+    "nominating_officer": "Rachel Ward", 
     "emblems": [], 
     "party_address": "33 Norwich Road\r\nHalesworth\r\nSuffolk\r\nIP19 8BX\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -17,7 +17,7 @@
     "end_date": "2009-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "na Athena Macaeda", 
+    "treasurer": "Athena Macaeda", 
     "party_name": "The Dragon Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             1.5031468464740971, 
             52.346143096638464
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP603", 

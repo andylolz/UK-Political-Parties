@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-03-17T00:00:00", 
+    "postcode": "BA5 1UH", 
+    "party_leader": "Mr Philip Welch", 
+    "nominating_officer": "Mr Paddy O'Hagan", 
+    "emblems": [], 
+    "party_address": "The Mendip Hub\r\nSouthover\r\nWells\r\nSomerset\r\nBA5 1UH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm2596", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -2.649549459004143, 
+            51.20509556683828
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Wells Independents", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Residents who care about Wells"
+        }
+    ]
+}

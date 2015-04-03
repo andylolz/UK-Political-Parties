@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.0103709263071172, 
             52.377601219927136
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "NASUWT  The Teachers' Union", 

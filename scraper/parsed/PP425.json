@@ -6,7 +6,7 @@
     "registered_date": "2005-01-28T00:00:00", 
     "postcode": "SW7 3DQ", 
     "party_leader": "None", 
-    "nominating_officer": "na Therese Muchewicz", 
+    "nominating_officer": "Therese Muchewicz", 
     "emblems": [], 
     "party_address": "Citibox 158\r\n2 Old Brompton Road\r\nno town\r\nLondon\r\nSW7 3DQ\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.17493834665094732, 
             51.49389805468824
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Northern Ireland", 
     "party_id": "PP425", 

@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.3034109128939798, 
             51.420857304268985
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "One Norbiton", 

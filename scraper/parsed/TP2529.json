@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.1238538780015031, 
             51.483047215434425
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Forces Pension Society", 

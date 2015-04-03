@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -3.207214074401593, 
             55.95421054430445
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Educational Institute of Scotland", 

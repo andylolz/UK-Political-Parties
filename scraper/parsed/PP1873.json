@@ -13,8 +13,8 @@
     "campaigns_officer": "None", 
     "registered_date": "2012-07-11T00:00:00", 
     "postcode": "ST14 8EF", 
-    "party_leader": "na Gavin Webb", 
-    "nominating_officer": "na Gavin Webb", 
+    "party_leader": "Gavin Webb", 
+    "nominating_officer": "Gavin Webb", 
     "emblems": [
         {
             "image": "Emblem_728.jpg", 
@@ -44,7 +44,7 @@
     "end_date": "2014-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "na Gavin Webb", 
+    "treasurer": "Gavin Webb", 
     "party_name": "Independent Libertarian Network", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 

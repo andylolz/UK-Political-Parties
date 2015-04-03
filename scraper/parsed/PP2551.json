@@ -1,0 +1,51 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Mark Flanagan", 
+    "registered_date": "2015-03-18T00:00:00", 
+    "postcode": "LS20 9LH", 
+    "party_leader": "Mr Mark Flanagan", 
+    "nominating_officer": "Mr Mark Flanagan", 
+    "emblems": [
+        {
+            "image": "Emblem_1071.jpg", 
+            "primary": false, 
+            "id": "1071", 
+            "description": "it is an ancient symbol for resilience"
+        }
+    ], 
+    "party_address": "5 Bacon Street\r\nGuiseley\r\nLS20 9LH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Karen Stanley", 
+    "party_id": "PP2551", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.700567367726628, 
+            53.8719620275083
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Above and Beyond Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "single-issue party demanding the none of the above option on all UK ballot papers"
+        }
+    ]
+}

@@ -12,8 +12,8 @@
     "campaigns_officer": "None", 
     "registered_date": "2005-01-28T00:00:00", 
     "postcode": "WC1N 3XX", 
-    "party_leader": "na Therese Muchewicz", 
-    "nominating_officer": "na Therese Muchewicz", 
+    "party_leader": "Therese Muchewicz", 
+    "nominating_officer": "Therese Muchewicz", 
     "emblems": [
         {
             "image": "Emblem_294.gif", 
@@ -37,7 +37,7 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "na Therese Muchewicz", 
+    "treasurer": "Therese Muchewicz", 
     "party_id": "PP424", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
@@ -47,8 +47,8 @@
     "geometry": {
         "type": "Point", 
         "coordinates": [
-            -0.13424361194036336, 
-            51.517132821076316
+            -0.11208828375085382, 
+            51.524502885072714
         ]
     }, 
     "register": "Great Britain", 

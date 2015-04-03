@@ -6,7 +6,7 @@
     "registered_date": "2006-09-12T00:00:00", 
     "postcode": "TQ14 8EA", 
     "party_leader": "Mr Edward Albert William Bush", 
-    "nominating_officer": "na Gaynor Alison Blackburn", 
+    "nominating_officer": "Gaynor Alison Blackburn", 
     "emblems": [], 
     "party_address": "4 Teign Street\r\nTeignmouth\r\nDevon\r\nTQ14 8EA\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -3.497898043480287, 
             50.54637299859645
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP579", 

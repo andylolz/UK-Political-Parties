@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.1269091069710023, 
             51.52797779088294
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "National Union of Teachers", 

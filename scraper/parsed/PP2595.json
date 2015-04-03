@@ -6,7 +6,20 @@
     "postcode": "FY7 8JQ", 
     "party_leader": "Mr Mark Berry", 
     "nominating_officer": "Ms Cheryl Atkinson", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1188.jpg", 
+            "primary": false, 
+            "id": "1188", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_1189.jpg", 
+            "primary": false, 
+            "id": "1189", 
+            "description": "Emblem 2"
+        }
+    ], 
     "party_address": "7 Bristol Avenue\r\nRossall\r\nFleetwood\r\nLancashire\r\nFY7 8JQ\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-03-17T00:00:00", 
+    "postcode": "DE74 2TP", 
+    "party_leader": "Mr Robert Else", 
+    "nominating_officer": "Mr Anthony Saffell", 
+    "emblems": [], 
+    "party_address": "The Old Stables\r\n6 Barn Close\r\nCastle Donigton\r\nDerby\r\nLancashire\r\nDE74 2TP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Anthony Saffell", 
+    "party_id": "PP2692", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -1.3408991286933114, 
+            52.84006782488684
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Local Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "Cynrychiolo Pobl leol mewn Llywodraeth Leol", 
+            "description": "Representing Local People in Local Government"
+        }
+    ]
+}

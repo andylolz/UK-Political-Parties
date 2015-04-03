@@ -1,12 +1,40 @@
 {
     "fielding_in": [], 
-    "other_officers": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": true, 
+            "name": "Stewart Arnold", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "John Boocock", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-03T00:00:00", 
     "postcode": "HD9 5NX", 
     "party_leader": "Mr Richard Carter", 
-    "nominating_officer": "Mr Stewart Arnold", 
-    "emblems": [], 
+    "nominating_officer": "Mr John Boocock", 
+    "emblems": [
+        {
+            "image": "Emblem_1207.png", 
+            "primary": false, 
+            "id": "1207", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_1206.png", 
+            "primary": false, 
+            "id": "1206", 
+            "description": "Emblem 1"
+        }
+    ], 
     "party_address": "Railway House\r\nStation Street\r\nMeltham\r\nHolmfirth\r\nYorkshire\r\nHD9 5NX\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

@@ -5,7 +5,7 @@
     "campaigns_officer": "None", 
     "registered_date": "2004-04-29T00:00:00", 
     "postcode": "WV1 9NN", 
-    "party_leader": "na Roger Leslie Edwards", 
+    "party_leader": "Roger Leslie Edwards", 
     "nominating_officer": "Mr Barry A Hodgson", 
     "emblems": [
         {
@@ -32,11 +32,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.1147777528990237, 
             52.58831625672289
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP383", 

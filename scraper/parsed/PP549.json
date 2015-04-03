@@ -8,22 +8,22 @@
     "nominating_officer": "The Reverend Ceiteach Michl Marschl", 
     "emblems": [
         {
-            "image": "Emblem_333.gif", 
+            "image": "Emblem_1126.jpg", 
             "primary": false, 
-            "id": "333", 
-            "description": "Emblem 1"
+            "id": "1126", 
+            "description": "The Space Navies Flies"
         }, 
         {
-            "image": "Emblem_334.gif", 
+            "image": "Emblem_1127.jpg", 
             "primary": false, 
-            "id": "334", 
-            "description": "Emblem 2"
+            "id": "1127", 
+            "description": "The Space Navies Are GOOD n GAY"
         }, 
         {
-            "image": "Emblem_335.gif", 
+            "image": "Emblem_1128.jpg", 
             "primary": false, 
-            "id": "335", 
-            "description": "Emblem 3"
+            "id": "1128", 
+            "description": "The Space Navies Reach For The Stars"
         }
     ], 
     "party_address": "10 Greenbank\r\nBlaydon\r\nTyne and Wear\r\nNE21 4BN\r\nUnited Kingdom\r\n", 
@@ -43,16 +43,61 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.7194105363550187, 
             54.96068076578427
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Space Navies Party", 
     "alternative_names": [
         ""
     ], 
-    "descriptions": []
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "We Want The Future Now"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote For The Future"
+        }, 
+        {
+            "translation": "", 
+            "description": "Equality and Prosperity For All"
+        }, 
+        {
+            "translation": "", 
+            "description": "Peace and Prosperity For All"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote To Save The World"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote For Freedom"
+        }, 
+        {
+            "translation": "", 
+            "description": "We Are The Future"
+        }, 
+        {
+            "translation": "", 
+            "description": "We Want You To Live"
+        }, 
+        {
+            "translation": "", 
+            "description": "We Want Everyone To Be Rich"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote For The Space Navies"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Space Navies Is For All"
+        }
+    ]
 }

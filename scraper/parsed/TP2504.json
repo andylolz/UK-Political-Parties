@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.13036292039434075, 
             51.508770932084744
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "London First", 

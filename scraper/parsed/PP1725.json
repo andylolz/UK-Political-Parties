@@ -4,13 +4,13 @@
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
     "postcode": "B95 5BG", 
-    "party_leader": "Mr Michael D Willmott", 
+    "party_leader": "Peter Crathorne", 
     "nominating_officer": "Mr William Leech", 
     "emblems": [
         {
-            "image": "Emblem_710.gif", 
+            "image": "Emblem_1190.jpg", 
             "primary": false, 
-            "id": "710", 
+            "id": "1190", 
             "description": "Emblem 1"
         }
     ], 
@@ -38,7 +38,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "Henley Independents", 
+    "party_name": "Henley Together", 
     "alternative_names": [
         ""
     ], 

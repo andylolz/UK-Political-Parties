@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.10684396503116188, 
             51.54632412685936
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "The Campaign to End All Animal Experiments", 

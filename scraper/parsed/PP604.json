@@ -4,7 +4,7 @@
     "campaigns_officer": "None", 
     "registered_date": "2006-12-18T00:00:00", 
     "postcode": "G42 2DN", 
-    "party_leader": "na Tommy Sheridan", 
+    "party_leader": "Tommy Sheridan", 
     "nominating_officer": "Mr John Park", 
     "emblems": [
         {
@@ -37,11 +37,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -4.263922878387326, 
             55.84079232908207
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Solidarity - Scotland's Socialist Movement", 

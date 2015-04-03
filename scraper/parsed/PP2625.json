@@ -1,0 +1,51 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Martin Camden", 
+    "registered_date": "2015-03-25T00:00:00", 
+    "postcode": "CR0 4BE", 
+    "party_leader": "Mr Martin Camden", 
+    "nominating_officer": "Mr Martin Camden", 
+    "emblems": [
+        {
+            "image": "Emblem_1097.jpg", 
+            "primary": false, 
+            "id": "1097", 
+            "description": "Britannia is Ready"
+        }
+    ], 
+    "party_address": "25 Duppas Hill Lane\r\nCROYDON\r\nCR0 4BE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Lisa Zorro", 
+    "party_id": "PP2625", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.10547104152105116, 
+            51.368400883266695
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The UK Progressive Democracy Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "UKPDP"
+        }
+    ]
+}

@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.13682362014202115, 
             51.499116856909886
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Fabian Society", 

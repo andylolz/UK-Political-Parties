@@ -1,0 +1,51 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-03-25T00:00:00", 
+    "postcode": "EC1A 9ET", 
+    "party_leader": "Professor Alexia Thomas", 
+    "nominating_officer": "Professor Alexia Thomas", 
+    "emblems": [
+        {
+            "image": "Emblem_1174.jpg", 
+            "primary": false, 
+            "id": "1174", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "80 - 83 Long Lane\r\nLondon\r\nLondon\r\nEC1A 9ET\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Larry Thompson", 
+    "party_id": "PP2430", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.0985374113582463, 
+            51.51966183247248
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Commonwealth Liberation Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Voice of Liberation"
+        }
+    ]
+}

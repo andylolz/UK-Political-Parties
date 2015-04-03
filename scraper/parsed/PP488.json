@@ -1,7 +1,6 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
-    "deregistered_date": "2015-03-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-12T00:00:00", 
     "postcode": "L39 2XF", 
@@ -13,41 +12,44 @@
             "primary": false, 
             "id": "312", 
             "description": "Emblem 1"
-        }, 
-        {
-            "image": "Emblem_313.gif", 
-            "primary": false, 
-            "id": "313", 
-            "description": "Emblem 2"
         }
     ], 
     "party_address": "The Chaplaincy\r\n54 Burscough Road\r\nOrmskirk\r\nLancashire\r\nL39 2XF\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
+    "status": "Authorised", 
     "fax": "", 
-    "end_date": "2015-12-31T00:00:00", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Patricia Rosemary Franklin-Braid", 
-    "party_name": "Clause 28, Children's Protection Christian Democrats", 
+    "party_id": "PP488", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.878193940324439, 
             53.57538747439519
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP488", 
+    "party_name": "War Veteran's Pro-Traditional Family Party", 
     "alternative_names": [
         ""
     ], 
-    "descriptions": []
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Children\u2019s Protection, Christian Democrats"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Anti-Corruption Pro-Family Christian Alliance"
+        }
+    ]
 }

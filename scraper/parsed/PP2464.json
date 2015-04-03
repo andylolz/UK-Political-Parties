@@ -6,7 +6,14 @@
     "postcode": "CF14 9EU", 
     "party_leader": "Mr Shaun Jenkins", 
     "nominating_officer": "Mr Stacey Jenkins", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1162.jpg", 
+            "primary": false, 
+            "id": "1162", 
+            "description": "Emblem 1"
+        }
+    ], 
     "party_address": "2 Heol Y Carw\r\nCardiff\r\nCF14 9EU\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
@@ -35,5 +42,14 @@
     "alternative_names": [
         ""
     ], 
-    "descriptions": []
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Alter Change - Politics. Only Different Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "For a safer, moral, better society"
+        }
+    ]
 }

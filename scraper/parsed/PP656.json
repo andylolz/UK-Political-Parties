@@ -2,7 +2,7 @@
     "fielding_in": [], 
     "other_officers": [], 
     "deregistered_date": "2008-11-01T00:00:00", 
-    "campaigns_officer": "na Gavin Marsh", 
+    "campaigns_officer": "Gavin Marsh", 
     "registered_date": "2007-03-27T00:00:00", 
     "postcode": "SO15 2PN", 
     "party_leader": "Mr Neil Kelly", 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.410737131643094, 
             50.91871789373863
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP656", 

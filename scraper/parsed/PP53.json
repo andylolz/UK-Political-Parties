@@ -123,8 +123,8 @@
     "geometry": {
         "type": "Point", 
         "coordinates": [
-            -0.13580151699144738, 
-            51.49839020398293
+            -0.13570293111868123, 
+            51.49833468161486
         ]
     }, 
     "register": "Great Britain", 
@@ -138,8 +138,8 @@
             "description": "The Labour Party Candidate"
         }, 
         {
-            "translation": "", 
-            "description": "Labour Party Candidate/Ymgeisydd Plaid Lafur"
+            "translation": "Ymgeisydd Plaid Lafur", 
+            "description": "Labour Party Candidate"
         }, 
         {
             "translation": "", 
@@ -151,19 +151,11 @@
         }, 
         {
             "translation": "", 
-            "description": "Y Blaid Lafur"
-        }, 
-        {
-            "translation": "", 
             "description": "Scottish Labour Party"
         }, 
         {
-            "translation": "", 
-            "description": "Labour Representation Committee"
-        }, 
-        {
-            "translation": "Ymgeisydd Llafur a\u2019r Blaid Gydweithredol", 
-            "description": "Labour and Co-operative Party Candidate (Joint Description with Co-operative Party)"
+            "translation": "Llafur a\u2019r Blaid Gydweithredol", 
+            "description": "Labour and Co-operative Party (Joint Description with Co-operative Party)"
         }, 
         {
             "translation": "Llafur Cymru", 

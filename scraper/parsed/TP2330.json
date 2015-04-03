@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.10726499295857445, 
             51.52505463179768
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "38 Degrees", 
