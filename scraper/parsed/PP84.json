@@ -39,8 +39,8 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": null
+        "coordinates ": null, 
+        "type": "Point"
     }, 
     "register": "Northern Ireland", 
     "party_name": "UK Independence Party (UK I P)", 

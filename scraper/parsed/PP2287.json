@@ -12,6 +12,12 @@
             "primary": false, 
             "id": "947", 
             "description": "MexFirstLogo3"
+        }, 
+        {
+            "image": "Emblem_1131.jpg", 
+            "primary": false, 
+            "id": "1131", 
+            "description": "MexFirst2015logo"
         }
     ], 
     "party_address": "41 Tennyson Avenue\r\nMexborough\r\nSouth Yorkshire\r\nS64 0AX\r\nUnited Kingdom\r\n", 
@@ -46,6 +52,22 @@
         {
             "translation": "", 
             "description": "Working for Mexborough,the forgotten town."
+        }, 
+        {
+            "translation": "", 
+            "description": "Put Mexborough First the Forgotten Town"
+        }, 
+        {
+            "translation": "", 
+            "description": "Always putting Mexborough First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Mexborough First for The Forgotten Town"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Forgotten Town"
         }
     ]
 }

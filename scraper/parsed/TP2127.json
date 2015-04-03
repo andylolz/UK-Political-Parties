@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.09111462942996841, 
             51.529990605223006
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Mass1 Netgen Ltd", 

@@ -5,7 +5,7 @@
     "campaigns_officer": "None", 
     "registered_date": "2008-12-19T00:00:00", 
     "postcode": "TN16 2HP", 
-    "party_leader": "na Bridget Rowe", 
+    "party_leader": "Bridget Rowe", 
     "nominating_officer": "Mr J.M. Greenbough", 
     "emblems": [], 
     "party_address": "400 Main Road\r\nWesterham Hill\r\nno town\r\nKent\r\nTN16 2HP\r\nUnited Kingdom\r\n", 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            0.05258621164068278, 
-            51.29950472012298
-        ]
+        "coordinates ": [
+            0.05258420727719351, 
+            51.299459790126576
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP732", 

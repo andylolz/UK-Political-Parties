@@ -8,16 +8,16 @@
     "nominating_officer": "Ms Jane Thompson", 
     "emblems": [
         {
-            "image": "Emblem_1107.jpg", 
-            "primary": false, 
-            "id": "1107", 
-            "description": "Emblem 1"
-        }, 
-        {
             "image": "Emblem_1153.jpg", 
             "primary": false, 
             "id": "1153", 
             "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_1107.jpg", 
+            "primary": false, 
+            "id": "1107", 
+            "description": "Emblem 1"
         }
     ], 
     "party_address": "9 Greenacre\r\nWesthead\r\nOrmskirk\r\nLancashire\r\nL40 6HR\r\nUnited Kingdom\r\n", 

@@ -6,7 +6,14 @@
     "postcode": "SW4 7UN", 
     "party_leader": "Mr Paddy Shannon", 
     "nominating_officer": "Mr Adam Buick", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1163.jpg", 
+            "primary": false, 
+            "id": "1163", 
+            "description": "Emblem 1"
+        }
+    ], 
     "party_address": "52 Clapham High Street\r\nLondon\r\nSW4 7UN\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

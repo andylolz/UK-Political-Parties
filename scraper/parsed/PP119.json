@@ -1,6 +1,14 @@
 {
     "fielding_in": [], 
-    "other_officers": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": true, 
+            "name": "Shane Brogan", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
     "postcode": "EC1M 4AN", 
@@ -37,8 +45,8 @@
     ], 
     "descriptions": [
         {
-            "translation": "Ymgeisydd Llafur a\u2019r Blaid Gydweithredol", 
-            "description": "Labour and Co-operative Party Candidate (Joint Description with Labour Party)"
+            "translation": "Llafur a\u2019r Blaid Gydweithredol", 
+            "description": "Labour and Co-operative Party (Joint Description with Labour Party)"
         }, 
         {
             "translation": "", 

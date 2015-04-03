@@ -69,19 +69,19 @@
     "registered_date": "1999-02-25T00:00:00", 
     "postcode": "EC2A 4JZ", 
     "party_leader": "Ms Natalie Bennett", 
-    "nominating_officer": "None", 
+    "nominating_officer": "Mr Chris Rose", 
     "emblems": [
         {
-            "image": "Emblem_68.gif", 
+            "image": "Emblem_1119.jpg", 
             "primary": false, 
-            "id": "68", 
-            "description": "World with petals and Green Party name English and Welsh"
+            "id": "1119", 
+            "description": "World with petals and Green Party name English"
         }, 
         {
-            "image": "Emblem_69.gif", 
+            "image": "Emblem_1120.jpg", 
             "primary": false, 
-            "id": "69", 
-            "description": "World with Petals and Green Party name English"
+            "id": "1120", 
+            "description": "World with petals and Green party name English and Welsh"
         }
     ], 
     "party_address": "Development House\r\n56-64 Leonard Street\r\nLondon\r\nEC2A 4JZ\r\nUnited Kingdom\r\n", 
@@ -101,11 +101,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.08466476135620826, 
             51.52288995038416
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Green Party", 
@@ -115,19 +115,19 @@
     "descriptions": [
         {
             "translation": "Ymgeisydd dewis cyntaf y Blaid Werdd", 
-            "description": "GREEN PARTY first choice candidate"
+            "description": "Green Party first choice candidate"
         }, 
         {
             "translation": "Ymgeisydd ail dewis y Blaid Werdd", 
-            "description": "GREEN PARTY second choice candidate"
+            "description": "Green Party second choice candidate"
         }, 
         {
             "translation": "Ymgeisydd trydydd dewis y Blaid Werdd", 
-            "description": "GREEN PARTY third choice candidate"
+            "description": "Green Party third choice candidate"
         }, 
         {
             "translation": "Prif ymgeisydd y Blaid Werdd", 
-            "description": "GREEN PARTY lead candidate"
+            "description": "Green Party lead candidate"
         }, 
         {
             "translation": "Plaid Ecoleg", 
@@ -140,10 +140,6 @@
         {
             "translation": "Plaid Werdd", 
             "description": "The Green Party"
-        }, 
-        {
-            "translation": "Ymgeisydd pedwerydd dewis y Blaid Werdd", 
-            "description": "Green Party fourth choice candidate"
         }, 
         {
             "translation": "", 
@@ -160,6 +156,10 @@
         {
             "translation": "", 
             "description": "Green Party - Say No To Racism"
+        }, 
+        {
+            "translation": "", 
+            "description": "Wales Green Party"
         }
     ]
 }

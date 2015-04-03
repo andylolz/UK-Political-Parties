@@ -6,7 +6,7 @@
     "registered_date": "2005-07-28T00:00:00", 
     "postcode": "BR5 2NS", 
     "party_leader": "Mr Paul O'Callaghan", 
-    "nominating_officer": "na Christine Anne Weedon", 
+    "nominating_officer": "Christine Anne Weedon", 
     "emblems": [], 
     "party_address": "11 Wimborne Avenue\r\nOrpington\r\nKent\r\nBR5 2NS\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             0.09520311628644068, 
             51.39608120262535
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain (minor party)", 
     "party_id": "PPm502", 

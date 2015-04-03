@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2015-03-25T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2004-04-01T00:00:00", 
     "postcode": "ZE2 9LA", 
@@ -30,27 +31,27 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Voluntarily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Brian Nugent", 
-    "party_id": "PP372", 
+    "party_name": "Free Scotland Party [FSP]", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.3347753387145047, 
             60.10495580259611
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_name": "Free Scotland Party [FSP]", 
+    "party_id": "PP372", 
     "alternative_names": [
         "Freiceadan Saor Alba [FSA]"
     ], 

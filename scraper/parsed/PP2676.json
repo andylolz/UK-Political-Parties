@@ -6,7 +6,14 @@
     "postcode": "SK10 5EJ", 
     "party_leader": "Mr James Nicholas", 
     "nominating_officer": "Ms Amanda Stott", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1173.jpg", 
+            "primary": false, 
+            "id": "1173", 
+            "description": "Emblem 1"
+        }
+    ], 
     "party_address": "52a Bollington Road\r\nBollington\r\nCheshire\r\nSK10 5EJ\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

@@ -3,7 +3,7 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-12T00:00:00", 
-    "postcode": "RM8 1XE", 
+    "postcode": "CO4 5NF", 
     "party_leader": "Mr Dapo Sijuwola", 
     "nominating_officer": "Mr Dapo Sijuwola", 
     "emblems": [
@@ -14,7 +14,7 @@
             "description": "Emblem 1"
         }
     ], 
-    "party_address": "42 Pedley Road\r\nDagenham\r\nEssex\r\nRM8 1XE\r\nUnited Kingdom\r\n", 
+    "party_address": "36 Stanford Road\r\nColchester\r\nEssex\r\nCO4 5NF\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            0.12244339659930806, 
-            51.56447706733579
-        ]
+        "coordinates ": [
+            0.9001706162831331, 
+            51.90519326924709
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Restoration Party", 

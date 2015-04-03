@@ -11,7 +11,7 @@
     ], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-01T00:00:00", 
-    "postcode": "TN38 1HH", 
+    "postcode": "TN37 6JN", 
     "party_leader": "Mr Terry Leach", 
     "nominating_officer": "Mr Terry Leach", 
     "emblems": [
@@ -22,7 +22,7 @@
             "description": "Emblem 1"
         }
     ], 
-    "party_address": "PO Box 274\r\nSt Leonards\r\nTN38 1HH\r\nUnited Kingdom\r\n", 
+    "party_address": "5B Cloudesley Rd\r\nSt Leonards\r\nTN37 6JN\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -41,8 +41,8 @@
     "geometry": {
         "type": "Point", 
         "coordinates": [
-            0.5482666472812172, 
-            50.868098594782445
+            0.5603219114216642, 
+            50.86036040750323
         ]
     }, 
     "register": "Great Britain", 

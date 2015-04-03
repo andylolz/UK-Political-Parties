@@ -5,7 +5,7 @@
     "registered_date": "1999-02-25T00:00:00", 
     "postcode": "LS8 2RF", 
     "party_leader": "Mr Michael Davies", 
-    "nominating_officer": "na Celia Foote", 
+    "nominating_officer": "Celia Foote", 
     "emblems": [
         {
             "image": "Emblem_75.gif", 
@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.500158505288432, 
             53.82252640129899
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Alliance For Green Socialism", 

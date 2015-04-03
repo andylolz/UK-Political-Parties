@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.1152131119356805, 
             51.50328579277819
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Stonewall Equality Ltd", 

@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.09966230886215346, 
             51.49575085703118
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "The Salvation Army", 

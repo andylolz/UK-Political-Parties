@@ -8,6 +8,12 @@
     "nominating_officer": "Mr James Hugh Allister", 
     "emblems": [
         {
+            "image": "Emblem_403.gif", 
+            "primary": false, 
+            "id": "403", 
+            "description": "Emblem 1"
+        }, 
+        {
             "image": "Emblem_1109.jpg", 
             "primary": false, 
             "id": "1109", 
@@ -18,12 +24,6 @@
             "primary": false, 
             "id": "1110", 
             "description": "Emblem 3"
-        }, 
-        {
-            "image": "Emblem_403.gif", 
-            "primary": false, 
-            "id": "403", 
-            "description": "Emblem 1"
         }
     ], 
     "party_address": "38 Henry Street\r\nBallymena\r\nAntrim\r\nBT41 1LT\r\nUnited Kingdom\r\n", 
@@ -43,11 +43,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -6.199092446701276, 
             54.7167518055025
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Northern Ireland", 
     "party_name": "Traditional Unionist Voice - TUV", 

@@ -40,7 +40,10 @@
     }, 
     "geometry": {
         "type": "Point", 
-        "coordinates": null
+        "coordinates": [
+            -1.8309121, 
+            50.9119703
+        ]
     }, 
     "register": "Great Britain", 
     "party_name": "The Free Energy Party UK", 

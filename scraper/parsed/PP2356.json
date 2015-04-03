@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2015-03-26T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2014-06-23T00:00:00", 
     "postcode": "S41 9AY", 
@@ -18,13 +19,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Voluntarily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Neil Spellacy", 
-    "party_id": "PP2356", 
+    "party_name": "The People's Mandate Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -38,7 +39,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "The People's Mandate Party", 
+    "party_id": "PP2356", 
     "alternative_names": [
         ""
     ], 

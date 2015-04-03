@@ -16,7 +16,7 @@
     "nominating_officer": "Mr William Albert Lloyd", 
     "emblems": [
         {
-            "image": "Emblem_797.jpg", 
+            "image": "Emblem_797.png", 
             "primary": false, 
             "id": "797", 
             "description": "Emblem 1"
@@ -41,8 +41,8 @@
     "geometry": {
         "type": "Point", 
         "coordinates": [
-            0.2963970396316739, 
-            51.61968225976732
+            0.29643761499219656, 
+            51.61962750829273
         ]
     }, 
     "register": "Great Britain", 

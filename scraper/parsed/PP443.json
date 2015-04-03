@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            -0.32287320154547616, 
-            52.553292876895846
-        ]
+        "coordinates ": [
+            -0.3228735441855234, 
+            52.55328389090377
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP443", 

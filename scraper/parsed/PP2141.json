@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2015-03-25T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-09-03T00:00:00", 
     "postcode": "N1 2TG", 
@@ -18,13 +19,13 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Voluntarily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Joshua Michael Still", 
-    "party_id": "PP2141", 
+    "party_name": "New Deal", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
@@ -38,7 +39,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "New Deal", 
+    "party_id": "PP2141", 
     "alternative_names": [
         ""
     ], 

@@ -32,7 +32,10 @@
     }, 
     "geometry": {
         "type": "Point", 
-        "coordinates": null
+        "coordinates": [
+            -2.1161767, 
+            51.8850829
+        ]
     }, 
     "register": "Great Britain", 
     "party_name": "People Against Bureaucracy Group", 

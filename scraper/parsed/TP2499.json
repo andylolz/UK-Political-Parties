@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.0794772198241316, 
             51.88089476159884
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Campaign for the NHS Reinstatement Bill 2015", 

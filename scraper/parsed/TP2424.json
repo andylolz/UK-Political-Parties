@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.1256418526965375, 
             51.50758050385567
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Association of Teachers & Lecturers", 

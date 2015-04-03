@@ -5,7 +5,7 @@
     "campaigns_officer": "None", 
     "registered_date": "2000-11-30T00:00:00", 
     "postcode": "HA8 7EE", 
-    "party_leader": "na Mother Gayathri", 
+    "party_leader": "Mother Gayathri", 
     "nominating_officer": "Dr T Ravi Kumar", 
     "emblems": [], 
     "party_address": "Gemni House\r\n25/27 High Street\r\nEdgware\r\nMiddlesex\r\nHA8 7EE\r\nUnited Kingdom\r\n", 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.2778340219474918, 
             51.60899098457317
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP97", 

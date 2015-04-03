@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.23497215134811236, 
             50.83465795825026
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "The Hacked Off Campaign", 

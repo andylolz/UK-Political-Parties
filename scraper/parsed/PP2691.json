@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Irene Silvestor", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-03-17T00:00:00", 
+    "postcode": "RG9 2HH", 
+    "party_leader": "David Silvestor", 
+    "nominating_officer": "David Silvestor", 
+    "emblems": [], 
+    "party_address": "102 Luker Avenue\r\nHenley-on-Thames\r\nOxon\r\nRG9 2HH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "David Silvestor", 
+    "party_id": "PP2691", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.9141752796491631, 
+            51.54419038839593
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Oxfordshire Independent Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

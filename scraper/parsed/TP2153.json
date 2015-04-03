@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.09293524625878198, 
             51.51678318807337
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Voter Consultancy Ltd", 

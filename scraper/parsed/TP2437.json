@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.9723103219304517, 
             51.4561807307651
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "The Preferendum Society", 

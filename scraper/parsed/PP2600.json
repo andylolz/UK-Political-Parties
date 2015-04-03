@@ -1,0 +1,71 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Vincent Ward", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-03-17T00:00:00", 
+    "postcode": "BN21 9EX", 
+    "party_leader": "Mr Odysseas Constantine", 
+    "nominating_officer": "Mr Odysseas Constantine", 
+    "emblems": [
+        {
+            "image": "Emblem_1075.jpg", 
+            "primary": false, 
+            "id": "1075", 
+            "description": "Vox Pop"
+        }, 
+        {
+            "image": "Emblem_1076.jpg", 
+            "primary": false, 
+            "id": "1076", 
+            "description": "Vox Pop line"
+        }, 
+        {
+            "image": "Emblem_1077.jpg", 
+            "primary": false, 
+            "id": "1077", 
+            "description": "Vox Pop Box"
+        }
+    ], 
+    "party_address": "PO BOX 3049\r\nEASTBOURNE\r\nEast Sussex\r\nBN21 9EX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Odysseas Constantine", 
+    "party_id": "PP2600", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            0.2787644427288462, 
+            50.76935335076504
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Vox Pop", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Voxpop The Voice of The People"
+        }
+    ]
+}

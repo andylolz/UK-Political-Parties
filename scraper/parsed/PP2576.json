@@ -14,7 +14,14 @@
     "postcode": "NG9 8DJ", 
     "party_leader": "Mr dave pearson", 
     "nominating_officer": "Mrs Amanda Hull", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1198.png", 
+            "primary": false, 
+            "id": "1198", 
+            "description": "Emblem 1"
+        }
+    ], 
     "party_address": "42 CHURCH STREET\r\nSTAPLEFORD\r\nNG9 8DJ\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
@@ -32,11 +39,11 @@
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
-        "coordinates ": [
+        "type": "Point", 
+        "coordinates": [
             -1.2732930381882743, 
             52.93240943518761
-        ], 
-        "type": "Point"
+        ]
     }, 
     "register": "Great Britain", 
     "party_name": "Stapleford Alliance", 

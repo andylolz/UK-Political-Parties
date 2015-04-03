@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.12365420010876411, 
             51.51492259468525
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Independent Diplomat Commission", 

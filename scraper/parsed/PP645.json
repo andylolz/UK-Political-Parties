@@ -6,7 +6,7 @@
     "registered_date": "2007-03-19T00:00:00", 
     "postcode": "PH24 3BP", 
     "party_leader": "Dr James Wilkie", 
-    "nominating_officer": "na Iain Brodie of Falsyde", 
+    "nominating_officer": "Iain Brodie of Falsyde", 
     "emblems": [], 
     "party_address": "Highland Office\r\nCuilalunn\r\nKinchurdy Road\r\nBoat of Garten\r\nInverness-Shire\r\nPH24 3BP\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -3.757136028687619, 
             57.24434161676663
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP645", 

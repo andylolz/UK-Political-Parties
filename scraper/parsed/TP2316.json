@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.654151790382982, 
             52.90937278739496
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "The Woodland Trust", 

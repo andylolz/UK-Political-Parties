@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.1204467741553953, 
             51.51966425501385
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Unite the Union", 

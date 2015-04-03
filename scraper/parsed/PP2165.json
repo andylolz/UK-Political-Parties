@@ -6,7 +6,14 @@
     "postcode": "DE24 0PR", 
     "party_leader": "Mr David Gale", 
     "nominating_officer": "Miss Adele Chatterton", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1167.jpg", 
+            "primary": false, 
+            "id": "1167", 
+            "description": "Britannia 01"
+        }
+    ], 
     "party_address": "5 Church Street\r\nAlvaston\r\nDerby\r\nDerbyshire\r\nDE24 0PR\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

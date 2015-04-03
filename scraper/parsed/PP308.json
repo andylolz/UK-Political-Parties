@@ -3,9 +3,9 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-20T00:00:00", 
-    "postcode": "BR8 7LW", 
-    "party_leader": "Mrs Deirdre Morris", 
-    "nominating_officer": "na Elizabeth Smith", 
+    "postcode": "BR8 7SL", 
+    "party_leader": "Ms Eileen Margaret Kattenhorn", 
+    "nominating_officer": "Elizabeth Smith", 
     "emblems": [
         {
             "image": "Emblem_246.gif", 
@@ -14,7 +14,7 @@
             "description": "Independent"
         }
     ], 
-    "party_address": "79 College Road\r\nHextable\r\nSwanley\r\nKent\r\nBR8 7LW\r\nUnited Kingdom\r\n", 
+    "party_address": "5 Nuffield Road\r\nHextable\r\nKent\r\nBR8 7SL\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -23,7 +23,7 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "Mrs Deirdre Morris", 
+    "treasurer": "Mr Kenneth Varnham", 
     "party_id": "PP308", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
@@ -33,8 +33,8 @@
     "geometry": {
         "type": "Point", 
         "coordinates": [
-            0.17650037683082748, 
-            51.40915889346691
+            0.18937784398331867, 
+            51.41443172283968
         ]
     }, 
     "register": "Great Britain", 

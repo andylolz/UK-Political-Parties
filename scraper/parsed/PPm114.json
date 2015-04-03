@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            -1.140826335208415, 
-            53.51465838226719
-        ]
+        "coordinates ": [
+            -1.1408263, 
+            53.5146584
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain (minor party)", 
     "party_id": "PPm114", 

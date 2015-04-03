@@ -14,6 +14,12 @@
             "description": "Emblem 1"
         }, 
         {
+            "image": "Emblem_1179.png", 
+            "primary": false, 
+            "id": "1179", 
+            "description": "Emblem 3"
+        }, 
+        {
             "image": "Emblem_824.jpg", 
             "primary": false, 
             "id": "824", 
@@ -37,11 +43,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.969428028267094, 
             53.042442172731754
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Moorlands Democratic Alliance", 

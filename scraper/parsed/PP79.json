@@ -35,7 +35,7 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "Mr Stanley James Gain", 
+    "treasurer": "Ashley Dickenson", 
     "party_id": "PP79", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
@@ -43,11 +43,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.0316330097337932, 
             51.450951199711334
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Christian Peoples Alliance", 

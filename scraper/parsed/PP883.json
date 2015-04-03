@@ -5,7 +5,7 @@
     "registered_date": "2010-08-25T00:00:00", 
     "postcode": "HR4 0SU", 
     "party_leader": "Mr Anthony J W Powers", 
-    "nominating_officer": "Cllr Mark Hubbard", 
+    "nominating_officer": "John Dennis Harrington", 
     "emblems": [
         {
             "image": "Emblem_565.gif", 
@@ -31,11 +31,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.7532727747288224, 
             52.063227626833076
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "It's Our County (Herefordshire)", 

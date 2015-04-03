@@ -1,0 +1,105 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Julia Wassell", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-03-18T00:00:00", 
+    "postcode": "HP11 1BJ", 
+    "party_leader": "Cllr Matt Knight", 
+    "nominating_officer": "Mrs Katharine Knight", 
+    "emblems": [
+        {
+            "image": "Emblem_1078.jpg", 
+            "primary": false, 
+            "id": "1078", 
+            "description": "blackwithtext"
+        }, 
+        {
+            "image": "Emblem_1079.jpg", 
+            "primary": false, 
+            "id": "1079", 
+            "description": "blackwithouttext"
+        }
+    ], 
+    "party_address": "The Flat\r\n25 London Road\r\nHigh Wycombe\r\nBuckinghamshire\r\nHP11 1BJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Nicola Pearson", 
+    "party_id": "PP2601", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -0.742462464688024, 
+            51.626972123824935
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "East Wycombe Independent Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "East Wycombe Independent Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Candidate for Micklefield"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Candidate for Totteridge"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Candidate for Bowerdean"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Candidate for your community"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working for Bowerdean all year round"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working for Micklefield all year round"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working for Totteridge all year round"
+        }, 
+        {
+            "translation": "", 
+            "description": "East Wycombe Independents working for Micklefield"
+        }, 
+        {
+            "translation": "", 
+            "description": "East Wycombe Independents working for Totteridge"
+        }, 
+        {
+            "translation": "", 
+            "description": "East Wycombe Independents working for Bowerdean"
+        }
+    ]
+}

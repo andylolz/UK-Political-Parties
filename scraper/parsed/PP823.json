@@ -3,11 +3,11 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-03T00:00:00", 
-    "postcode": "E2 6DG", 
+    "postcode": "E8 2PB", 
     "party_leader": "Mr Antony Hunt", 
     "nominating_officer": "Ms Pamela Holmes", 
     "emblems": [], 
-    "party_address": "First Floor\r\n120 Bethnal Green Road\r\nLondon\r\nE2 6DG\r\nUnited Kingdom\r\n", 
+    "party_address": "2nd Floor\r\n83 Kingsland High Street\r\nLondon\r\nE8 2PB\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
-            -0.07118678512435586, 
-            51.52494352110803
-        ]
+        "coordinates ": [
+            -0.07557301661449707, 
+            51.549466307894896
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Communist League Election Campaign", 

@@ -29,7 +29,7 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "Mr David Stewart Rolph", 
+    "treasurer": "Mr James Patrick Stuart", 
     "party_id": "PP661", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
@@ -37,11 +37,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             1.2452304182107887, 
             51.83563615327799
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Tendring First", 

@@ -34,7 +34,10 @@
     }, 
     "geometry": {
         "type": "Point", 
-        "coordinates": null
+        "coordinates": [
+            -4.7834899, 
+            55.637652
+        ]
     }, 
     "register": "Northern Ireland", 
     "party_id": "PP398", 

@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.34365052045192424, 
             51.036356893775796
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "RSPCA Campaigns Ltd", 

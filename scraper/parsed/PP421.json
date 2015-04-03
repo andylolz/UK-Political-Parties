@@ -1,6 +1,7 @@
 {
     "fielding_in": [], 
     "other_officers": [], 
+    "deregistered_date": "2015-03-31T00:00:00", 
     "campaigns_officer": "Mr Iain Hunter", 
     "registered_date": "2005-02-18T00:00:00", 
     "postcode": "N22 9GW", 
@@ -18,27 +19,27 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Authorised", 
+    "status": "Statutorily Deregistered", 
     "fax": "", 
-    "end_date": null, 
+    "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Peter Anthony Windeler", 
-    "party_id": "PP421", 
+    "party_name": "TUSP", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": true, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.11968718226807112, 
             51.59860594381522
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_name": "TUSP", 
+    "party_id": "PP421", 
     "alternative_names": [
         ""
     ], 

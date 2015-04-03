@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.12827394471840786, 
             51.52633596406314
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "British Medical Association", 

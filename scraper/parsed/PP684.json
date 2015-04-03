@@ -12,6 +12,12 @@
             "primary": false, 
             "id": "1019", 
             "description": "Emblem 1"
+        }, 
+        {
+            "image": "Emblem_1087.jpg", 
+            "primary": false, 
+            "id": "1087", 
+            "description": "Emblem 2015-2"
         }
     ], 
     "party_address": "6 South Groves\r\nStag Hill\r\nChilton Foliat\r\nNr Hungerford\r\nWiltshire\r\nRG17 0TT\r\nUnited Kingdom\r\n", 
@@ -31,11 +37,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.5389503616617095, 
             51.43312558656216
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Libertarian Party", 

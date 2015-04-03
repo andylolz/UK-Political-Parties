@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.9878804371250618, 
             50.712961138505506
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "Lush Ltd", 

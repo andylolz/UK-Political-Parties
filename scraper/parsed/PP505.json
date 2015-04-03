@@ -17,7 +17,7 @@
     "end_date": "2009-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "na Margaret Elizabeth Skipton", 
+    "treasurer": "Margaret Elizabeth Skipton", 
     "party_name": "Emergent Party", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
@@ -25,11 +25,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.2881708061287163, 
             52.34325794941218
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_id": "PP505", 

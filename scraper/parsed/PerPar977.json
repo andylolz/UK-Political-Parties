@@ -25,7 +25,10 @@
     }, 
     "geometry": {
         "type": "Point", 
-        "coordinates": null
+        "coordinates": [
+            -0.1326136, 
+            51.4981327
+        ]
     }, 
     "register": null, 
     "party_name": "The Conservative and Unionist Party", 

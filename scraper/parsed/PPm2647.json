@@ -1,0 +1,65 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "ST15 8LT", 
+    "party_leader": "Mr ROBERT KENNEY", 
+    "nominating_officer": "Mr Mark Green", 
+    "emblems": [
+        {
+            "image": "Emblem_1113.jpg", 
+            "primary": false, 
+            "id": "1113", 
+            "description": "logo 1"
+        }, 
+        {
+            "image": "Emblem_1114.jpg", 
+            "primary": false, 
+            "id": "1114", 
+            "description": "logo2"
+        }
+    ], 
+    "party_address": "7 Meaford Avenue\r\nStone\r\nST15 8LT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Tom Kelt", 
+    "party_id": "PPm2647", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "geometry": {
+        "coordinates ": [
+            -2.1508195078720433, 
+            52.908644588949514
+        ], 
+        "type": "Point"
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Stone Independents", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Working for Stone"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent minded individuals working for stone"
+        }, 
+        {
+            "translation": "", 
+            "description": "Local residents working for Stone"
+        }
+    ]
+}

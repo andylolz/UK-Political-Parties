@@ -24,11 +24,11 @@
         "exempt_from_quarterly_donation_returns": null
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -0.6166420094714874, 
             51.18427458963997
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": null, 
     "party_name": "League Against Cruel Sports", 

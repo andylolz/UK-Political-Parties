@@ -1,6 +1,14 @@
 {
     "fielding_in": [], 
-    "other_officers": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": true, 
+            "name": "Richard Turner", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
     "campaigns_officer": "None", 
     "registered_date": "2007-02-27T00:00:00", 
     "postcode": "S1 9BP", 
@@ -31,11 +39,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -1.4635271344534664, 
             53.38155045328537
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "Socialist Equality Party", 

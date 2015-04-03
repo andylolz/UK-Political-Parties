@@ -8,12 +8,6 @@
     "nominating_officer": "Cllr Ann James", 
     "emblems": [
         {
-            "image": "Emblem_1115.jpg", 
-            "primary": false, 
-            "id": "1115", 
-            "description": "Emblem 3"
-        }, 
-        {
             "image": "Emblem_287.gif", 
             "primary": false, 
             "id": "287", 
@@ -24,6 +18,12 @@
             "primary": false, 
             "id": "288", 
             "description": "Emblem 2"
+        }, 
+        {
+            "image": "Emblem_1115.jpg", 
+            "primary": false, 
+            "id": "1115", 
+            "description": "Emblem 3"
         }
     ], 
     "party_address": "14 Uplands Ave\r\nChell\r\nStoke on Trent\r\nST6 6SN\r\nUnited Kingdom\r\n", 
@@ -43,11 +43,11 @@
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [
+        "coordinates ": [
             -2.1959348744321208, 
             53.07361123634541
-        ]
+        ], 
+        "type": "Point"
     }, 
     "register": "Great Britain", 
     "party_name": "City Independents", 

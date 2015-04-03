@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Aubrey Swan", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "SA73 3QB", 
+    "party_leader": "Mr RODNEY MAILE", 
+    "nominating_officer": "Mr RODNEY MAILE", 
+    "emblems": [], 
+    "party_address": "20 Dairy Park Grove\r\nHakin\r\nMilford Haven\r\nSA73 3QB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr RODNEY MAILE", 
+    "party_id": "PP2714", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -5.04746469162709, 
+            51.7142542514115
+        ]
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The New Society of Worth", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

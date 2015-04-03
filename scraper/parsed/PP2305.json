@@ -14,7 +14,20 @@
     "postcode": "N12 8DH", 
     "party_leader": "Mrs Jessica Harding", 
     "nominating_officer": "Mrs Jessica Harding", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_1155.jpg", 
+            "primary": false, 
+            "id": "1155", 
+            "description": "Vapers In Power circle emblem"
+        }, 
+        {
+            "image": "Emblem_1156.jpg", 
+            "primary": false, 
+            "id": "1156", 
+            "description": "Vapers In Power emblem"
+        }
+    ], 
     "party_address": "Vapers In Power\r\n3 Coleridge Road\r\nNorth Finchley\r\nLondon\r\nLondon\r\nN12 8DH\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
