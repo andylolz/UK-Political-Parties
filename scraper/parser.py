@@ -50,7 +50,7 @@ class PartyParser(dict):
             return (None, name)
 
         match = re.match(
-            r'([^\[]+)\[De-registered ([0-9]+/[0-9]+/[0-9]+)\]', name)
+            r'(.+)\[De-registered ([0-9]+/[0-9]+/[0-9]+)\]', name)
         name, date = match.groups()
         name = re.sub(r'\([Dd]e-?registered [^\)]+\)', '', name)
         return name.strip(), self._text_to_iso_date(date)
