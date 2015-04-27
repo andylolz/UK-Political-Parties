@@ -1,5 +1,6 @@
-requests
-beautifulsoup4
-python-dateutil
-redis
-pillow
+Pillow==2.8.1
+python-dateutil==2.2
+python-magic==0.4.6
+requests==2.6.0
+six==1.9.0
+wsgiref==0.1.2
